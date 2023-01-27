@@ -4,16 +4,16 @@ This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & Run
 This page categorizes the literature by the **Published Venue**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
-- [![](https://img.shields.io/badge/ACL-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#acl)
-- [![](https://img.shields.io/badge/EMNLP-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#emnlp)
-- [![](https://img.shields.io/badge/NAACL-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#naacl)
-- [![](https://img.shields.io/badge/NeurIPS-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#neurips)
-- [![](https://img.shields.io/badge/CVPR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#cvpr)
-- [![](https://img.shields.io/badge/VLDB-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#vldb)
-- [![](https://img.shields.io/badge/TKDE-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#tkde)
-- [![](https://img.shields.io/badge/FCST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#fcst)
-- [![](https://img.shields.io/badge/arXiv-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arxiv)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#hyperlink)
+- [![](https://img.shields.io/badge/ACL-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#acl)
+- [![](https://img.shields.io/badge/EMNLP-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#emnlp)
+- [![](https://img.shields.io/badge/NAACL-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#naacl)
+- [![](https://img.shields.io/badge/NeurIPS-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#neurips)
+- [![](https://img.shields.io/badge/CVPR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#cvpr)
+- [![](https://img.shields.io/badge/VLDB-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#vldb)
+- [![](https://img.shields.io/badge/TKDE-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#tkde)
+- [![](https://img.shields.io/badge/FCST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#fcst)
+- [![](https://img.shields.io/badge/arXiv-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
 -  -- [Summary](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./)
