@@ -1,7 +1,7 @@
 # LLM Papers & Related Works
-This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+This repository collects papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
-This page categorizes the literature by the **Techniques**.
+.
 
 ## Papers
 
