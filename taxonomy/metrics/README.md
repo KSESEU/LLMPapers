@@ -1,11 +1,13 @@
-# LLMPapers
-This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & Runzhe Wang. The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+# LLM Papers & Related Works
+This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 This page categorizes the literature by the **Metrics**.
 
-## Outline 
+## Papers
+
+### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/metrics\README.md#hyperlink)
-## Hyperlink 
+### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
 -  -- [Summary](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./)
 -  -- [Application](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/application)
