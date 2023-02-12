@@ -20,5 +20,6 @@ This page categorizes the literature by the **Backbone Model**.
 -  -- [Research Questions](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/research_question)
 -  -- [Setting](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/setting)
 -  -- [ Learning Paradigm](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/supervision)
+-  -- [Techniques](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques)
 -  -- [Published Time](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time)
 -  -- [Published Venue](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue)
