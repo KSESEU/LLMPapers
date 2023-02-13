@@ -1,5 +1,5 @@
 # LLM Papers & Related Works
-This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).<br><br>This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 This page categorizes the literature by the **Last Post**.
 
@@ -7,7 +7,7 @@ This page categorizes the literature by the **Last Post**.
 
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#hyperlink)
-- [![](https://img.shields.io/badge/2023-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [![](https://img.shields.io/badge/2023-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [![](https://img.shields.io/badge/2022-61-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [![](https://img.shields.io/badge/2021-35-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [![](https://img.shields.io/badge/2020-32-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -49,6 +49,8 @@ Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023) ,
 Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.2301.12868) , <br> by *Terry Yue Zhuo, Zhuang Li, Yujin Huang, Yuan-Fang Li, Weiqing Wang, Gholamreza Haffari and Fatemeh Shiri*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.00234) [**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234) , <br> by *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.00774) [**SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot**](https://doi.org/10.48550/arXiv.2301.00774) , <br> by *Elias Frantar and Dan Alistarh*
 <br><br>
 ### 2022
 
@@ -277,7 +279,7 @@ Dialogue Generation**](https://doi.org/10.18653/v1/2021.naacl-main.392) , <br> b
 - [![](https://img.shields.io/badge/SIGIR-2021-blue)](https://doi.org/10.1145/3404835.3463037) [**DSGPT: Domain-Specific Generative Pre-Training of Transformers for
 Text Generation in E-commerce Title and Review Summarization**](https://doi.org/10.1145/3404835.3463037) , <br> by *Xueying Zhang, Yunjiang Jiang, Yue Shang, Zhaomeng Cheng, Chi Zhang, Xiaochuan Fan, Yun Xiao and Bo Long*
 <br><br>
-- [![](https://img.shields.io/badge/Neurocomputing-2021-blue)](https://doi.org/10.1016/j.neucom.2021.04.102) [**Preparing lessons: Improve knowledge distillation with better supervision**](https://doi.org/10.1016/j.neucom.2021.04.102) , <br> by *Tiancheng Wen, Shenqi Lai and Xueming Qian*
+- [![](https://img.shields.io/badge/Neurocomputing-2021-blue)](https://doi.org/10.1016/j.neucom.2021.04.102) [**Preparing lessons: Improve knowledge distillation with better supervision**](https://doi.org/10.1016/j.neucom.2021.04.102)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Tiancheng Wen, Shenqi Lai and Xueming Qian*
 <br><br>
 ### 2020
 
@@ -355,9 +357,9 @@ Model**](https://arxiv.org/abs/2010.11140) , <br> by *Yan Zeng and Jian-Yun Nie*
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-demos.30) [**DIALOGPT : Large-Scale Generative Pre-training for Conversational
 Response Generation**](https://doi.org/10.18653/v1/2020.acl-demos.30) , <br> by *Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu et al.*
 <br><br>
-- [![](https://img.shields.io/badge/AAAI-2020-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/5963) [**Improved Knowledge Distillation via Teacher Assistant**](https://ojs.aaai.org/index.php/AAAI/article/view/5963) , <br> by *Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Nir Levine, Akihiro Matsukawa and Hassan Ghasemzadeh*
+- [![](https://img.shields.io/badge/AAAI-2020-blue)](https://ojs.aaai.org/index.php/AAAI/article/view/5963) [**Improved Knowledge Distillation via Teacher Assistant**](https://ojs.aaai.org/index.php/AAAI/article/view/5963)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Seyed-Iman Mirzadeh, Mehrdad Farajtabar, Ang Li, Nir Levine, Akihiro Matsukawa and Hassan Ghasemzadeh*
 <br><br>
-- [![](https://img.shields.io/badge/CVPR-2020-blue)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf) [**Regularizing Class-Wise Predictions via Self-Knowledge Distillation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf) , <br> by *Sukmin Yun, Jongjin Park, Kimin Lee and Jinwoo Shin*
+- [![](https://img.shields.io/badge/CVPR-2020-blue)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf) [**Regularizing Class-Wise Predictions via Self-Knowledge Distillation**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Sukmin Yun, Jongjin Park, Kimin Lee and Jinwoo Shin*
 <br><br>
 ### 2019
 
@@ -375,19 +377,19 @@ Generation**](http://arxiv.org/abs/1909.05858) , <br> by *Nitish Shirish Keskar,
 <br><br>
 - [![](https://img.shields.io/badge/ICML-2019-blue)](http://proceedings.mlr.press/v97/song19d.html) [**MASS: Masked Sequence to Sequence Pre-training for Language Generation**](http://proceedings.mlr.press/v97/song19d.html) , <br> by *Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu and Tie-Yan Liu*
 <br><br>
-- [![](https://img.shields.io/badge/CVPR-2019-blue)](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Park\_Relational\_Knowledge\_Distillation\_CVPR\_2019\_paper.html) [**Relational Knowledge Distillation**](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Park\_Relational\_Knowledge\_Distillation\_CVPR\_2019\_paper.html) , <br> by *Wonpyo Park, Dongju Kim, Yan Lu and Minsu Cho*
+- [![](https://img.shields.io/badge/CVPR-2019-blue)](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Park\_Relational\_Knowledge\_Distillation\_CVPR\_2019\_paper.html) [**Relational Knowledge Distillation**](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Park\_Relational\_Knowledge\_Distillation\_CVPR\_2019\_paper.html)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Wonpyo Park, Dongju Kim, Yan Lu and Minsu Cho*
 <br><br>
-- [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1909.11723) [**Revisit Knowledge Distillation: a Teacher-free Framework**](http://arxiv.org/abs/1909.11723) , <br> by *Li Yuan, Francis E. H. Tay, Guilin Li, Tao Wang and Jiashi Feng*
+- [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1909.11723) [**Revisit Knowledge Distillation: a Teacher-free Framework**](http://arxiv.org/abs/1909.11723)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Li Yuan, Francis E. H. Tay, Guilin Li, Tao Wang and Jiashi Feng*
 <br><br>
-- [![](https://img.shields.io/badge/ICCV-2019-blue)](https://doi.org/10.1109/ICCV.2019.00143) [**Knowledge Distillation via Route Constrained Optimization**](https://doi.org/10.1109/ICCV.2019.00143) , <br> by *Xiao Jin, Baoyun Peng, Yichao Wu, Yu Liu, Jiaheng Liu, Ding Liang, Junjie Yan and Xiaolin Hu*
+- [![](https://img.shields.io/badge/ICCV-2019-blue)](https://doi.org/10.1109/ICCV.2019.00143) [**Knowledge Distillation via Route Constrained Optimization**](https://doi.org/10.1109/ICCV.2019.00143)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Xiao Jin, Baoyun Peng, Yichao Wu, Yu Liu, Jiaheng Liu, Ding Liang, Junjie Yan and Xiaolin Hu*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1910.05057) [**Improving Generalization and Robustness with Noisy Collaboration in
-Knowledge Distillation**](http://arxiv.org/abs/1910.05057) , <br> by *Elahe Arani, Fahad Sarfraz and Bahram Zonooz*
+Knowledge Distillation**](http://arxiv.org/abs/1910.05057)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Elahe Arani, Fahad Sarfraz and Bahram Zonooz*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1903.12136) [**Distilling Task-Specific Knowledge from BERT into Simple Neural
-Networks**](http://arxiv.org/abs/1903.12136) , <br> by *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova and Jimmy Lin*
+Networks**](http://arxiv.org/abs/1903.12136)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova and Jimmy Lin*
 <br><br>
-- [![](https://img.shields.io/badge/ICLR-2019-blue)](https://openreview.net/forum?id=rJl-b3RcF7) [**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks**](https://openreview.net/forum?id=rJl-b3RcF7) , <br> by *Jonathan Frankle and Michael Carbin*
+- [![](https://img.shields.io/badge/ICLR-2019-blue)](https://openreview.net/forum?id=rJl-b3RcF7) [**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks**](https://openreview.net/forum?id=rJl-b3RcF7)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Jonathan Frankle and Michael Carbin*
 <br><br>
 ### 2018
 
@@ -395,25 +397,25 @@ Networks**](http://arxiv.org/abs/1903.12136) , <br> by *Raphael Tang, Yao Lu, Li
 <br><br>
 - [![](https://img.shields.io/badge/OpenAI-2018-blue)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [**Improving language understanding by generative pre-training**](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) , <br> by *Radford, Alec, Narasimhan, Karthik, Salimans, Tim, Sutskever, Ilya and others*
 <br><br>
-- [![](https://img.shields.io/badge/ICML-2018-blue)](http://proceedings.mlr.press/v80/furlanello18a.html) [**Born-Again Neural Networks**](http://proceedings.mlr.press/v80/furlanello18a.html) , <br> by *Tommaso Furlanello, Zachary Chase Lipton, Michael Tschannen, Laurent Itti and Anima Anandkumar*
+- [![](https://img.shields.io/badge/ICML-2018-blue)](http://proceedings.mlr.press/v80/furlanello18a.html) [**Born-Again Neural Networks**](http://proceedings.mlr.press/v80/furlanello18a.html)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Tommaso Furlanello, Zachary Chase Lipton, Michael Tschannen, Laurent Itti and Anima Anandkumar*
 <br><br>
 ### 2017
 
 - [![](https://img.shields.io/badge/ICLR-2017-blue)](https://openreview.net/forum?id=Sks9\_ajex) [**Paying More Attention to Attention: Improving the Performance of Convolutional
-Neural Networks via Attention Transfer**](https://openreview.net/forum?id=Sks9\_ajex) , <br> by *Sergey Zagoruyko and Nikos Komodakis*
+Neural Networks via Attention Transfer**](https://openreview.net/forum?id=Sks9\_ajex)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Sergey Zagoruyko and Nikos Komodakis*
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2017-blue)](https://openreview.net/forum?id=ry8u21rtl) [**Mean teachers are better role models: Weight-averaged consistency
-targets improve semi-supervised deep learning results**](https://openreview.net/forum?id=ry8u21rtl) , <br> by *Antti Tarvainen and Harri Valpola*
+targets improve semi-supervised deep learning results**](https://openreview.net/forum?id=ry8u21rtl)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Antti Tarvainen and Harri Valpola*
 <br><br>
-- [![](https://img.shields.io/badge/CoRR-2017-blue)](http://arxiv.org/abs/1706.00384) [**Deep Mutual Learning**](http://arxiv.org/abs/1706.00384) , <br> by *Ying Zhang, Tao Xiang, Timothy M. Hospedales and Huchuan Lu*
+- [![](https://img.shields.io/badge/CoRR-2017-blue)](http://arxiv.org/abs/1706.00384) [**Deep Mutual Learning**](http://arxiv.org/abs/1706.00384)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Ying Zhang, Tao Xiang, Timothy M. Hospedales and Huchuan Lu*
 <br><br>
 ### 2016
 
-- [![](https://img.shields.io/badge/CoRR-2016-blue)](http://arxiv.org/abs/1610.09650) [**Deep Model Compression: Distilling Knowledge from Noisy Teachers**](http://arxiv.org/abs/1610.09650) , <br> by *Bharat Bhusan Sau and Vineeth N. Balasubramanian*
+- [![](https://img.shields.io/badge/CoRR-2016-blue)](http://arxiv.org/abs/1610.09650) [**Deep Model Compression: Distilling Knowledge from Noisy Teachers**](http://arxiv.org/abs/1610.09650)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Bharat Bhusan Sau and Vineeth N. Balasubramanian*
 <br><br>
 ### 2015
 
-- [![](https://img.shields.io/badge/CoRR-2015-blue)](http://arxiv.org/abs/1503.02531) [**Distilling the Knowledge in a Neural Network**](http://arxiv.org/abs/1503.02531) , <br> by *Geoffrey E. Hinton, Oriol Vinyals and Jeffrey Dean*
+- [![](https://img.shields.io/badge/CoRR-2015-blue)](http://arxiv.org/abs/1503.02531) [**Distilling the Knowledge in a Neural Network**](http://arxiv.org/abs/1503.02531)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Geoffrey E. Hinton, Oriol Vinyals and Jeffrey Dean*
 <br><br>
 ### 2009
 

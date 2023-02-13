@@ -1,5 +1,5 @@
 # LLM Papers & Related Works
-This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).<br><br>This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
 This page categorizes the literature by the **Author**.
 
@@ -511,7 +511,7 @@ Model**](https://arxiv.org/abs/2010.11140) , <br> by *Yan Zeng and Jian-Yun Nie*
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.226) [**MEGATRON-CNTRL: Controllable Story Generation with External Knowledge
 Using Large-Scale Language Models**](https://doi.org/10.18653/v1/2020.emnlp-main.226) , <br> by *Peng Xu, Mostofa Patwary, Mohammad Shoeybi, Raul Puri, Pascale Fung, Anima Anandkumar and Bryan Catanzaro*
 <br><br>
-- [![](https://img.shields.io/badge/ICML-2018-blue)](http://proceedings.mlr.press/v80/furlanello18a.html) [**Born-Again Neural Networks**](http://proceedings.mlr.press/v80/furlanello18a.html) , <br> by *Tommaso Furlanello, Zachary Chase Lipton, Michael Tschannen, Laurent Itti and Anima Anandkumar*
+- [![](https://img.shields.io/badge/ICML-2018-blue)](http://proceedings.mlr.press/v80/furlanello18a.html) [**Born-Again Neural Networks**](http://proceedings.mlr.press/v80/furlanello18a.html)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Tommaso Furlanello, Zachary Chase Lipton, Michael Tschannen, Laurent Itti and Anima Anandkumar*
 <br><br>
 ### Tie Yan Liu
 
@@ -736,7 +736,7 @@ Variable**](https://doi.org/10.18653/v1/2020.acl-main.9) , <br> by *Siqi Bao, Hu
 <br><br>
 ### Geoffrey E. Hinton
 
-- [![](https://img.shields.io/badge/CoRR-2015-blue)](http://arxiv.org/abs/1503.02531) [**Distilling the Knowledge in a Neural Network**](http://arxiv.org/abs/1503.02531) , <br> by *Geoffrey E. Hinton, Oriol Vinyals and Jeffrey Dean*
+- [![](https://img.shields.io/badge/CoRR-2015-blue)](http://arxiv.org/abs/1503.02531) [**Distilling the Knowledge in a Neural Network**](http://arxiv.org/abs/1503.02531)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Geoffrey E. Hinton, Oriol Vinyals and Jeffrey Dean*
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2009-blue)](https://proceedings.neurips.cc/paper/2009/hash/1543843a4723ed2ab08e18053ae6dc5b-Abstract.html) [**Zero-shot Learning with Semantic Output Codes**](https://proceedings.neurips.cc/paper/2009/hash/1543843a4723ed2ab08e18053ae6dc5b-Abstract.html) , <br> by *Mark Palatucci, Dean Pomerleau, Geoffrey E. Hinton and Tom M. Mitchell*
 <br><br>
@@ -816,7 +816,7 @@ Language Models**](https://doi.org/10.18653/v1/2022.findings-acl.222) , <br> by 
 Prompt Order Sensitivity**](https://doi.org/10.18653/v1/2022.acl-long.556) , <br> by *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel and Pontus Stenetorp*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1903.12136) [**Distilling Task-Specific Knowledge from BERT into Simple Neural
-Networks**](http://arxiv.org/abs/1903.12136) , <br> by *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova and Jimmy Lin*
+Networks**](http://arxiv.org/abs/1903.12136)  [[Code]](https://github.com/SforAiDl/KD_Lib), <br> by *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova and Jimmy Lin*
 <br><br>
 ### Omer Levy
 
