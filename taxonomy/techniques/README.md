@@ -1,31 +1,31 @@
 # LLM Papers & Related Works
 Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).<br><br>This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
 
-This page categorizes the literature by **Techniques**.
+This page categorizes the literature by the **Techniques**.
 
 ## Papers
 
 ### Outline 
-- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
-- [![](https://img.shields.io/badge/Evaluation-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
-- [![](https://img.shields.io/badge/In_Context_Learning-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
-- [![](https://img.shields.io/badge/Instruction_Tuning-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
-- [![](https://img.shields.io/badge/Chain_of_Thought-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
-- [![](https://img.shields.io/badge/Knowledge_Enhanced-12-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
-- [![](https://img.shields.io/badge/Knowledge_Distillation-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
-- [![](https://img.shields.io/badge/Knowledge_Related-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-related)
-- [![](https://img.shields.io/badge/Reasoning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
-- [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
-- [![](https://img.shields.io/badge/Distributed_AI-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
-- [![](https://img.shields.io/badge/Selective_Annotation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#selective-annotation)
-- [![](https://img.shields.io/badge/Code_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-generation)
-- [![](https://img.shields.io/badge/Controllable_Text_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
-- [![](https://img.shields.io/badge/Text_Generation-71-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#text-generation)
-- [![](https://img.shields.io/badge/Continual_Learning-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
-- [![](https://img.shields.io/badge/Prompt_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
-- [![](https://img.shields.io/badge/Natural_Language_Understanding-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#natural-language-understanding)
-- [![](https://img.shields.io/badge/Multimodal-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multimodal)
-- [![](https://img.shields.io/badge/Others-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
+- [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#hyperlink)
+- [![](https://img.shields.io/badge/Evaluation-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#evaluation)
+- [![](https://img.shields.io/badge/In_Context_Learning-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#in-context-learning)
+- [![](https://img.shields.io/badge/Instruction_Tuning-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#instruction-tuning)
+- [![](https://img.shields.io/badge/Chain_of_Thought-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
+- [![](https://img.shields.io/badge/Knowledge_Enhanced-12-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-enhanced)
+- [![](https://img.shields.io/badge/Knowledge_Distillation-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-distillation)
+- [![](https://img.shields.io/badge/Knowledge_Related-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-related)
+- [![](https://img.shields.io/badge/Reasoning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
+- [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#federated-learning)
+- [![](https://img.shields.io/badge/Distributed_AI-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#distributed-ai)
+- [![](https://img.shields.io/badge/Selective_Annotation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#selective-annotation)
+- [![](https://img.shields.io/badge/Code_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#code-generation)
+- [![](https://img.shields.io/badge/Controllable_Text_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#controllable-text-generation)
+- [![](https://img.shields.io/badge/Text_Generation-71-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#text-generation)
+- [![](https://img.shields.io/badge/Continual_Learning-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#continual-learning)
+- [![](https://img.shields.io/badge/Prompt_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#prompt-learning)
+- [![](https://img.shields.io/badge/Natural_Language_Understanding-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#natural-language-understanding)
+- [![](https://img.shields.io/badge/Multimodal-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#multimodal)
+- [![](https://img.shields.io/badge/Others-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
 -  -- [Summary](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./)
@@ -565,34 +565,3 @@ Models**](https://doi.org/10.48550/arXiv.2212.12990),<br> by *Zijian Zhang, Zhou
 - [![](https://img.shields.io/badge/CVPR-2009-blue)](https://doi.org/10.1109/CVPR.2009.5206594) [**Learning to detect unseen object classes by between-class attribute
 transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lampert, Hannes Nickisch and Stefan Harmeling*
 <br><br>
-
-## Related Works
-
-### Git Repos
-
-- [**Awesome-ChatGPT**](https://github.com/dalinvip/Awesome-ChatGPT),<br> ```ChatGPT资料汇总学习，持续更新......```
-
-- [**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts),<br> ```In this repository, you will find a variety of prompts that can be used with ChatGPT.```
-
-- [**ChatRWKV**](https://github.com/BlinkDL/ChatRWKV),<br> ```ChatRWKV is like ChatGPT but powered by my RWKV (100% RNN) language model, which is the only RNN (as of now) that can match transformers in quality and scaling, while being faster and saves VRAM. Training sponsored by Stability EleutherAI.```
-
-- [**ChatGPT-Hub**](https://github.com/chenweiphd/ChatGPT-Hub),<br> ```ChatGPT资源汇总```
-
-- [**PaLM-rlhf-pytorch**](https://github.com/lucidrains/PaLM-rlhf-pytorch),<br> ```Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.```
-
-- [**BAAI-WuDao/Data**](https://github.com/BAAI-WuDao/Data),<br> ```“悟道”项目构建了高质量的数据集，用于支撑大模型的训练和测评工作，本仓库提供所有开源数据集的链接。```
-
-### Articles
-
-- [**Exploring Prompt Injection Attacks**](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/),<br>by Jose Selvi<br> ```Prompt Injection is a new vulnerability that is affecting some AI/ML models and, in particular, certain types of language models using prompt-based learning.```
-
-- [**ChatGPT发展历程、原理、技术架构详解和产业未来**](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0),<br>by 陈巍<br> ```本文将介绍ChatGPT的特点、功能、技术架构、局限、产业应用、投资机会和未来。作者本人曾担任华为系自然语言处理（ NLP ）企业的首席科学家。```
-
-### Blogs
-
-- [**How does GPT Obtain its Ability?**](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1),<br>by Yao Fu<br> ```Tracing emergent abilities of language models to their sources.```
-
-### Demos
-
-- [**CPM-Bee**](https://live.openbmb.org/models/bee),<br> ```CPM-Bee是一个开源的双语预训练语言模型，参数量为10B，拥有十余种原生能力和强大的通用语言能力，并支持结构化输入和输出。```
-
