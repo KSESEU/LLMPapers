@@ -582,6 +582,8 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 
 - [**BAAI-WuDao/Data**](https://github.com/BAAI-WuDao/Data),<br> ```“悟道”项目构建了高质量的数据集，用于支撑大模型的训练和测评工作，本仓库提供所有开源数据集的链接。```
 
+- [**Colossal-AI**](https://github.com/hpcaitech/ColossalAI),<br> ```Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.```
+
 ### Articles
 
 - [**Exploring Prompt Injection Attacks**](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/),<br>by Jose Selvi<br> ```Prompt Injection is a new vulnerability that is affecting some AI/ML models and, in particular, certain types of language models using prompt-based learning.```
@@ -591,6 +593,8 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 ### Blogs
 
 - [**How does GPT Obtain its Ability?**](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1),<br>by Yao Fu<br> ```Tracing emergent abilities of language models to their sources.```
+
+- [**Open source solution replicates ChatGPT training process**](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt),<br> ```Colossal-AI, as one of the hottest open-source solutions for large AI models, presents an open-source low-cost ChatGPT equivalent implementation process.```
 
 ### Demos
 
