@@ -20,17 +20,17 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [![](https://img.shields.io/badge/Knowledge_Distillation-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [![](https://img.shields.io/badge/Knowledge_Graph_Generation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-generation)
-- [![](https://img.shields.io/badge/Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+- [![](https://img.shields.io/badge/Reasoning-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [![](https://img.shields.io/badge/Chain_of_Thought-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
 - [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
 - [![](https://img.shields.io/badge/Distributed_AI-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
 - [![](https://img.shields.io/badge/Selective_Annotation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#selective-annotation)
-- [![](https://img.shields.io/badge/Code_Generation-23-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-generation)
+- [![](https://img.shields.io/badge/Code_Generation-40-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-generation)
   - [![](https://img.shields.io/badge/Code_Representation-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-representation)
   - [![](https://img.shields.io/badge/Code_Fixing-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-fixing)
   - [![](https://img.shields.io/badge/Code_Review-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#code-review)
 - [![](https://img.shields.io/badge/Software_Engineering-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#software-engineering)
-- [![](https://img.shields.io/badge/Text_Generation-71-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#text-generation)
+- [![](https://img.shields.io/badge/Text_Generation-77-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#text-generation)
   - [![](https://img.shields.io/badge/Controllable_Text_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
 - [![](https://img.shields.io/badge/Continual_Learning-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
 - [![](https://img.shields.io/badge/Prompt_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
@@ -902,7 +902,7 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 
 
 
-## Researcher Recruitment
+## Researcher Recruitment 科研人员招聘
 *Knowledge Science and Engineering Lab* is recruiting researchers! You are welcome to apply for the following positions:
 - **Research Assistant**: Bachelor degree or above, proficient in Python/Java, familiar with machine learning espicially deep learning models.
 - **Postdoctoral Fellow**: Doctoral research in Artificial Intelligence, published at least 3 high-quality papers. 
