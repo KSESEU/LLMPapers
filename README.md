@@ -15,16 +15,16 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
 - [![](https://img.shields.io/badge/Evaluation-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
-- [![](https://img.shields.io/badge/In_Context_Learning-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
+- [![](https://img.shields.io/badge/In_Context_Learning-18-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [![](https://img.shields.io/badge/Instruction_Tuning-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [![](https://img.shields.io/badge/Knowledge_Distillation-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [![](https://img.shields.io/badge/Knowledge_Graph_Generation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-generation)
-- [![](https://img.shields.io/badge/Reasoning-26-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
-  - [![](https://img.shields.io/badge/Chain_of_Thought-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
-  - [![](https://img.shields.io/badge/Multi_Step_Reasoning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
-  - [![](https://img.shields.io/badge/Arithmetic_Reasoning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
-  - [![](https://img.shields.io/badge/Symbolic_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
+- [![](https://img.shields.io/badge/Reasoning-34-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+  - [![](https://img.shields.io/badge/Chain_of_Thought-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
+  - [![](https://img.shields.io/badge/Multi_Step_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
+  - [![](https://img.shields.io/badge/Arithmetic_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
+  - [![](https://img.shields.io/badge/Symbolic_Reasoning-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
 - [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
 - [![](https://img.shields.io/badge/Distributed_AI-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
 - [![](https://img.shields.io/badge/Selective_Annotation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#selective-annotation)
@@ -36,7 +36,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Text_Generation-77-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#text-generation)
   - [![](https://img.shields.io/badge/Controllable_Text_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
 - [![](https://img.shields.io/badge/Continual_Learning-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
-- [![](https://img.shields.io/badge/Prompt_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
+- [![](https://img.shields.io/badge/Prompt_Learning-21-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
 - [![](https://img.shields.io/badge/Natural_Language_Understanding-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#natural-language-understanding)
 - [![](https://img.shields.io/badge/Multimodal-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multimodal)
 - [![](https://img.shields.io/badge/LLM_Reliability-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-reliability)
@@ -116,6 +116,9 @@ with Context Shifts**](https://doi.org/10.1007/978-3-031-19759-8\_15),<br> by *E
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.759) [**Rethinking the Role of Demonstrations: What Makes In-Context Learning
 Work?**](https://aclanthology.org/2022.emnlp-main.759),<br> by *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi and Luke Zettlemoyer*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08686) [**The Impact of Symbolic Representations on In-context Learning for
+Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686),<br> by *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li and Eric P. Xing*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2111.02643) [**Response Generation with Context-Aware Prompt Learning**](https://arxiv.org/abs/2111.02643),<br> by *Xiaodong Gu, Kang Min Yoo and Sang-Woo Lee*
 <br><br>
@@ -226,7 +229,7 @@ data**](https://doi.org/10.48550/arXiv.2301.11596),<br> by *Simon Ott, Konstanti
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.13808) [**Large Language Models are Versatile Decomposers: Decompose Evidence
 and Questions for Table-based Reasoning**](https://doi.org/10.48550/arXiv.2301.13808),<br> by *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang and Yongbin Li*
 <br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10403) [**Towards Reasoning in Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2212.10403),<br> by *Jie Huang and Kevin Chen-Chuan Chang*
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.12726) [**Specializing Smaller Language Models towards Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2301.12726),<br> by *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal and Tushar Khot*
 <br><br>
 - [![](https://img.shields.io/badge/ICML-2022-blue)](https://openreview.net/forum?id=8lNy3QCaxHX) [**Improved logical reasoning of language models via differentiable symbolic programming**](https://openreview.net/forum?id=8lNy3QCaxHX),<br> by *Zhang, Hanlin, Li, Ziyang, Huang, Jiani, Naik, Mayur and Xing, Eric*
 <br><br>
@@ -238,6 +241,20 @@ Explanations**](https://aclanthology.org/2022.emnlp-main.82),<br> by *Jaehun Jun
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08607) [**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text
 Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru and Asli Celikyilmaz*
 <br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2211.12588) [**Program of Thoughts Prompting: Disentangling Computation from Reasoning
+for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588),<br> by *Wenhu Chen, Xueguang Ma, Xinyi Wang and William W. Cohen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08686) [**The Impact of Symbolic Representations on In-context Learning for
+Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686),<br> by *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li and Eric P. Xing*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10403) [**Towards Reasoning in Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2212.10403),<br> by *Jie Huang and Kevin Chen-Chuan Chang*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.218) [**UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical
+Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen and Xiaodan Liang*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
+Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
+<br><br>
 #### Chain of Thought
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
@@ -248,9 +265,6 @@ Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Sah
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.174) [**Iteratively Prompt Pre-trained Language Models for Chain of Thought**](https://aclanthology.org/2022.emnlp-main.174),<br> by *Boshi Wang, Xiang Deng and Huan Sun*
-<br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
-Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.00720) [**Complexity-Based Prompting for Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2210.00720),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
 <br><br>
@@ -274,6 +288,8 @@ of What Matters**](https://doi.org/10.48550/arXiv.2212.10001),<br> by *Boshi Wan
 <br><br>
 #### Multi-Step Reasoning
 
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.12726) [**Specializing Smaller Language Models towards Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2301.12726),<br> by *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal and Tushar Khot*
+<br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08607) [**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text
 Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru and Asli Celikyilmaz*
 <br><br>
@@ -281,12 +297,21 @@ Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Sah
 
 - [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.392) [**LILA: A Unified Benchmark for Mathematical Reasoning**](https://aclanthology.org/2022.emnlp-main.392),<br> by *Swaroop Mishra, Matthew Finlayson, Pan Lu, Leonard Tang, Sean Welleck, Chitta Baral, Tanmay Rajpurohit, Oyvind Tafjord et al.*
 <br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2211.12588) [**Program of Thoughts Prompting: Disentangling Computation from Reasoning
+for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588),<br> by *Wenhu Chen, Xueguang Ma, Xinyi Wang and William W. Cohen*
+<br><br>
 #### Symbolic Reasoning
 
 - [![](https://img.shields.io/badge/ICML-2022-blue)](https://openreview.net/forum?id=8lNy3QCaxHX) [**Improved logical reasoning of language models via differentiable symbolic programming**](https://openreview.net/forum?id=8lNy3QCaxHX),<br> by *Zhang, Hanlin, Li, Ziyang, Huang, Jiani, Naik, Mayur and Xing, Eric*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.82) [**Maieutic Prompting: Logically Consistent Reasoning with Recursive
 Explanations**](https://aclanthology.org/2022.emnlp-main.82),<br> by *Jaehun Jung, Lianhui Qin, Sean Welleck, Faeze Brahman, Chandra Bhagavatula, Ronan Le Bras and Yejin Choi*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08686) [**The Impact of Symbolic Representations on In-context Learning for
+Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686),<br> by *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li and Eric P. Xing*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.218) [**UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical
+Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen and Xiaodan Liang*
 <br><br>
 ### Federated Learning
 
@@ -721,6 +746,9 @@ for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2203.06904),<b
 - [![](https://img.shields.io/badge/WWW-2022-blue)](https://doi.org/10.1145/3485447.3511921) [**Ontology-enhanced Prompt-tuning for Few-shot Learning**](https://doi.org/10.1145/3485447.3511921),<br> by *Hongbin Ye, Ningyu Zhang, Shumin Deng, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen and Huajun Chen*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.06950) [**Pre-trained Language Models can be Fully Zero-Shot Learners**](https://doi.org/10.48550/arXiv.2212.06950),<br> by *Xuandong Zhao, Siqi Ouyang, Zhiguo Yu, Ming Wu and Lei Li*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
+Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.491) [**FewshotQA: A simple framework for few-shot learning of question
 answering tasks using pre-trained text-to-text models**](https://doi.org/10.18653/v1/2021.emnlp-main.491),<br> by *Rakesh Chada and Pradeep Natarajan*
