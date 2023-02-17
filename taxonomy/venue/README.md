@@ -8,9 +8,11 @@ This page categorizes the literature by the **Published Venue**.
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#hyperlink)
 - [![](https://img.shields.io/badge/AAAI-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
-- [![](https://img.shields.io/badge/ACL-35-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
+- [![](https://img.shields.io/badge/ACL-36-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [![](https://img.shields.io/badge/ACL_Findings-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [![](https://img.shields.io/badge/AIIoT-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
+- [![](https://img.shields.io/badge/ASE-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ase)
+- [![](https://img.shields.io/badge/Applied_Sciences-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#applied-sciences)
 - [![](https://img.shields.io/badge/AutoML-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#automl)
 - [![](https://img.shields.io/badge/CIKM-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#cikm)
 - [![](https://img.shields.io/badge/COLING-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#coling)
@@ -19,25 +21,30 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/ECCV-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#eccv)
 - [![](https://img.shields.io/badge/ECIR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecir)
 - [![](https://img.shields.io/badge/EDBT-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#edbt)
-- [![](https://img.shields.io/badge/EMNLP-18-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
-- [![](https://img.shields.io/badge/EMNLP_Findings-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
+- [![](https://img.shields.io/badge/EMNLP-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
+- [![](https://img.shields.io/badge/EMNLP_Findings-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
 - [![](https://img.shields.io/badge/Euro_Par-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#euro-par)
 - [![](https://img.shields.io/badge/FCST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#fcst)
 - [![](https://img.shields.io/badge/FLPI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#flpi)
+- [![](https://img.shields.io/badge/FSE-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#fse)
 - [![](https://img.shields.io/badge/IA3-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ia3)
 - [![](https://img.shields.io/badge/ICCV-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iccv)
 - [![](https://img.shields.io/badge/ICDCS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icdcs)
-- [![](https://img.shields.io/badge/ICLR-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
+- [![](https://img.shields.io/badge/ICLR-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
 - [![](https://img.shields.io/badge/ICML-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icml)
 - [![](https://img.shields.io/badge/ICPADS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icpads)
-- [![](https://img.shields.io/badge/IJCAI-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ijcai)
+- [![](https://img.shields.io/badge/ICSE-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icse)
+- [![](https://img.shields.io/badge/ICSME-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icsme)
+- [![](https://img.shields.io/badge/IJCAI-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ijcai)
+- [![](https://img.shields.io/badge/ISSTA-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#issta)
 - [![](https://img.shields.io/badge/ISoLA-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#isola)
 - [![](https://img.shields.io/badge/JAIR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jair)
 - [![](https://img.shields.io/badge/JIS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jis)
 - [![](https://img.shields.io/badge/JKSUCIS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jksucis)
 - [![](https://img.shields.io/badge/KIS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
-- [![](https://img.shields.io/badge/NAACL-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
-- [![](https://img.shields.io/badge/NeurIPS-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
+- [![](https://img.shields.io/badge/MSR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
+- [![](https://img.shields.io/badge/NAACL-11-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
+- [![](https://img.shields.io/badge/NeurIPS-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [![](https://img.shields.io/badge/OSDI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [![](https://img.shields.io/badge/OpenAI-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
 - [![](https://img.shields.io/badge/SIGIR-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#sigir)
@@ -46,8 +53,10 @@ This page categorizes the literature by the **Published Venue**.
 - [![](https://img.shields.io/badge/TIST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tist)
 - [![](https://img.shields.io/badge/TKDE-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tkde)
 - [![](https://img.shields.io/badge/VLDB-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
+- [![](https://img.shields.io/badge/WASA-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [![](https://img.shields.io/badge/WWW-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [![](https://img.shields.io/badge/arXiv-46-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-52-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [![](https://img.shields.io/badge/openreview-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
 -  -- [Summary](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./)
@@ -96,6 +105,8 @@ Better Translators**](https://doi.org/10.18653/v1/2022.acl-long.424),<br> by *Zh
 - [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.346) [**SPoT: Better Frozen Model Adaptation through Soft Prompt Transfer**](https://doi.org/10.18653/v1/2022.acl-long.346),<br> by *Tu Vu, Brian Lester, Noah Constant, Rami Al-Rfou' and Daniel Cer*
 <br><br>
 - [![](https://img.shields.io/badge/ACL_Findings-2022-blue)](https://doi.org/10.18653/v1/2022.findings-acl.220) [**ELLE: Efficient Lifelong Pre-training for Emerging Data**](https://doi.org/10.18653/v1/2022.findings-acl.220),<br> by *Yujia Qin, Jiajie Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun and Jie Zhou*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.499) [**UniXcoder: Unified Cross-Modal Pre-training for Code Representation**](https://doi.org/10.18653/v1/2022.acl-long.499),<br> by *Daya Guo, Shuai Lu, Nan Duan, Yanlin Wang, Ming Zhou and Jian Yin*
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.502) [**Controllable Open-ended Question Generation with A New Question
 Type Ontology**](https://doi.org/10.18653/v1/2021.acl-long.502),<br> by *Shuyang Cao and Lu Wang*
@@ -182,6 +193,23 @@ Generation**](https://doi.org/10.18653/v1/2021.findings-acl.248),<br> by *Kausha
 
 - [![](https://img.shields.io/badge/AIIoT-2022-blue)](https://ieeexplore.ieee.org/document/9817156) [**Graph Attention Neural Network Distributed Model Training**](https://ieeexplore.ieee.org/document/9817156),<br> by *Esmaeilzadeh, Armin, Zadeh Nojoo Kambar, Mina Esmail and Heidari, Maryam*
 <br><br>
+### ASE
+
+- [![](https://img.shields.io/badge/ASE-2022-blue)](https://doi.org/10.1145/3551349.3556900) [**AST-Probe: Recovering abstract syntax trees from hidden representations
+of pre-trained language models**](https://doi.org/10.1145/3551349.3556900),<br> by *Jos\'e Antonio Hern\'andez L\'opez, Martin Weyssow, Jes\'us S\'anchez Cuadrado and Houari A. Sahraoui*
+<br><br>
+- [![](https://img.shields.io/badge/ASE-2022-blue)](https://doi.org/10.1145/3551349.3556955) [**CoditT5: Pretraining for Source Code and Natural Language Editing**](https://doi.org/10.1145/3551349.3556955),<br> by *Jiyang Zhang, Sheena Panthaplackel, Pengyu Nie, Junyi Jessy Li and Milos Gligoric*
+<br><br>
+- [![](https://img.shields.io/badge/ASE-2022-blue)](https://doi.org/10.1145/3551349.3556964) [**Compressing Pre-trained Models of Code into 3 MB**](https://doi.org/10.1145/3551349.3556964),<br> by *Jieke Shi, Zhou Yang, Bowen Xu, Hong Jin Kang and David Lo*
+<br><br>
+- [![](https://img.shields.io/badge/ASE-2021-blue)](https://doi.org/10.1109/ASE51524.2021.9678927) [**What do pre-trained code models know about code?**](https://doi.org/10.1109/ASE51524.2021.9678927),<br> by *Anjan Karmakar and Romain Robbes*
+<br><br>
+- [![](https://img.shields.io/badge/ASE-2020-blue)](https://doi.org/10.1145/3324884.3416591) [**Multi-task Learning based Pre-trained Language Model for Code Completion**](https://doi.org/10.1145/3324884.3416591),<br> by *Fang Liu, Ge Li, Yunfei Zhao and Zhi Jin*
+<br><br>
+### Applied Sciences
+
+- [![](https://img.shields.io/badge/Applied_Sciences-2021-blue)](https://www.mdpi.com/2076-3417/11/11/4755) [**A model with iterative trials for correcting logic errors in source code**](https://www.mdpi.com/2076-3417/11/11/4755),<br> by *Matsumoto, Taku, Watanobe, Yutaka and Nakamura, Keita*
+<br><br>
 ### AutoML
 
 - [![](https://img.shields.io/badge/AutoML-2022-blue)](https://proceedings.mlr.press/v188/bansal22a.html) [**Meta-Adapters: Parameter Efficient Few-shot Fine-tuning through Meta-Learning**](https://proceedings.mlr.press/v188/bansal22a.html),<br> by *Trapit Bansal, Salaheddin Alzubi, Tong Wang, Jay-Yoon Lee and Andrew McCallum*
@@ -244,6 +272,9 @@ on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yiz
 - [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.759) [**Rethinking the Role of Demonstrations: What Makes In-Context Learning
 Work?**](https://aclanthology.org/2022.emnlp-main.759),<br> by *Sewon Min, Xinxi Lyu, Ari Holtzman, Mikel Artetxe, Mike Lewis, Hannaneh Hajishirzi and Luke Zettlemoyer*
 <br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.57) [**Detect-Localize-Repair: A Unified Framework for Learning to Debug
+with CodeT5**](https://aclanthology.org/2022.findings-emnlp.57),<br> by *Nghi Bui, Yue Wang and Steven C. H. Hoi*
+<br><br>
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.491) [**FewshotQA: A simple framework for few-shot learning of question
 answering tasks using pre-trained text-to-text models**](https://doi.org/10.18653/v1/2021.emnlp-main.491),<br> by *Rakesh Chada and Pradeep Natarajan*
 <br><br>
@@ -256,6 +287,9 @@ Dialogue Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.173),<br> by 
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.351) [**Structural Adapters in Pretrained Language Models for AMR-to-Text
 Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.351),<br> by *Leonardo F. R. Ribeiro, Yue Zhang and Iryna Gurevych*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.685) [**CodeT5: Identifier-aware Unified Pre-trained Encoder-Decoder Models
+for Code Understanding and Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.685),<br> by *Yue Wang, Weishi Wang, Shafiq R. Joty and Steven C. H. Hoi*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.697) [**KGPT: Knowledge-Grounded Pre-Training for Data-to-Text Generation**](https://doi.org/10.18653/v1/2020.emnlp-main.697),<br> by *Wenhu Chen, Yu Su, Xifeng Yan and William Yang Wang*
 <br><br>
@@ -282,6 +316,9 @@ Models**](https://doi.org/10.18653/v1/2020.findings-emnlp.140),<br> by *Ze Yang,
 <br><br>
 ### EMNLP Findings
 
+- [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.57) [**Detect-Localize-Repair: A Unified Framework for Learning to Debug
+with CodeT5**](https://aclanthology.org/2022.findings-emnlp.57),<br> by *Nghi Bui, Yue Wang and Steven C. H. Hoi*
+<br><br>
 - [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.190) [**Logic2Text: High-Fidelity Natural Language Generation from Logical
 Forms**](https://doi.org/10.18653/v1/2020.findings-emnlp.190),<br> by *Zhiyu Chen, Wenhu Chen, Hanwen Zha, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan and William Yang Wang*
 <br><br>
@@ -302,6 +339,20 @@ Computing Resources**](https://doi.org/10.1007/978-3-031-06156-1\_10),<br> by *D
 ### FLPI
 
 - [![](https://img.shields.io/badge/FLPI-2020-blue)](https://doi.org/10.1007/978-3-030-63076-8\_14) [**Collaborative Fairness in Federated Learning**](https://doi.org/10.1007/978-3-030-63076-8\_14),<br> by *Lingjuan Lyu, Xinyi Xu, Qian Wang and Han Yu*
+<br><br>
+### FSE
+
+- [![](https://img.shields.io/badge/FSE-2022-blue)](https://doi.org/10.1145/3540250.3549099) [**AUGER: automatically generating review comments with pre-training
+models**](https://doi.org/10.1145/3540250.3549099),<br> by *Lingwei Li, Li Yang, Huaxi Jiang, Jun Yan, Tiejian Luo, Zihan Hua, Geng Liang and Chun Zuo*
+<br><br>
+- [![](https://img.shields.io/badge/FSE-2022-blue)](https://doi.org/10.1145/3540250.3549081) [**Automating code review activities by large-scale pre-training**](https://doi.org/10.1145/3540250.3549081),<br> by *Zhiyu Li, Shuai Lu, Daya Guo, Nan Duan, Shailesh Jannu, Grant Jenks, Deep Majumder, Jared Green et al.*
+<br><br>
+- [![](https://img.shields.io/badge/FSE-2022-blue)](https://doi.org/10.1145/3540250.3549094) [**Diet code is healthy: simplifying programs for pre-trained models
+of code**](https://doi.org/10.1145/3540250.3549094),<br> by *Zhaowei Zhang, Hongyu Zhang, Beijun Shen and Xiaodong Gu*
+<br><br>
+- [![](https://img.shields.io/badge/FSE-2022-blue)](https://doi.org/10.1145/3540250.3549162) [**NatGen: generative pre-training by "naturalizing" source code**](https://doi.org/10.1145/3540250.3549162),<br> by *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar T. Devanbu and Baishakhi Ray*
+<br><br>
+- [![](https://img.shields.io/badge/FSE-2020-blue)](https://doi.org/10.1145/3368089.3417058) [**IntelliCode compose: code generation using transformer**](https://doi.org/10.1145/3368089.3417058),<br> by *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu and Neel Sundaresan*
 <br><br>
 ### IA3
 
@@ -324,6 +375,8 @@ Learning**](https://doi.org/10.1109/ICDCS51616.2021.00060),<br> by *Hang Xu, Che
 - [![](https://img.shields.io/badge/ICLR-2022-blue)](https://openreview.net/forum?id=RdJVFCHjUMI) [**An Explanation of In-context Learning as Implicit Bayesian Inference**](https://openreview.net/forum?id=RdJVFCHjUMI),<br> by *Sang Michael Xie, Aditi Raghunathan, Percy Liang and Tengyu Ma*
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=jWkw45-9AbL) [**A Distributional Approach to Controlled Text Generation**](https://openreview.net/forum?id=jWkw45-9AbL),<br> by *Muhammad Khalifa, Hady Elsahar and Marc Dymetman*
+<br><br>
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=jLoC4ez43PZ) [**GraphCodeBERT: Pre-training Code Representations with Data Flow**](https://openreview.net/forum?id=jLoC4ez43PZ),<br> by *Daya Guo, Shuo Ren, Shuai Lu, Zhangyin Feng, Duyu Tang, Shujie Liu, Long Zhou, Nan Duan et al.*
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=H1edEyBKDS) [**Plug and Play Language Models: A Simple Approach to Controlled Text
 Generation**](https://openreview.net/forum?id=H1edEyBKDS),<br> by *Sumanth Dathathri, Andrea Madotto, Janice Lan, Jane Hung, Eric Frank, Piero Molino, Jason Yosinski and Rosanne Liu*
@@ -352,12 +405,45 @@ targets improve semi-supervised deep learning results**](https://openreview.net/
 
 - [![](https://img.shields.io/badge/ICPADS-2021-blue)](https://doi.org/10.1109/ICPADS53394.2021.00109) [**Load Balancing Optimization for Transformer in Distributed Environment**](https://doi.org/10.1109/ICPADS53394.2021.00109),<br> by *Delu Ma, Zhou Lei, Shengbo Chen and Peng Wang*
 <br><br>
+### ICSE
+
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3524459.3527350) [**Towards JavaScript program repair with Generative Pre-trained Transformer
+(GPT-2)**](https://doi.org/10.1145/3524459.3527350),<br> by *M\'ark Lajk\'o, Viktor Csuvik and L\'aszl\'o Vid\'acs*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3510003.3510062) [**Bridging Pre-trained Models and Downstream Tasks for Source Code Understanding**](https://doi.org/10.1145/3510003.3510062),<br> by *Deze Wang, Zhouyang Jia, Shanshan Li, Yue Yu, Yun Xiong, Wei Dong and Xiangke Liao*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3510003.3510203) [**Jigsaw: Large Language Models meet Program Synthesis**](https://doi.org/10.1145/3510003.3510203),<br> by *Naman Jain, Skanda Vaidyanath, Arun Shankar Iyer, Nagarajan Natarajan, Suresh Parthasarathy, Sriram K. Rajamani and Rahul Sharma*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3510003.3510146) [**Natural Attack for Pre-trained Models of Code**](https://doi.org/10.1145/3510003.3510146),<br> by *Zhou Yang, Jieke Shi, Junda He and David Lo*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3510003.3510621) [**Using Pre-Trained Models to Boost Code Review Automation**](https://doi.org/10.1145/3510003.3510621),<br> by *Rosalia Tufano, Simone Masiero, Antonio Mastropaolo, Luca Pascarella, Denys Poshyvanyk and Gabriele Bavota*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2022-blue)](https://doi.org/10.1145/3510003.3510050) [**What Do They Capture? - A Structural Analysis of Pre-Trained Language
+Models for Source Code**](https://doi.org/10.1145/3510003.3510050),<br> by *Yao Wan, Wei Zhao, Hongyu Zhang, Yulei Sui, Guandong Xu and Hai Jin*
+<br><br>
+- [![](https://img.shields.io/badge/ICSE-2021-blue)](https://doi.org/10.1109/ICSE43902.2021.00040) [**Traceability Transformed: Generating more Accurate Links with Pre-Trained
+BERT Models**](https://doi.org/10.1109/ICSE43902.2021.00040),<br> by *Jinfeng Lin, Yalin Liu, Qingkai Zeng, Meng Jiang and Jane Cleland-Huang*
+<br><br>
+### ICSME
+
+- [![](https://img.shields.io/badge/ICSME-2020-blue)](https://ieeexplore.ieee.org/abstract/document/9240704/) [**Sentiment analysis for software engineering: How far can pre-trained transformer models go?**](https://ieeexplore.ieee.org/abstract/document/9240704/),<br> by *Zhang, Ting, Xu, Bowen, Thung, Ferdian, Haryono, Stefanus Agus, Lo, David and Jiang, Lingxiao*
+<br><br>
 ### IJCAI
 
 - [![](https://img.shields.io/badge/IJCAI-2022-blue)](https://doi.org/10.24963/ijcai.2022/273) [**Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in
 the Federated Setting**](https://doi.org/10.24963/ijcai.2022/273),<br> by *Mingyang Chen, Wen Zhang, Zhen Yao, Xiangnan Chen, Mengxiao Ding, Fei Huang and Huajun Chen*
 <br><br>
+- [![](https://img.shields.io/badge/IJCAI-2022-blue)](https://doi.org/10.24963/ijcai.2022/775) [**Deep Learning Meets Software Engineering: A Survey on Pre-Trained
+Models of Source Code**](https://doi.org/10.24963/ijcai.2022/775),<br> by *Changan Niu, Chuanyi Li, Bin Luo and Vincent Ng*
+<br><br>
 - [![](https://img.shields.io/badge/IJCAI-2021-blue)](https://doi.org/10.24963/ijcai.2021/223) [**Federated Learning with Fair Averaging**](https://doi.org/10.24963/ijcai.2021/223),<br> by *Zheng Wang, Xiaoliang Fan, Jianzhong Qi, Chenglu Wen, Cheng Wang and Rongshan Yu*
+<br><br>
+### ISSTA
+
+- [![](https://img.shields.io/badge/ISSTA-2022-blue)](https://doi.org/10.1145/3533767.3534390) [**An extensive study on pre-trained models for program understanding
+and generation**](https://doi.org/10.1145/3533767.3534390),<br> by *Zhengran Zeng, Hanzhuo Tan, Haotian Zhang, Jing Li, Yuqun Zhang and Lingming Zhang*
+<br><br>
+- [![](https://img.shields.io/badge/ISSTA-2022-blue)](https://doi.org/10.1145/3533767.3534219) [**CIRCLE: continual repair across programming languages**](https://doi.org/10.1145/3533767.3534219),<br> by *Wei Yuan, Quanjun Zhang, Tieke He, Chunrong Fang, Nguyen Quoc Viet Hung, Xiaodong Hao and Hongzhi Yin*
 <br><br>
 ### ISoLA
 
@@ -380,6 +466,10 @@ with Context Shifts**](https://doi.org/10.1007/978-3-031-19759-8\_15),<br> by *E
 
 - [![](https://img.shields.io/badge/KIS-2022-blue)](https://doi.org/10.1007/s10115-022-01664-x) [**From distributed machine learning to federated learning: a survey**](https://doi.org/10.1007/s10115-022-01664-x),<br> by *Ji Liu, Jizhou Huang, Yang Zhou, Xuhong Li, Shilei Ji, Haoyi Xiong and Dejing Dou*
 <br><br>
+### MSR
+
+- [![](https://img.shields.io/badge/MSR-2021-blue)](https://doi.org/10.1109/MSR52588.2021.00063) [**Applying CodeBERT for Automated Program Repair of Java Simple Bugs**](https://doi.org/10.1109/MSR52588.2021.00063),<br> by *Ehsan Mashhadi and Hadi Hemmati*
+<br><br>
 ### NAACL
 
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.167) [**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**](https://doi.org/10.18653/v1/2022.naacl-main.167),<br> by *Albert Webson and Ellie Pavlick*
@@ -395,6 +485,9 @@ Corpora**](https://doi.org/10.18653/v1/2022.naacl-main.351),<br> by *Xisen Jin, 
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.101) [**Pretrained Models for Multilingual Federated Learning**](https://doi.org/10.18653/v1/2022.naacl-main.101),<br> by *Orion Weller, Marc Marone, Vladimir Braverman, Dawn J. Lawrie and Benjamin Van Durme*
 <br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.findings-naacl.80) [**CODE-MVP: Learning to Represent Source Code from Multiple Views
+with Contrastive Pre-Training**](https://doi.org/10.18653/v1/2022.findings-naacl.80),<br> by *Xin Wang, Yasheng Wang, Yao Wan, Jiawei Wang, Pingyi Zhou, Li Li, Hao Wu and Jin Liu*
+<br><br>
 - [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.naacl-main.340) [**Ask what's missing and what's useful: Improving Clarification Question
 Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main.340),<br> by *Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley and Julian J. McAuley*
 <br><br>
@@ -403,9 +496,14 @@ Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main
 - [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.naacl-main.392) [**A Simple and Efficient Multi-Task Learning Approach for Conditioned
 Dialogue Generation**](https://doi.org/10.18653/v1/2021.naacl-main.392),<br> by *Yan Zeng and Jian-Yun Nie*
 <br><br>
+- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.naacl-main.211) [**Unified Pre-training for Program Understanding and Generation**](https://doi.org/10.18653/v1/2021.naacl-main.211),<br> by *Wasi Uddin Ahmad, Saikat Chakraborty, Baishakhi Ray and Kai-Wei Chang*
+<br><br>
 ### NeurIPS
 
 - [![](https://img.shields.io/badge/NeurIPS-2022-blue)](https://openreview.net/forum?id=oOte_397Q4P) [**Sparse Structure Search for Delta Tuning**](https://openreview.net/forum?id=oOte_397Q4P),<br> by *Shengding Hu, Zhen Zhang, Ning Ding, Yadao Wang, Yasheng Wang, Zhiyuan Liu and Maosong Sun*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/c16a5320fa475530d9583c34fd356ef5-Abstract-round1.html) [**CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding
+and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/c16a5320fa475530d9583c34fd356ef5-Abstract-round1.html),<br> by *Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin B. Clement, Dawn Drain et al.*
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
 and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
@@ -465,6 +563,10 @@ Tasks**](https://doi.org/10.1109/TPAMI.2021.3057446),<br> by *Matthias De Lange,
 <br><br>
 - [![](https://img.shields.io/badge/VLDB-2020-blue)](http://www.vldb.org/pvldb/vol13/p3005-li.pdf) [**PyTorch Distributed: Experiences on Accelerating Data Parallel Training**](http://www.vldb.org/pvldb/vol13/p3005-li.pdf),<br> by *Shen Li, Yanli Zhao, Rohan Varma, Omkar Salpekar, Pieter Noordhuis, Teng Li, Adam Paszke, Jeff Smith et al.*
 <br><br>
+### WASA
+
+- [![](https://img.shields.io/badge/WASA-2022-blue)](https://doi.org/10.1007/978-3-031-19211-1\_11) [**Multi-view Pre-trained Model for Code Vulnerability Identification**](https://doi.org/10.1007/978-3-031-19211-1\_11),<br> by *Xuxiang Jiang, Yinhao Xiao, Jun Wang and Wei Zhang*
+<br><br>
 ### WWW
 
 - [![](https://img.shields.io/badge/WWW-2022-blue)](https://doi.org/10.1145/3485447.3511921) [**Ontology-enhanced Prompt-tuning for Few-shot Learning**](https://doi.org/10.1145/3485447.3511921),<br> by *Hongbin Ye, Ningyu Zhang, Shumin Deng, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen and Huajun Chen*
@@ -484,6 +586,8 @@ Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.23
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.00234) [**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234),<br> by *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.00774) [**SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot**](https://doi.org/10.48550/arXiv.2301.00774),<br> by *Elias Frantar and Dan Alistarh*
+<br><br>
+- [![](https://img.shields.io/badge/arXiv_preprint_arXiv:2302.05527-2023-blue)](https://arxiv.org/abs/2302.05527) [**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**](https://arxiv.org/abs/2302.05527),<br> by *Zhou, Shuyan, Alon, Uri, Agarwal, Sumit and Neubig, Graham*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
@@ -537,6 +641,12 @@ for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2203.06904),<b
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.08090) [**Where to Begin? On the Impact of Pre-Training and Initialization in
 Federated Learning**](https://doi.org/10.48550/arXiv.2210.08090),<br> by *John Nguyen, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi and Michael Rabbat*
 <br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.01780) [**CodeRL: Mastering Code Generation through Pretrained Models and Deep
+Reinforcement Learning**](https://doi.org/10.48550/arXiv.2207.01780),<br> by *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese and Steven C. H. Hoi*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2211.10623) [**Do Pre-trained Language Models Indeed Understand Software Engineering
+Tasks?**](https://doi.org/10.48550/arXiv.2211.10623),<br> by *Yao Li, Tao Zhang, Xiapu Luo, Haipeng Cai, Sen Fang and Dawei Yuan*
+<br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2103.10360) [**All NLP Tasks Are Generation Tasks: A General Pretraining Framework**](https://arxiv.org/abs/2103.10360),<br> by *Zhengxiao Du, Yujie Qian, Xiao Liu, Ming Ding, Jiezhong Qiu, Zhilin Yang and Jie Tang*
@@ -547,6 +657,15 @@ Federated Learning**](https://doi.org/10.48550/arXiv.2210.08090),<br> by *John N
 Understanding and Generation**](https://arxiv.org/abs/2107.02137),<br> by *Yu Sun, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu, Xuyi Chen et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.07313) [**Fine-tuning is Fine in Federated Learning**](https://arxiv.org/abs/2108.07313),<br> by *Gary Cheng, Karan N. Chadha and John C. Duchi*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2108.04556) [**CLSEBERT: Contrastive Learning for Syntax Enhanced Code Pre-Trained
+Model**](https://arxiv.org/abs/2108.04556),<br> by *Xin Wang, Yasheng Wang, Pingyi Zhou, Fei Mi, Meng Xiao, Yadao Wang, Li Li, Xiao Liu et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2105.09352) [**DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation,
+and Code Skeletons**](https://arxiv.org/abs/2105.09352),<br> by *Dawn Drain, Colin B. Clement, Guillermo Serrato and Neel Sundaresan*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2104.05861) [**Evaluating Pre-Trained Models for User Feedback Analysis in Software
+Engineering: A Study on Classification of App-Reviews**](https://arxiv.org/abs/2104.05861),<br> by *Mohammad Abdul Hadi and Fatemeh H. Fard*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2020-blue)](https://arxiv.org/abs/2006.14799) [**Evaluation of Text Generation: A Survey**](https://arxiv.org/abs/2006.14799),<br> by *Asli Celikyilmaz, Elizabeth Clark and Jianfeng Gao*
 <br><br>
@@ -576,4 +695,8 @@ Networks**](http://arxiv.org/abs/1903.12136), [[Code]](https://github.com/SforAi
 - [![](https://img.shields.io/badge/CoRR-2016-blue)](http://arxiv.org/abs/1610.09650) [**Deep Model Compression: Distilling Knowledge from Noisy Teachers**](http://arxiv.org/abs/1610.09650), [[Code]](https://github.com/SforAiDl/KD_Lib)<br> by *Bharat Bhusan Sau and Vineeth N. Balasubramanian*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2015-blue)](http://arxiv.org/abs/1503.02531) [**Distilling the Knowledge in a Neural Network**](http://arxiv.org/abs/1503.02531), [[Code]](https://github.com/SforAiDl/KD_Lib)<br> by *Geoffrey E. Hinton, Oriol Vinyals and Jeffrey Dean*
+<br><br>
+### openreview
+
+- [![](https://img.shields.io/badge/openreview-2023-blue)](https://openreview.net/pdf?id=VPCi3STZcaO) [**CodeT5Mix: A Pretrained Mixture of Encoder-decoder Transformers for Code Understanding and Generation**](https://openreview.net/pdf?id=VPCi3STZcaO),<br> by *Wang, Yue, Le, Hung, Gotmare, Akhilesh Deepak, Li, Junnan and Hoi, Steven*
 <br><br>
