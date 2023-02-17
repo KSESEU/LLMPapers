@@ -295,9 +295,7 @@ Models for Source Code**](https://doi.org/10.1145/3510003.3510050),<br> by *Yao 
 <br><br>
 - [![](https://img.shields.io/badge/TKDE-2022-blue)](https://doi.org/10.1109/TKDE.2020.3028705) [**A Survey on Knowledge Graph-Based Recommender Systems**](https://doi.org/10.1109/TKDE.2020.3028705),<br> by *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong and Qing He*
 <br><br>
-- [![](https://img.shields.io/badge/{SIGIR}_'22:_The_45th_International_{ACM}_{SIGIR}_Conference_on_Research
-and_Development_in_Information_Retrieval,_Madrid,_Spain,_July_11__
-15,_2022-2022-blue)](https://doi.org/10.1145/3477495.3531937) [**Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning
+- [![](https://img.shields.io/badge/SIGIR-2022-blue)](https://doi.org/10.1145/3477495.3531937) [**Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning
 for Recommendation**](https://doi.org/10.1145/3477495.3531937),<br> by *Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui and Quoc Viet Hung Nguyen*
 <br><br>
 - [![](https://img.shields.io/badge/TOIS-2022-blue)](https://dl.acm.org/doi/abs/10.1145/3572835) [**Disentangled Representations Learning for Multi-Target Cross-Domain Recommendation**](https://dl.acm.org/doi/abs/10.1145/3572835),<br> by *Guo, Xiaobo, Li, Shaoshuai, Guo, Naicheng, Cao, Jiangxia, Liu, Xiaolei, Ma, Qiongxu, Gan, Runsheng and Zhao, Yunan*
@@ -647,11 +645,9 @@ Visual-Grounded Supervision**](https://doi.org/10.18653/v1/2020.emnlp-main.162),
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.214) [**Integrating Multimodal Information in Large Pretrained Transformers**](https://doi.org/10.18653/v1/2020.acl-main.214),<br> by *Wasifur Rahman, Md. Kamrul Hasan, Sangwu Lee, AmirAli Bagher Zadeh, Chengfeng Mao, Louis-Philippe Morency and Mohammed E. Hoque*
 <br><br>
-- [![](https://img.shields.io/badge/8th_International_Conference_on_Learning_Representations,_{ICLR}_2020,
-Addis_Ababa,_Ethiopia,_April_26_30,_2020-2020-blue)](https://openreview.net/forum?id=SygXPaEYvH) [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://openreview.net/forum?id=SygXPaEYvH),<br> by *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei and Jifeng Dai*
+- [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=SygXPaEYvH) [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://openreview.net/forum?id=SygXPaEYvH),<br> by *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei and Jifeng Dai*
 <br><br>
-- [![](https://img.shields.io/badge/the_58th_Annual_Meeting_of_the_Association_for_Computational
-Linguistics,_{ACL}_2020,_Online,_July_5_10,_2020-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.54) [**End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.54) [**End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using
 GPT-2**](https://doi.org/10.18653/v1/2020.acl-main.54),<br> by *DongHoon Ham, Jeong-Gwan Lee, Youngsoo Jang and Kee-Eung Kim*
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2020-blue)](https://proceedings.neurips.cc/paper/2020/hash/e946209592563be0f01c844ab2170f0c-Abstract.html) [**A Simple Language Model for Task-Oriented Dialogue**](https://proceedings.neurips.cc/paper/2020/hash/e946209592563be0f01c844ab2170f0c-Abstract.html),<br> by *Ehsan Hosseini-Asl, Bryan McCann, Chien-Sheng Wu, Semih Yavuz and Richard Socher*
@@ -694,9 +690,7 @@ Networks**](http://arxiv.org/abs/1903.12136), [[Code]](https://github.com/SforAi
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1908.03557) [**VisualBERT: A Simple and Performant Baseline for Vision and Language**](http://arxiv.org/abs/1908.03557),<br> by *Liunian Harold Li, Mark Yatskar, Da Yin, Cho-Jui Hsieh and Kai-Wei Chang*
 <br><br>
-- [![](https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_32:_Annual_Conference
-on_Neural_Information_Processing_Systems_2019,_NeurIPS_2019,_December
-8_14,_2019,_Vancouver,_BC,_Canada-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) [**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations
+- [![](https://img.shields.io/badge/NeurIPS-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) [**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations
 for Vision-and-Language Tasks**](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html),<br> by *Jiasen Lu, Dhruv Batra, Devi Parikh and Stefan Lee*
 <br><br>
 - [![](https://img.shields.io/badge/ICCV-2019-blue)](https://doi.org/10.1109/ICCV.2019.00756) [**VideoBERT: A Joint Model for Video and Language Representation Learning**](https://doi.org/10.1109/ICCV.2019.00756),<br> by *Chen Sun, Austin Myers, Carl Vondrick, Kevin Murphy and Cordelia Schmid*

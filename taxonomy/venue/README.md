@@ -15,7 +15,7 @@ This page categorizes the literature by the **Published Venue**
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#hyperlink)
 - [![](https://img.shields.io/badge/AAAI-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
-- [![](https://img.shields.io/badge/ACL-39-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
+- [![](https://img.shields.io/badge/ACL-40-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [![](https://img.shields.io/badge/ACL_Findings-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [![](https://img.shields.io/badge/AIIoT-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
 - [![](https://img.shields.io/badge/ASE-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ase)
@@ -39,7 +39,7 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/ICCV-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iccv)
 - [![](https://img.shields.io/badge/ICDCS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icdcs)
 - [![](https://img.shields.io/badge/ICER-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icer)
-- [![](https://img.shields.io/badge/ICLR-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
+- [![](https://img.shields.io/badge/ICLR-11-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
 - [![](https://img.shields.io/badge/ICML-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icml)
 - [![](https://img.shields.io/badge/ICPADS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icpads)
 - [![](https://img.shields.io/badge/ICSE-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icse)
@@ -54,10 +54,10 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/MM-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [![](https://img.shields.io/badge/MSR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
 - [![](https://img.shields.io/badge/NAACL-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
-- [![](https://img.shields.io/badge/NeurIPS-9-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
+- [![](https://img.shields.io/badge/NeurIPS-10-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [![](https://img.shields.io/badge/OSDI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [![](https://img.shields.io/badge/OpenAI-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
-- [![](https://img.shields.io/badge/SIGIR-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#sigir)
+- [![](https://img.shields.io/badge/SIGIR-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#sigir)
 - [![](https://img.shields.io/badge/T_PAMI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#t-pami)
 - [![](https://img.shields.io/badge/TACL-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tacl)
 - [![](https://img.shields.io/badge/TIST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tist)
@@ -189,6 +189,9 @@ Generation, Translation, and Comprehension**](https://doi.org/10.18653/v1/2020.a
 Response Generation**](https://doi.org/10.18653/v1/2020.acl-demos.30),<br> by *Yizhe Zhang, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu et al.*
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.214) [**Integrating Multimodal Information in Large Pretrained Transformers**](https://doi.org/10.18653/v1/2020.acl-main.214),<br> by *Wasifur Rahman, Md. Kamrul Hasan, Sangwu Lee, AmirAli Bagher Zadeh, Chengfeng Mao, Louis-Philippe Morency and Mohammed E. Hoque*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2020-blue)](https://doi.org/10.18653/v1/2020.acl-main.54) [**End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using
+GPT-2**](https://doi.org/10.18653/v1/2020.acl-main.54),<br> by *DongHoon Ham, Jeong-Gwan Lee, Youngsoo Jang and Kee-Eung Kim*
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2019-blue)](https://doi.org/10.18653/v1/p19-1608) [**Large-Scale Transfer Learning for Natural Language Generation**](https://doi.org/10.18653/v1/p19-1608),<br> by *Sergey Golovanov, Rauf Kurbanov, Sergey I. Nikolenko, Kyryl Truskovskyi, Alexander Tselousov and Thomas Wolf*
 <br><br>
@@ -463,6 +466,8 @@ Generation**](https://openreview.net/forum?id=H1edEyBKDS),<br> by *Sumanth Datha
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=SkeHuCVFDr) [**BERTScore: Evaluating Text Generation with BERT**](https://openreview.net/forum?id=SkeHuCVFDr),<br> by *Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian Q. Weinberger and Yoav Artzi*
 <br><br>
+- [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=SygXPaEYvH) [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://openreview.net/forum?id=SygXPaEYvH),<br> by *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei and Jifeng Dai*
+<br><br>
 - [![](https://img.shields.io/badge/ICLR-2019-blue)](https://openreview.net/forum?id=rJl-b3RcF7) [**The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks**](https://openreview.net/forum?id=rJl-b3RcF7), [[Code]](https://github.com/SforAiDl/KD_Lib)<br> by *Jonathan Frankle and Michael Carbin*
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2018-blue)](https://openreview.net/forum?id=Hyg0vbWC-) [**Generating Wikipedia by Summarizing Long Sequences**](https://openreview.net/forum?id=Hyg0vbWC-),<br> by *Peter J. Liu, Mohammad Saleh, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser and Noam Shazeer*
@@ -609,6 +614,9 @@ Learning**](https://proceedings.neurips.cc/paper/2020/hash/49562478de4c54fafd4ec
 - [![](https://img.shields.io/badge/NeurIPS-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
 and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2019-blue)](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) [**ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations
+for Vision-and-Language Tasks**](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html),<br> by *Jiasen Lu, Dhruv Batra, Devi Parikh and Stefan Lee*
+<br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2009-blue)](https://proceedings.neurips.cc/paper/2009/hash/1543843a4723ed2ab08e18053ae6dc5b-Abstract.html) [**Zero-shot Learning with Semantic Output Codes**](https://proceedings.neurips.cc/paper/2009/hash/1543843a4723ed2ab08e18053ae6dc5b-Abstract.html),<br> by *Mark Palatucci, Dean Pomerleau, Geoffrey E. Hinton and Tom M. Mitchell*
 <br><br>
 ### NeurIPS
@@ -634,6 +642,9 @@ Models**](https://doi.org/10.48550/arXiv.2212.12990),<br> by *Zijian Zhang, Zhou
 <br><br>
 ### SIGIR
 
+- [![](https://img.shields.io/badge/SIGIR-2022-blue)](https://doi.org/10.1145/3477495.3531937) [**Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning
+for Recommendation**](https://doi.org/10.1145/3477495.3531937),<br> by *Junliang Yu, Hongzhi Yin, Xin Xia, Tong Chen, Lizhen Cui and Quoc Viet Hung Nguyen*
+<br><br>
 - [![](https://img.shields.io/badge/SIGIR-2022-blue)](https://doi.org/10.1145/3477495.3531714) [**Rethinking Reinforcement Learning for Recommendation: A Prompt Perspective**](https://doi.org/10.1145/3477495.3531714),<br> by *Xin Xin, Tiago Pimentel, Alexandros Karatzoglou, Pengjie Ren, Konstantina Christakopoulou and Zhaochun Ren*
 <br><br>
 - [![](https://img.shields.io/badge/SIGIR-2021-blue)](https://doi.org/10.1145/3404835.3462865) [**Knowledge-based Review Generation by Coherence Enhanced Text Planning**](https://doi.org/10.1145/3404835.3462865),<br> by *Junyi Li, Wayne Xin Zhao, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen*
