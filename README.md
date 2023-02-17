@@ -1,7 +1,14 @@
 # LLM Papers & Related Works
-Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).<br><br>This repository is maintained by [Shenyu Zhang](https://github.com/ZSY-SZ) & [Runzhe Wang](https://github.com/sid0527). The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).
+## Contributors
+This repository is contributed by the following contributors.
+- **Organizers**: [Guilin Qi (漆桂林)](https://cse.seu.edu.cn/2019/0103/c23024a257134/page.htm), [Xiaofang Qi (戚晓芳)](https://cse.seu.edu.cn/2019/0103/c23024a257134/page.htm)
+- **Paper Collection**: Zafar Ali, Sheng Bi (毕胜), Yongrui Chen (陈永锐), Zizhuo Chen (陈孜卓), Xinbang Dai (戴鑫邦), Huan Gao (高桓), Shilong Hu (胡世龙), Jiaqi Li (李嘉琦), Dehai Min (闵德海), Yiming Tan (谭亦鸣), Songlin Zhai (翟松林)
+- **Maintainer**: Runzhe Wang (王润哲), Shenyu Zhang (张沈昱) 
 
-This page categorizes the literature by **Techniques**.
+The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+
+
 
 ## Papers
 
@@ -713,3 +720,67 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 
 - [**CPM-Bee**](https://live.openbmb.org/models/bee),<br> ```CPM-Bee是一个开源的双语预训练语言模型，参数量为10B，拥有十余种原生能力和强大的通用语言能力，并支持结构化输入和输出。```
 
+### Reports
+
+- [**久谦：ChatGPT纪要分享**](https://github.com/KSESEU/LLMPapers/blob/main/src/%E4%B9%85%E8%B0%A6%EF%BC%9AChatGPT%E7%BA%AA%E8%A6%81%E5%88%86%E4%BA%AB.pdf),
+
+- [**国泰君安ChatGPT研究框架**](https://github.com/KSESEU/LLMPapers/blob/main/src/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.pdf),
+
+
+
+## Related Works
+
+### Git Repos
+
+- [**Awesome-ChatGPT**](https://github.com/dalinvip/Awesome-ChatGPT),<br> ```ChatGPT资料汇总学习，持续更新......```
+
+- [**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts),<br> ```In this repository, you will find a variety of prompts that can be used with ChatGPT.```
+
+- [**ChatRWKV**](https://github.com/BlinkDL/ChatRWKV),<br> ```ChatRWKV is like ChatGPT but powered by my RWKV (100% RNN) language model, which is the only RNN (as of now) that can match transformers in quality and scaling, while being faster and saves VRAM. Training sponsored by Stability EleutherAI.```
+
+- [**ChatGPT-Hub**](https://github.com/chenweiphd/ChatGPT-Hub),<br> ```ChatGPT资源汇总```
+
+- [**PaLM-rlhf-pytorch**](https://github.com/lucidrains/PaLM-rlhf-pytorch),<br> ```Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.```
+
+- [**BAAI-WuDao/Data**](https://github.com/BAAI-WuDao/Data),<br> ```“悟道”项目构建了高质量的数据集，用于支撑大模型的训练和测评工作，本仓库提供所有开源数据集的链接。```
+
+- [**Colossal-AI**](https://github.com/hpcaitech/ColossalAI),<br> ```Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.```
+
+### Articles
+
+- [**Exploring Prompt Injection Attacks**](https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/),<br>by Jose Selvi<br> ```Prompt Injection is a new vulnerability that is affecting some AI/ML models and, in particular, certain types of language models using prompt-based learning.```
+
+- [**ChatGPT发展历程、原理、技术架构详解和产业未来**](https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0),<br>by 陈巍<br> ```本文将介绍ChatGPT的特点、功能、技术架构、局限、产业应用、投资机会和未来。作者本人曾担任华为系自然语言处理（ NLP ）企业的首席科学家。```
+
+### Blogs
+
+- [**How does GPT Obtain its Ability?**](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1),<br>by Yao Fu<br> ```Tracing emergent abilities of language models to their sources.```
+
+- [**Open source solution replicates ChatGPT training process**](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt),<br> ```Colossal-AI, as one of the hottest open-source solutions for large AI models, presents an open-source low-cost ChatGPT equivalent implementation process.```
+
+### Demos
+
+- [**CPM-Bee**](https://live.openbmb.org/models/bee),<br> ```CPM-Bee是一个开源的双语预训练语言模型，参数量为10B，拥有十余种原生能力和强大的通用语言能力，并支持结构化输入和输出。```
+
+### Reports
+
+- [**久谦：ChatGPT纪要分享**](https://github.com/KSESEU/LLMPapers/blob/main/src/%E4%B9%85%E8%B0%A6%EF%BC%9AChatGPT%E7%BA%AA%E8%A6%81%E5%88%86%E4%BA%AB.pdf),
+
+- [**国泰君安ChatGPT研究框架**](https://github.com/KSESEU/LLMPapers/blob/main/src/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.pdf),
+
+
+
+## Researcher Recruitment
+Knowledge Science and Engineering Lab is recruiting researchers! You are welcome to apply for the following positions:
+- **Research Assistant**: Bachelor degree or above, proficient in Python/Java, familiar with machine learning espicially deep learning models.
+- **Postdoctoral Fellow**: Doctoral research in Artificial Intelligence, published at least 3 high-quality papers. 
+- **Lecturer, Associate Professor and Professor** 
+
+If you are interested in our research and meet the above requirements, feel free to contact Prof. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257134/page.htm).
+
+知识科学与工程实验室正在招聘科研人员！欢迎申请以下岗位：
+- **科研助理**：本科学历以上，精通Python/Java，熟悉机器学习，特别是深度学习模型。
+- **博士后**：博士研究人工智能相关方向，发表至少3篇高水平论文。
+- **讲师、副教授、教授等教职** 
+
+如果您对我们的研究工作感兴趣并满足以上要求，欢迎您与[漆桂林](https://cse.seu.edu.cn/2019/0103/c23024a257134/page.htm)教授联系。
