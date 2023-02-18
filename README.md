@@ -1015,7 +1015,7 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 
 
 
-## <img src="https://avatars.githubusercontent.com/u/77821103?s=96&v=4" alt="img" style="zoom:100%; vertical-align: middle" /> Researcher Recruitment 科研人员招聘
+## <img src="https://avatars.githubusercontent.com/u/77821103?s=400&u=17b0ffcd148c697c9f604d8ed4241ffa8fb62257&v=4" alt="img" style="zoom:25%; vertical-align: middle" /> Researcher Recruitment 科研人员招聘
 *Knowledge Science and Engineering Lab* is recruiting researchers! You are welcome to apply for the following positions:
 - **Research Assistant**: Bachelor degree or above, proficient in Python/Java, familiar with machine learning espicially deep learning models.
 - **Postdoctoral Fellow**: Doctoral research in Artificial Intelligence, published at least 3 high-quality papers. 
