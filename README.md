@@ -20,9 +20,9 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [![](https://img.shields.io/badge/Knowledge_Distillation-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [![](https://img.shields.io/badge/Knowledge_Graph_Generation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-generation)
-- [![](https://img.shields.io/badge/Reasoning-34-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+- [![](https://img.shields.io/badge/Reasoning-36-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [![](https://img.shields.io/badge/Chain_of_Thought-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
-  - [![](https://img.shields.io/badge/Multi_Step_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
+  - [![](https://img.shields.io/badge/Multi_Step_Reasoning-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [![](https://img.shields.io/badge/Arithmetic_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
   - [![](https://img.shields.io/badge/Symbolic_Reasoning-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
 - [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
@@ -255,6 +255,8 @@ Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen,
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
 Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.00747) [**Rationale-Augmented Ensembles in Language Models**](https://doi.org/10.48550/arXiv.2207.00747),<br> by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V. Le, Ed H. Chi and Denny Zhou*
+<br><br>
 #### Chain of Thought
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
@@ -292,6 +294,8 @@ of What Matters**](https://doi.org/10.48550/arXiv.2212.10001),<br> by *Boshi Wan
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08607) [**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text
 Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru and Asli Celikyilmaz*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.00747) [**Rationale-Augmented Ensembles in Language Models**](https://doi.org/10.48550/arXiv.2207.00747),<br> by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V. Le, Ed H. Chi and Denny Zhou*
 <br><br>
 #### Arithmetic Reasoning
 
@@ -959,6 +963,10 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 
 - [**国泰君安ChatGPT研究框架**](https://github.com/KSESEU/LLMPapers/blob/main/res/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.pdf),
 
+### Lectures
+
+- [**Chain of Thought Prompting for Large Language Model Reasoning**](https://github.com/KSESEU/LLMPapers/blob/main/res/Chain%20of%20Thought%20Prompting%20for%20Large%20Language%20Model%20Reasoning.pdf),
+
 
 
 ## Related Works
@@ -1000,6 +1008,10 @@ transfer**](https://doi.org/10.1109/CVPR.2009.5206594),<br> by *Christoph H. Lam
 - [**久谦：ChatGPT纪要分享**](https://github.com/KSESEU/LLMPapers/blob/main/res/%E4%B9%85%E8%B0%A6%EF%BC%9AChatGPT%E7%BA%AA%E8%A6%81%E5%88%86%E4%BA%AB.pdf),
 
 - [**国泰君安ChatGPT研究框架**](https://github.com/KSESEU/LLMPapers/blob/main/res/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.pdf),
+
+### Lectures
+
+- [**Chain of Thought Prompting for Large Language Model Reasoning**](https://github.com/KSESEU/LLMPapers/blob/main/res/Chain%20of%20Thought%20Prompting%20for%20Large%20Language%20Model%20Reasoning.pdf),
 
 
 
