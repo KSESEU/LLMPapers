@@ -1,9 +1,9 @@
-# LLM Papers & Related Works
+# Resources on ChatGPT and Large Language Models
 Collection of  papers and related works for Large Language Models (ChatGPT, GPT-3, Codex etc.).
 ## Contributors
 This repository is contributed by the following contributors.
 - **Organizers**: [Guilin Qi (漆桂林)](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm), [Xiaofang Qi (戚晓芳)](https://cse.seu.edu.cn/2019/0103/c23024a257134/page.htm)
-- **Paper Collectors**: Zafar Ali, [Sheng Bi (毕胜)](https://github.com/bisheng), [Yongrui Chen (陈永锐)](https://github.com/Bahuia), Zizhuo Chen (陈孜卓), [Xinbang Dai (戴鑫邦)](https://github.com/OBriennnnn), Huan Gao (高桓), Shilong Hu (胡世龙), [Jiaqi Li (李嘉琦)](https://github.com/aoluming), Dehai Min (闵德海), Yiming Tan (谭亦鸣), [Songlin Zhai (翟松林)](https://github.com/SonglinZhai), [Yuxin Zhang (张裕欣)](https://github.com/Zzyx1996)
+- **Paper Collectors**: Zafar Ali, [Sheng Bi (毕胜)](https://github.com/bisheng), [Yongrui Chen (陈永锐)](https://github.com/Bahuia), Zizhuo Chen (陈孜卓), [Xinbang Dai (戴鑫邦)](https://github.com/OBriennnnn), Huan Gao (高桓), Shilong Hu (胡世龙), [Jingqi Kang (康婧淇)](https://github.com/JingqiKang), [Jiaqi Li (李嘉琦)](https://github.com/aoluming), Dehai Min (闵德海), Yiming Tan (谭亦鸣), [Tongtong Wu (吴桐桐)](http://wutong8023.site/), [Songlin Zhai (翟松林)](https://github.com/SonglinZhai), [Yuxin Zhang (张裕欣)](https://github.com/Zzyx1996)
 - **Maintainers**: [Runzhe Wang (王润哲)](https://github.com/sid0527), [Shenyu Zhang (张沈昱)](https://github.com/ZSY-SZ) 
 
 The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
@@ -14,9 +14,9 @@ This page categorizes the literature by the **Last Post**
 
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#hyperlink)
-- [![](https://img.shields.io/badge/2023-18-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
-- [![](https://img.shields.io/badge/2022-126-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
-- [![](https://img.shields.io/badge/2021-66-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
+- [![](https://img.shields.io/badge/2023-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [![](https://img.shields.io/badge/2022-142-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
+- [![](https://img.shields.io/badge/2021-74-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [![](https://img.shields.io/badge/2020-48-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [![](https://img.shields.io/badge/2019-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
 - [![](https://img.shields.io/badge/2018-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2018)
@@ -73,6 +73,11 @@ data**](https://doi.org/10.48550/arXiv.2301.11596),<br> by *Simon Ott, Konstanti
 and Questions for Table-based Reasoning**](https://doi.org/10.48550/arXiv.2301.13808),<br> by *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang and Yongbin Li*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.12726) [**Specializing Smaller Language Models towards Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2301.12726),<br> by *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal and Tushar Khot*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.02094) [**Chat2VIS: Generating Data Visualisations via Natural Language using
+ChatGPT, Codex and GPT-3 Large Language Models**](https://doi.org/10.48550/arXiv.2302.02094),<br> by *Paula Maddigan and Teo Susnjak*
 <br><br>
 ### 2022
 
@@ -141,8 +146,6 @@ Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich,
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.556) [**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot
 Prompt Order Sensitivity**](https://doi.org/10.18653/v1/2022.acl-long.556),<br> by *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel and Pontus Stenetorp*
-<br><br>
-- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.191) [**Learning To Retrieve Prompts for In-Context Learning**](https://doi.org/10.18653/v1/2022.naacl-main.191),<br> by *Ohad Rubin, Jonathan Herzig and Jonathan Berant*
 <br><br>
@@ -379,6 +382,52 @@ Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathan
 <br><br>
 - [![](https://img.shields.io/badge/COLING-2022-blue)](https://aclanthology.org/2022.coling-1.491) [**Are Visual-Linguistic Models Commonsense Knowledge Bases?**](https://aclanthology.org/2022.coling-1.491),<br> by *Hsiu-Yu Yang and Carina Silberer*
 <br><br>
+- [![](https://img.shields.io/badge/Deep_Learning_Inside_Out:_The_3rd_Workshop_on_Knowledge
+Extraction_and_Integration_for_Deep_Learning_Architectures,_DeeLIO@ACL
+2022,_Dublin,_Ireland_and_Online,_May_27,_2022-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/44th_{IEEE/ACM}_44th_International_Conference_on_Software_Engineering,
+{ICSE}_2022,_Pittsburgh,_PA,_USA,_May_25_27,_2022-2022-blue)](https://doi.org/10.1145/3510003.3510042) [**Fast Changeset-based Bug Localization with BERT**](https://doi.org/10.1145/3510003.3510042),<br> by *Agnieszka Ciborowska and Kostadin Damevski*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2022-blue)](https://research.google/pubs/pub51694/) [**Star: Self-taught reasoner bootstrapping reasoning with reasoning**](https://research.google/pubs/pub51694/),<br> by *Zelikman, Eric, Mu, Jesse, Goodman, Noah D and Wu, Yuhuai Tony*
+<br><br>
+- [![](https://img.shields.io/badge/COLING-2022-blue)](https://aclanthology.org/2022.coling-1.85) [**A Domain Knowledge Enhanced Pre-Trained Language Model for Vertical
+Search: Case Study on Medicinal Products**](https://aclanthology.org/2022.coling-1.85),<br> by *Kesong Liu, Jianhui Jiang and Feifei Lyu*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.207) [**Knowledge Prompting in Pre-trained Language Model for Natural Language
+Understanding**](https://aclanthology.org/2022.emnlp-main.207),<br> by *Jianing Wang, Wenkang Huang, Minghui Qiu, Qiuhui Shi, Hongbin Wang, Xiang Li and Ming Gao*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.130) [**Large language models are few-shot clinical information extractors**](https://aclanthology.org/2022.emnlp-main.130),<br> by *Monica Agrawal, Stefan Hegselmann, Hunter Lang, Yoon Kim and David A. Sontag*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.163) [**Snapshot-Guided Domain Adaptation for ELECTRA**](https://aclanthology.org/2022.findings-emnlp.163),<br> by *Daixuan Cheng, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng and Qi Zhang*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.329) [**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think
+Again**](https://aclanthology.org/2022.findings-emnlp.329),<br> by *Bernal Jimenez Gutierrez, Nikolas McNeal, Clayton Washington, You Chen, Lang Li, Huan Sun and Yu Su*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.468) [**VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive
+Language Understanding**](https://aclanthology.org/2022.findings-emnlp.468),<br> by *Dou Hu, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo and Xiaofeng Shi*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01240) [**Language Models Are Greedy Reasoners: A Systematic Formal Analysis
+of Chain-of-Thought**](https://doi.org/10.48550/arXiv.2210.01240),<br> by *Abulhair Saparov and He He*
+<br><br>
+- [![](https://img.shields.io/badge/EvoMUSART-2022-blue)](https://doi.org/10.1007/978-3-031-03789-4\_9) [**Towards the Generation of Musical Explanations with GPT-3**](https://doi.org/10.1007/978-3-031-03789-4\_9),<br> by *Stephen James Krol, Maria Teresa Llano and Jon McCormack*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.07411) [**Plex: Towards Reliability using Pretrained Large Model Extensions**](https://doi.org/10.48550/arXiv.2207.07411),<br> by *Dustin Tran, Jeremiah Z. Liu, Michael W. Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang et al.*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2022-blue)](https://par.nsf.gov/biblio/10380030) [**The unreliability of explanations in few-shot prompting for textual reasoning**](https://par.nsf.gov/biblio/10380030),<br> by *Ye, Xi and Durrett, Greg*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10450) [**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450),<br> by *Bosheng Ding, Chengwei Qin, Linlin Liu, Lidong Bing, Shafiq R. Joty and Boyang Li*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10529) [**Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological
+Perspective**](https://doi.org/10.48550/arXiv.2212.10529),<br> by *Xingxuan Li, Yutong Li, Linlin Liu, Lidong Bing and Shafiq R. Joty*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.bionlp-1.16) [**Improving Supervised Drug-Protein Relation Extraction with Distantly
+Supervised Models**](https://doi.org/10.18653/v1/2022.bionlp-1.16),<br> by *Naoki Iinuma, Makoto Miwa and Yutaka Sasaki*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.bionlp-1.37) [**Comparing Encoder-Only and Encoder-Decoder Transformers for Relation
+Extraction from Biomedical Texts: An Empirical Study on Ten Benchmark
+Datasets**](https://doi.org/10.18653/v1/2022.bionlp-1.37),<br> by *Mourad Sarrouti, Carson Tao and Yoann Mamy Randriamihaja*
+<br><br>
 ### 2021
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
@@ -545,6 +594,25 @@ GPT-2**](https://ojs.aaai.org/index.php/AAAI/article/view/17674),<br> by *Yunyi 
 - [![](https://img.shields.io/badge/ECML-2021-blue)](https://doi.org/10.1007/978-3-030-86523-8\_39) [**Augmenting Open-Domain Event Detection with Synthetic Data from GPT-2**](https://doi.org/10.1007/978-3-030-86523-8\_39),<br> by *Amir Pouran Ben Veyseh, Minh Van Nguyen, Bonan Min and Thien Huu Nguyen*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.107) [**Salience-Aware Event Chain Modeling for Narrative Understanding**](https://doi.org/10.18653/v1/2021.emnlp-main.107),<br> by *Xiyang Zhang, Muhao Chen and Jonathan May*
+<br><br>
+- [![](https://img.shields.io/badge/ACL_Findings-2021-blue)](https://doi.org/10.18653/v1/2021.findings-acl.40) [**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained
+Language Models for Domains**](https://doi.org/10.18653/v1/2021.findings-acl.40),<br> by *Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-long.259) [**Taming Pre-trained Language Models with N-gram Representations for
+Low-Resource Domain Adaptation**](https://doi.org/10.18653/v1/2021.acl-long.259),<br> by *Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang*
+<br><br>
+- [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.bionlp-1.20) [**Improving Biomedical Pretrained Language Models with Knowledge**](https://doi.org/10.18653/v1/2021.bionlp-1.20),<br> by *Zheng Yuan, Yijia Liu, Chuanqi Tan, Songfang Huang and Fei Huang*
+<br><br>
+- [![](https://img.shields.io/badge/CHI-2021-blue)](https://doi.org/10.1145/3411763.3451760) [**Prompt Programming for Large Language Models: Beyond the Few-Shot
+Paradigm**](https://doi.org/10.1145/3411763.3451760),<br> by *Laria Reynolds and Kyle McDonell*
+<br><br>
+- [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=g11CZSghXyY) [**Combining Ensembles and Data Augmentation Can Harm Your Calibration**](https://openreview.net/forum?id=g11CZSghXyY),<br> by *Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan and Dustin Tran*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html) [**Revisiting the Calibration of Modern Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html),<br> by *Matthias Minderer, Josip Djolonga, Rob Romijnders, Frances Hubis, Xiaohua Zhai, Neil Houlsby, Dustin Tran and Mario Lucic*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/f8905bd3df64ace64a68e154ba72f24c-Abstract.html) [**Soft Calibration Objectives for Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/f8905bd3df64ace64a68e154ba72f24c-Abstract.html),<br> by *Archit Karandikar, Nicholas Cain, Dustin Tran, Balaji Lakshminarayanan, Jonathon Shlens, Michael C. Mozer and Becca Roelofs*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2021-blue)](https://doi.org/10.18653/v1/2021.findings-emnlp.354) [**Want To Reduce Labeling Cost? GPT-3 Can Help**](https://doi.org/10.18653/v1/2021.findings-emnlp.354),<br> by *Shuohang Wang, Yang Liu, Yichong Xu, Chenguang Zhu and Michael Zeng*
 <br><br>
 ### 2020
 
