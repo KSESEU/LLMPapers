@@ -15,7 +15,7 @@ This page categorizes the literature by the **Last Post**
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#hyperlink)
 - [![](https://img.shields.io/badge/2023-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
-- [![](https://img.shields.io/badge/2022-142-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
+- [![](https://img.shields.io/badge/2022-143-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [![](https://img.shields.io/badge/2021-74-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [![](https://img.shields.io/badge/2020-48-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [![](https://img.shields.io/badge/2019-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
@@ -382,9 +382,7 @@ Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathan
 <br><br>
 - [![](https://img.shields.io/badge/COLING-2022-blue)](https://aclanthology.org/2022.coling-1.491) [**Are Visual-Linguistic Models Commonsense Knowledge Bases?**](https://aclanthology.org/2022.coling-1.491),<br> by *Hsiu-Yu Yang and Carina Silberer*
 <br><br>
-- [![](https://img.shields.io/badge/Deep_Learning_Inside_Out:_The_3rd_Workshop_on_Knowledge
-Extraction_and_Integration_for_Deep_Learning_Architectures,_DeeLIO@ACL
-2022,_Dublin,_Ireland_and_Online,_May_27,_2022-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
 <br><br>
 - [![](https://img.shields.io/badge/44th_{IEEE/ACM}_44th_International_Conference_on_Software_Engineering,
 {ICSE}_2022,_Pittsburgh,_PA,_USA,_May_25_27,_2022-2022-blue)](https://doi.org/10.1145/3510003.3510042) [**Fast Changeset-based Bug Localization with BERT**](https://doi.org/10.1145/3510003.3510042),<br> by *Agnieszka Ciborowska and Kostadin Damevski*
@@ -427,6 +425,9 @@ Supervised Models**](https://doi.org/10.18653/v1/2022.bionlp-1.16),<br> by *Naok
 - [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.bionlp-1.37) [**Comparing Encoder-Only and Encoder-Decoder Transformers for Relation
 Extraction from Biomedical Texts: An Empirical Study on Ten Benchmark
 Datasets**](https://doi.org/10.18653/v1/2022.bionlp-1.37),<br> by *Mourad Sarrouti, Carson Tao and Yoann Mamy Randriamihaja*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
+Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
 <br><br>
 ### 2021
 

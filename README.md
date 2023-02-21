@@ -15,7 +15,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
 - [![](https://img.shields.io/badge/Evaluation-12-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
-- [![](https://img.shields.io/badge/In_Context_Learning-19-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
+- [![](https://img.shields.io/badge/In_Context_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [![](https://img.shields.io/badge/Instruction_Tuning-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [![](https://img.shields.io/badge/Knowledge_Distillation-19-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
@@ -127,12 +127,13 @@ Work?**](https://aclanthology.org/2022.emnlp-main.759),<br> by *Sewon Min, Xinxi
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08686) [**The Impact of Symbolic Representations on In-context Learning for
 Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686),<br> by *Hanlin Zhang, Yi-Fan Zhang, Li Erran Li and Eric P. Xing*
 <br><br>
-- [![](https://img.shields.io/badge/Deep_Learning_Inside_Out:_The_3rd_Workshop_on_Knowledge
-Extraction_and_Integration_for_Deep_Learning_Architectures,_DeeLIO@ACL
-2022,_Dublin,_Ireland_and_Online,_May_27,_2022-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.329) [**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think
 Again**](https://aclanthology.org/2022.findings-emnlp.329),<br> by *Bernal Jimenez Gutierrez, Nikolas McNeal, Clayton Washington, You Chen, Lang Li, Huan Sun and Yu Su*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
+Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2111.02643) [**Response Generation with Context-Aware Prompt Learning**](https://arxiv.org/abs/2111.02643),<br> by *Xiaodong Gu, Kang Min Yoo and Sang-Woo Lee*
 <br><br>
@@ -415,9 +416,7 @@ Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao M
 <br><br>
 - [![](https://img.shields.io/badge/VLDB-2022-blue)](https://www.vldb.org/pvldb/vol15/p1466-li.pdf) [**Selective Data Acquisition in the Wild for Model Charging**](https://www.vldb.org/pvldb/vol15/p1466-li.pdf),<br> by *Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li and Yuyu Luo*
 <br><br>
-- [![](https://img.shields.io/badge/Deep_Learning_Inside_Out:_The_3rd_Workshop_on_Knowledge
-Extraction_and_Integration_for_Deep_Learning_Architectures,_DeeLIO@ACL
-2022,_Dublin,_Ireland_and_Online,_May_27,_2022-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
 <br><br>
 ### Code Generation
 

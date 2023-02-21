@@ -55,7 +55,7 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/KIS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
 - [![](https://img.shields.io/badge/MM-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [![](https://img.shields.io/badge/MSR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
-- [![](https://img.shields.io/badge/NAACL-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
+- [![](https://img.shields.io/badge/NAACL-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
 - [![](https://img.shields.io/badge/NeurIPS-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [![](https://img.shields.io/badge/OSDI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [![](https://img.shields.io/badge/OpenAI-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
@@ -68,7 +68,7 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/VLDB-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [![](https://img.shields.io/badge/WASA-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [![](https://img.shields.io/badge/WWW-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [![](https://img.shields.io/badge/arXiv-84-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-85-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [![](https://img.shields.io/badge/openreview-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -640,6 +640,8 @@ with Contrastive Pre-Training**](https://doi.org/10.18653/v1/2022.findings-naacl
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.starsem-1.11) [**Word-Label Alignment for Event Detection: A New Perspective via
 Optimal Transport**](https://doi.org/10.18653/v1/2022.starsem-1.11),<br> by *Amir Pouran Ben Veyseh and Thien Huu Nguyen*
 <br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+<br><br>
 - [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.naacl-main.340) [**Ask what's missing and what's useful: Improving Clarification Question
 Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main.340),<br> by *Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley and Julian J. McAuley*
 <br><br>
@@ -903,6 +905,9 @@ of Chain-of-Thought**](https://doi.org/10.48550/arXiv.2210.01240),<br> by *Abulh
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10529) [**Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological
 Perspective**](https://doi.org/10.48550/arXiv.2212.10529),<br> by *Xingxuan Li, Yutong Li, Linlin Liu, Lidong Bing and Shafiq R. Joty*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
+Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
 <br><br>
