@@ -6,7 +6,7 @@ This repository is contributed by the following contributors.
 - **Paper Collectors**: Zafar Ali, [Sheng Bi (毕胜)](https://github.com/bisheng), [Yongrui Chen (陈永锐)](https://github.com/Bahuia), Zizhuo Chen (陈孜卓), [Xinbang Dai (戴鑫邦)](https://github.com/OBriennnnn), Huan Gao (高桓), Shilong Hu (胡世龙), [Jingqi Kang (康婧淇)](https://github.com/JingqiKang), [Jiaqi Li (李嘉琦)](https://github.com/aoluming), Dehai Min (闵德海), Yiming Tan (谭亦鸣), [Tongtong Wu (吴桐桐)](http://wutong8023.site/), [Songlin Zhai (翟松林)](https://github.com/SonglinZhai), [Yuxin Zhang (张裕欣)](https://github.com/Zzyx1996)
 - **Maintainers**: [Runzhe Wang (王润哲)](https://github.com/sid0527), [Shenyu Zhang (张沈昱)](https://github.com/ZSY-SZ) 
 
-The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git).
+The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git). If you'd like to commit to this repo, please modify [bibtex.bib](https://github.com/KSESEU/LLMPapers/blob/main/bibtex.bib) or [related_works.json](https://github.com/KSESEU/LLMPapers/blob/main/related_works.json) and re-generate [README.md](https://github.com/KSESEU/LLMPapers/blob/main/README.md) using `python scripts/run.py`.
 
 
 
@@ -14,7 +14,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
-- [![](https://img.shields.io/badge/Evaluation-12-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
+- [![](https://img.shields.io/badge/Evaluation-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
 - [![](https://img.shields.io/badge/Survey-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#survey)
 - [![](https://img.shields.io/badge/In_Context_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [![](https://img.shields.io/badge/Instruction_Tuning-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
@@ -50,7 +50,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Data_Annotation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-annotation)
 - [![](https://img.shields.io/badge/Information_Extraction-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [![](https://img.shields.io/badge/Domain_Adaptive-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
-- [![](https://img.shields.io/badge/Application-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
+- [![](https://img.shields.io/badge/Question_Answering-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
+- [![](https://img.shields.io/badge/Application-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
 - [![](https://img.shields.io/badge/Others-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -66,6 +67,9 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023),<br> by *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji et al.*
 <br>```本文提出了一个使用公开数据集定量评估交互式LLM（如ChatGPT）的框架。我们使用涵盖8个不同的常见NLP应用任务的21个数据集对ChatGPT进行了广泛的技术评估。我们基于这些数据集和一个新设计的多模态数据集评估了ChatGPT的多任务、多语言和多模态方面。```<br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://arxiv.org/abs/2302.06476) [**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**](https://arxiv.org/abs/2302.06476),<br> by *Qin, Chengwei, Zhang, Aston, Zhang, Zhuosheng, Chen, Jiaao, Yasunaga, Michihiro and Yang, Diyi*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.06466) [**ChatGPT versus Traditional Question Answering for Knowledge Graphs:
+Current Status and Future Directions Towards Knowledge Graph Chatbots**](https://doi.org/10.48550/arXiv.2302.06466),<br> by *Reham Omar, Omij Mangukiya, Panos Kalnis and Essam Mansour*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2211.09110) [**Holistic Evaluation of Language Models**](https://doi.org/10.48550/arXiv.2211.09110),<br> by *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan et al.*
 <br><br>
@@ -401,7 +405,7 @@ Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen,
 
 - [![](https://img.shields.io/badge/JIS-2022-blue)](https://doi.org/10.1016/j.ins.2021.12.102) [**Fairness and accuracy in horizontal federated learning**](https://doi.org/10.1016/j.ins.2021.12.102),<br> by *Wei Huang, Tianrui Li, Dexian Wang, Shengdong Du, Junbo Zhang and Tianqiang Huang*
 <br><br>
-- [![](https://img.shields.io/badge/IEEE_Trans._Netw._Sci._Eng.-2022-blue)](https://doi.org/10.1109/TNSE.2022.3169117) [**Federated Learning Meets Multi-Objective Optimization**](https://doi.org/10.1109/TNSE.2022.3169117),<br> by *Zeou Hu, Kiarash Shaloudegi, Guojun Zhang and Yaoliang Yu*
+- [![](https://img.shields.io/badge/TNSE-2022-blue)](https://doi.org/10.1109/TNSE.2022.3169117) [**Federated Learning Meets Multi-Objective Optimization**](https://doi.org/10.1109/TNSE.2022.3169117),<br> by *Zeou Hu, Kiarash Shaloudegi, Guojun Zhang and Yaoliang Yu*
 <br><br>
 - [![](https://img.shields.io/badge/KIS-2022-blue)](https://doi.org/10.1007/s10115-022-01664-x) [**From distributed machine learning to federated learning: a survey**](https://doi.org/10.1007/s10115-022-01664-x),<br> by *Ji Liu, Jizhou Huang, Yang Zhou, Xuhong Li, Shilei Ji, Haoyi Xiong and Dejing Dou*
 <br><br>
@@ -1041,8 +1045,17 @@ Search: Case Study on Medicinal Products**](https://aclanthology.org/2022.coling
 - [![](https://img.shields.io/badge/EMNLP_Findings-2022-blue)](https://aclanthology.org/2022.findings-emnlp.468) [**VarMAE: Pre-training of Variational Masked Autoencoder for Domain-adaptive
 Language Understanding**](https://aclanthology.org/2022.findings-emnlp.468),<br> by *Dou Hu, Xiaolong Hou, Xiyang Du, Mengyuan Zhou, Lianxin Jiang, Yang Mo and Xiaofeng Shi*
 <br><br>
+### Question Answering
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.06466) [**ChatGPT versus Traditional Question Answering for Knowledge Graphs:
+Current Status and Future Directions Towards Knowledge Graph Chatbots**](https://doi.org/10.48550/arXiv.2302.06466),<br> by *Reham Omar, Omij Mangukiya, Panos Kalnis and Essam Mansour*
+<br><br>
 ### Application
 
+- [![](https://img.shields.io/badge/PLOS_Digital_Health-2023-blue)](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text) [**Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text),<br> by *Kung, Tiffany H, Cheatham, Morgan, Medenilla, Arielle, Sillos, Czarina, De Leon, Lorie, Elepa\~no, Camille, Madriaga, Maria, Aggabao, Rimel et al.*
+<br><br>
+- [![](https://img.shields.io/badge/PLOS_Digital_Health-2023-blue)](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205) [**ChatGPT passing USMLE shines a spotlight on the flaws of medical education**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205),<br> by *Mbakwe, Amarachi B, Lourentzou, Ismini, Celi, Leo Anthony, Mechanic, Oren J and Dagan, Alon*
+<br><br>
 - [![](https://img.shields.io/badge/EvoMUSART-2022-blue)](https://doi.org/10.1007/978-3-031-03789-4\_9) [**Towards the Generation of Musical Explanations with GPT-3**](https://doi.org/10.1007/978-3-031-03789-4\_9),<br> by *Stephen James Krol, Maria Teresa Llano and Jon McCormack*
 <br><br>
 ### Others
