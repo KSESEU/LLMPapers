@@ -1,0 +1,107 @@
+[
+  {
+    "guid": 0,
+    "title": "Awesome-ChatGPT",
+    "url": "https://github.com/dalinvip/Awesome-ChatGPT",
+    "desc": "ChatGPT资料汇总学习，持续更新......",
+    "class": "git"
+  },
+  {
+    "guid": 1,
+    "title": "Awesome ChatGPT Prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "desc": "In this repository, you will find a variety of prompts that can be used with ChatGPT.",
+    "class": "git"
+  },
+  {
+    "guid": 2,
+    "title": "Exploring Prompt Injection Attacks",
+    "author": "Jose Selvi",
+    "url": "https://research.nccgroup.com/2022/12/05/exploring-prompt-injection-attacks/",
+    "desc": "Prompt Injection is a new vulnerability that is affecting some AI/ML models and, in particular, certain types of language models using prompt-based learning.",
+    "class": "article"
+  },
+  {
+    "guid": 3,
+    "title": "ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "desc": "ChatRWKV is like ChatGPT but powered by my RWKV (100% RNN) language model, which is the only RNN (as of now) that can match transformers in quality and scaling, while being faster and saves VRAM. Training sponsored by Stability EleutherAI.",
+    "class": "git"
+  },
+  {
+    "guid": 4,
+    "title": "ChatGPT-Hub",
+    "url": "https://github.com/chenweiphd/ChatGPT-Hub",
+    "desc": "ChatGPT资源汇总",
+    "class": "git"
+  },
+  {
+    "guid": 5,
+    "title": "ChatGPT发展历程、原理、技术架构详解和产业未来",
+    "author": "陈巍",
+    "url": "https://zhuanlan.zhihu.com/p/590655677?utm_source=wechat_session&utm_medium=social&utm_oi=714896487502315520&s_r=0",
+    "desc": "本文将介绍ChatGPT的特点、功能、技术架构、局限、产业应用、投资机会和未来。作者本人曾担任华为系自然语言处理（ NLP ）企业的首席科学家。",
+    "class": "article"
+  },
+  {
+    "guid": 6,
+    "title":"How does GPT Obtain its Ability? ",
+    "author": "Yao Fu",
+    "url": "https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1",
+    "desc":"Tracing emergent abilities of language models to their sources.",
+    "class": "blog"
+  },
+  {
+    "guid": 7,
+    "title": "PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "desc": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture.",
+    "class": "git"
+  },
+  {
+    "guid": 8,
+    "title": "CPM-Bee",
+    "url": "https://live.openbmb.org/models/bee",
+    "desc": "CPM-Bee是一个开源的双语预训练语言模型，参数量为10B，拥有十余种原生能力和强大的通用语言能力，并支持结构化输入和输出。",
+    "class": "demo"
+  },
+  {
+    "guid": 9,
+    "title": "BAAI-WuDao/Data",
+    "url": "https://github.com/BAAI-WuDao/Data",
+    "desc": "“悟道”项目构建了高质量的数据集，用于支撑大模型的训练和测评工作，本仓库提供所有开源数据集的链接。",
+    "class": "git"
+  },
+  {
+    "guid": 10,
+    "title": "Open source solution replicates ChatGPT training process",
+    "url": "https://www.hpc-ai.tech/blog/colossal-ai-chatgpt",
+    "desc": "Colossal-AI, as one of the hottest open-source solutions for large AI models, presents an open-source low-cost ChatGPT equivalent implementation process.",
+    "class": "blog"
+  },
+  {
+    "guid": 11,
+    "title": "Colossal-AI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "desc": "Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines.",
+    "class": "git"
+  },
+  {
+    "guid": 12,
+    "title": "久谦：ChatGPT纪要分享",
+    "url": "https://github.com/KSESEU/LLMPapers/blob/main/res/%E4%B9%85%E8%B0%A6%EF%BC%9AChatGPT%E7%BA%AA%E8%A6%81%E5%88%86%E4%BA%AB.pdf",
+    "class": "report"
+  },
+  {
+    "guid": 13,
+    "title": "国泰君安ChatGPT研究框架",
+    "url": "https://github.com/KSESEU/LLMPapers/blob/main/res/%E5%9B%BD%E6%B3%B0%E5%90%9B%E5%AE%89ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.pdf",
+    "class": "report"
+  },
+  {
+    "guid": 14,
+    "title": "Chain of Thought Prompting for Large Language Model Reasoning",
+    "url": "https://github.com/KSESEU/LLMPapers/blob/main/res/Chain%20of%20Thought%20Prompting%20for%20Large%20Language%20Model%20Reasoning.pdf",
+    "class": "lecture"
+  }
+]
