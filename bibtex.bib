@@ -7649,3 +7649,519 @@ code = {https://github.com/SforAiDl/KD_Lib}
   bibsource = {dblp computer science bibliography, https://dblp.org},
   keywords={Theory}
 }
+
+
+
+// from Wu Tongtong
+
+@inproceedings{KeLMXS21,
+  author    = {Zixuan Ke and
+               Bing Liu and
+               Nianzu Ma and
+               Hu Xu and
+               Lei Shu},
+  title     = {Achieving Forgetting Prevention and Knowledge Transfer in Continual
+               Learning},
+  booktitle = {Proceedings of NeurIPS},
+  pages     = {22443--22456},
+  year      = {2021},
+  url       = {https://proceedings.neurips.cc/paper/2021/hash/bcd0049c35799cdf57d06eaf2eb3cff6-Abstract.html},
+  keywords={Continual Learning}
+}
+@String(KeLMXS21="NeurIPS 2021, The key component of CTR is the CL-plugin inserted in BERT. A CL-plugin is a capsule network with a new transfer routing mechanism to encourage knowledge transfer among tasks and also to isolate task-specific knowledge to avoid forgetting.")
+
+@inproceedings{jin-etal-2021-learn-continually,
+    title = "Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning",
+    author = "Jin, Xisen  and
+      Lin, Bill Yuchen  and
+      Rostami, Mohammad  and
+      Ren, Xiang",
+    booktitle = "EMNLP Findings",
+    year = "2021",
+    url = "https://aclanthology.org/2021.findings-emnlp.62",
+    pages = "714--729",
+    keywords={Continual Learning}
+}
+@String(jin-etal-2021-learn-continually="We present a new learning setup, Continual Learning of Few-Shot Learners, to address challenges of both learning settings in a unified setup, with a hyper-network for task-specific adapter generation.")
+
+@inproceedings{HeLCOLGP21,
+  author    = {Tianxing He and
+               Jun Liu and
+               Kyunghyun Cho and
+               Myle Ott and
+               Bing Liu and
+               James R. Glass and
+               Fuchun Peng},
+  title     = {Analyzing the Forgetting Problem in Pretrain-Finetuning of Open-domain
+               Dialogue Response Models},
+  booktitle = {Proceedings of EACL},
+  pages     = {1121--1133},
+  year      = {2021},
+  url       = {https://doi.org/10.18653/v1/2021.eacl-main.95},
+  keywords={Continual Learning}
+}
+@String(HeLCOLGP21="Our major finding is that after standard finetuning, the model forgets some of the important language generation skills acquired during large-scale pretraining. We propose an intuitive finetuning strategy named “mix-review”: : For each finetuning epoch, we mix the target dialogue data with a random subset of the pretraining data, mix_ratio is 4, decay is 0.9.")
+
+@inproceedings{WangTDWHJCJZ21,
+  author    = {Ruize Wang and
+               Duyu Tang and
+               Nan Duan and
+               Zhongyu Wei and
+               Xuanjing Huang and
+               Jianshu Ji and
+               Guihong Cao and
+               Daxin Jiang and
+               Ming Zhou},
+  title     = {K-Adapter: Infusing Knowledge into Pre-Trained Models with Adapters},
+  booktitle = {ACL Findings},
+  pages     = {1405--1418},
+  year      = {2021},
+  url       = {https://doi.org/10.18653/v1/2021.findings-acl.121},
+  keywords={Continual Learning}
+}
+@String(WangTDWHJCJZ21="We propose KADAPTER, a framework that retains the original parameters of the pre-trained model fixed
+and supports the development of versatile
+knowledge-infused model.")
+
+@inproceedings{ChenHCCLY20,
+  author    = {Sanyuan Chen and
+               Yutai Hou and
+               Yiming Cui and
+               Wanxiang Che and
+               Ting Liu and
+               Xiangzhan Yu},
+  title     = {Recall and Learn: Fine-tuning Deep Pretrained Language Models with
+               Less Forgetting},
+  booktitle = {Proceedings of EMNLP},
+  pages     = {7870--7881},
+  year      = {2020},
+  url       = {https://doi.org/10.18653/v1/2020.emnlp-main.634},
+  keywords={Continual Learning}
+}
+@String(ChenHCCLY20="We propose a recall and learn mechanism, which adopts the idea of multi-task learning and jointly learns pretraining tasks and downstream tasks. Specifically, we introduce a Pretraining Simulation mechanism to recall the knowledge from pretraining tasks without data, and an Objective Shifting mechanism to focus the learning on downstream tasks gradually.")
+
+@inproceedings{
+qin2022lfpt,
+title={{LFPT}5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5},
+author={Chengwei Qin and Shafiq Joty},
+booktitle={Proceedings of ICLR},
+year={2022},
+url={https://openreview.net/forum?id=HCRVf71PMF},
+keywords={Continual Learning}
+}
+@String(qin2022lfpt="We define a challenging yet practical problem as Lifelong Few-shot Language Learning and propose a unified framework for it based on prompt tuning of T5.")
+
+@inproceedings{jang2022towards,
+title={Towards Continual Knowledge Learning of Language Models},
+author={Joel Jang and Seonghyeon Ye and Sohee Yang and Joongbo Shin and Janghoon Han and Gyeonghun KIM and Stanley Jungkyu Choi and Minjoon Seo},
+booktitle={Proceedings of ICLR},
+year={2022},
+url={https://openreview.net/forum?id=vfsRB5MImo9},
+keywords={Continual Learning}
+}
+@String(jang2022towards="We propose a novel continual learning formulation named Continual Knowledge Learning which allows large language models to constantly obtain new and updated knowledge while mitigating forgetting of previous learned time-invariant knowledge.")
+
+@inproceedings{
+wu2022pretrained,
+title={Pretrained Language Model in Continual Learning: A Comparative Study},
+author={Tongtong Wu and Massimo Caccia and Zhuang Li and Yuan-Fang Li and Guilin Qi and Gholamreza Haffari},
+booktitle={Proceedings of ICLR},
+year={2022},
+url={https://openreview.net/forum?id=figzpGMrdD},
+keywords={Continual Learning}
+}
+@String(wu2022pretrained="To explore the layer-wise property of pretrained languge models in continual learning, we thoroughly compare the continual learning performance over the combination of 5 PLMs and 4 veins of CL methods on 3 benchmarks in 2 typical incremental settings.")
+
+@inproceedings{liu-etal-2021-domain,
+    title = "Domain-Lifelong Learning for Dialogue State Tracking via Knowledge Preservation Networks",
+    author = "Liu, Qingbin  and
+      Cao, Pengfei  and
+      Liu, Cao  and
+      Chen, Jiansong  and
+      Cai, Xunliang  and
+      Yang, Fan  and
+      He, Shizhu  and
+      Liu, Kang  and
+      Zhao, Jun",
+    booktitle = "Proceedings of EMNLP",
+    year = "2021",
+    url = "https://aclanthology.org/2021.emnlp-main.176",
+    pages = "2301--2311",
+    keywords={Continual Learning}
+}
+@String(liu-etal-2021-domain="This paper explores Domain-Lifelong Learning for Dialogue State Tracking, we propose Knowledge Preservation Network, which consists of multi-prototype enhanced retrospection and multi-strategy knowledge distillation, to solve the problems of expression diversity and combinatorial explosion in the DLL-DST task")
+
+@inproceedings{ke-etal-2021-classic,
+    title = "{CLASSIC}: Continual and Contrastive Learning of Aspect Sentiment Classification Tasks",
+    author = "Ke, Zixuan  and
+      Liu, Bing  and
+      Xu, Hu  and
+      Shu, Lei",
+    booktitle = "Proceedings of EMNLP",
+    year = "2021",
+    url = "https://aclanthology.org/2021.emnlp-main.550",
+    pages = "6871--6883",
+    keywords={Continual Learning}
+}
+@String(ke-etal-2021-classic="The key novelty is a contrastive continual learning method that enables both knowledge transfer across tasks and knowledge distillation from old tasks to the new task, which eliminates the need for task ids in testing.")
+
+@inproceedings{situ-etal-2021-lifelong,
+    title = "Lifelong Explainer for Lifelong Learners",
+    author = "Situ, Xuelin  and
+      Maruf, Sameen  and
+      Zukerman, Ingrid  and
+      Paris, Cecile  and
+      Haffari, Gholamreza",
+    booktitle = "Proceedings of EMNLP",
+    year = "2021",
+    url = "https://aclanthology.org/2021.emnlp-main.233",
+    pages = "2933--2940",
+    keywords={Continual Learning}
+}
+@String(situ-etal-2021-lifelong="We propose a novel Lifelong Explanation approach that continuously trains a student explainer under the supervision of a teacher – an arbitrary explanation algorithm – on different tasks undertaken in LL. We also leverage the Experience Replay mechanism to prevent catastrophic forgetting in the student explainer.")
+
+@inproceedings{ZhaoNLJCM21,
+  author    = {Yingzhu Zhao and
+               Chongjia Ni and
+               Cheung{-}Chi Leung and
+               Shafiq R. Joty and
+               Eng Siong Chng and
+               Bin Ma},
+  title     = {A Unified Speaker Adaptation Approach for {ASR}},
+  booktitle = {Proceedings of EMNLP},
+  pages     = {9339--9349},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.emnlp-main.737},
+  keywords={Continual Learning}
+}
+@String(ZhaoNLJCM21="Prefix-based user identifier, Continual ASR / Architecture Search / Network Pruning.")
+
+@inproceedings{3447548.3467162,
+  author    = {Amba Hombaiah, Spurthi and Chen, Tao and Zhang, Mingyang and Bendersky, Michael and Najork, Marc},
+  title     = {Dynamic Language Models for Continuously Evolving Content},
+  year      = {2021},
+  url       = {https://doi.org/10.1145/3447548.3467162},
+  booktitle = {Proceedings of SIGKDD},
+  pages     = {2514–2524},
+  keywords={Continual Learning}
+}
+@String(3447548.3467162="We propose a simple
+yet effective algorithm to tackle the problem of OOV new tokens
+and sub-optimal tokenization. Finally, we propose three effective
+sampling methods to detect the training examples which contain
+updated knowledge and use these examples to enable efficient incremental training.")
+
+@inproceedings{guo-etal-2021-parameter,
+  title     = {Parameter-Efficient Transfer Learning with Diff Pruning},
+  author    = {Guo, Demi  and
+      Rush, Alexander  and
+      Kim, Yoon},
+  booktitle = {Proceedings of ACL},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.acl-long.378},
+  pages     = {4884--4896},
+  keywords={Continual Learning}
+}
+@String(guo-etal-2021-parameter="The approach learns a task-specific “diff” vector that extends the original pretrained parameters. As the number of tasks increases, diff pruning remains parameter-efficient, as it requires storing only a small diff vector for each task.")
+
+@inproceedings{cui-etal-2021-refining,
+  title     = {Refining Sample Embeddings with Relation Prototypes to Enhance Continual Relation Extraction},
+  author    = {Cui, Li  and
+      Yang, Deqing  and
+      Yu, Jiaxin  and
+      Hu, Chengwei  and
+      Cheng, Jiayang  and
+      Yi, Jingjie  and
+      Xiao, Yanghua},
+  booktitle = {Proceedings of ACL},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.acl-long.20},
+  pages     = {232--243},
+  keywords={Continual Learning}
+}
+@String(cui-etal-2021-refining="To fully utilize memorized samples, in this paper, we employ relation prototype to extract useful information of each relation. ")
+
+
+@inproceedings{he-etal-2021-effectiveness,
+  title     = {On the Effectiveness of Adapter-based Tuning for Pretrained Language Model Adaptation},
+  author    = {He, Ruidan  and
+      Liu, Linlin  and
+      Ye, Hai  and
+      Tan, Qingyu  and
+      Ding, Bosheng  and
+      Cheng, Liying  and
+      Low, Jiawei  and
+      Bing, Lidong  and
+      Si, Luo},
+  booktitle = {Proceedings of ACL},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.acl-long.172},
+  pages     = {2208--2222},
+  keywords={Continual Learning}
+}
+@String(he-etal-2021-effectiveness="we first show that adapter-based tuning better mitigates forgetting issues than fine-tuning since it yields representations with less deviation from those generated by the initial PrLM. Effectiveness:  it tends
+to outperform fine-tuning on both low-resource and
+cross-lingual tasks; 2 it demonstrates higher stability under different learning rates compared to
+fine-tuning.")
+
+@inproceedings{kanwatchara-etal-2021-rational,
+  title     = {Rational {LAMOL}: A Rationale-based Lifelong Learning Framework},
+  author    = {Kanwatchara, Kasidis  and
+      Horsuwan, Thanapapas  and
+      Lertvittayakumjorn, Piyawat  and
+      Kijsirikul, Boonserm  and
+      Vateekul, Peerapon},
+  booktitle = {Proceedings of ACL},
+  year      = {2021},
+  url       = {https://aclanthology.org/2021.acl-long.229},
+  pages     = {2942--2953},
+  keywords={Continual Learning}
+}
+@String(kanwatchara-etal-2021-rational="Rational LAMOL enhances LAMOL, a recent LL model, by applying critical freezing guided by human rationales. When the human rationales are not available, we propose exploiting unsupervised generated rationales as substitutions.")
+
+@inproceedings{LinMF20,
+  author    = {Zhaojiang Lin and
+               Andrea Madotto and
+               Pascale Fung},
+  title     = {Exploring Versatile Generative Language Model Via Parameter-Efficient
+               Transfer Learning},
+  booktitle = {EMNLP Findings},
+  pages     = {441--459},
+  year      = {2020},
+  url       = {https://doi.org/10.18653/v1/2020.findings-emnlp.41},
+  keywords={Continual Learning}
+}
+@String(LinMF20="Proposing an adapter-based method for continual learning in text generation. One of the insights is a frozen PLM can be well-applied in continual learning.")
+
+@inproceedings{arumae-etal-2020-empirical,
+  title     = {An Empirical Investigation Towards Efficient Multi-Domain Language Model Pre-training},
+  author    = {Arumae, Kristjan  and
+      Sun, Qing  and
+      Bhatia, Parminder},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.394},
+  pages     = {4854--4864},
+  keywords={Continual Learning}
+}
+@String(arumae-etal-2020-empirical="We find that elastic weight consolidation provides best overall scores yielding only a 0.33% drop in performance across seven generic tasks while remaining competitive in bio-medical tasks.")
+
+@inproceedings{garcia-etal-2021-towards,
+  title     = {Towards Continual Learning for Multilingual Machine Translation via Vocabulary Substitution},
+  author    = {Garcia, Xavier  and
+      Constant, Noah  and
+      Parikh, Ankur  and
+      Firat, Orhan},
+  booktitle = {Proceedings of NAACL-HLT},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.93},
+  pages     = {1184--1192},
+  keywords={Continual Learning}
+}
+@String( garcia-etal-2021-towards = "Introducing the catastrophic forgetting problem in incremental multi-language translation, and utilizing a vocabulary substitution manner to alleviate the above problem." )
+
+@inproceedings{huang-etal-2021-continual,
+  title     = {Continual Learning for Text Classification with Information Disentanglement Based Regularization},
+  author    = {Huang, Yufan  and
+      Zhang, Yanzhe  and
+      Chen, Jiaao  and
+      Wang, Xuezhi  and
+      Yang, Diyi},
+  booktitle = {Proceedings of NAACL-HLT},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.218},
+  pages     = {2736--2746},
+  keywords={Continual Learning}
+}
+@String( huang-etal-2021-continual = "Proposing a regularization-based method for continual text classification, introducing the next sentence prediction and task id prediction as auxiliary tasks." )
+
+@inproceedings{xia-etal-2021-incremental,
+  title     = {Incremental Few-shot Text Classification with Multi-round New Classes: Formulation, Dataset and System},
+  author    = {Xia, Congying  and
+      Yin, Wenpeng  and
+      Feng, Yihao  and
+      Yu, Philip},
+  booktitle = {Proceedings of NAACL-HLT},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.106},
+  pages     = {1351--1360},
+  keywords={Continual Learning}
+}
+@String( xia-etal-2021-incremental = "Proposing a new setting and respective benchmark for few-shot incremental text classification, modeling continual text classification with text entailment." )
+
+@inproceedings{hua-etal-2021-hyperparameter,
+  title     = {Hyperparameter-free Continuous Learning for Domain Classification in Natural Language Understanding},
+  author    = {Hua, Ting  and
+      Shen, Yilin  and
+      Zhao, Changsheng  and
+      Hsu, Yen-Chang  and
+      Jin, Hongxia},
+  booktitle = {Proceedings of NAACL-HLT},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.212},
+  pages     = {2669--2678},
+  keywords={Continual Learning}
+}
+@String( hua-etal-2021-hyperparameter = "Inspired by EWC and proposing a hyperparameter-free (Fisher information-based) sampling method for memory replay." )
+
+@inproceedings{vijayaraghavan-roy-2021-lifelong,
+  title     = {Lifelong Knowledge-Enriched Social Event Representation Learning},
+  author    = {Vijayaraghavan, Prashanth  and
+      Roy, Deb},
+  booktitle = {Proceedings of EACL},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.eacl-main.317},
+  pages     = {3624--3635},
+  keywords={Continual Learning}
+}
+@String(vijayaraghavan-roy-2021-lifelong="Proposing a rehearsal-based method, i.e.,Domain-Representative Episodic Memory Replay (DR-EMR), for lifelong event representation with embedding alignment and external social commonsense knowledge.")
+
+@inproceedings{jin-etal-2020-visually,
+  title     = {Visually Grounded Continual Learning of Compositional Phrases},
+  author    = {Jin, Xisen  and
+      Du, Junyi  and
+      Sadhu, Arka  and
+      Nevatia, Ram  and
+      Ren, Xiang},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.158},
+  doi       = {10.18653/v1/2020.emnlp-main.158},
+  pages     = {2018--2029},
+  keywords={Continual Learning}
+}
+@String( jin-etal-2020-visually = "A novel continual learning setting and a new benchmark for continual caption generation, evaluated with exiting rehearsal-based methods" )
+
+@inproceedings{cao-etal-2020-incremental,
+  title     = {Incremental Event Detection via Knowledge Consolidation Networks},
+  author    = {Cao, Pengfei  and
+      Chen, Yubo  and
+      Zhao, Jun  and
+      Wang, Taifeng},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.52},
+  doi       = {10.18653/v1/2020.emnlp-main.52},
+  pages     = {707--717},
+  keywords={Continual Learning}
+}
+@String( cao-etal-2020-incremental = "Proposing a hybrid continual learning method for event detection, combining experience replay and Knowledge Distillation, focusing on (1) semantic ambiguity in NLP and (2) data imbalance between memory and current task." )
+
+@inproceedings{dai-etal-2020-multi,
+  title     = {A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis},
+  author    = {Dai, Zehui  and
+      Peng, Cheng  and
+      Chen, Huajie  and
+      Ding, Yadong},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.565},
+  doi       = {10.18653/v1/2020.emnlp-main.565},
+  pages     = {6955--6965},
+  keywords={Continual Learning}
+}
+@String( dai-etal-2020-multi = "Utilizing BERT for sentence and category encoding, preserving category encoding to prevent catastrophic forgetting." )
+
+@inproceedings{wang-etal-2020-efficient,
+  title     = {Efficient Meta Lifelong-Learning with Limited Memory},
+  author    = {Wang, Zirui  and
+      Mehta, Sanket Vaibhav  and
+      Poczos, Barnabas  and
+      Carbonell, Jaime},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.39},
+  doi       = {10.18653/v1/2020.emnlp-main.39},
+  pages     = {535--548},
+  keywords={Continual Learning}
+}
+@String( wang-etal-2020-efficient = "A meta learning-enhanced version of MbPA (NeurIPS19), sharing the continual setting as well. Figure 1 is interesting." )
+
+@inproceedings{chuang-etal-2020-lifelong,
+  title     = {Lifelong Language Knowledge Distillation},
+  author    = {Chuang, Yung-Sung  and
+      Su, Shang-Yu  and
+      Chen, Yun-Nung},
+  booktitle = {Proceedings of EMNLP},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.emnlp-main.233},
+  doi       = {10.18653/v1/2020.emnlp-main.233},
+  pages     = {2914--2924},
+  keywords={Continual Learning}
+}
+@String( chuang-etal-2020-lifelong = "Proposing a Knowledge Distillation-enhanced Method LLL based on LAMOL (ICLR 2020) model for continual learning, evaluated on text generation and text classification." )
+
+@inproceedings{sun-etal-2020-distill,
+  title     = {Distill and Replay for Continual Language Learning},
+  author    = {Sun, Jingyuan  and
+      Wang, Shaonan  and
+      Zhang, Jiajun  and
+      Zong, Chengqing},
+  booktitle = {Proceedings of COLING},
+  year      = {2020},
+  url       = {https://www.aclweb.org/anthology/2020.coling-main.318},
+  doi       = {10.18653/v1/2020.coling-main.318},
+  pages     = {3569--3579},
+  keywords={Continual Learning}
+}
+@String(sun-etal-2020-distill="Proposing a distill and replay method (DnR) which follows the setting of LAMOL. As a distillation-based method, DnR also shows the ability in incrementally compressing the model size while still outperforming most of the baselines.")
+
+@inproceedings{dAutumeRKY19,
+  author    = {Cyprien de Masson d'Autume and
+ Sebastian Ruder and
+ Lingpeng Kong and
+ Dani Yogatama},
+  title     = {Episodic Memory in Lifelong Language Learning},
+  booktitle = {Proceedings of NeurIPS},
+  pages     = {13122--13131},
+  year      = {2019},
+  url       = {https://proceedings.neurips.cc/paper/2019/hash/f8d2e80c1458ea2501f98a2cafadb397-Abstract.html},
+  keywords={Continual Learning}
+}
+@String(dAutumeRKY19="MbPA++. This paper proposes the use of memory (a fixed memory network) in life-long learning to prevent catastrophic forgetting by means of  experience replay and local adaptation. ")
+
+@inproceedings{Sun_Wang_Li_Feng_Tian_Wu_Wang_2020,
+  title     = {ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/6428},
+  doi       = {10.1609/aaai.v34i05.6428},
+  booktitle = {Proceedings of AAAI},
+  author    = {Sun, Yu and Wang, Shuohuan and Li, Yukun and Feng, Shikun and Tian, Hao and Wu, Hua and Wang, Haifeng},
+  year      = {2020},
+  pages     = {8968-8975},
+  keywords={Continual Learning}
+}
+@String(Sun_Wang_Li_Feng_Tian_Wu_Wang_2020="In order to extract the lexical, syntactic and semantic information from training corpora,
+we propose a continual pre-training framework named ERNIE
+2.0 which incrementally builds pre-training tasks and then
+learn pre-trained models on these constructed tasks via continual multi-task learning.")
+
+@article{abs-2105-13880,
+  author   = {Yujia Qin and
+ Yankai Lin and
+ Jing Yi and
+ Jiajie Zhang and
+ Xu Han and
+ Zhengyan Zhang and
+ YuSheng Su and
+ Zhiyuan Liu and
+ Peng Li and
+ Maosong Sun and
+ Jie Zhou},
+  title    = {Knowledge Inheritance for Pre-trained Language Models},
+  journal  = {CoRR},
+  volume   = {abs/2105.13880},
+  year     = {2021},
+  url      = {https://arxiv.org/abs/2105.13880},
+ keywords={Continual Learning}
+@String(abs-2105-13880=", we explore the question that how can previously trained PLMs benefit training larger PLMs in future. Specifically, we introduce a novel pre-training framework named “knowledge inheritance” (KI), which combines both self-learning and teacher-guided learning to efficiently train larger PLMs.")
+
+@article{liu2021lifelong,
+  title   = {Lifelong Intent Detection via Multi-Strategy Rebalancing},
+  author  = {Qingbin Liu and Xiaoyan Yu and Shizhu He and Kang Liu and Jun Zhao},
+  journal = {CoRR},
+  volume  = {abs/2108.04445},
+  year    = {2021},
+  url     = {https://arxiv.org/abs/2108.04445},
+  keywords={Continual Learning}
+}
+@String(liu2021lifelong="We propose the lifelong intent detection task to handle continually emerging user intents. And, we propose multistrategy rebalancing to address multiple adverse effects caused by the data imbalance problem.")
