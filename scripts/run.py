@@ -65,7 +65,9 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     str_outline += '- **Maintainers**: [Runzhe Wang (王润哲)](https://github.com/sid0527), ' \
                    '[Shenyu Zhang (张沈昱)](https://github.com/ZSY-SZ) \n\n'
     str_outline += 'The automation script of this repo is powered by [Auto-Bibfile](https://github.com/wutong8023/Auto-Bibfile.git). ' \
-                   'If you\'d like to commit to this repo, please modify the bibtex.bib file in \n\n'
+                   'If you\'d like to commit to this repo, please modify [bibtex.bib](https://github.com/KSESEU/LLMPapers/blob/main/bibtex.bib) ' \
+                   'or [related_works.json](https://github.com/KSESEU/LLMPapers/blob/main/related_works.json) and re-generate ' \
+                   '[README.md](https://github.com/KSESEU/LLMPapers/blob/main/README.md) using `python scripts/run.py`.\n\n'
 
     str_outline += dicrib + "\n\n"
 

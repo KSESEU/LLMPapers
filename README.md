@@ -52,6 +52,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Domain_Adaptive-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [![](https://img.shields.io/badge/Question_Answering-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [![](https://img.shields.io/badge/Application-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
+- [![](https://img.shields.io/badge/Theory-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#theory)
 - [![](https://img.shields.io/badge/Others-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1057,6 +1058,22 @@ Current Status and Future Directions Towards Knowledge Graph Chatbots**](https:/
 - [![](https://img.shields.io/badge/PLOS_Digital_Health-2023-blue)](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205) [**ChatGPT passing USMLE shines a spotlight on the flaws of medical education**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205),<br> by *Mbakwe, Amarachi B, Lourentzou, Ismini, Celi, Leo Anthony, Mechanic, Oren J and Dagan, Alon*
 <br><br>
 - [![](https://img.shields.io/badge/EvoMUSART-2022-blue)](https://doi.org/10.1007/978-3-031-03789-4\_9) [**Towards the Generation of Musical Explanations with GPT-3**](https://doi.org/10.1007/978-3-031-03789-4\_9),<br> by *Stephen James Krol, Maria Teresa Llano and Jon McCormack*
+<br><br>
+### Theory
+
+- [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=r1xMH1BtvB) [**ELECTRA: Pre-training Text Encoders as Discriminators Rather Than
+Generators**](https://openreview.net/forum?id=r1xMH1BtvB),<br> by *Kevin Clark, Minh-Thang Luong, Quoc V. Le and Christopher D. Manning*
+<br><br>
+- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
+2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+<br><br>
+- [![](https://img.shields.io/badge/the_2019_Conference_of_the_North_American_Chapter_of
+the_Association_for_Computational_Linguistics:_Human_Language_Technologies,
+{NAACL_HLT}_2019,_Minneapolis,_MN,_USA,_June_2_7,_2019,_Volume_1_(Long
+and_Short_Papers)-2019-blue)](https://doi.org/10.18653/v1/n19-1423) [**BERT: Pre-training of Deep Bidirectional Transformers for Language
+Understanding**](https://doi.org/10.18653/v1/n19-1423),<br> by *Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692),<br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
 <br><br>
 ### Others
 

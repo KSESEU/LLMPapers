@@ -108,6 +108,7 @@ fined_taxonomy = {
                    'Domain Adaptive',
                    'Question Answering',
                    'Application',
+                   'Theory',
                    'Others']
 }
 
