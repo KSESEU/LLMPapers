@@ -1,7 +1,3 @@
-% Example: modify keywords by the way you like.
-% Note: the keywords should be predefined in scripts/bibtext_to_md.py # fined_taxonomy
-% How to build README.md: run python scripts/bibtext_to_md.py
-
 @inproceedings{DBLP:conf/acl/ChenZZK022,
   author    = {Yanda Chen and
                Ruiqi Zhong and
@@ -152,7 +148,7 @@
     keywords= {Prompt Learning}
 }
 
-@inproceedings{DBLP:conf/naacl/MinLZH22,
+@inproceedings{DBLP:conf:naacl:MinLZH22,
   author    = {Sewon Min and
                Mike Lewis and
                Luke Zettlemoyer and
@@ -170,8 +166,11 @@
   timestamp = {Mon, 01 Aug 2022 16:28:01 +0200},
   biburl    = {https://dblp.org/rec/conf/naacl/MinLZH22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-    keywords= {In-Context Learning}
+    keywords= {In-Context Learning, Meta-Learning},
+    code={https://github.com/facebookresearch/MetaICL},
+    plm={GPT-2}
 }
+@string(DBLP:conf:naacl:MinLZH22="MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.")
 
 @article{DBLP:journals/corr/abs-2209-12356,
   author    = {Tanya Goyal and
@@ -664,7 +663,7 @@
     keywords={In-Context Learning, Survey}
 }
 
-@inproceedings{DBLP:conf/naacl/ChenDPMISK22,
+@inproceedings{DBLP:conf:naacl:ChenDPMISK22,
   author    = {Mingda Chen and
                Jingfei Du and
                Ramakanth Pasunuru and
@@ -685,8 +684,10 @@
   timestamp = {Mon, 01 Aug 2022 16:27:58 +0200},
   biburl    = {https://dblp.org/rec/conf/naacl/ChenDPMISK22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-    keywords={In-Context Learning}
+    keywords={In-Context Learning},
+    plm={MoE}
 }
+@string(DBLP:conf:naacl:ChenDPMISK22="This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that: 1) benefits of self-supervised depends on the amount of training data; 2) semantic similarity between training and evaluation tasks matters; 3) adding training objectives without diversity does not help; 4) model performance improves when choosing similar templates for both self-supervised and downstream tasks; 5) self-supervised  tasks and human-annotated datasets are complementary; 6) self-supervised-trained models are better at following task instructions.")
 
 @inproceedings{DBLP:conf/iclr/WeiBZGYLDDL22,
   author    = {Jason Wei and
@@ -8165,3 +8166,224 @@ learn pre-trained models on these constructed tasks via continual multi-task lea
   keywords={Continual Learning}
 }
 @String(liu2021lifelong="We propose the lifelong intent detection task to handle continually emerging user intents. And, we propose multistrategy rebalancing to address multiple adverse effects caused by the data imbalance problem.")
+
+
+@inproceedings{DBLP:conf/emnlp/ArtetxeBGMOSLDI22,
+  author    = {Mikel Artetxe and
+               Shruti Bhosale and
+               Naman Goyal and
+               Todor Mihaylov and
+               Myle Ott and
+               Sam Shleifer and
+               Xi Victoria Lin and
+               Jingfei Du and
+               Srinivasan Iyer and
+               Ramakanth Pasunuru and
+               Giridharan Anantharaman and
+               Xian Li and
+               Shuohui Chen and
+               Halil Akin and
+               Mandeep Baines and
+               Louis Martin and
+               Xing Zhou and
+               Punit Singh Koura and
+               Brian O'Horo and
+               Jeffrey Wang and
+               Luke Zettlemoyer and
+               Mona T. Diab and
+               Zornitsa Kozareva and
+               Veselin Stoyanov},
+  editor    = {Yoav Goldberg and
+               Zornitsa Kozareva and
+               Yue Zhang},
+  title     = {Efficient Large Scale Language Modeling with Mixtures of Experts},
+  booktitle = {EMNLP},
+  pages     = {11699--11732},
+  publisher = {Association for Computational Linguistics},
+  year      = {2022},
+  url       = {https://aclanthology.org/2022.emnlp-main.804},
+  timestamp = {Tue, 07 Feb 2023 17:10:51 +0100},
+  biburl    = {https://dblp.org/rec/conf/emnlp/ArtetxeBGMOSLDI22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Pre-Training},
+  plm = {MoE},
+  code={https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm}
+}
+
+@article{DBLP:journals/corr/abs-2204-05862,
+  author    = {Yuntao Bai and
+               Andy Jones and
+               Kamal Ndousse and
+               Amanda Askell and
+               Anna Chen and
+               Nova DasSarma and
+               Dawn Drain and
+               Stanislav Fort and
+               Deep Ganguli and
+               Tom Henighan and
+               Nicholas Joseph and
+               Saurav Kadavath and
+               Jackson Kernion and
+               Tom Conerly and
+               Sheer El Showk and
+               Nelson Elhage and
+               Zac Hatfield{-}Dodds and
+               Danny Hernandez and
+               Tristan Hume and
+               Scott Johnston and
+               Shauna Kravec and
+               Liane Lovitt and
+               Neel Nanda and
+               Catherine Olsson and
+               Dario Amodei and
+               Tom B. Brown and
+               Jack Clark and
+               Sam McCandlish and
+               Chris Olah and
+               Benjamin Mann and
+               Jared Kaplan},
+  title     = {Training a Helpful and Harmless Assistant with Reinforcement Learning
+               from Human Feedback},
+  journal   = {CoRR},
+  volume    = {abs/2204.05862},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2204.05862},
+  doi       = {10.48550/arXiv.2204.05862},
+  eprinttype = {arXiv},
+  eprint    = {2204.05862},
+  timestamp = {Tue, 19 Apr 2022 17:11:58 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2204-05862.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={RLHF}
+}
+
+@article{DBLP:journals/corr/abs-2210-02441,
+  author    = {Simran Arora and
+               Avanika Narayan and
+               Mayee F. Chen and
+               Laurel J. Orr and
+               Neel Guha and
+               Kush Bhatia and
+               Ines Chami and
+               Frederic Sala and
+               Christopher R{\'{e}}},
+  title     = {Ask Me Anything: {A} simple strategy for prompting language models},
+  journal   = {CoRR},
+  volume    = {abs/2210.02441},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.02441},
+  doi       = {10.48550/arXiv.2210.02441},
+  eprinttype = {arXiv},
+  eprint    = {2210.02441},
+  timestamp = {Fri, 07 Oct 2022 15:24:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-02441.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Prompt Learning}
+}
+
+@article{DBLP:journals/corr/abs-2302-11382,
+  author    = {Jules White and
+               Quchen Fu and
+               Sam Hays and
+               Michael Sandborn and
+               Carlos Olea and
+               Henry Gilbert and
+               Ashraf Elnashar and
+               Jesse Spencer{-}Smith and
+               Douglas C. Schmidt},
+  title     = {A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT},
+  journal   = {CoRR},
+  volume    = {abs/2302.11382},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2302.11382},
+  doi       = {10.48550/arXiv.2302.11382},
+  eprinttype = {arXiv},
+  eprint    = {2302.11382},
+  timestamp = {Fri, 24 Feb 2023 11:55:23 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2302-11382.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Prompt Learning}
+}
+
+@article{DBLP:journals/corr/abs-2302-07842,
+  author    = {Gr{\'{e}}goire Mialon and
+               Roberto Dess{\`{\i}} and
+               Maria Lomeli and
+               Christoforos Nalmpantis and
+               Ramakanth Pasunuru and
+               Roberta Raileanu and
+               Baptiste Rozi{\`{e}}re and
+               Timo Schick and
+               Jane Dwivedi{-}Yu and
+               Asli Celikyilmaz and
+               Edouard Grave and
+               Yann LeCun and
+               Thomas Scialom},
+  title     = {Augmented Language Models: a Survey},
+  journal   = {CoRR},
+  volume    = {abs/2302.07842},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2302.07842},
+  doi       = {10.48550/arXiv.2302.07842},
+  eprinttype = {arXiv},
+  eprint    = {2302.07842},
+  timestamp = {Mon, 20 Feb 2023 14:27:28 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2302-07842.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Survey}
+}
+
+@article{DBLP:journals/corr/abs-2302-09051,
+  author    = {Xavier Daull and
+               Patrice Bellot and
+               Emmanuel Bruno and
+               Vincent Martin and
+               Elisabeth Murisasco},
+  title     = {Complex {QA} and language models hybrid architectures, Survey},
+  journal   = {CoRR},
+  volume    = {abs/2302.09051},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2302.09051},
+  doi       = {10.48550/arXiv.2302.09051},
+  eprinttype = {arXiv},
+  eprint    = {2302.09051},
+  timestamp = {Thu, 23 Feb 2023 16:02:44 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2302-09051.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Survey}
+}
+
+@article{DBLP:journals/corr/abs-2301-13867,
+  author    = {Simon Frieder and
+               Luca Pinchetti and
+               Ryan{-}Rhys Griffiths and
+               Tommaso Salvatori and
+               Thomas Lukasiewicz and
+               Philipp Christian Petersen and
+               Alexis Chevalier and
+               Julius Berner},
+  title     = {Mathematical Capabilities of ChatGPT},
+  journal   = {CoRR},
+  volume    = {abs/2301.13867},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2301.13867},
+  doi       = {10.48550/arXiv.2301.13867},
+  eprinttype = {arXiv},
+  eprint    = {2301.13867},
+  timestamp = {Thu, 02 Feb 2023 12:02:45 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2301-13867.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Evaluation}
+}
+
+@article{lee2023aligning,
+  title={Aligning Text-to-Image Models using Human Feedback},
+  author={Lee, Kimin and Liu, Hao and Ryu, Moonkyung and Watkins, Olivia and Du, Yuqing and Boutilier, Craig and Abbeel, Pieter and Ghavamzadeh, Mohammad and Gu, Shixiang Shane},
+  journal={CoRR},
+  year={2023},
+  keywords={RLHF, Multimodal}
+  url = {https://arxiv.org/abs/2302.12192}
+}
+
+
+

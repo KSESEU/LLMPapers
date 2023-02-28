@@ -14,17 +14,17 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#hyperlink)
-- [![](https://img.shields.io/badge/Evaluation-13-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
-- [![](https://img.shields.io/badge/Survey-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#survey)
-- [![](https://img.shields.io/badge/In_Context_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
+- [![](https://img.shields.io/badge/Evaluation-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
+- [![](https://img.shields.io/badge/Survey-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#survey)
+- [![](https://img.shields.io/badge/In--Context_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [![](https://img.shields.io/badge/Instruction_Tuning-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
-- [![](https://img.shields.io/badge/RLHF-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#rlhf)
+- [![](https://img.shields.io/badge/RLHF-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#rlhf)
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [![](https://img.shields.io/badge/Knowledge_Distillation-19-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [![](https://img.shields.io/badge/Knowledge_Graph_Generation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-generation)
 - [![](https://img.shields.io/badge/Reasoning-39-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [![](https://img.shields.io/badge/Chain_of_Thought-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
-  - [![](https://img.shields.io/badge/Multi_Step_Reasoning-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
+  - [![](https://img.shields.io/badge/Multi--Step_Reasoning-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [![](https://img.shields.io/badge/Arithmetic_Reasoning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
   - [![](https://img.shields.io/badge/Symbolic_Reasoning-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
 - [![](https://img.shields.io/badge/Federated_Learning-14-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
@@ -38,7 +38,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Text_Generation-77-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#text-generation)
   - [![](https://img.shields.io/badge/Controllable_Text_Generation-6-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
 - [![](https://img.shields.io/badge/Continual_Learning-39-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
-- [![](https://img.shields.io/badge/Prompt_Learning-23-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
+- [![](https://img.shields.io/badge/Prompt_Learning-25-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
 - [![](https://img.shields.io/badge/Natural_Language_Understanding-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#natural-language-understanding)
 - [![](https://img.shields.io/badge/Multimodal-15-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multimodal)
 - [![](https://img.shields.io/badge/Reliability-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reliability)
@@ -53,6 +53,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Question_Answering-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [![](https://img.shields.io/badge/Application-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
 - [![](https://img.shields.io/badge/Theory-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#theory)
+- [![](https://img.shields.io/badge/Pre--Training-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#pre-training)
+- [![](https://img.shields.io/badge/Meta--Learning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
 - [![](https://img.shields.io/badge/Others-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -71,6 +73,8 @@ Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023),<
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.06466) [**ChatGPT versus Traditional Question Answering for Knowledge Graphs:
 Current Status and Future Directions Towards Knowledge Graph Chatbots**](https://doi.org/10.48550/arXiv.2302.06466),<br> by *Reham Omar, Omij Mangukiya, Panos Kalnis and Essam Mansour*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.13867) [**Mathematical Capabilities of ChatGPT**](https://doi.org/10.48550/arXiv.2301.13867),<br> by *Simon Frieder, Luca Pinchetti, Ryan-Rhys Griffiths, Tommaso Salvatori, Thomas Lukasiewicz, Philipp Christian Petersen, Alexis Chevalier and Julius Berner*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2211.09110) [**Holistic Evaluation of Language Models**](https://doi.org/10.48550/arXiv.2211.09110),<br> by *Percy Liang, Rishi Bommasani, Tony Lee, Dimitris Tsipras, Dilara Soylu, Michihiro Yasunaga, Yian Zhang, Deepak Narayanan et al.*
 <br><br>
@@ -100,6 +104,10 @@ Engineering: A Study on Classification of App-Reviews**](https://arxiv.org/abs/2
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.09419) [**A Comprehensive Survey on Pretrained Foundation Models: A History
 from BERT to ChatGPT**](https://doi.org/10.48550/arXiv.2302.09419),<br> by *Ce Zhou, Qian Li, Chen Li, Jun Yu, Yixin Liu, Guangjing Wang, Kai Zhang, Cheng Ji et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.07842) [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842),<br> by *Gr\'egoire Mialon, Roberto Dess\`\i, Maria Lomeli, Christoforos Nalmpantis, Ramakanth Pasunuru, Roberta Raileanu, Baptiste Rozi\`ere, Timo Schick et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.09051) [**Complex QA and language models hybrid architectures, Survey**](https://doi.org/10.48550/arXiv.2302.09051),<br> by *Xavier Daull, Patrice Bellot, Emmanuel Bruno, Vincent Martin and Elisabeth Murisasco*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.09420) [**When Neural Model Meets NL2Code: A Survey**](https://doi.org/10.48550/arXiv.2212.09420),<br> by *Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang and Jian-Guang Lou*
 <br><br>
@@ -140,12 +148,12 @@ Survey**](https://arxiv.org/abs/2105.04387),<br> by *Jinjie Ni, Tom Young, Vlad 
 <br><br>
 - [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53),<br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
 <br><br>
-- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201),<br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
-<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [[Code]](https://github.com/facebookresearch/MetaICL) ![](https://img.shields.io/badge/GPT--2-yellow) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
+<br>```MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.```<br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2209.01975) [**Selective Annotation Makes Language Models Better Few-Shot Learners**](https://doi.org/10.48550/arXiv.2209.01975),<br> by *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf et al.*
 <br><br>
-- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.260) [**Improving In-Context Few-Shot Learning via Self-Supervised Training**](https://doi.org/10.18653/v1/2022.naacl-main.260),<br> by *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov and Zornitsa Kozareva*
-<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.260) [**Improving In-Context Few-Shot Learning via Self-Supervised Training**](https://doi.org/10.18653/v1/2022.naacl-main.260), ![](https://img.shields.io/badge/MoE-yellow) <br> by *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov and Zornitsa Kozareva*
+<br>```This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that: 1) benefits of self-supervised depends on the amount of training data; 2) semantic similarity between training and evaluation tasks matters; 3) adding training objectives without diversity does not help; 4) model performance improves when choosing similar templates for both self-supervised and downstream tasks; 5) self-supervised  tasks and human-annotated datasets are complementary; 6) self-supervised-trained models are better at following task instructions.```<br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br><br>
@@ -200,6 +208,9 @@ on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yiz
 ### RLHF
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.07459) [**The Capacity for Moral Self-Correction in Large Language Models**](https://doi.org/10.48550/arXiv.2302.07459),<br> by *Deep Ganguli, Amanda Askell, Nicholas Schiefer, Thomas I. Liao, Kamile Lukosiute, Anna Chen, Anna Goldie, Azalia Mirhoseini et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2204.05862) [**Training a Helpful and Harmless Assistant with Reinforcement Learning
+from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862),<br> by *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort et al.*
 <br><br>
 ### Knowledge Enhanced
 
@@ -883,6 +894,8 @@ learn pre-trained models on these constructed tasks via continual multi-task lea
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.12868) [**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained
 Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.2301.12868),<br> by *Terry Yue Zhuo, Zhuang Li, Yujin Huang, Yuan-Fang Li, Weiqing Wang, Gholamreza Haffari and Fatemeh Shiri*
 <br><br>
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
 - [![](https://img.shields.io/badge/CVPR-2022-blue)](https://doi.org/10.1109/CVPR52688.2022.00024) [**Learning to Prompt for Continual Learning**](https://doi.org/10.1109/CVPR52688.2022.00024),<br> by *Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot et al.*
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.167) [**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**](https://doi.org/10.18653/v1/2022.naacl-main.167),<br> by *Albert Webson and Ellie Pavlick*
@@ -923,6 +936,8 @@ for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2203.06904),<b
 Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2022-blue)](https://par.nsf.gov/biblio/10380030) [**The unreliability of explanations in few-shot prompting for textual reasoning**](https://par.nsf.gov/biblio/10380030),<br> by *Ye, Xi and Durrett, Greg*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.02441) [**Ask Me Anything: A simple strategy for prompting language models**](https://doi.org/10.48550/arXiv.2210.02441),<br> by *Simran Arora, Avanika Narayan, Mayee F. Chen, Laurel J. Orr, Neel Guha, Kush Bhatia, Ines Chami, Frederic Sala et al.*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2021-blue)](https://doi.org/10.18653/v1/2021.emnlp-main.491) [**FewshotQA: A simple framework for few-shot learning of question
 answering tasks using pre-trained text-to-text models**](https://doi.org/10.18653/v1/2021.emnlp-main.491),<br> by *Rakesh Chada and Pradeep Natarajan*
@@ -1153,6 +1168,14 @@ Understanding**](https://doi.org/10.18653/v1/n19-1423),<br> by *Jacob Devlin, Mi
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692),<br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
 <br><br>
+### Pre-Training
+
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.804) [**Efficient Large Scale Language Modeling with Mixtures of Experts**](https://aclanthology.org/2022.emnlp-main.804), [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm) ![](https://img.shields.io/badge/MoE-yellow) <br> by *Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du et al.*
+<br><br>
+### Meta-Learning
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [[Code]](https://github.com/facebookresearch/MetaICL) ![](https://img.shields.io/badge/GPT--2-yellow) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
+<br>```MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.```<br><br>
 ### Others
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2301.05578) [**Toward General Design Principles for Generative AI Applications**](https://doi.org/10.48550/arXiv.2301.05578),<br> by *Justin D. Weisz, Michael J. Muller, Jessica He and Stephanie Houde*
