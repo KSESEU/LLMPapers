@@ -1,4 +1,4 @@
-@inproceedings{DBLP:conf/acl/ChenZZK022,
+@inproceedings{DBLP:conf:acl:ChenZZK022,
   author    = {Yanda Chen and
                Ruiqi Zhong and
                Sheng Zha and
@@ -17,8 +17,10 @@
   timestamp = {Mon, 01 Aug 2022 16:27:45 +0200},
   biburl    = {https://dblp.org/rec/conf/acl/ChenZZK022.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords = {In-Context Learning, Meta Learning}
+  keywords = {In-Context Learning, Meta Learning},
+  plm={BERT, DeBERTa, GPT-2}
 }
+@string(DBLP:conf:acl:ChenZZK022="This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.")
 
 @article{DBLP:journals/corr/abs-2210-12810,
   author    = {Xingyao Wang and
@@ -166,7 +168,7 @@
   timestamp = {Mon, 01 Aug 2022 16:28:01 +0200},
   biburl    = {https://dblp.org/rec/conf/naacl/MinLZH22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-    keywords= {In-Context Learning, Meta-Learning},
+    keywords= {In-Context Learning, Meta Learning},
     code={https://github.com/facebookresearch/MetaICL},
     plm={GPT-2}
 }

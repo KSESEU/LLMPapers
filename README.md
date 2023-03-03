@@ -54,7 +54,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/Domain_Adaptive-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [![](https://img.shields.io/badge/Question_Answering-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [![](https://img.shields.io/badge/Application-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
-- [![](https://img.shields.io/badge/Meta--Learning-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
+- [![](https://img.shields.io/badge/Meta_Learning-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
 - [![](https://img.shields.io/badge/Others-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -148,8 +148,8 @@ Survey**](https://arxiv.org/abs/2105.04387),<br> by *Jinjie Ni, Tom Young, Vlad 
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.04931) [**In-Context Learning with Many Demonstration Examples**](https://doi.org/10.48550/arXiv.2302.04931),<br> by *Mukai Li, Shansan Gong, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu and Lingpeng Kong*
 <br><br>
-- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53),<br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br><br>
+- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [![](https://img.shields.io/badge/BERT-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) [![](https://img.shields.io/badge/DeBERTa-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) [![](https://img.shields.io/badge/GPT--2-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
+<br>```This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.```<br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [[Code]](https://github.com/facebookresearch/MetaICL) [![](https://img.shields.io/badge/GPT--2-yellow)](https://doi.org/10.18653/v1/2022.naacl-main.201) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
 <br>```MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.```<br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2209.01975) [**Selective Annotation Makes Language Models Better Few-Shot Learners**](https://doi.org/10.48550/arXiv.2209.01975),<br> by *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf et al.*
@@ -1211,8 +1211,10 @@ Current Status and Future Directions Towards Knowledge Graph Chatbots**](https:/
 <br><br>
 - [![](https://img.shields.io/badge/EvoMUSART-2022-blue)](https://doi.org/10.1007/978-3-031-03789-4\_9) [**Towards the Generation of Musical Explanations with GPT-3**](https://doi.org/10.1007/978-3-031-03789-4\_9),<br> by *Stephen James Krol, Maria Teresa Llano and Jon McCormack*
 <br><br>
-### Meta-Learning
+### Meta Learning
 
+- [![](https://img.shields.io/badge/ACL-2022-blue)](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [![](https://img.shields.io/badge/BERT-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) [![](https://img.shields.io/badge/DeBERTa-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) [![](https://img.shields.io/badge/GPT--2-yellow)](https://doi.org/10.18653/v1/2022.acl-long.53) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
+<br>```This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.```<br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [[Code]](https://github.com/facebookresearch/MetaICL) [![](https://img.shields.io/badge/GPT--2-yellow)](https://doi.org/10.18653/v1/2022.naacl-main.201) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
 <br>```MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.```<br><br>
 ### Others
