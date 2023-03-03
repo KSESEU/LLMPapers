@@ -91,6 +91,7 @@ fined_taxonomy = {
     "Techniques": ['Evaluation',
                    'Survey',
                    'In-Context Learning', 'Instruction Tuning', 'RLHF',
+                   'Pre-Training',
                    "Knowledge Enhanced", "Knowledge Distillation", 'Knowledge Graph Generation',
                    'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning',
                    'Federated Learning', 'Distributed AI',
@@ -108,7 +109,7 @@ fined_taxonomy = {
                    'Domain Adaptive',
                    'Question Answering',
                    'Application',
-                   'Theory',
+                   'Meta-Learning',
                    'Others']
 }
 

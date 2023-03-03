@@ -109,6 +109,13 @@ def get_md_entry(DB, entry, add_comments=True):
         code_url = entry['code']
         md_str += f' [[Code]]({code_url})'
 
+    if 'plm' in entry.keys():
+        md_str += ' '
+        plms = entry['plm'].split(',')
+        for plm in plms:
+            plm = plm.strip().replace('-', '--')
+            md_str += f'![](https://img.shields.io/badge/{plm}-yellow) '
+
     md_str += "<br>"
 
 
