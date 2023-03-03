@@ -15,7 +15,7 @@ This page categorizes the literature by the **Last Post**
 ### Outline 
 - [![](https://img.shields.io/badge/Hyperlink-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#hyperlink)
 - [![](https://img.shields.io/badge/2023-31-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
-- [![](https://img.shields.io/badge/2022-159-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
+- [![](https://img.shields.io/badge/2022-163-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [![](https://img.shields.io/badge/2021-93-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [![](https://img.shields.io/badge/2020-60-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [![](https://img.shields.io/badge/2019-19-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
@@ -488,6 +488,15 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11610) [**Large Language Models Can Self-Improve**](https://doi.org/10.48550/arXiv.2210.11610),<br> by *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu and Jiawei Han*
 <br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.03885) [**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**](https://doi.org/10.48550/arXiv.2210.03885),<br> by *Tao Zhong, Zhixiang Chi, Li Gu, Yang Wang, Yuanhao Yu and Jin Tang*
+<br><br>
 ### 2021
 
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
@@ -838,8 +847,7 @@ GPT-2**](https://doi.org/10.18653/v1/2020.acl-main.54),<br> by *DongHoon Ham, Je
 - [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=r1xMH1BtvB) [**ELECTRA: Pre-training Text Encoders as Discriminators Rather Than
 Generators**](https://openreview.net/forum?id=r1xMH1BtvB), ![](https://img.shields.io/badge/ELECTRA-yellow) <br> by *Kevin Clark, Minh-Thang Luong, Quoc V. Le and Christopher D. Manning*
 <br><br>
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.634) [**Recall and Learn: Fine-tuning Deep Pretrained Language Models with
 Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu*

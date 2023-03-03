@@ -30,6 +30,7 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Neel_Sundaresan-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#neel-sundaresan)
 - [![](https://img.shields.io/badge/Dawn_Drain-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dawn-drain)
 - [![](https://img.shields.io/badge/Wayne_Xin_Zhao-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wayne-xin-zhao)
+- [![](https://img.shields.io/badge/Yi_Tay-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yi-tay)
 - [![](https://img.shields.io/badge/Quoc_V._Le-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#quoc-v.-le)
 - [![](https://img.shields.io/badge/Maarten_Bosma-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#maarten-bosma)
 - [![](https://img.shields.io/badge/Percy_Liang-5-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#percy-liang)
@@ -44,6 +45,7 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Yue_Wang-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yue-wang)
 - [![](https://img.shields.io/badge/Shuohang_Wang-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shuohang-wang)
 - [![](https://img.shields.io/badge/Daxin_Jiang-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#daxin-jiang)
+- [![](https://img.shields.io/badge/Weizhu_Chen-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#weizhu-chen)
 - [![](https://img.shields.io/badge/Junyi_Li-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#junyi-li)
 - [![](https://img.shields.io/badge/Li_Dong-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#li-dong)
 - [![](https://img.shields.io/badge/Jingjing_Liu-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jingjing-liu)
@@ -52,7 +54,6 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Asli_Celikyilmaz-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#asli-celikyilmaz)
 - [![](https://img.shields.io/badge/Huajun_Chen-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#huajun-chen)
 - [![](https://img.shields.io/badge/Dale_Schuurmans-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dale-schuurmans)
-- [![](https://img.shields.io/badge/Yi_Tay-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yi-tay)
 - [![](https://img.shields.io/badge/Veselin_Stoyanov-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#veselin-stoyanov)
 - [![](https://img.shields.io/badge/Ramakanth_Pasunuru-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ramakanth-pasunuru)
 - [![](https://img.shields.io/badge/Dario_Amodei-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dario-amodei)
@@ -66,9 +67,11 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Lidong_Bing-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#lidong-bing)
 - [![](https://img.shields.io/badge/Linlin_Liu-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#linlin-liu)
 - [![](https://img.shields.io/badge/Balaji_Lakshminarayanan-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#balaji-lakshminarayanan)
+- [![](https://img.shields.io/badge/Neil_Houlsby-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#neil-houlsby)
 - [![](https://img.shields.io/badge/Thien_Huu_Nguyen-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#thien-huu-nguyen)
 - [![](https://img.shields.io/badge/Shijin_Wang-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shijin-wang)
 - [![](https://img.shields.io/badge/Chengwei_Qin-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chengwei-qin)
+- [![](https://img.shields.io/badge/Pengcheng_He-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pengcheng-he)
 - [![](https://img.shields.io/badge/Mohit_Bansal-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mohit-bansal)
 - [![](https://img.shields.io/badge/David_Lo-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#david-lo)
 - [![](https://img.shields.io/badge/Shao_Kun_Deng-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shao-kun-deng)
@@ -112,6 +115,7 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Jacob_Devlin-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jacob-devlin)
 - [![](https://img.shields.io/badge/Jeff_Dean-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jeff-dean)
 - [![](https://img.shields.io/badge/Shixiang_Shane_Gu-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shixiang-shane-gu)
+- [![](https://img.shields.io/badge/Mostafa_Dehghani-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mostafa-dehghani)
 - [![](https://img.shields.io/badge/Barret_Zoph-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#barret-zoph)
 - [![](https://img.shields.io/badge/Le_Hou-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#le-hou)
 - [![](https://img.shields.io/badge/Quoc_Le-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#quoc-le)
@@ -140,6 +144,10 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Aman_Madaan-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#aman-madaan)
 - [![](https://img.shields.io/badge/Mari_Ostendorf-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mari-ostendorf)
 - [![](https://img.shields.io/badge/George_Karypis-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#george-karypis)
+- [![](https://img.shields.io/badge/Tuo_Zhao-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tuo-zhao)
+- [![](https://img.shields.io/badge/Chen_Liang-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chen-liang)
+- [![](https://img.shields.io/badge/Qingru_Zhang-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#qingru-zhang)
+- [![](https://img.shields.io/badge/Simiao_Zuo-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#simiao-zuo)
 - [![](https://img.shields.io/badge/Dani_Yogatama-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dani-yogatama)
 - [![](https://img.shields.io/badge/Pengfei_Cao-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pengfei-cao)
 - [![](https://img.shields.io/badge/Qingbin_Liu-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#qingbin-liu)
@@ -169,11 +177,12 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Bosheng_Ding-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#bosheng-ding)
 - [![](https://img.shields.io/badge/Jasper_Snoek-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jasper-snoek)
 - [![](https://img.shields.io/badge/Michael_W._Dusenberry-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#michael-w.-dusenberry)
-- [![](https://img.shields.io/badge/Neil_Houlsby-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#neil-houlsby)
 - [![](https://img.shields.io/badge/Xiaohua_Zhai-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiaohua-zhai)
 - [![](https://img.shields.io/badge/Mario_Lucic-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mario-lucic)
+- [![](https://img.shields.io/badge/Joan_Puigcerver-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#joan-puigcerver)
 - [![](https://img.shields.io/badge/Matthias_Minderer-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#matthias-minderer)
 - [![](https://img.shields.io/badge/Rodolphe_Jenatton-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#rodolphe-jenatton)
+- [![](https://img.shields.io/badge/Basil_Mustafa-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#basil-mustafa)
 - [![](https://img.shields.io/badge/Josip_Djolonga-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#josip-djolonga)
 - [![](https://img.shields.io/badge/Yoon_Kim-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yoon-kim)
 - [![](https://img.shields.io/badge/Chuanqi_Tan-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chuanqi-tan)
@@ -276,7 +285,6 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Pengcheng_Wang-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pengcheng-wang)
 - [![](https://img.shields.io/badge/Ming_Gong-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ming-gong)
 - [![](https://img.shields.io/badge/Linjun_Shou-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#linjun-shou)
-- [![](https://img.shields.io/badge/Weizhu_Chen-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#weizhu-chen)
 - [![](https://img.shields.io/badge/Yeyun_Gong-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yeyun-gong)
 - [![](https://img.shields.io/badge/Yu_Yan-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yu-yan)
 - [![](https://img.shields.io/badge/Piji_Li-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#piji-li)
@@ -324,7 +332,6 @@ This page categorizes the literature by the **Author**
 - [![](https://img.shields.io/badge/Sharan_Narang-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sharan-narang)
 - [![](https://img.shields.io/badge/Aakanksha_Chowdhery-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#aakanksha-chowdhery)
 - [![](https://img.shields.io/badge/Xinyun_Chen-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xinyun-chen)
-- [![](https://img.shields.io/badge/Mostafa_Dehghani-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mostafa-dehghani)
 - [![](https://img.shields.io/badge/William_Fedus-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#william-fedus)
 - [![](https://img.shields.io/badge/Hyung_Won_Chung-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hyung-won-chung)
 - [![](https://img.shields.io/badge/Ben_Hutchinson-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ben-hutchinson)
@@ -667,6 +674,18 @@ Models**](https://doi.org/10.18653/v1/2021.findings-acl.136),<br> by *Junyi Li, 
 - [![](https://img.shields.io/badge/CIKM-2020-blue)](https://doi.org/10.1145/3340531.3411893) [**Knowledge-Enhanced Personalized Review Generation with Capsule Graph
 Neural Network**](https://doi.org/10.1145/3340531.3411893),<br> by *Junyi Li, Siqing Li, Wayne Xin Zhao, Gaole He, Zhicheng Wei, Nicholas Jing Yuan and Ji-Rong Wen*
 <br><br>
+### Yi Tay
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2204.02311) [**PaLM: Scaling Language Modeling with Pathways**](https://doi.org/10.48550/arXiv.2204.02311),<br> by *Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2206.07682) [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682),<br> by *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
 ### Quoc V. Le
 
 - [![](https://img.shields.io/badge/ICLR-2022-blue)](https://openreview.net/forum?id=gEZrGCozdqR) [**Finetuned Language Models are Zero-Shot Learners**](https://openreview.net/forum?id=gEZrGCozdqR),<br> by *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai et al.*
@@ -834,6 +853,17 @@ and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/
 <br>```We propose KADAPTER, a framework that retains the original parameters of the pre-trained model fixed
 and supports the development of versatile
 knowledge-infused model.```<br><br>
+### Weizhu Chen
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.findings-acl.36) [**GLGE: A New General Language Generation Evaluation Benchmark**](https://doi.org/10.18653/v1/2021.findings-acl.36),<br> by *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu et al.*
+<br><br>
 ### Junyi Li
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.acl-demo.4) [**TextBox: A Unified, Modularized, and Extensible Framework for Text
@@ -930,16 +960,6 @@ the Federated Setting**](https://doi.org/10.24963/ijcai.2022/273),<br> by *Mingy
 Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.00747) [**Rationale-Augmented Ensembles in Language Models**](https://doi.org/10.48550/arXiv.2207.00747),<br> by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V. Le, Ed H. Chi and Denny Zhou*
-<br><br>
-### Yi Tay
-
-- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
-<br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
-<br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2204.02311) [**PaLM: Scaling Language Modeling with Pathways**](https://doi.org/10.48550/arXiv.2204.02311),<br> by *Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung et al.*
-<br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2206.07682) [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682),<br> by *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma et al.*
 <br><br>
 ### Veselin Stoyanov
 
@@ -1076,6 +1096,14 @@ fine-tuning.```<br><br>
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/f8905bd3df64ace64a68e154ba72f24c-Abstract.html) [**Soft Calibration Objectives for Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/f8905bd3df64ace64a68e154ba72f24c-Abstract.html),<br> by *Archit Karandikar, Nicholas Cain, Dustin Tran, Balaji Lakshminarayanan, Jonathon Shlens, Michael C. Mozer and Becca Roelofs*
 <br><br>
+### Neil Houlsby
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
+- [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html) [**Revisiting the Calibration of Modern Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html),<br> by *Matthias Minderer, Josip Djolonga, Rob Romijnders, Frances Hubis, Xiaohua Zhai, Neil Houlsby, Dustin Tran and Mario Lucic*
+<br><br>
 ### Thien Huu Nguyen
 
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.starsem-1.11) [**Word-Label Alignment for Event Detection: A New Perspective via
@@ -1093,8 +1121,7 @@ with Syntax-Aware Memory Network**](https://doi.org/10.18653/v1/2022.acl-long.40
 - [![](https://img.shields.io/badge/KDD-2022-blue)](https://doi.org/10.1145/3534678.3539131) [**JiuZhang: A Chinese Pre-trained Language Model for Mathematical
 Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang et al.*
 <br><br>
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 ### Chengwei Qin
 
@@ -1104,6 +1131,15 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2022-blue)](https://openreview.net/forum?id=HCRVf71PMF) [**LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5**](https://openreview.net/forum?id=HCRVf71PMF),<br> by *Chengwei Qin and Shafiq Joty*
 <br>```We define a challenging yet practical problem as Lifelong Few-shot Language Learning and propose a unified framework for it based on prompt tuning of T5.```<br><br>
+### Pengcheng He
+
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2206.11309) [**GODEL: Large-Scale Pre-Training for Goal-Directed Dialog**](https://doi.org/10.48550/arXiv.2206.11309),<br> by *Baolin Peng, Michel Galley, Pengcheng He, Chris Brockett, Lars Liden, Elnaz Nouri, Zhou Yu, Bill Dolan et al.*
+<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
 ### Mohit Bansal
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.08607) [**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text
@@ -1284,8 +1320,7 @@ Task-Oriented Dialogue Systems**](https://doi.org/10.18653/v1/2021.naacl-main.23
 - [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.179) [**TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction
 and Content Matching**](https://doi.org/10.18653/v1/2020.coling-main.179),<br> by *Heng Gong, Yawei Sun, Xiaocheng Feng, Bing Qin, Wei Bi, Xiaojiang Liu and Ting Liu*
 <br><br>
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.634) [**Recall and Learn: Fine-tuning Deep Pretrained Language Models with
 Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu*
@@ -1516,6 +1551,14 @@ Understanding**](https://doi.org/10.18653/v1/n19-1423), ![](https://img.shields.
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2205.11916) [**Large Language Models are Zero-Shot Reasoners**](https://doi.org/10.48550/arXiv.2205.11916),<br> by *Takeshi Kojima, Shixiang Shane Gu, Machel Reid, Yutaka Matsuo and Yusuke Iwasawa*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11610) [**Large Language Models Can Self-Improve**](https://doi.org/10.48550/arXiv.2210.11610),<br> by *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu and Jiawei Han*
+<br><br>
+### Mostafa Dehghani
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
 <br><br>
 ### Barret Zoph
 
@@ -1751,6 +1794,34 @@ Prompting**](https://doi.org/10.18653/v1/2021.emnlp-main.404),<br> by *Chia-Hsua
 - [![](https://img.shields.io/badge/IA3-2020-blue)](https://doi.org/10.1109/IA351965.2020.00011) [**DistDGL: Distributed Graph Neural Network Training for Billion-Scale
 Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao Ma, Minjie Wang, Jinjing Zhou, Qidong Su, Xiang Song, Quan Gan, Zheng Zhang et al.*
 <br><br>
+### Tuo Zhao
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+### Chen Liang
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+### Qingru Zhang
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+### Simiao Zuo
+
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
 ### Dani Yogatama
 
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2206.07682) [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682),<br> by *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma et al.*
@@ -1792,16 +1863,14 @@ Learning**](https://proceedings.neurips.cc/paper/2021/hash/bcd0049c35799cdf57d06
 <br>```The key novelty is a contrastive continual learning method that enables both knowledge transfer across tasks and knowledge distillation from old tasks to the new task, which eliminates the need for task ids in testing.```<br><br>
 ### Wanxiang Che
 
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.634) [**Recall and Learn: Fine-tuning Deep Pretrained Language Models with
 Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu*
 <br>```We propose a recall and learn mechanism, which adopts the idea of multi-task learning and jointly learns pretraining tasks and downstream tasks. Specifically, we introduce a Pretraining Simulation mechanism to recall the knowledge from pretraining tasks without data, and an Objective Shifting mechanism to focus the learning on downstream tasks gradually.```<br><br>
 ### Yiming Cui
 
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.634) [**Recall and Learn: Fine-tuning Deep Pretrained Language Models with
 Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu*
@@ -1953,12 +2022,6 @@ fine-tuning.```<br><br>
 <br><br>
 - [![](https://img.shields.io/badge/ICLR-2021-blue)](https://openreview.net/forum?id=g11CZSghXyY) [**Combining Ensembles and Data Augmentation Can Harm Your Calibration**](https://openreview.net/forum?id=g11CZSghXyY),<br> by *Yeming Wen, Ghassen Jerfel, Rafael Muller, Michael W. Dusenberry, Jasper Snoek, Balaji Lakshminarayanan and Dustin Tran*
 <br><br>
-### Neil Houlsby
-
-- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
-<br><br>
-- [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html) [**Revisiting the Calibration of Modern Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html),<br> by *Matthias Minderer, Josip Djolonga, Rob Romijnders, Frances Hubis, Xiaohua Zhai, Neil Houlsby, Dustin Tran and Mario Lucic*
-<br><br>
 ### Xiaohua Zhai
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
@@ -1971,6 +2034,12 @@ fine-tuning.```<br><br>
 <br><br>
 - [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html) [**Revisiting the Calibration of Modern Neural Networks**](https://proceedings.neurips.cc/paper/2021/hash/8420d359404024567b5aefda1231af24-Abstract.html),<br> by *Matthias Minderer, Josip Djolonga, Rob Romijnders, Frances Hubis, Xiaohua Zhai, Neil Houlsby, Dustin Tran and Mario Lucic*
 <br><br>
+### Joan Puigcerver
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
 ### Matthias Minderer
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
@@ -1982,6 +2051,12 @@ fine-tuning.```<br><br>
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2207.07411) [**Plex: Towards Reliability using Pretrained Large Model Extensions**](https://doi.org/10.48550/arXiv.2207.07411),<br> by *Dustin Tran, Jeremiah Z. Liu, Michael W. Dusenberry, Du Phan, Mark Collier, Jie Ren, Kehang Han, Zi Wang et al.*
+<br><br>
+### Basil Mustafa
+
+- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
 <br><br>
 ### Josip Djolonga
 
@@ -2692,12 +2767,6 @@ and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/
 - [![](https://img.shields.io/badge/NeurIPS-2021-blue)](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/c16a5320fa475530d9583c34fd356ef5-Abstract-round1.html) [**CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding
 and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/hash/c16a5320fa475530d9583c34fd356ef5-Abstract-round1.html),<br> by *Shuai Lu, Daya Guo, Shuo Ren, Junjie Huang, Alexey Svyatkovskiy, Ambrosio Blanco, Colin B. Clement, Dawn Drain et al.*
 <br><br>
-### Weizhu Chen
-
-- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
-<br><br>
-- [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.findings-acl.36) [**GLGE: A New General Language Generation Evaluation Benchmark**](https://doi.org/10.18653/v1/2021.findings-acl.36),<br> by *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu et al.*
-<br><br>
 ### Yeyun Gong
 
 - [![](https://img.shields.io/badge/ACL-2021-blue)](https://doi.org/10.18653/v1/2021.findings-acl.36) [**GLGE: A New General Language Generation Evaluation Benchmark**](https://doi.org/10.18653/v1/2021.findings-acl.36),<br> by *Dayiheng Liu, Yu Yan, Yeyun Gong, Weizhen Qi, Hang Zhang, Jian Jiao, Weizhu Chen, Jie Fu et al.*
@@ -2793,8 +2862,7 @@ and Content Matching**](https://doi.org/10.18653/v1/2020.coling-main.179),<br> b
 - [![](https://img.shields.io/badge/COLING-2020-blue)](https://doi.org/10.18653/v1/2020.coling-main.179) [**TableGPT: Few-shot Table-to-Text Generation with Table Structure Reconstruction
 and Content Matching**](https://doi.org/10.18653/v1/2020.coling-main.179),<br> by *Heng Gong, Yawei Sun, Xiaocheng Feng, Bing Qin, Wei Bi, Xiaojiang Liu and Ting Liu*
 <br><br>
-- [![](https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2020,_Online_Event,_16_20_November_2020-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 ### Yue Zhang
 
@@ -3013,12 +3081,6 @@ on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yiz
 ### Xinyun Chen
 
 - [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.00093) [**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093),<br> by *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed H. Chi, Nathanael Sch\"arli and Denny Zhou*
-<br><br>
-- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
-<br><br>
-### Mostafa Dehghani
-
-- [![](https://img.shields.io/badge/CoRR-2023-blue)](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
 <br><br>

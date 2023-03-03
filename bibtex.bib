@@ -7577,7 +7577,7 @@ code = {https://github.com/SforAiDl/KD_Lib}
   biburl    = {https://dblp.org/rec/conf/iclr/ClarkLLM20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   plm={ELECTRA},
-  keywords={Pre-Training}
+  keywords={Pre-Training Techniques}
 }
 
 @inproceedings{DBLP:conf/naacl/DevlinCLT19,
@@ -7600,7 +7600,7 @@ code = {https://github.com/SforAiDl/KD_Lib}
   biburl    = {https://dblp.org/rec/conf/naacl/DevlinCLT19.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   plm={BERT},
-  keywords={Pre-Training}
+  keywords={Pre-Training Techniques }
 }
 
 @article{DBLP:journals/corr/abs-1907-11692,
@@ -7624,7 +7624,7 @@ code = {https://github.com/SforAiDl/KD_Lib}
   timestamp = {Thu, 01 Aug 2019 08:59:33 +0200},
   biburl    = {https://dblp.org/rec/journals/corr/abs-1907-11692.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords={Pre-Training},
+  keywords={Pre-Training Techniques},
   plm = {RoBERTa}
 }
 
@@ -7650,7 +7650,7 @@ code = {https://github.com/SforAiDl/KD_Lib}
   timestamp = {Wed, 23 Mar 2022 10:11:55 +0100},
   biburl    = {https://dblp.org/rec/conf/emnlp/CuiC000H20.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords={Pre-Training}
+  keywords={Pre-Training Techniques}
 }
 
 
@@ -8207,7 +8207,7 @@ learn pre-trained models on these constructed tasks via continual multi-task lea
   timestamp = {Tue, 07 Feb 2023 17:10:51 +0100},
   biburl    = {https://dblp.org/rec/conf/emnlp/ArtetxeBGMOSLDI22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords={Pre-Training},
+  keywords={Mixtures of Experts},
   plm = {MoE},
   code={https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm}
 }
@@ -8626,3 +8626,94 @@ learn pre-trained models on these constructed tasks via continual multi-task lea
   bibsource = {dblp computer science bibliography, https://dblp.org},
   keywords={Chain of Thought}
 }
+
+@inproceedings{DBLP:conf/naacl/ZuoZLHZC22,
+  author    = {Simiao Zuo and
+               Qingru Zhang and
+               Chen Liang and
+               Pengcheng He and
+               Tuo Zhao and
+               Weizhu Chen},
+  editor    = {Marine Carpuat and
+               Marie{-}Catherine de Marneffe and
+               Iv{\'{a}}n Vladimir Meza Ru{\'{\i}}z},
+  title     = {MoEBERT: from {BERT} to Mixture-of-Experts via Importance-Guided Adaptation},
+  booktitle = {NAACL},
+  pages     = {1610--1623},
+  publisher = {Association for Computational Linguistics},
+  year      = {2022},
+  url       = {https://doi.org/10.18653/v1/2022.naacl-main.116},
+  doi       = {10.18653/v1/2022.naacl-main.116},
+  timestamp = {Mon, 01 Aug 2022 16:27:57 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/ZuoZLHZC22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Mixtures of Experts}
+}
+
+@article{DBLP:journals/corr/abs-2212-05055,
+  author    = {Aran Komatsuzaki and
+               Joan Puigcerver and
+               James Lee{-}Thorp and
+               Carlos Riquelme Ruiz and
+               Basil Mustafa and
+               Joshua Ainslie and
+               Yi Tay and
+               Mostafa Dehghani and
+               Neil Houlsby},
+  title     = {Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints},
+  journal   = {CoRR},
+  volume    = {abs/2212.05055},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2212.05055},
+  doi       = {10.48550/arXiv.2212.05055},
+  eprinttype = {arXiv},
+  eprint    = {2212.05055},
+  timestamp = {Mon, 02 Jan 2023 15:09:55 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2212-05055.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Mixtures of Experts}
+}
+
+@article{DBLP:journals/corr/abs-2210-01351,
+  author    = {Chen Liang and
+               Simiao Zuo and
+               Qingru Zhang and
+               Pengcheng He and
+               Weizhu Chen and
+               Tuo Zhao},
+  title     = {Less is More: Task-aware Layer-wise Distillation for Language Model
+               Compression},
+  journal   = {CoRR},
+  volume    = {abs/2210.01351},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.01351},
+  doi       = {10.48550/arXiv.2210.01351},
+  eprinttype = {arXiv},
+  eprint    = {2210.01351},
+  timestamp = {Fri, 07 Oct 2022 15:24:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-01351.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Knowledge Distillation}
+}
+
+@article{DBLP:journals/corr/abs-2210-03885,
+  author    = {Tao Zhong and
+               Zhixiang Chi and
+               Li Gu and
+               Yang Wang and
+               Yuanhao Yu and
+               Jin Tang},
+  title     = {Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts},
+  journal   = {CoRR},
+  volume    = {abs/2210.03885},
+  year      = {2022},
+  url       = {https://doi.org/10.48550/arXiv.2210.03885},
+  doi       = {10.48550/arXiv.2210.03885},
+  eprinttype = {arXiv},
+  eprint    = {2210.03885},
+  timestamp = {Fri, 30 Dec 2022 23:08:59 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-03885.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Mixtures of Experts, Knowledge Distillation}
+}
+

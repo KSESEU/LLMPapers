@@ -30,8 +30,8 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/ECIR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecir)
 - [![](https://img.shields.io/badge/ECML-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecml)
 - [![](https://img.shields.io/badge/EDBT-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#edbt)
-- [![](https://img.shields.io/badge/EMNLP-51-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
-- [![](https://img.shields.io/badge/EMNLP_Findings-11-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
+- [![](https://img.shields.io/badge/EMNLP-52-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
+- [![](https://img.shields.io/badge/EMNLP_Findings-12-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
 - [![](https://img.shields.io/badge/Euro--Par-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#euro-par)
 - [![](https://img.shields.io/badge/EvoMUSART-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#evomusart)
 - [![](https://img.shields.io/badge/FCST-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#fcst)
@@ -55,7 +55,7 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/KIS-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
 - [![](https://img.shields.io/badge/MM-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [![](https://img.shields.io/badge/MSR-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
-- [![](https://img.shields.io/badge/NAACL-21-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
+- [![](https://img.shields.io/badge/NAACL-22-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
 - [![](https://img.shields.io/badge/NeurIPS-16-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [![](https://img.shields.io/badge/OSDI-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [![](https://img.shields.io/badge/OpenAI-3-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
@@ -69,7 +69,7 @@ This page categorizes the literature by the **Published Venue**
 - [![](https://img.shields.io/badge/VLDB-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [![](https://img.shields.io/badge/WASA-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [![](https://img.shields.io/badge/WWW-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [![](https://img.shields.io/badge/arXiv-107-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-110-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [![](https://img.shields.io/badge/openreview-1-blue)](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -472,6 +472,8 @@ Visual-Grounded Supervision**](https://doi.org/10.18653/v1/2020.emnlp-main.162),
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.51) [**Joint Constrained Learning for Event-Event Relation Extraction**](https://doi.org/10.18653/v1/2020.emnlp-main.51),<br> by *Haoyu Wang, Muhao Chen, Hongming Zhang and Dan Roth*
 <br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
+<br><br>
 - [![](https://img.shields.io/badge/EMNLP-2020-blue)](https://doi.org/10.18653/v1/2020.emnlp-main.634) [**Recall and Learn: Fine-tuning Deep Pretrained Language Models with
 Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *Sanyuan Chen, Yutai Hou, Yiming Cui, Wanxiang Che, Ting Liu and Xiangzhan Yu*
 <br>```We propose a recall and learn mechanism, which adopts the idea of multi-task learning and jointly learns pretraining tasks and downstream tasks. Specifically, we introduce a Pretraining Simulation mechanism to recall the knowledge from pretraining tasks without data, and an Objective Shifting mechanism to focus the learning on downstream tasks gradually.```<br><br>
@@ -519,6 +521,8 @@ Forms**](https://doi.org/10.18653/v1/2020.findings-emnlp.190),<br> by *Zhiyu Che
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.140) [**StyleDGPT: Stylized Response Generation with Pre-trained Language
 Models**](https://doi.org/10.18653/v1/2020.findings-emnlp.140),<br> by *Ze Yang, Wei Wu, Can Xu, Xinnian Liang, Jiaqi Bai, Liran Wang, Wei Wang and Zhoujun Li*
+<br><br>
+- [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.41) [**Exploring Versatile Generative Language Model Via Parameter-Efficient
 Transfer Learning**](https://doi.org/10.18653/v1/2020.findings-emnlp.41),<br> by *Zhaojiang Lin, Andrea Madotto and Pascale Fung*
@@ -719,6 +723,8 @@ with Contrastive Pre-Training**](https://doi.org/10.18653/v1/2022.findings-naacl
 Optimal Transport**](https://doi.org/10.18653/v1/2022.starsem-1.11),<br> by *Amir Pouran Ben Veyseh and Thien Huu Nguyen*
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10),<br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2021-blue)](https://doi.org/10.18653/v1/2021.naacl-main.340) [**Ask what's missing and what's useful: Improving Clarification Question
 Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main.340),<br> by *Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley and Julian J. McAuley*
@@ -1050,6 +1056,13 @@ Logical Reasoning**](https://doi.org/10.48550/arXiv.2205.09712),<br> by *Antonia
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.06710) [**Large Language Models are few(1)-shot Table Reasoners**](https://doi.org/10.48550/arXiv.2210.06710),<br> by *Wenhu Chen*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.11610) [**Large Language Models Can Self-Improve**](https://doi.org/10.48550/arXiv.2210.11610),<br> by *Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu and Jiawei Han*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.03885) [**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**](https://doi.org/10.48550/arXiv.2210.03885),<br> by *Tao Zhong, Zhixiang Chi, Li Gu, Yang Wang, Yuanhao Yu and Jin Tang*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2021-blue)](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
 <br><br>

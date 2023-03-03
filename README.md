@@ -19,9 +19,10 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [![](https://img.shields.io/badge/In--Context_Learning-20-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [![](https://img.shields.io/badge/Instruction_Tuning-7-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
 - [![](https://img.shields.io/badge/RLHF-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#rlhf)
-- [![](https://img.shields.io/badge/Pre--Training-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#pre-training)
+- [![](https://img.shields.io/badge/Pre--Training_Techniques-8-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#pre-training-techniques)
+  - [![](https://img.shields.io/badge/Mixtures_of_Experts-4-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#mixtures-of-experts)
 - [![](https://img.shields.io/badge/Knowledge_Enhanced-17-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
-- [![](https://img.shields.io/badge/Knowledge_Distillation-19-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
+- [![](https://img.shields.io/badge/Knowledge_Distillation-21-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [![](https://img.shields.io/badge/Knowledge_Graph_Generation-2-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-generation)
 - [![](https://img.shields.io/badge/Reasoning-52-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [![](https://img.shields.io/badge/Chain_of_Thought-26-blue)](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
@@ -213,25 +214,27 @@ on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yiz
 - [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2204.05862) [**Training a Helpful and Harmless Assistant with Reinforcement Learning
 from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862),<br> by *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort et al.*
 <br><br>
-### Pre-Training
+### Pre-Training Techniques
 
-- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.804) [**Efficient Large Scale Language Modeling with Mixtures of Experts**](https://aclanthology.org/2022.emnlp-main.804), [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm) ![](https://img.shields.io/badge/MoE-yellow) <br> by *Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du et al.*
-<br><br>
-- [![](https://img.shields.io/badge/OpenAI-2020-blue)](https://ailab-ua.github.io/courses/resources/GPT3_Brown_2020.pdf) [**Language Models are Few-Shot Learners**](https://ailab-ua.github.io/courses/resources/GPT3_Brown_2020.pdf), ![](https://img.shields.io/badge/GPT--3-yellow) <br> by *Brown, Tom B, Mann, Benjamin, Ryder, Nick, Subbiah, Melanie, Kaplan, Jared, Dhariwal, Prafulla, Neelakantan, Arvind, Shyam, Pranav et al.*
-<br><br>
 - [![](https://img.shields.io/badge/ICLR-2020-blue)](https://openreview.net/forum?id=r1xMH1BtvB) [**ELECTRA: Pre-training Text Encoders as Discriminators Rather Than
 Generators**](https://openreview.net/forum?id=r1xMH1BtvB), ![](https://img.shields.io/badge/ELECTRA-yellow) <br> by *Kevin Clark, Minh-Thang Luong, Quoc V. Le and Christopher D. Manning*
 <br><br>
 - [![](https://img.shields.io/badge/EMNLP_Findings-2020-blue)](https://doi.org/10.18653/v1/2020.findings-emnlp.58) [**Revisiting Pre-Trained Models for Chinese Natural Language Processing**](https://doi.org/10.18653/v1/2020.findings-emnlp.58),<br> by *Yiming Cui, Wanxiang Che, Ting Liu, Bing Qin, Shijin Wang and Guoping Hu*
-<br><br>
-- [![](https://img.shields.io/badge/OpenAI-2019-blue)](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), ![](https://img.shields.io/badge/GPT--2-yellow) <br> by *Radford, Alec, Wu, Jeffrey, Child, Rewon, Luan, David, Amodei, Dario and Sutskever, Ilya*
 <br><br>
 - [![](https://img.shields.io/badge/NAACL-2019-blue)](https://doi.org/10.18653/v1/n19-1423) [**BERT: Pre-training of Deep Bidirectional Transformers for Language
 Understanding**](https://doi.org/10.18653/v1/n19-1423), ![](https://img.shields.io/badge/BERT-yellow) <br> by *Jacob Devlin, Ming-Wei Chang, Kenton Lee and Kristina Toutanova*
 <br><br>
 - [![](https://img.shields.io/badge/CoRR-2019-blue)](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692), ![](https://img.shields.io/badge/RoBERTa-yellow) <br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
 <br><br>
-- [![](https://img.shields.io/badge/OpenAI-2018-blue)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [**Improving language understanding by generative pre-training**](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), ![](https://img.shields.io/badge/GPT--1-yellow) <br> by *Radford, Alec, Narasimhan, Karthik, Salimans, Tim, Sutskever, Ilya and others*
+#### Mixtures of Experts
+
+- [![](https://img.shields.io/badge/EMNLP-2022-blue)](https://aclanthology.org/2022.emnlp-main.804) [**Efficient Large Scale Language Modeling with Mixtures of Experts**](https://aclanthology.org/2022.emnlp-main.804), [[Code]](https://github.com/facebookresearch/fairseq/tree/main/examples/moe_lm) ![](https://img.shields.io/badge/MoE-yellow) <br> by *Mikel Artetxe, Shruti Bhosale, Naman Goyal, Todor Mihaylov, Myle Ott, Sam Shleifer, Xi Victoria Lin, Jingfei Du et al.*
+<br><br>
+- [![](https://img.shields.io/badge/NAACL-2022-blue)](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2212.05055) [**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**](https://doi.org/10.48550/arXiv.2212.05055),<br> by *Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani et al.*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.03885) [**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**](https://doi.org/10.48550/arXiv.2210.03885),<br> by *Tao Zhong, Zhixiang Chi, Li Gu, Yang Wang, Yuanhao Yu and Jin Tang*
 <br><br>
 ### Knowledge Enhanced
 
@@ -280,6 +283,11 @@ Using Large-Scale Language Models**](https://doi.org/10.18653/v1/2020.emnlp-main
 ### Knowledge Distillation
 
 - [![](https://img.shields.io/badge/ASE-2022-blue)](https://doi.org/10.1145/3551349.3556964) [**Compressing Pre-trained Models of Code into 3 MB**](https://doi.org/10.1145/3551349.3556964),<br> by *Jieke Shi, Zhou Yang, Bowen Xu, Hong Jin Kang and David Lo*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.01351) [**Less is More: Task-aware Layer-wise Distillation for Language Model
+Compression**](https://doi.org/10.48550/arXiv.2210.01351),<br> by *Chen Liang, Simiao Zuo, Qingru Zhang, Pengcheng He, Weizhu Chen and Tuo Zhao*
+<br><br>
+- [![](https://img.shields.io/badge/CoRR-2022-blue)](https://doi.org/10.48550/arXiv.2210.03885) [**Meta-DMoE: Adapting to Domain Shift by Meta-Distillation from Mixture-of-Experts**](https://doi.org/10.48550/arXiv.2210.03885),<br> by *Tao Zhong, Zhixiang Chi, Li Gu, Yang Wang, Yuanhao Yu and Jin Tang*
 <br><br>
 - [![](https://img.shields.io/badge/Neurocomputing-2021-blue)](https://doi.org/10.1016/j.neucom.2021.04.102) [**Preparing lessons: Improve knowledge distillation with better supervision**](https://doi.org/10.1016/j.neucom.2021.04.102), [[Code]](https://github.com/SforAiDl/KD_Lib)<br> by *Tiancheng Wen, Shenqi Lai and Xueming Qian*
 <br><br>

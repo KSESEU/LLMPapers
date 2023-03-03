@@ -91,7 +91,7 @@ fined_taxonomy = {
     "Techniques": ['Evaluation',
                    'Survey',
                    'In-Context Learning', 'Instruction Tuning', 'RLHF',
-                   'Pre-Training',
+                   'Pre-Training Techniques', 'Mixtures of Experts',
                    "Knowledge Enhanced", "Knowledge Distillation", 'Knowledge Graph Generation',
                    'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning',
                    'Federated Learning', 'Distributed AI',
@@ -120,4 +120,5 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Controllable Text Generation': 'Text Generation',
               'Code Representation': 'Code Generation',
               'Code Fixing': 'Code Generation',
-              'Code Review': 'Code Generation'}
+              'Code Review': 'Code Generation',
+              'Mixtures of Experts': 'Pre-Training Techniques'}
