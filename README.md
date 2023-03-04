@@ -195,7 +195,7 @@ Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by
 <br>```1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型。2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。```<br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v162/irie22a.html) [**The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions
 to Training Patterns via Spotlights of Attention**](https://proceedings.mlr.press/v162/irie22a.html),<br> by *Kazuki Irie, R\'obert Csord\'as and J\"urgen Schmidhuber*
-<br><br>
+<br>```1) 很有意思的一篇，回顾神经网络（NN）线性层Y=WX（省略偏置b）的原始形式与对偶形式，两种形式完全等价；2) 从对偶形式中可以发现，通过反向传播训练的NN线性层的输出主要是该层在训练期间的训练误差信号et的线性组合，其中权重是通过比较测试查询x和每个训练输入计算出来的；进一步可以得出，如果测试时输入的x和训练时的输入是正交的，那么梯度下降所得到的参数更新对于该样本x完全没有影响。```<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2111.02643) [**Response Generation with Context-Aware Prompt Learning**](https://arxiv.org/abs/2111.02643),<br> by *Xiaodong Gu, Kang Min Yoo and Sang-Woo Lee*
 <br><br>
 ### Instruction Tuning
