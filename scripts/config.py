@@ -44,7 +44,8 @@ fined_taxonomy = {
         ['TIST', 'Trans. Intell. Syst. Technol.'],
         ['JSTSP', 'J. Sel. Top. Signal Process.'],
         ['Applied Sciences', 'Applied Sciences'],
-        ['TOIS', 'ACM Transactions on Information Systems']],
+        ['TOIS', 'ACM Transactions on Information Systems'],
+        ['JMLR', 'J. Mach. Learn. Res.']],
 
     "Preprint": ["arXiv", "CoRR"],
 
@@ -109,7 +110,7 @@ fined_taxonomy = {
                    'Domain Adaptive',
                    'Question Answering',
                    'Application',
-                   'Meta-Learning',
+                   'Meta Learning',
                    'Others']
 }
 
@@ -122,3 +123,19 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Code Fixing': 'Code Generation',
               'Code Review': 'Code Generation',
               'Mixtures of Experts': 'Pre-Training Techniques'}
+
+plm_url = {
+    'BERT': 'https://aclanthology.org/N19-1423/',
+    'RoBERTa': 'https://arxiv.org/abs/1907.11692',
+    'ELECTRA': 'https://openreview.net/forum?id=r1xMH1BtvB',
+    'GPT-1': 'https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf',
+    'GPT-2': 'https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf',
+    'GPT-3': 'https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html',
+    'DeBERTa': 'https://arxiv.org/abs/2006.03654',
+    'GPT-Neo': 'https://huggingface.co/docs/transformers/model_doc/gpt_neo',
+    'SBERT': 'https://aclanthology.org/D19-1410/',
+    'GPT-J': 'https://huggingface.co/docs/transformers/model_doc/gptj',
+    'Codex': 'https://arxiv.org/abs/2107.03374',
+    'T5': 'http://jmlr.org/papers/v21/20-074.html',
+    'OPT': 'https://arxiv.org/abs/2205.01068'
+}

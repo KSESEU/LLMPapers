@@ -58,7 +58,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
                    'Shilong Hu (胡世龙), ' \
                    '[Jingqi Kang (康婧淇)](https://github.com/JingqiKang), ' \
                    '[Jiaqi Li (李嘉琦)](https://github.com/aoluming), ' \
-                   'Dehai Min (闵德海), ' \
+                   '[Dehai Min (闵德海)](https://github.com/ZhishanQ), ' \
                    'Yiming Tan (谭亦鸣), ' \
                    '[Tongtong Wu (吴桐桐)](http://wutong8023.site/), ' \
                    '[Songlin Zhai (翟松林)](https://github.com/SonglinZhai), ' \
@@ -77,7 +77,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     str_outline += "### Outline \n"
 
     if add_hyperlink:
-        hyperlink = f"![](https://img.shields.io/badge/Hyperlink-{color})"
+        hyperlink = f'<img src=https://img.shields.io/badge/Hyperlink-{color} style="zoom:100%; vertical-align: middle">'
         link = base_link + filename + '#hyperlink'
         str_outline += "- [" + hyperlink + "](" + link + ')\n'
 
@@ -91,7 +91,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
 
     for i, item in enumerate(list_classif):
         flag = True if item[0] in sub_titles.keys() else False
-        paper_number = "![](https://img.shields.io/badge/{}-{}-{})".format(
+        paper_number = '<img src=https://img.shields.io/badge/{}-{}-{} style="zoom:100%; vertical-align: middle">'.format(
             item[0].replace(" ", "_").replace("-", "--"), str(count_dct[item[0]]), color)
         link = base_link + "" + filename + "#" + item[0].replace(" ", "-").lower()
         paper_number = "[{}]({})".format(paper_number, link)

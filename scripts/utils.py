@@ -4,6 +4,7 @@ from config import *
 
 bibtex_filename = "./bibtex.bib"
 
+
 def keep_last_and_only(authors_str):
     """
     This function is dedicated to parse authors, it removes all the "and" but the last and and replace them with ", "
@@ -24,43 +25,44 @@ def keep_last_and_only(authors_str):
     else:
         str_ok = ', '.join(author_lst[:8])
         str_ok += ' et al.'
-    
+
     return str_ok.replace('{', '').replace('}', '')
 
 
 def get_bibtex_line(filename, ID):
     start_line_number = 0
     end_line_number = 0
-    
+
     with open(filename, encoding="utf-8") as myFile:
         for num, line in enumerate(myFile, 1):
-            
+
             # first we look for the beginning line
             if start_line_number == 0:
                 if (ID in line) and not ("@String" in line):
                     start_line_number = num
             else:  # after finding the start_line_number we go there
                 # the last line contains "}"
-                
+
                 # we are at the next entry we stop here, end_line_number have the goof value
                 if "@" in line:
                     assert end_line_number > 0
                     break
-                
+
                 if "}" in line:
                     end_line_number = num
     assert end_line_number > 0
     return start_line_number, end_line_number
 
+
 def create_bib_link(ID):
     link = bibtex_filename
     start_bib, end_bib = get_bibtex_line(link, ID)
     link = base_link + link
-    
+
     # bibtex file is one folder upon markdown files
     # link = "../blob/master/" + link
     link += "#L" + str(start_bib) + "-L" + str(end_bib)
-    
+
     # L66-L73
     return link
 
@@ -72,34 +74,35 @@ def get_md_entry(DB, entry, add_comments=True):
     :return: markdown string
     """
     md_str = "\n"
-    
+
     md_str += "- "
-    
+
     venue = ""
     year = ""
-    
+
     if "booktitle" in entry.keys():
         venue = entry["booktitle"].replace("Proceedings of ", "")
     if "journal" in entry.keys():
         venue += entry["journal"].replace("{", "").replace("}", "")
-    
-    venue = venue.replace(" ", "_").replace("-", "_")
+
+    venue = venue.replace(" ", "_").replace("-", "--")
     if "year" in entry.keys():
         year = entry['year']
-    
+
     if venue != "" or year != "":
-        tag = "![](https://img.shields.io/badge/{}-{}-{})".format(venue, year, color)
+        tag = '<img src=https://img.shields.io/badge/{}-{}-{} alt="img" style="zoom:100%; vertical-align: middle" />'.format(
+            venue, year, color)
         if "url" not in entry.keys():
             print(entry["ID"])
         tag = "[{}]({})".format(tag, entry['url'])
         md_str += "{}".format(tag)
     else:
         md_str += ""
-    
+
     paper_title = entry['title'].replace("{", "")
     paper_title = paper_title.replace("}", "")
     paper_title = paper_title.strip()
-    
+
     if 'url' in entry.keys():
         md_str += " [**" + paper_title + "**](" + entry['url'] + "),"
     else:
@@ -107,25 +110,26 @@ def get_md_entry(DB, entry, add_comments=True):
 
     if 'code' in entry.keys():
         code_url = entry['code']
-        md_str += f' [[Code]]({code_url})'
+        md_str += f' [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />]({code_url})'
 
     if 'plm' in entry.keys():
         md_str += ' '
         plms = entry['plm'].split(',')
         for plm in plms:
-            plm = plm.strip().replace('-', '--')
-            md_str += f'![](https://img.shields.io/badge/{plm}-yellow) '
+            plm = plm.strip()
+            url = plm_url[plm] if plm in plm_url.keys() else entry['url']
+            plm = plm.replace('-', '--')
+            tag = f'<img src=https://img.shields.io/badge/{plm}-yellow alt="img" style="zoom:100%; vertical-align: middle" />'
+            # tag = f'![](https://img.shields.io/badge/{plm}-yellow)'
+            tag = f'[{tag}]({url}) '
+            md_str += tag
 
     md_str += "<br>"
 
-
-
     md_str += " by *" + keep_last_and_only(entry['author']) + "*"
 
-
-
     # md_str += " [[bib]](" + create_bib_link(entry['ID']) + ")"
-    
+
     if add_comments:
         # maybe there is a comment to write
         # print(DB.strings)
@@ -143,7 +147,6 @@ def get_md_entry(DB, entry, add_comments=True):
     # img_link = os.path.join(base_link, "scripts/svg/copy_icon.png")
     # md_str += f'<details><summary></summary>'
     # md_str += f"<pre>```{entry['ID']}```"
-    
 
     return md_str
 
@@ -155,11 +158,11 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
     :param key: key to use to search in the DB author/ID/year/keyword...
     :return: a md string with all entries corresponding to the item and keyword
     """
-    
+
     all_str = ""
-    
+
     list_entry = {}
-    
+
     number_of_entries = len(DB.entries)
     for i in range(number_of_entries):
         if key in DB.entries[i].keys():
@@ -167,25 +170,25 @@ def get_md(DB, item, key, add_comments, filter_key="", filter_content=None):
                 if not (filter_key in DB.entries[i].keys() and any(
                         elem in DB.entries[i][filter_key] for elem in filter_content)):
                     continue
-            
+
             if key == "booktitle" or key == "journal":
                 if any(DB.entries[i][key].replace("Proceedings of ", "").startswith(elem) for elem in item):
                     str_md = get_md_entry(DB, DB.entries[i], add_comments)
                     list_entry.update({str_md: DB.entries[i]['year']})
             elif key == "author":
                 author_list = format_author(DB.entries[i][key])
-                
+
                 if any(elem in author_list for elem in item):
                     str_md = get_md_entry(DB, DB.entries[i], add_comments)
                     list_entry.update({str_md: DB.entries[i]['year']})
             elif any(elem in DB.entries[i][key] for elem in item):
                 str_md = get_md_entry(DB, DB.entries[i], add_comments)
                 list_entry.update({str_md: DB.entries[i]['year']})
-    
+
     sorted_tuple_list = sorted(list_entry.items(), reverse=True, key=lambda x: x[1])
     for elem in sorted_tuple_list:
         all_str += elem[0]
-    
+
     return all_str, len(sorted_tuple_list)
 
 
@@ -203,9 +206,9 @@ def format_author(author_str: str):
             formatted_name = " ".join(f_name)
         else:
             formatted_name = name[0]
-        
+
         formatted_author_list.append(formatted_name)
-    
+
     return formatted_author_list
 
 
@@ -217,9 +220,9 @@ def get_author_list(DB, filter_key, filter_content, filter_num=1):
             if not (filter_key in entry.keys() and any(
                     elem in entry[filter_key] for elem in filter_content)):
                 continue
-        
+
         author_list = format_author(entry["author"])
-        
+
         for author in author_list:
             if author in author_dict.keys():
                 author_dict[author] = author_dict[author] + 1
@@ -241,17 +244,17 @@ def generate_md_file(DB, list_classif, key, plot_title_fct, filename, get_outlin
     :param filename: name of the markdown file
     :return: nothing
     """
-    
+
     if not os.path.exists(dir_path):
         os.makedirs(dir_path)
     filename = os.path.join(dir_path, filename)
-    
+
     all_in_one_str = ""
     list_classif_keeped = []
     all_in_one_str_content = ""
-    
+
     count_list = []
-    
+
     if list_classif is None and "author" in key:
         list_classif = get_author_list(DB, filter_key, filter_content)
         list_classif = [[author] for author in list_classif]
@@ -269,14 +272,14 @@ def generate_md_file(DB, list_classif, key, plot_title_fct, filename, get_outlin
         if temp_str != "":
             list_classif_keeped.append(item)
             count_list.append(count)
-    
+
     all_in_one_str += get_outline(list_classif_keeped, count_list, filename, discrib, add_hyperlink)
-    
+
     if add_hyperlink:
         all_in_one_str += get_hyperlink(hyperlinks, mapping_name)
-    
+
     all_in_one_str += all_in_one_str_content
-    
+
     f = open(filename, "w", encoding='utf-8')
     f.write(all_in_one_str)
     f.close()
