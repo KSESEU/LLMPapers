@@ -181,9 +181,9 @@ This paper proposes a graph-based selective annotation method named vote-k to
 ``<br>``
 (1) select a pool of examples to annotate from unlabeled data,
 ``<br>``
-(2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
+(2) retrieve prompts (contexts) from the annotated data pool for in-context learning.
 ``<br>``
-The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
+Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data. The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) [**Improving In-Context Few-Shot Learning via Self-Supervised Training**](https://doi.org/10.18653/v1/2022.naacl-main.260), [<img src=https://img.shields.io/badge/MoE-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) <br> by *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov and Zornitsa Kozareva*
@@ -656,9 +656,9 @@ This paper proposes a graph-based selective annotation method named vote-k to
 ``<br>``
 (1) select a pool of examples to annotate from unlabeled data,
 ``<br>``
-(2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
+(2) retrieve prompts (contexts) from the annotated data pool for in-context learning.
 ``<br>``
-The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
+Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data. The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/VLDB-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.vldb.org/pvldb/vol15/p1466-li.pdf) [**Selective Data Acquisition in the Wild for Model Charging**](https://www.vldb.org/pvldb/vol15/p1466-li.pdf),<br> by *Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li and Yuyu Luo*
