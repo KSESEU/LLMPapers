@@ -179,9 +179,9 @@ MetaICL proposes a supervised meta-training framework to enable LMs to more effe
 <br>``
 This paper proposes a graph-based selective annotation method named vote-k to
 ``<br>``
-1) select a pool of examples to annotate from unlabeled data,
+(1) select a pool of examples to annotate from unlabeled data,
 ``<br>``
-2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
+(2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
 ``<br>``
 The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
@@ -208,7 +208,7 @@ Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich,
 <br>``
 (1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
 ``<br>``
-(2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
+(2) 测量两个指标：1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
 ``<br>``
 (3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
@@ -500,7 +500,7 @@ Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich,
 <br>``
 (1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
 ``<br>``
-(2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
+(2) 测量两个指标：1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
 ``<br>``
 (3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
@@ -654,9 +654,9 @@ Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao M
 <br>``
 This paper proposes a graph-based selective annotation method named vote-k to
 ``<br>``
-1) select a pool of examples to annotate from unlabeled data,
+(1) select a pool of examples to annotate from unlabeled data,
 ``<br>``
-2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
+(2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.
 ``<br>``
 The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
