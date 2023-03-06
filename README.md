@@ -110,7 +110,7 @@ Engineering: A Study on Classification of App-Reviews**](https://arxiv.org/abs/2
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.00234) [**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234),<br> by *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu et al.*
 <br>``
-This paper surveys and summarizes the progress and challenges of ICL, including ICL's formal definition, correlation to related studies, advanced techniques (training strategies, related analysis&#41; and potential directions.
+This paper surveys and summarizes the progress and challenges of ICL, including ICL's formal definition, correlation to related studies, advanced techniques (training strategies, related analysis) and potential directions.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.09419) [**A Comprehensive Survey on Pretrained Foundation Models: A History
@@ -155,19 +155,19 @@ Survey**](https://arxiv.org/abs/2105.04387),<br> by *Jinjie Ni, Tom Young, Vlad 
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.00234) [**A Survey for In-context Learning**](https://doi.org/10.48550/arXiv.2301.00234),<br> by *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Zhiyong Wu, Baobao Chang, Xu Sun, Jingjing Xu et al.*
 <br>``
-This paper surveys and summarizes the progress and challenges of ICL, including ICL's formal definition, correlation to related studies, advanced techniques (training strategies, related analysis&#41; and potential directions.
+This paper surveys and summarizes the progress and challenges of ICL, including ICL's formal definition, correlation to related studies, advanced techniques (training strategies, related analysis) and potential directions.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04813) [**Explanation Selection Using Unlabeled Data for In-Context Learning**](https://doi.org/10.48550/arXiv.2302.04813),<br> by *Xi Ye and Greg Durrett*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04931) [**In-Context Learning with Many Demonstration Examples**](https://doi.org/10.48550/arXiv.2302.04931),<br> by *Mukai Li, Shansan Gong, Jiangtao Feng, Yiheng Xu, Jun Zhang, Zhiyong Wu and Lingpeng Kong*
 <br>``
-This paper proposes a LM named EvaLM to scale up the sequence length (trained with 8k tokens per batch line&#41;. Experiments based on EvaLM prove that in-context learning can achieve higher performance with more demonstrations under many-shot instruction tuning (8k&#41; and further extending the length of instructions (16k&#41; can further improve the upper bound of scaling in-context  learning.
+This paper proposes a LM named EvaLM to scale up the sequence length (trained with 8k tokens per batch line). Experiments based on EvaLM prove that in-context learning can achieve higher performance with more demonstrations under many-shot instruction tuning (8k) and further extending the length of instructions (16k) can further improve the upper bound of scaling in-context  learning.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
 <br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL&#41;. On LAMA and BinaryClfs, the proposed method outperforms MAML.
+This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/facebookresearch/MetaICL) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
@@ -177,18 +177,18 @@ MetaICL proposes a supervised meta-training framework to enable LMs to more effe
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2209.01975) [**Selective Annotation Makes Language Models Better Few-Shot Learners**](https://doi.org/10.48550/arXiv.2209.01975), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/HKUNLP/icl-selective-annotation) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/GPT--J-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gptj) [<img src=https://img.shields.io/badge/GPT--Neo-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gpt_neo) [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) [<img src=https://img.shields.io/badge/Codex-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [<img src=https://img.shields.io/badge/OPT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2205.01068) <br> by *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf et al.*
 <br>``
-This paper proposes a graph-based selective annotation method named vote-k to``<br>``1&#41; select a pool of examples to annotate from unlabeled data,``<br>``2&#41; retrieve prompts (contexts&#41; from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.``<br>``The method selects the predictions with highest confidence (log probability of generation output&#41; to fill up the selective annotation pool.
+This paper proposes a graph-based selective annotation method named vote-k to``<br>``1) select a pool of examples to annotate from unlabeled data,``<br>``2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.``<br>``The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) [**Improving In-Context Few-Shot Learning via Self-Supervised Training**](https://doi.org/10.18653/v1/2022.naacl-main.260), [<img src=https://img.shields.io/badge/MoE-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) <br> by *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov and Zornitsa Kozareva*
 <br>``
-This paper proposes to use self-supervision (MLM, NSP, CL, etc.&#41; between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that:``<br>``1&#41; benefits of self-supervised depends on the amount of training data,``<br>``2&#41; semantic similarity between training and evaluation tasks matters,``<br>``3&#41; adding training objectives without diversity does not help,``<br>``4&#41; model performance improves when choosing similar templates for both self-supervised and downstream tasks,``<br>``5&#41; self-supervised  tasks and human-annotated datasets are complementary,``<br>``6&#41; self-supervised-trained models are better at following task instructions.
+This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that:``<br>``1) benefits of self-supervised depends on the amount of training data,``<br>``2) semantic similarity between training and evaluation tasks matters,``<br>``3) adding training objectives without diversity does not help,``<br>``4) model performance improves when choosing similar templates for both self-supervised and downstream tasks,``<br>``5) self-supervised  tasks and human-annotated datasets are complementary,``<br>``6) self-supervised-trained models are better at following task instructions.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br>``
-1&#41; 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2&#41; 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3&#41; 相比于GPT-3，InstructGPT效果更好，理所当然。
+1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.556) [**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot
@@ -196,7 +196,7 @@ Prompt Order Sensitivity**](https://doi.org/10.18653/v1/2022.acl-long.556),<br> 
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.191) [**Learning To Retrieve Prompts for In-Context Learning**](https://doi.org/10.18653/v1/2022.naacl-main.191), [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) [<img src=https://img.shields.io/badge/GPT--Neo-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gpt_neo) [<img src=https://img.shields.io/badge/Codex-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [<img src=https://img.shields.io/badge/GPT--J-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gptj) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) <br> by *Ohad Rubin, Jonathan Herzig and Jonathan Berant*
 <br>``
-This paper proposes a method to retrieve good contexts for in-context learning. Specifically, the method``<br>``1&#41; uses an unsupervised retriever (BM25/SBERT&#41; to obtain s set of context candidates,``<br>``2&#41; passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex&#41; and select the top/bottom k as positive/negative examples,``<br>``3&#41; uses the examples to train a dense retriever (BERT-based&#41;.
+This paper proposes a method to retrieve good contexts for in-context learning. Specifically, the method``<br>``(1) uses an unsupervised retriever (BM25/SBERT) to obtain s set of context candidates,``<br>``(2) passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex) and select the top/bottom k as positive/negative examples,``<br>``(3) uses the examples to train a dense retriever (BERT-based).
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.622) [**Active Example Selection for In-Context Learning**](https://aclanthology.org/2022.emnlp-main.622),<br> by *Yiming Zhang, Shi Feng and Chenhao Tan*
@@ -217,7 +217,7 @@ Few-shot Reasoning**](https://doi.org/10.48550/arXiv.2212.08686),<br> by *Hanlin
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.deelio-1.10) [**What Makes Good In-Context Examples for GPT-3?**](https://doi.org/10.18653/v1/2022.deelio-1.10), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/jiachangliu/KATEGPT3) [<img src=https://img.shields.io/badge/RoBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/1907.11692) [<img src=https://img.shields.io/badge/T5-yellow alt="img" style="zoom:100%; vertical-align: middle" />](http://jmlr.org/papers/v21/20-074.html) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) <br> by *Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin and Weizhu Chen*
 <br>``
-1&#41; 探索了在in-context learning中什么样的demonstration example可以对GPT-3的效果取得帮助；``<br>``2&#41; 利用roberta对样本进行编码，并计算demonstration与test example的向量距离（欧氏距离），最终发现与test example越相近的demonstration越能取得较好的效果。
+(1) 探索了在in-context learning中什么样的demonstration example可以对GPT-3的效果取得帮助；``<br>``(2) 利用roberta对样本进行编码，并计算demonstration与test example的向量距离（欧氏距离），最终发现与test example越相近的demonstration越能取得较好的效果。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.329) [**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think
@@ -226,13 +226,13 @@ Again**](https://aclanthology.org/2022.findings-emnlp.329),<br> by *Bernal Jimen
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
 Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
 <br>``
-1&#41; 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；``<br>``2&#41;与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
+(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；``<br>``(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v162/irie22a.html) [**The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions
 to Training Patterns via Spotlights of Attention**](https://proceedings.mlr.press/v162/irie22a.html),<br> by *Kazuki Irie, R\'obert Csord\'as and J\"urgen Schmidhuber*
 <br>``
-1&#41; 很有意思的一篇，回顾神经网络（NN）线性层Y=WX（省略偏置b）的原始形式与对偶形式，两种形式完全等价；``<br>``2&#41; 从对偶形式中可以发现，通过反向传播训练的NN线性层的输出主要是该层在训练期间的训练误差信号et的线性组合，其中权重是通过比较测试查询x和每个训练输入计算出来的；进一步可以得出，如果测试时输入的x和训练时的输入是正交的，那么梯度下降所得到的参数更新对于该样本x完全没有影响。
+(1) 很有意思的一篇，回顾神经网络（NN）线性层Y=WX（省略偏置b）的原始形式与对偶形式，两种形式完全等价；``<br>``(2) 从对偶形式中可以发现，通过反向传播训练的NN线性层的输出主要是该层在训练期间的训练误差信号et的线性组合，其中权重是通过比较测试查询x和每个训练输入计算出来的；进一步可以得出，如果测试时输入的x和训练时的输入是正交的，那么梯度下降所得到的参数更新对于该样本x完全没有影响。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2111.02643) [**Response Generation with Context-Aware Prompt Learning**](https://arxiv.org/abs/2111.02643),<br> by *Xiaodong Gu, Kang Min Yoo and Sang-Woo Lee*
@@ -438,7 +438,7 @@ Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen,
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
 Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br>``
-1&#41; 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；``<br>``2&#41; 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。
+(1) 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；``<br>``(2) 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2207.00747) [**Rationale-Augmented Ensembles in Language Models**](https://doi.org/10.48550/arXiv.2207.00747),<br> by *Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc V. Le, Ed H. Chi and Denny Zhou*
@@ -462,12 +462,12 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br>``
-1&#41; 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2&#41; 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3&#41; 相比于GPT-3，InstructGPT效果更好，理所当然。
+1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.174) [**Iteratively Prompt Pre-trained Language Models for Chain of Thought**](https://aclanthology.org/2022.emnlp-main.174),<br> by *Boshi Wang, Xiang Deng and Huan Sun*
 <br>``
-1&#41; 提出了一种迭代式的prompt-tuning方法，他们认为soft prompt应该带有语境，即在自回归解码时不同时刻应该有不同的prompt向量；``<br>``2&#41; 利用BERT为encoder-decoder架构的PLM生成prompt，在每个解码时刻BERT都会根据先前时刻的上下文生成一组新的prompt向量，提供给PLM生成新的上下文，迭代往复。
+(1) 提出了一种迭代式的prompt-tuning方法，他们认为soft prompt应该带有语境，即在自回归解码时不同时刻应该有不同的prompt向量；``<br>``(2) 利用BERT为encoder-decoder架构的PLM生成prompt，在每个解码时刻BERT都会根据先前时刻的上下文生成一组新的prompt向量，提供给PLM生成新的上下文，迭代往复。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.00720) [**Complexity-Based Prompting for Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2210.00720),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
@@ -610,7 +610,7 @@ Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao M
 
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2209.01975) [**Selective Annotation Makes Language Models Better Few-Shot Learners**](https://doi.org/10.48550/arXiv.2209.01975), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/HKUNLP/icl-selective-annotation) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/GPT--J-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gptj) [<img src=https://img.shields.io/badge/GPT--Neo-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gpt_neo) [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) [<img src=https://img.shields.io/badge/Codex-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [<img src=https://img.shields.io/badge/OPT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2205.01068) <br> by *Hongjin Su, Jungo Kasai, Chen Henry Wu, Weijia Shi, Tianlu Wang, Jiayi Xin, Rui Zhang, Mari Ostendorf et al.*
 <br>``
-This paper proposes a graph-based selective annotation method named vote-k to``<br>``1&#41; select a pool of examples to annotate from unlabeled data,``<br>``2&#41; retrieve prompts (contexts&#41; from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.``<br>``The method selects the predictions with highest confidence (log probability of generation output&#41; to fill up the selective annotation pool.
+This paper proposes a graph-based selective annotation method named vote-k to``<br>``1) select a pool of examples to annotate from unlabeled data,``<br>``2) retrieve prompts (contexts) from the annotated data pool for in-context learning. Specifically, the selection method first selects a small set of unlabeled examples iteratively and then labels them to serve as contexts for LLMs to predict the labels of the rest unlabeled data.``<br>``The method selects the predictions with highest confidence (log probability of generation output) to fill up the selective annotation pool.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/VLDB-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.vldb.org/pvldb/vol15/p1466-li.pdf) [**Selective Data Acquisition in the Wild for Model Charging**](https://www.vldb.org/pvldb/vol15/p1466-li.pdf),<br> by *Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li and Yuyu Luo*
@@ -1043,12 +1043,12 @@ Proposing a new setting and respective benchmark for few-shot incremental text c
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL--HLT-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2021.naacl-main.212) [**Hyperparameter-free Continuous Learning for Domain Classification in Natural Language Understanding**](https://www.aclweb.org/anthology/2021.naacl-main.212),<br> by *Hua, Ting , Shen, Yilin , Zhao, Changsheng , Hsu, Yen-Chang  and Jin, Hongxia*
 <br>``
-Inspired by EWC and proposing a hyperparameter-free (Fisher information-based&#41; sampling method for memory replay.
+Inspired by EWC and proposing a hyperparameter-free (Fisher information-based) sampling method for memory replay.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2021.eacl-main.317) [**Lifelong Knowledge-Enriched Social Event Representation Learning**](https://www.aclweb.org/anthology/2021.eacl-main.317),<br> by *Vijayaraghavan, Prashanth  and Roy, Deb*
 <br>``
-Proposing a rehearsal-based method, i.e.,Domain-Representative Episodic Memory Replay (DR-EMR&#41;, for lifelong event representation with embedding alignment and external social commonsense knowledge.
+Proposing a rehearsal-based method, i.e.,Domain-Representative Episodic Memory Replay (DR-EMR), for lifelong event representation with embedding alignment and external social commonsense knowledge.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2108.04445) [**Lifelong Intent Detection via Multi-Strategy Rebalancing**](https://arxiv.org/abs/2108.04445),<br> by *Qingbin Liu, Xiaoyan Yu, Shizhu He, Kang Liu and Jun Zhao*
@@ -1080,7 +1080,7 @@ A novel continual learning setting and a new benchmark for continual caption gen
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.52) [**Incremental Event Detection via Knowledge Consolidation Networks**](https://www.aclweb.org/anthology/2020.emnlp-main.52),<br> by *Cao, Pengfei , Chen, Yubo , Zhao, Jun  and Wang, Taifeng*
 <br>``
-Proposing a hybrid continual learning method for event detection, combining experience replay and Knowledge Distillation, focusing on (1&#41; semantic ambiguity in NLP and (2&#41; data imbalance between memory and current task.
+Proposing a hybrid continual learning method for event detection, combining experience replay and Knowledge Distillation, focusing on (1) semantic ambiguity in NLP and (2) data imbalance between memory and current task.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.565) [**A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis**](https://www.aclweb.org/anthology/2020.emnlp-main.565),<br> by *Dai, Zehui , Peng, Cheng , Chen, Huajie  and Ding, Yadong*
@@ -1090,27 +1090,27 @@ Utilizing BERT for sentence and category encoding, preserving category encoding 
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.39) [**Efficient Meta Lifelong-Learning with Limited Memory**](https://www.aclweb.org/anthology/2020.emnlp-main.39),<br> by *Wang, Zirui , Mehta, Sanket Vaibhav , Poczos, Barnabas  and Carbonell, Jaime*
 <br>``
-A meta learning-enhanced version of MbPA (NeurIPS19&#41;, sharing the continual setting as well. Figure 1 is interesting.
+A meta learning-enhanced version of MbPA (NeurIPS19), sharing the continual setting as well. Figure 1 is interesting.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.233) [**Lifelong Language Knowledge Distillation**](https://www.aclweb.org/anthology/2020.emnlp-main.233),<br> by *Chuang, Yung-Sung , Su, Shang-Yu  and Chen, Yun-Nung*
 <br>``
-Proposing a Knowledge Distillation-enhanced Method LLL based on LAMOL (ICLR 2020&#41; model for continual learning, evaluated on text generation and text classification.
+Proposing a Knowledge Distillation-enhanced Method LLL based on LAMOL (ICLR 2020) model for continual learning, evaluated on text generation and text classification.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/COLING-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.coling-main.318) [**Distill and Replay for Continual Language Learning**](https://www.aclweb.org/anthology/2020.coling-main.318),<br> by *Sun, Jingyuan , Wang, Shaonan , Zhang, Jiajun  and Zong, Chengqing*
 <br>``
-Proposing a distill and replay method (DnR&#41; which follows the setting of LAMOL. As a distillation-based method, DnR also shows the ability in incrementally compressing the model size while still outperforming most of the baselines.
+Proposing a distill and replay method (DnR) which follows the setting of LAMOL. As a distillation-based method, DnR also shows the ability in incrementally compressing the model size while still outperforming most of the baselines.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6428) [**ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding**](https://ojs.aaai.org/index.php/AAAI/article/view/6428),<br> by *Sun, Yu, Wang, Shuohuan, Li, Yukun, Feng, Shikun, Tian, Hao, Wu, Hua and Wang, Haifeng*
 <br>``
-In order to extract the lexical, syntactic and semantic information from training corpora,``<br>``we propose a continual pre-training framework named ERNIE``<br>``2.0 which incrementally builds pre-training tasks and then``<br>``learn pre-trained models on these constructed tasks via continual multi-task learning.
+In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/f8d2e80c1458ea2501f98a2cafadb397-Abstract.html) [**Episodic Memory in Lifelong Language Learning**](https://proceedings.neurips.cc/paper/2019/hash/f8d2e80c1458ea2501f98a2cafadb397-Abstract.html),<br> by *Cyprien de Masson d'Autume, Sebastian Ruder, Lingpeng Kong and Dani Yogatama*
 <br>``
-MbPA++. This paper proposes the use of memory (a fixed memory network&#41; in life-long learning to prevent catastrophic forgetting by means of  experience replay and local adaptation. 
+MbPA++. This paper proposes the use of memory (a fixed memory network) in life-long learning to prevent catastrophic forgetting by means of  experience replay and local adaptation. 
 ``
 <br><br>
 ### Prompt Learning
@@ -1159,7 +1159,7 @@ for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2203.06904),<b
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10625) [**Least-to-Most Prompting Enables Complex Reasoning in Large Language
 Models**](https://doi.org/10.48550/arXiv.2205.10625),<br> by *Denny Zhou, Nathanael Sch\"arli, Le Hou, Jason Wei, Nathan Scales, Xuezhi Wang, Dale Schuurmans, Olivier Bousquet et al.*
 <br>``
-1&#41; 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；``<br>``2&#41; 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。
+(1) 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；``<br>``(2) 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://par.nsf.gov/biblio/10380030) [**The unreliability of explanations in few-shot prompting for textual reasoning**](https://par.nsf.gov/biblio/10380030),<br> by *Ye, Xi and Durrett, Greg*
@@ -1390,7 +1390,7 @@ Current Status and Future Directions Towards Knowledge Graph Chatbots**](https:/
 
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
 <br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL&#41;. On LAMA and BinaryClfs, the proposed method outperforms MAML.
+This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/facebookresearch/MetaICL) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
