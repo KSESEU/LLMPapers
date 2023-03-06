@@ -182,13 +182,13 @@ This paper proposes a graph-based selective annotation method named vote-k to``<
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) [**Improving In-Context Few-Shot Learning via Self-Supervised Training**](https://doi.org/10.18653/v1/2022.naacl-main.260), [<img src=https://img.shields.io/badge/MoE-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.260) <br> by *Mingda Chen, Jingfei Du, Ramakanth Pasunuru, Todor Mihaylov, Srini Iyer, Veselin Stoyanov and Zornitsa Kozareva*
 <br>``
-This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that:``<br>``1) benefits of self-supervised depends on the amount of training data,``<br>``2) semantic similarity between training and evaluation tasks matters,``<br>``3) adding training objectives without diversity does not help,``<br>``4) model performance improves when choosing similar templates for both self-supervised and downstream tasks,``<br>``5) self-supervised  tasks and human-annotated datasets are complementary,``<br>``6) self-supervised-trained models are better at following task instructions.
+This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that:``<br>``(1) benefits of self-supervised depends on the amount of training data,``<br>``(2) semantic similarity between training and evaluation tasks matters,``<br>``(3) adding training objectives without diversity does not help,``<br>``(4) model performance improves when choosing similar templates for both self-supervised and downstream tasks,``<br>``(5) self-supervised  tasks and human-annotated datasets are complementary,``<br>``(6) self-supervised-trained models are better at following task instructions.
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br>``
-1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3) 相比于GPT-3，InstructGPT效果更好，理所当然。
+(1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``(2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``(3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.556) [**Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot
@@ -462,7 +462,7 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br>``
-1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``3) 相比于GPT-3，InstructGPT效果更好，理所当然。
+(1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；``<br>``(2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；``<br>``(3) 相比于GPT-3，InstructGPT效果更好，理所当然。
 ``
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.174) [**Iteratively Prompt Pre-trained Language Models for Chain of Thought**](https://aclanthology.org/2022.emnlp-main.174),<br> by *Boshi Wang, Xiang Deng and Huan Sun*

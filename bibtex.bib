@@ -736,12 +736,12 @@ The method selects the predictions with highest confidence (log probability of g
     plm={MoE}
 }
 @string(DBLP:conf:naacl:ChenDPMISK22="This paper proposes to use self-supervision (MLM, NSP, CL, etc.) between pre-training and downstream usage to teach the LM to perform in-context learning. Analysis reveals that:
-1) benefits of self-supervised depends on the amount of training data,
-2) semantic similarity between training and evaluation tasks matters,
-3) adding training objectives without diversity does not help,
-4) model performance improves when choosing similar templates for both self-supervised and downstream tasks,
-5) self-supervised  tasks and human-annotated datasets are complementary,
-6) self-supervised-trained models are better at following task instructions.")
+(1) benefits of self-supervised depends on the amount of training data,
+(2) semantic similarity between training and evaluation tasks matters,
+(3) adding training objectives without diversity does not help,
+(4) model performance improves when choosing similar templates for both self-supervised and downstream tasks,
+(5) self-supervised  tasks and human-annotated datasets are complementary,
+(6) self-supervised-trained models are better at following task instructions.")
 
 @inproceedings{DBLP:conf/iclr/WeiBZGYLDDL22,
   author    = {Jason Wei and
@@ -952,9 +952,9 @@ The method selects the predictions with highest confidence (log probability of g
   bibsource = {dblp computer science bibliography, https://dblp.org},
     keywords={In-Context Learning, Chain of Thought},
 }
-@String(DBLP:journals:corr:abs-2205-10782="1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
-2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
-3) 相比于GPT-3，InstructGPT效果更好，理所当然。")
+@String(DBLP:journals:corr:abs-2205-10782="(1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
+(2) 测量两个指标，1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
+(3) 相比于GPT-3，InstructGPT效果更好，理所当然。")
 
 @article{DBLP:journals/corr/abs-2211-01910,
   author    = {Yongchao Zhou and
@@ -1018,8 +1018,8 @@ The method selects the predictions with highest confidence (log probability of g
   bibsource = {dblp computer science bibliography, https://dblp.org},
     keywords={Chain of Thought},
 }
-@String(DBLP:conf:emnlp:Wang0S22="1) 提出了一种迭代式的prompt-tuning方法，他们认为soft prompt应该带有语境，即在自回归解码时不同时刻应该有不同的prompt向量；
-2) 利用BERT为encoder-decoder架构的PLM生成prompt，在每个解码时刻BERT都会根据先前时刻的上下文生成一组新的prompt向量，提供给PLM生成新的上下文，迭代往复。")
+@String(DBLP:conf:emnlp:Wang0S22="(1) 提出了一种迭代式的prompt-tuning方法，他们认为soft prompt应该带有语境，即在自回归解码时不同时刻应该有不同的prompt向量；
+(2) 利用BERT为encoder-decoder架构的PLM生成prompt，在每个解码时刻BERT都会根据先前时刻的上下文生成一组新的prompt向量，提供给PLM生成新的上下文，迭代往复。")
 
 
 @article{DBLP:journals/corr/abs-2210-00720,
@@ -1127,9 +1127,9 @@ The method selects the predictions with highest confidence (log probability of g
     plm={GPT-3, GPT-Neo, Codex, GPT-J, SBERT, BERT}
 }
 @String(DBLP:conf:naacl:RubinHB22="This paper proposes a method to retrieve good contexts for in-context learning. Specifically, the method
-1) uses an unsupervised retriever (BM25/SBERT) to obtain s set of context candidates,
-2) passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex) and select the top/bottom k as positive/negative examples,
-3) uses the examples to train a dense retriever (BERT-based).")
+(1) uses an unsupervised retriever (BM25/SBERT) to obtain s set of context candidates,
+(2) passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex) and select the top/bottom k as positive/negative examples,
+(3) uses the examples to train a dense retriever (BERT-based).")
 
 
 @inproceedings{DBLP:conf/emnlp/ZhangFT22,
@@ -6626,8 +6626,8 @@ code = {https://github.com/SforAiDl/KD_Lib}
   bibsource = {dblp computer science bibliography, https://dblp.org},
   keywords={Reasoning, Prompt Learning}
 }
-@String(DBLP:journals:corr:abs-2205-10625="1) 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；
-2) 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。")
+@String(DBLP:journals:corr:abs-2205-10625="(1) 两阶段的prompt，第一阶段问题分解（通过in-context learning实现，context中包含了其他问题的分解示例），对于每个问题，分解出回答该问题需要先回答什么子问题；
+(2) 在第二阶段中，从后往前依次解决子问题，同样通过in-context learing得到，每次LLM的回答会参与组成下一个问题的prompt。")
 
 // 0218
 
@@ -6711,8 +6711,8 @@ code = {https://github.com/SforAiDl/KD_Lib}
   code={https://github.com/jiachangliu/KATEGPT3},
   plm={RoBERTa, T5, SBERT, GPT-3}
 }
-@String(DBLP:conf:acl-deelio:LiuSZDCC22="1) 探索了在in-context learning中什么样的demonstration example可以对GPT-3的效果取得帮助；
-2) 利用roberta对样本进行编码，并计算demonstration与test example的向量距离（欧氏距离），最终发现与test example越相近的demonstration越能取得较好的效果。")
+@String(DBLP:conf:acl-deelio:LiuSZDCC22="(1) 探索了在in-context learning中什么样的demonstration example可以对GPT-3的效果取得帮助；
+(2) 利用roberta对样本进行编码，并计算demonstration与test example的向量距离（欧氏距离），最终发现与test example越相近的demonstration越能取得较好的效果。")
 
 @inproceedings{DBLP:conf/icse/CiborowskaD22,
   author    = {Agnieszka Ciborowska and
@@ -7457,8 +7457,8 @@ code = {https://github.com/SforAiDl/KD_Lib}
   bibsource = {dblp computer science bibliography, https://dblp.org},
   keywords={In-Context Learning},
 }
-@String(DBLP:journals:corr:abs-2212-10559="1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
-2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。")
+@String(DBLP:journals:corr:abs-2212-10559="(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
+(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。")
 
 @article{DBLP:journals/corr/abs-2302-07459,
   author    = {Deep Ganguli and
@@ -8196,10 +8196,7 @@ keywords={Continual Learning}
   pages     = {8968-8975},
   keywords={Continual Learning}
 }
-@String(Sun_Wang_Li_Feng_Tian_Wu_Wang_2020="In order to extract the lexical, syntactic and semantic information from training corpora,
-we propose a continual pre-training framework named ERNIE
-2.0 which incrementally builds pre-training tasks and then
-learn pre-trained models on these constructed tasks via continual multi-task learning.")
+@String(Sun_Wang_Li_Feng_Tian_Wu_Wang_2020="In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.")
 
 @article{abs-2105-13880,
   author   = {Yujia Qin and
@@ -8824,8 +8821,8 @@ learn pre-trained models on these constructed tasks via continual multi-task lea
   bibsource = {dblp computer science bibliography, https://dblp.org},
   keywords={In-Context Learning}
 }
-@String(DBLP:conf:icml:IrieCS22="1) 很有意思的一篇，回顾神经网络（NN）线性层Y=WX（省略偏置b）的原始形式与对偶形式，两种形式完全等价；
-2) 从对偶形式中可以发现，通过反向传播训练的NN线性层的输出主要是该层在训练期间的训练误差信号et的线性组合，其中权重是通过比较测试查询x和每个训练输入计算出来的；进一步可以得出，如果测试时输入的x和训练时的输入是正交的，那么梯度下降所得到的参数更新对于该样本x完全没有影响。")
+@String(DBLP:conf:icml:IrieCS22="(1) 很有意思的一篇，回顾神经网络（NN）线性层Y=WX（省略偏置b）的原始形式与对偶形式，两种形式完全等价；
+(2) 从对偶形式中可以发现，通过反向传播训练的NN线性层的输出主要是该层在训练期间的训练误差信号et的线性组合，其中权重是通过比较测试查询x和每个训练输入计算出来的；进一步可以得出，如果测试时输入的x和训练时的输入是正交的，那么梯度下降所得到的参数更新对于该样本x完全没有影响。")
 
 @article{DBLP:journals/corr/abs-2302-08081,
   author    = {Xianjun Yang and
