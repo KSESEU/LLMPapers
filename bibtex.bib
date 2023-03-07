@@ -1132,7 +1132,7 @@ Specifically, the selection method first selects a small set of unlabeled exampl
 (3) uses the examples to train a dense retriever (BERT-based).")
 
 
-@inproceedings{DBLP:conf/emnlp/ZhangFT22,
+@inproceedings{DBLP:conf:emnlp:ZhangFT22,
   author    = {Yiming Zhang and
                Shi Feng and
                Chenhao Tan},
@@ -1148,8 +1148,12 @@ Specifically, the selection method first selects a small set of unlabeled exampl
   timestamp = {Tue, 07 Feb 2023 17:10:51 +0100},
   biburl    = {https://dblp.org/rec/conf/emnlp/ZhangFT22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-    keywords={In-Context Learning}
+    keywords={In-Context Learning},
+    code={https://github.com/ChicagoHAI/active-example-selection},
+    plm={GPT-2, GPT-3}
 }
+@String(DBLP:conf:emnlp:ZhangFT22="(1) This paper revisits the  effect of example selection (re-ordering & calibration) for ICL, observing that a large variance across set of demonstration examples still exits.
+(2) This paper applies reinforcement learning (Q-Learning) to optimize example selection by formulating this task as sequential decision-making problem, which is appropriate for example selection from unlabeled datasets. ")
 
 @inproceedings{DBLP:conf/acl/SorensenRRSRDKF22,
   author    = {Taylor Sorensen and
