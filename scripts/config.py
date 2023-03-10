@@ -137,5 +137,6 @@ plm_url = {
     'GPT-J': 'https://huggingface.co/docs/transformers/model_doc/gptj',
     'Codex': 'https://arxiv.org/abs/2107.03374',
     'T5': 'http://jmlr.org/papers/v21/20-074.html',
-    'OPT': 'https://arxiv.org/abs/2205.01068'
+    'OPT': 'https://arxiv.org/abs/2205.01068',
+    'PaLM-E': 'https://arxiv.org/abs/2303.03378'
 }

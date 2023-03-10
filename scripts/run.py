@@ -79,7 +79,7 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
     if add_hyperlink:
         hyperlink = f'<img src=https://img.shields.io/badge/Hyperlink-{color} style="zoom:100%; vertical-align: middle">'
         link = base_link + filename + '#hyperlink'
-        str_outline += "- [" + hyperlink + "](" + link + ')\n'
+        # str_outline += "- [" + hyperlink + "](" + link + ')\n'
 
     count_dct = {}
     for i, item in enumerate(list_classif):
@@ -91,10 +91,13 @@ def get_outline(list_classif, count_list, filename, dicrib, add_hyperlink=False)
 
     for i, item in enumerate(list_classif):
         flag = True if item[0] in sub_titles.keys() else False
-        paper_number = '<img src=https://img.shields.io/badge/{}-{}-{} style="zoom:100%; vertical-align: middle">'.format(
-            item[0].replace(" ", "_").replace("-", "--"), str(count_dct[item[0]]), color)
+        badge_color = 'blue' if not flag else 'deepskyblue'
+        zoom = '100%' if not flag else '100%'
+        paper_number = '<img src=https://img.shields.io/badge/{}-{}-{} style="zoom:{}; vertical-align: middle">'.format(
+            item[0].replace(" ", "_").replace("-", "--"), str(count_dct[item[0]]), badge_color, zoom)
         link = base_link + "" + filename + "#" + item[0].replace(" ", "-").lower()
         paper_number = "[{}]({})".format(paper_number, link)
+        # str_outline += paper_number + ' '
 
         if flag:
             str_outline += "  - " + paper_number + '\n'
@@ -347,6 +350,5 @@ with open('README.md', 'a+', encoding='utf-8') as f:
     advertise_str += '- **博士后**：博士研究人工智能相关方向，发表至少3篇高水平论文。\n'
     advertise_str += '- **讲师、副教授、教授等教职** \n\n'
     advertise_str += '如果您对我们的研究工作感兴趣并满足以上要求，欢迎您与[漆桂林](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm)教授联系。\n'
-
 
     f.write(advertise_str)

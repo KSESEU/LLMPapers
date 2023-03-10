@@ -136,11 +136,15 @@ def get_md_entry(DB, entry, add_comments=True):
         md_str += '\n'
         if entry['ID'].lower() in DB.strings:
             # print("Com : " + entry['ID'])
-            md_str += '<br>```'
             comment = DB.strings[entry['ID'].lower()]
-            comment = comment.replace(r'\n', '<br>')
-            md_str += comment
-            md_str += '```'
+            comment_str = '<br>``\n'
+            if '\n' in comment:
+                lines = comment.split('\n')
+                comment_str += '\n``<br>``\n'.join(lines)
+            else:
+                comment_str += comment
+            comment_str += '\n``\n'
+            md_str += comment_str
     md_str += '<br><br>'
     # md_str += "</details>"
 
