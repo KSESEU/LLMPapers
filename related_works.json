@@ -103,5 +103,11 @@
     "title": "Chain of Thought Prompting for Large Language Model Reasoning",
     "url": "https://github.com/KSESEU/LLMPapers/blob/main/res/Chain%20of%20Thought%20Prompting%20for%20Large%20Language%20Model%20Reasoning.pdf",
     "class": "lecture"
+  },
+  {
+    "guid": 15,
+    "title": "哈尔滨工业大学：ChatGPT调研报告",
+    "url": "https://github.com/KSESEU/LLMPapers/blob/main/res/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%9AChatGPT%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A.pdf",
+    "class": "report"
   }
 ]
