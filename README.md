@@ -54,6 +54,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Question_Answering-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
+- [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#generalizability)
 - [<img src=https://img.shields.io/badge/Others-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -102,7 +103,7 @@ Perspective**](https://doi.org/10.48550/arXiv.2212.10529),<br> by *Xingxuan Li, 
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2104.05861) [**Evaluating Pre-Trained Models for User Feedback Analysis in Software
 Engineering: A Study on Classification of App-Reviews**](https://arxiv.org/abs/2104.05861),<br> by *Mohammad Abdul Hadi and Fatemeh H. Fard*
 <br><br>
-- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322),<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
+- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/wangpf3/LM-for-CommonsenseInference)<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.14799) [**Evaluation of Text Generation: A Survey**](https://arxiv.org/abs/2006.14799),<br> by *Asli Celikyilmaz, Elizabeth Clark and Jianfeng Gao*
 <br><br>
@@ -1465,6 +1466,15 @@ This paper proposes in-context tuning, which recasts task adaptation and predict
 <br>``
 MetaICL proposes a supervised meta-training framework to enable LMs to more effectively learn a new task in context. In MetaICL, each meta-training example includes several training examples from one task that will be presented together as a single sequence to the LM, and the prediction of the final example is used to calculate the loss.
 ``
+<br><br>
+### Generalizability
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.03154) [**Conversation Regression Testing: A Design Technique for Prototyping
+Generalizable Prompt Strategies for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2302.03154),<br> by *J. D. Zamfirescu-Pereira, Bjoern Hartmann and Qian Yang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2206.05658) [**Fine-tuning Pre-trained Language Models with Noise Stability Regularization**](https://doi.org/10.48550/arXiv.2206.05658),<br> by *Hang Hua, Xingjian Li, Dejing Dou, Cheng-Zhong Xu and Jiebo Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/wangpf3/LM-for-CommonsenseInference)<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
 <br><br>
 ### Others
 
