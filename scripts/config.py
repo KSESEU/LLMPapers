@@ -111,6 +111,7 @@ fined_taxonomy = {
                    'Question Answering',
                    'Application',
                    'Meta Learning',
+                   'Generalizability',
                    'Others']
 }
 
