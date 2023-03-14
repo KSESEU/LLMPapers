@@ -1317,11 +1317,11 @@ and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.05442) [**Scaling Vision Transformers to 22 Billion Parameters**](https://doi.org/10.48550/arXiv.2302.05442),<br> by *Mostafa Dehghani, Josip Djolonga, Basil Mustafa, Piotr Padlewski, Jonathan Heek, Justin Gilmer, Andreas Steiner, Mathilde Caron et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2303.03378-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/abs/2303.03378), [<img src=https://img.shields.io/badge/PaLM--E-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) <br> by *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan et al.*
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/abs/2303.03378), [<img src=https://img.shields.io/badge/PaLM--E-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) <br> by *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.07094) [**Learning Customized Visual Models with Retrieval-Augmented Knowledge**](https://doi.org/10.48550/arXiv.2301.07094),<br> by *Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee and Chunyuan Li*
 <br><br>
-- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2303.04671-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.04671) [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671),<br> by *Wu, Chenfei, Yin, Shengming, Qi, Weizhen, Wang, Xiaodong, Tang, Zecheng and Duan, Nan*
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.04671) [**Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**](https://arxiv.org/abs/2303.04671),<br> by *Wu, Chenfei, Yin, Shengming, Qi, Weizhen, Wang, Xiaodong, Tang, Zecheng and Duan, Nan*
 <br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.01593) [**CLIP-Event: Connecting Text and Images with Event Structures**](https://doi.org/10.1109/CVPR52688.2022.01593),<br> by *Manling Li, Ruochen Xu, Shuohang Wang, Luowei Zhou, Xudong Lin, Chenguang Zhu, Michael Zeng, Heng Ji et al.*
 <br><br>
@@ -1550,9 +1550,7 @@ Models**](https://doi.org/10.48550/arXiv.2301.11293),<br> by *Mehran Kazemi, Sid
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.147) [**Can Language Models Serve as Temporal Knowledge Bases?**](https://aclanthology.org/2022.findings-emnlp.147),<br> by *Ruilin Zhao, Feng Zhao, Guandong Xu, Sixiao Zhang and Hai Jin*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_16th_Conference_of_the_European_Chapter_of_the
-Association_for_Computational_Linguistics:_Main_Volume,_{EACL}_2021,
-Online,_April_19_--_23,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.eacl-main.153) [**Language Models as Knowledge Bases: On Entity Representations, Storage
+- [<img src=https://img.shields.io/badge/EACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.eacl-main.153) [**Language Models as Knowledge Bases: On Entity Representations, Storage
 Capacity, and Paraphrased Queries**](https://doi.org/10.18653/v1/2021.eacl-main.153),<br> by *Benjamin Heinzerling and Kentaro Inui*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.emnlp-main.346) [**AutoPrompt: Eliciting Knowledge from Language Models with Automatically
@@ -1583,9 +1581,7 @@ Image Captioning**](https://doi.org/10.48550/arXiv.2302.04858),<br> by *Zhuolin 
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2002.08909) [**REALM: Retrieval-Augmented Language Model Pre-Training**](https://arxiv.org/abs/2002.08909),<br> by *Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat and Ming-Wei Chang*
 <br><br>
-- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_33:_Annual_Conference
-on_Neural_Information_Processing_Systems_2020,_NeurIPS_2020,_December
-6--12,_2020,_virtual-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html) [**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html),<br> by *Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\"uttler, Mike Lewis et al.*
+- [<img src=https://img.shields.io/badge/NeurIPS-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html) [**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html),<br> by *Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\"uttler, Mike Lewis et al.*
 <br><br>
 ### Others
 
