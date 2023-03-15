@@ -56,7 +56,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Application-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#generalizability)
-- [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#language-model-as-knowledge-base)
+- [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#language-model-as-knowledge-base)
 - [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#retrieval-augmented-language-model)
 - [<img src=https://img.shields.io/badge/Others-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
@@ -162,9 +162,7 @@ Survey**](https://arxiv.org/abs/2101.09459),<br> by *Chongming Gao, Wenqiang Lei
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2105.04387) [**Recent Advances in Deep Learning Based Dialogue Systems: A Systematic
 Survey**](https://arxiv.org/abs/2105.04387),<br> by *Jinjie Ni, Tom Young, Vlad Pandelea, Fuzhao Xue, Vinay Adiga and Erik Cambria*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
-Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
-Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.81) [**Relational World Knowledge Representation in Contextual Language Models:
+- [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.81) [**Relational World Knowledge Representation in Contextual Language Models:
 A Review**](https://doi.org/10.18653/v1/2021.emnlp-main.81),<br> by *Tara Safavi and Danai Koutra*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.14799) [**Evaluation of Text Generation: A Survey**](https://arxiv.org/abs/2006.14799),<br> by *Asli Celikyilmaz, Elizabeth Clark and Jianfeng Gao*
@@ -1549,6 +1547,8 @@ Generalizable Prompt Strategies for Pre-trained Language Models**](https://doi.o
 Models**](https://doi.org/10.48550/arXiv.2301.11293),<br> by *Mehran Kazemi, Sid Mittal and Deepak Ramachandran*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.147) [**Can Language Models Serve as Temporal Knowledge Bases?**](https://aclanthology.org/2022.findings-emnlp.147),<br> by *Ruilin Zhao, Feng Zhao, Guandong Xu, Sixiao Zhang and Hai Jin*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.388) [**Finding Structural Knowledge in Multimodal-BERT**](https://doi.org/10.18653/v1/2022.acl-long.388),<br> by *Victor Milewski, Miryam de Lhoneux and Marie-Francine Moens*
 <br><br>
 - [<img src=https://img.shields.io/badge/EACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.eacl-main.153) [**Language Models as Knowledge Bases: On Entity Representations, Storage
 Capacity, and Paraphrased Queries**](https://doi.org/10.18653/v1/2021.eacl-main.153),<br> by *Benjamin Heinzerling and Kentaro Inui*
