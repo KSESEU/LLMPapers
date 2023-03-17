@@ -1082,7 +1082,7 @@ Specifically, the selection method first selects a small set of unlabeled exampl
     keywords={Chain of Thought}
 }
 
-@inproceedings{DBLP:conf/acl/LuBM0S22,
+@inproceedings{DBLP:conf:acl:LuBM0S22,
   author    = {Yao Lu and
                Max Bartolo and
                Alastair Moore and
@@ -1102,8 +1102,11 @@ Specifically, the selection method first selects a small set of unlabeled exampl
   timestamp = {Mon, 01 Aug 2022 16:27:50 +0200},
   biburl    = {https://dblp.org/rec/conf/acl/LuBM0S22.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org},
-    keywords={In-Context Learning}
+    keywords={In-Context Learning},
+    plm={GPT-2, GPT-3}
 }
+@string(DBLP:conf:acl:LuBM0S22="(1) This work demonstrates that few-shot prompts suffer from order sensitivity, in that for the same prompt the order in which samples are provided can make a difference to model performance.
+(2) This work introduces a probing method which constructs an artificial development set by language models themselves to alleviate the order sensitivity problem.")
 
 
 @inproceedings{DBLP:conf:naacl:RubinHB22,
@@ -8371,34 +8374,6 @@ keywords={Continual Learning}
   keywords={Prompt Learning}
 }
 
-@article{DBLP:journals/corr/abs-2302-07842,
-  author    = {Gr{\'{e}}goire Mialon and
-               Roberto Dess{\`{\i}} and
-               Maria Lomeli and
-               Christoforos Nalmpantis and
-               Ramakanth Pasunuru and
-               Roberta Raileanu and
-               Baptiste Rozi{\`{e}}re and
-               Timo Schick and
-               Jane Dwivedi{-}Yu and
-               Asli Celikyilmaz and
-               Edouard Grave and
-               Yann LeCun and
-               Thomas Scialom},
-  title     = {Augmented Language Models: a Survey},
-  journal   = {CoRR},
-  volume    = {abs/2302.07842},
-  year      = {2023},
-  url       = {https://doi.org/10.48550/arXiv.2302.07842},
-  doi       = {10.48550/arXiv.2302.07842},
-  eprinttype = {arXiv},
-  eprint    = {2302.07842},
-  timestamp = {Mon, 20 Feb 2023 14:27:28 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2302-07842.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org},
-  keywords={Survey}
-}
-
 @article{DBLP:journals/corr/abs-2302-09051,
   author    = {Xavier Daull and
                Patrice Bellot and
@@ -10209,4 +10184,51 @@ keywords={Retrieval-Augmented Language Model}
     booktitle = {OpenAI},
     keywords = {AIGC, Natural Language Understanding, Pre-Training Techniques},
     plm={GPT-4}
+}
+
+@inproceedings{DBLP:conf/iclr/0001BYRLML22,
+  author    = {Xikun Zhang and
+               Antoine Bosselut and
+               Michihiro Yasunaga and
+               Hongyu Ren and
+               Percy Liang and
+               Christopher D. Manning and
+               Jure Leskovec},
+  title     = {GreaseLM: Graph REASoning Enhanced Language Models},
+  booktitle = {ICLR},
+  publisher = {OpenReview.net},
+  year      = {2022},
+  url       = {https://openreview.net/forum?id=41e9o6cQPj},
+  timestamp = {Sat, 20 Aug 2022 01:15:42 +0200},
+  biburl    = {https://dblp.org/rec/conf/iclr/0001BYRLML22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Knowledge Enhanced}
+}
+
+@article{DBLP:journals/corr/abs-2302-07842,
+  author    = {Gr{\'{e}}goire Mialon and
+               Roberto Dess{\`{\i}} and
+               Maria Lomeli and
+               Christoforos Nalmpantis and
+               Ramakanth Pasunuru and
+               Roberta Raileanu and
+               Baptiste Rozi{\`{e}}re and
+               Timo Schick and
+               Jane Dwivedi{-}Yu and
+               Asli Celikyilmaz and
+               Edouard Grave and
+               Yann LeCun and
+               Thomas Scialom},
+  title     = {Augmented Language Models: a Survey},
+  journal   = {CoRR},
+  volume    = {abs/2302.07842},
+  year      = {2023},
+  url       = {https://doi.org/10.48550/arXiv.2302.07842},
+  doi       = {10.48550/arXiv.2302.07842},
+  eprinttype = {arXiv},
+  eprint    = {2302.07842},
+  timestamp = {Mon, 20 Feb 2023 14:27:28 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2302-07842.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords={Survey}
 }
