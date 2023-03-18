@@ -23,7 +23,7 @@ fined_taxonomy = {
                    "IJCAI", "WWW", "MM", "CVPR", "ICCV", "ECCV", "WACV", "VLDB", 'OpenAI', 'ISoLA', 'ACL Findings',
                    'AutoML', 'EMNLP Findings', 'CIKM', 'SIGIR', 'ECIR', 'IA3', 'EDBT', 'Euro-Par', 'ICDCS', 'AIIoT',
                    'ICPADS', 'OSDI', 'ISSTA', 'openreview', 'FSE', 'ICSE', 'MSR', 'WASA', 'ICSME', 'ASE', 'ICER', 'ECML',
-                   'CHI', 'EvoMUSART'],
+                   'CHI', 'EvoMUSART', 'KDD'],
 
     "Journal": [
         ["TACL", "Transactions of the Association for Computational Linguistics", "Trans. Assoc. Comput. Linguistics"],
@@ -93,13 +93,13 @@ fined_taxonomy = {
                    'Survey',
                    'In-Context Learning', 'Instruction Tuning', 'RLHF',
                    'Pre-Training Techniques', 'Mixtures of Experts',
-                   "Knowledge Enhanced", "Knowledge Distillation", 'Knowledge Graph Generation',
+                   "Knowledge Enhanced", "Knowledge Distillation", 'Knowledge Generation', 'Knowledge Editing',
                    'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning',
                    'Federated Learning', 'Distributed AI',
                    'Selective Annotation',
                    'Code Generation', 'Code Representation', 'Code Fixing', 'Code Review',
                    'Software Engineering',
-                   'Text Generation', 'Controllable Text Generation',
+                   'AIGC', 'Controllable Text Generation',
                    "Continual Learning", 'Prompt Learning', 'Natural Language Understanding',
                    'Multimodal',
                    'Reliability',
@@ -112,6 +112,9 @@ fined_taxonomy = {
                    'Application',
                    'Meta Learning',
                    'Generalizability',
+                   'Language Model as Knowledge Base',
+                   'Retrieval-Augmented Language Model',
+                   'Quality',
                    'Others']
 }
 
@@ -119,7 +122,7 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Multi-Step Reasoning': 'Reasoning',
               'Arithmetic Reasoning': 'Reasoning',
               'Symbolic Reasoning': 'Reasoning',
-              'Controllable Text Generation': 'Text Generation',
+              'Controllable Text Generation': 'AIGC',
               'Code Representation': 'Code Generation',
               'Code Fixing': 'Code Generation',
               'Code Review': 'Code Generation',
@@ -139,5 +142,6 @@ plm_url = {
     'Codex': 'https://arxiv.org/abs/2107.03374',
     'T5': 'http://jmlr.org/papers/v21/20-074.html',
     'OPT': 'https://arxiv.org/abs/2205.01068',
-    'PaLM-E': 'https://arxiv.org/abs/2303.03378'
+    'PaLM-E': 'https://arxiv.org/abs/2303.03378',
+    'GPT-4': 'https://cdn.openai.com/papers/gpt-4.pdf'
 }
