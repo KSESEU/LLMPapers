@@ -45,7 +45,8 @@ fined_taxonomy = {
         ['JSTSP', 'J. Sel. Top. Signal Process.'],
         ['Applied Sciences', 'Applied Sciences'],
         ['TOIS', 'ACM Transactions on Information Systems'],
-        ['JMLR', 'J. Mach. Learn. Res.']],
+        ['JMLR', 'J. Mach. Learn. Res.'],
+        ['IJRR', 'Int. J. Robotics Res.']],
 
     "Preprint": ["arXiv", "CoRR"],
 
@@ -101,7 +102,7 @@ fined_taxonomy = {
                    'Software Engineering',
                    'AIGC', 'Controllable Text Generation',
                    "Continual Learning", 'Prompt Learning', 'Natural Language Understanding',
-                   'Multimodal',
+                   'Multimodal', 'Multilingual',
                    'Reliability',
                    'Dialogue System', 'Recommender System',
                    'Event Extraction', 'Event Relation Extraction',
@@ -115,6 +116,7 @@ fined_taxonomy = {
                    'Language Model as Knowledge Base',
                    'Retrieval-Augmented Language Model',
                    'Quality',
+                   'Explainability',
                    'Others']
 }
 
