@@ -101,7 +101,7 @@ fined_taxonomy = {
                    'Code Generation', 'Code Representation', 'Code Fixing', 'Code Review',
                    'Software Engineering',
                    'AIGC', 'Controllable Text Generation',
-                   "Continual Learning", 'Prompt Learning', 'Natural Language Understanding',
+                   "Continual Learning", 'Prompt Engineering', 'Natural Language Understanding',
                    'Multimodal', 'Multilingual',
                    'Reliability',
                    'Dialogue System', 'Recommender System',
