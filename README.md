@@ -40,7 +40,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/AIGC-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#aigc)
   - [<img src=https://img.shields.io/badge/Controllable_Text_Generation-9-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
 - [<img src=https://img.shields.io/badge/Continual_Learning-42-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
-- [<img src=https://img.shields.io/badge/Prompt_Learning-27-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-learning)
+- [<img src=https://img.shields.io/badge/Prompt_Engineering-27-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-engineering)
 - [<img src=https://img.shields.io/badge/Natural_Language_Understanding-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#natural-language-understanding)
 - [<img src=https://img.shields.io/badge/Multimodal-21-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multimodal)
 - [<img src=https://img.shields.io/badge/Multilingual-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multilingual)
@@ -1321,7 +1321,7 @@ In order to extract the lexical, syntactic and semantic information from trainin
 MbPA++. This paper proposes the use of memory (a fixed memory network) in life-long learning to prevent catastrophic forgetting by means of  experience replay and local adaptation. 
 ``
 <br><br>
-### Prompt Learning
+### Prompt Engineering
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12868) [**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained
 Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.2301.12868),<br> by *Terry Yue Zhuo, Zhuang Li, Yujin Huang, Yuan-Fang Li, Weiqing Wang, Gholamreza Haffari and Fatemeh Shiri*
