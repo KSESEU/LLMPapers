@@ -104,6 +104,7 @@ fined_taxonomy = {
                    "Continual Learning", 'Prompt Engineering', 'Natural Language Understanding',
                    'Multimodal', 'Multilingual',
                    'Reliability',
+                   'Robustness',
                    'Dialogue System', 'Recommender System',
                    'Event Extraction', 'Event Relation Extraction',
                    'Data Argumentation', 'Data Annotation', 'Data Visualization',
@@ -116,7 +117,7 @@ fined_taxonomy = {
                    'Language Model as Knowledge Base',
                    'Retrieval-Augmented Language Model',
                    'Quality',
-                   'Explainability',
+                   'Interpretability/Explainability',
                    'Others']
 }
 
