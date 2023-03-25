@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-55-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
-- [<img src=https://img.shields.io/badge/2022-222-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
+- [<img src=https://img.shields.io/badge/2023-56-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2022-223-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-103-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [<img src=https://img.shields.io/badge/2019-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
@@ -174,6 +174,8 @@ Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/
 Complex Questions**](https://doi.org/10.48550/arXiv.2303.07992),<br> by *Yiming Tan, Dehai Min, Yu Li, Wenbo Li, Nan Hu, Yongrui Chen and Guilin Qi*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.13539) [**Finding Supporting Examples for In-Context Learning**](https://doi.org/10.48550/arXiv.2302.13539),<br> by *Xiaonan Li and Xipeng Qiu*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=h5OpjGd_lo6) [**Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning**](https://openreview.net/forum?id=h5OpjGd_lo6),<br> by *Gao, Jiahui, Pi, Renjie, Yong, LIN, Xu, Hang, Ye, Jiacheng, Wu, Zhiyong, ZHANG, WEIZHONG, Liang, Xiaodan et al.*
 <br><br>
 ### 2022
 
@@ -679,9 +681,6 @@ Language Models**](https://aclanthology.org/2022.emnlp-main.628),<br> by *Chenha
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
 Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2202.04538) [**Generating Training Data with Language Models: Towards Zero-Shot Language
-Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huang, Yu Zhang and Jiawei Han*
-<br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=0DcZxeWfOPt) [**Fast Model Editing at Scale**](https://openreview.net/forum?id=0DcZxeWfOPt),<br> by *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn and Christopher D. Manning*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v162/mitchell22a.html) [**Memory-Based Model Editing at Scale**](https://proceedings.mlr.press/v162/mitchell22a.html),<br> by *Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning and Chelsea Finn*
@@ -802,6 +801,13 @@ Case Study at 66 Billion Scale**](https://doi.org/10.48550/arXiv.2212.09095),<br
 Model-Generated Explanations**](https://aclanthology.org/2022.emnlp-main.137),<br> by *Swarnadeep Saha, Peter Hase, Nazneen Rajani and Mohit Bansal*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2206.14858) [**Solving Quantitative Reasoning Problems with Language Models**](https://doi.org/10.48550/arXiv.2206.14858),<br> by *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay V. Ramasesh, Ambrose Slone, Cem Anil et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2022_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2022,_Abu_Dhabi,_United_Arab_Emirates,
+December_7--11,_2022-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.801) [**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**](https://aclanthology.org/2022.emnlp-main.801),<br> by *Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2202.04538) [**Generating Training Data with Language Models: Towards Zero-Shot Language
+Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huang, Yu Zhang and Jiawei Han*
 <br><br>
 ### 2021
 
