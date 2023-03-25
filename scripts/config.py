@@ -118,6 +118,7 @@ fined_taxonomy = {
                    'Retrieval-Augmented Language Model',
                    'Quality',
                    'Interpretability/Explainability',
+                   'Data Generation',
                    'Others']
 }
 
