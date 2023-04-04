@@ -147,5 +147,7 @@ plm_url = {
     'T5': 'http://jmlr.org/papers/v21/20-074.html',
     'OPT': 'https://arxiv.org/abs/2205.01068',
     'PaLM-E': 'https://arxiv.org/abs/2303.03378',
-    'GPT-4': 'https://cdn.openai.com/papers/gpt-4.pdf'
+    'GPT-4': 'https://cdn.openai.com/papers/gpt-4.pdf',
+    'ChatGPT': 'https://openai.com/blog/chatgpt',
+    'InstructGPT': 'https://arxiv.org/abs/2203.02155z'
 }
