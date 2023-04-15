@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-62-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-63-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-226-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-103-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -188,6 +188,9 @@ Complex Questions**](https://doi.org/10.48550/arXiv.2303.07992),<br> by *Yiming 
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.17564) [**BloombergGPT: A Large Language Model for Finance**](https://arxiv.org/abs/2303.17564),<br> by *Shijie Wu, Ozan Irsoy, Steven Lu, Vadim Dabravolski, Mark Dredze, Sebastian Gehrmann, Prabhanjan Kambadur, David Rosenberg et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2304.01771.pdf) [**Using Language Models For Knowledge Acquisition in Natural Language Reasoning Problems**](https://arxiv.org/pdf/2304.01771.pdf),<br> by *Fangzhen Lin, Ziyi Shou and Chengcai chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
 <br><br>
 ### 2022
 

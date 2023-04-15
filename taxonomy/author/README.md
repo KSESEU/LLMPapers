@@ -283,6 +283,11 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Jiaxin_Huang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiaxin-huang)
 - [<img src=https://img.shields.io/badge/Sebastian_Borgeaud-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sebastian-borgeaud)
 - [<img src=https://img.shields.io/badge/Colin_Raffel-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#colin-raffel)
+- [<img src=https://img.shields.io/badge/Douglas_C._Schmidt-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#douglas-c.-schmidt)
+- [<img src=https://img.shields.io/badge/Jesse_Spencer_Smith-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jesse-spencer-smith)
+- [<img src=https://img.shields.io/badge/Sam_Hays-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sam-hays)
+- [<img src=https://img.shields.io/badge/Quchen_Fu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#quchen-fu)
+- [<img src=https://img.shields.io/badge/Jules_White-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jules-white)
 - [<img src=https://img.shields.io/badge/Chris_Olah-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chris-olah)
 - [<img src=https://img.shields.io/badge/Tom_Conerly-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tom-conerly)
 - [<img src=https://img.shields.io/badge/Stanislav_Fort-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#stanislav-fort)
@@ -3772,6 +3777,41 @@ Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huan
 <br><br>
 - [<img src=https://img.shields.io/badge/JMLR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://jmlr.org/papers/v21/20-074.html) [**Exploring the Limits of Transfer Learning with a Unified Text-to-Text
 Transformer**](http://jmlr.org/papers/v21/20-074.html), [<img src=https://img.shields.io/badge/T5-yellow alt="img" style="zoom:100%; vertical-align: middle" />](http://jmlr.org/papers/v21/20-074.html) <br> by *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li et al.*
+<br><br>
+### Douglas C. Schmidt
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
+<br><br>
+### Jesse Spencer Smith
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
+<br><br>
+### Sam Hays
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
+<br><br>
+### Quchen Fu
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
+<br><br>
+### Jules White
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.11382) [**A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT**](https://doi.org/10.48550/arXiv.2302.11382),<br> by *Jules White, Quchen Fu, Sam Hays, Michael Sandborn, Carlos Olea, Henry Gilbert, Ashraf Elnashar, Jesse Spencer-Smith et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
+Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
 <br><br>
 ### Chris Olah
 
