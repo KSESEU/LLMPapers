@@ -98,7 +98,7 @@ fined_taxonomy = {
                    'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning',
                    'Federated Learning', 'Distributed AI',
                    'Selective Annotation',
-                   'Code Generation', 'Code Representation', 'Code Fixing', 'Code Review',
+                   'Program&Code Generation', 'Code Representation', 'Code Fixing', 'Code Review', 'Program Generation',
                    'Software Engineering',
                    'AIGC', 'Controllable Text Generation',
                    "Continual Learning", 'Prompt Engineering', 'Natural Language Understanding',
@@ -127,9 +127,10 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Arithmetic Reasoning': 'Reasoning',
               'Symbolic Reasoning': 'Reasoning',
               'Controllable Text Generation': 'AIGC',
-              'Code Representation': 'Code Generation',
-              'Code Fixing': 'Code Generation',
-              'Code Review': 'Code Generation',
+              'Code Representation': 'Program&Code Generation',
+              'Code Fixing': 'Program&Code Generation',
+              'Code Review': 'Program&Code Generation',
+              'Program Generation': 'Program&Code Generation',
               'Mixtures of Experts': 'Pre-Training Techniques'}
 
 plm_url = {
