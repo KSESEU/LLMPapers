@@ -41,7 +41,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/AIGC-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#aigc)
   - [<img src=https://img.shields.io/badge/Controllable_Text_Generation-9-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#controllable-text-generation)
 - [<img src=https://img.shields.io/badge/Continual_Learning-42-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#continual-learning)
-- [<img src=https://img.shields.io/badge/Prompt_Engineering-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#prompt-engineering)
+- [<img src=https://img.shields.io/badge/Prompt_Engineering-32-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#prompt-engineering)
 - [<img src=https://img.shields.io/badge/Natural_Language_Understanding-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#natural-language-understanding)
 - [<img src=https://img.shields.io/badge/Multimodal-21-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multimodal)
 - [<img src=https://img.shields.io/badge/Multilingual-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multilingual)
@@ -1385,6 +1385,9 @@ Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.23
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07839) [**ChatGPT Prompt Patterns for Improving Code Quality, Refactoring, Requirements
 Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<br> by *Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith and Douglas C. Schmidt*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.11116) [**Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via
+Prompt Augmented by ChatGPT**](https://doi.org/10.48550/arXiv.2304.11116),<br> by *Jiawei Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.00024) [**Learning to Prompt for Continual Learning**](https://doi.org/10.1109/CVPR52688.2022.00024),<br> by *Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot et al.*
 <br><br>
