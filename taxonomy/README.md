@@ -14,7 +14,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-25-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#evaluation)
-- [<img src=https://img.shields.io/badge/Survey-27-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
+- [<img src=https://img.shields.io/badge/Survey-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
@@ -165,6 +165,9 @@ from BERT to ChatGPT**](https://doi.org/10.48550/arXiv.2302.09419),<br> by *Ce Z
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.11432) [**A Survey on Large Language Model based Autonomous Agents**](https://doi.org/10.48550/arXiv.2308.11432),<br> by *Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/Internet_of_Things_and_Cyber--Physical_Systems-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.sciencedirect.com/science/article/pii/S266734522300024X) [**ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope**](https://www.sciencedirect.com/science/article/pii/S266734522300024X),<br> by *Ray, Partha Pratim*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.10620) [**Large Language Models for Software Engineering: A Systematic Literature
+Review**](https://doi.org/10.48550/arXiv.2308.10620),<br> by *Xinyi Hou, Yanjie Zhao, Yue Liu, Zhou Yang, Kailong Wang, Li Li, Xiapu Luo, David Lo et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09420) [**When Neural Model Meets NL2Code: A Survey**](https://doi.org/10.48550/arXiv.2212.09420),<br> by *Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang and Jian-Guang Lou*
 <br><br>
