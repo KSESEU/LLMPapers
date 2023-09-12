@@ -254,21 +254,16 @@ Models' Reasoning Performance**](https://doi.org/10.48550/arXiv.2305.17306),<br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.13903) [**Let's Think Frame by Frame: Evaluating Video Chain of Thought with
 Video Infilling and Prediction**](https://doi.org/10.48550/arXiv.2305.13903),<br> by *Vaishnavi Himakunthala, Andy Ouyang, Daniel Rose, Ryan He, Alex Mei, Yujie Lu, Chinmay Sonar, Michael Saxon et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/International_Conference_on_Machine_Learning,_{ICML}_2023,_23--29_July
-2023,_Honolulu,_Hawaii,_{USA}-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/kandpal23a.html) [**Large Language Models Struggle to Learn Long-Tail Knowledge**](https://proceedings.mlr.press/v202/kandpal23a.html),<br> by *Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace and Colin Raffel*
+- [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/kandpal23a.html) [**Large Language Models Struggle to Learn Long-Tail Knowledge**](https://proceedings.mlr.press/v202/kandpal23a.html),<br> by *Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace and Colin Raffel*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.367) [**Prompting Language Models for Linguistic Structure**](https://doi.org/10.18653/v1/2023.acl-long.367),<br> by *Terra Blevins, Hila Gonen and Luke Zettlemoyer*
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.367) [**Prompting Language Models for Linguistic Structure**](https://doi.org/10.18653/v1/2023.acl-long.367),<br> by *Terra Blevins, Hila Gonen and Luke Zettlemoyer*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.04014) [**Continual Pre-Training of Large Language Models: How to (re)warm your
 model?**](https://doi.org/10.48550/arXiv.2308.04014),<br> by *Kshitij Gupta, Benjamin Th\'erien, Adam Ibrahim, Mats L. Richter, Quentin Anthony, Eugene Belilovsky, Irina Rish and Timoth\'ee Lesort*
 <br><br>
-- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
-{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=m\_GDIItaI3o) [**Continual Pre-training of Language Models**](https://openreview.net/pdf?id=m\_GDIItaI3o),<br> by *Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim and Bing Liu*
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=m\_GDIItaI3o) [**Continual Pre-training of Language Models**](https://openreview.net/pdf?id=m\_GDIItaI3o),<br> by *Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim and Bing Liu*
 <br><br>
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EACL}
-2023,_Dubrovnik,_Croatia,_May_2--6,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-eacl.139) [**Crawling The Internal Knowledge-Base of Language Models**](https://aclanthology.org/2023.findings-eacl.139),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
+- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-eacl.139) [**Crawling The Internal Knowledge-Base of Language Models**](https://aclanthology.org/2023.findings-eacl.139),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2306.06264) [**Measuring and Modifying Factual Knowledge in Large Language Models**](https://doi.org/10.48550/arXiv.2306.06264),<br> by *Pouya Pezeshkpour*
 <br><br>
@@ -282,12 +277,9 @@ in Instructional Videos**](https://doi.org/10.1007/s11633-022-1409-1),<br> by *G
 - [<img src=https://img.shields.io/badge/Mach._Intell._Res.-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/s11633-022-1387-3) [**EVA2.0: Investigating Open-domain Chinese Dialogue Systems with
 Large-scale Pre-training**](https://doi.org/10.1007/s11633-022-1387-3),<br> by *Yuxian Gu, Jiaxin Wen, Hao Sun, Yi Song, Pei Ke, Chujie Zheng, Zheng Zhang, Jianzhu Yao et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{ACL}_2023,
-Toronto,_Canada,_July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.46) [**The Web Can Be Your Oyster for Improving Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.46),<br> by *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jingyuan Wang, Jian-Yun Nie and Ji-Rong Wen*
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.46) [**The Web Can Be Your Oyster for Improving Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.46),<br> by *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jingyuan Wang, Jian-Yun Nie and Ji-Rong Wen*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.212) [**Small Pre-trained Language Models Can be Fine-tuned as Large Models
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.212) [**Small Pre-trained Language Models Can be Fine-tuned as Large Models
 via Over-Parameterization**](https://doi.org/10.18653/v1/2023.acl-long.212),<br> by *Ze-Feng Gao, Kun Zhou, Peiyu Liu, Wayne Xin Zhao and Ji-Rong Wen*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.07001) [**Recommendation as Instruction Following: A Large Language Model
@@ -297,9 +289,7 @@ Empowered Recommendation Approach**](https://doi.org/10.48550/arXiv.2305.07001),
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14128) [**Dr.ICL: Demonstration-Retrieved In-context Learning**](https://doi.org/10.48550/arXiv.2305.14128),<br> by *Man Luo, Xin Xu, Zhuyun Dai, Panupong Pasupat, Seyed Mehran Kazemi, Chitta Baral, Vaiva Imbrasaite and Vincent Y. Zhao*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.256) [**Unified Demonstration Retriever for In-Context Learning**](https://doi.org/10.18653/v1/2023.acl-long.256),<br> by *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang et al.*
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.256) [**Unified Demonstration Retriever for In-Context Learning**](https://doi.org/10.18653/v1/2023.acl-long.256),<br> by *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2306.11489) [**ChatGPT is not Enough: Enhancing Large Language Models with Knowledge
 Graphs for Fact-aware Language Modeling**](https://doi.org/10.48550/arXiv.2306.11489),<br> by *Linyao Yang, Hongyang Chen, Zhao Li, Xiao Ding and Xindong Wu*
@@ -308,9 +298,7 @@ Graphs for Fact-aware Language Modeling**](https://doi.org/10.48550/arXiv.2306.1
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.01150) [**Tab2KG: Semantic Table Interpretation with Lightweight Semantic Profiles**](https://doi.org/10.48550/arXiv.2302.01150),<br> by *Simon Gottschalk and Elena Demidova*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.147) [**Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.147) [**Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning
 by Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.147),<br> by *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee and Ee-Peng Lim*
 <br><br>
 ### 2022
@@ -958,8 +946,7 @@ Extraction**](https://doi.org/10.1145/3511808.3557459),<br> by *Jiacheng Li, Yan
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2208.11057) [**Prompting as Probing: Using Language Models for Knowledge Base Construction**](https://doi.org/10.48550/arXiv.2208.11057),<br> by *Dimitrios Alivanistos, Selene Baez Santamar\'\ia, Michael Cochez, Jan-Christoph Kalo, Emile van Krieken and Thiviyan Thanapalasingam*
 <br><br>
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
-2022,_Abu_Dhabi,_United_Arab_Emirates,_December_7--11,_2022-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.findings-emnlp.445) [**Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts**](https://doi.org/10.18653/v1/2022.findings-emnlp.445),<br> by *Arshiya Aggarwal, Jiao Sun and Nanyun Peng*
+- [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.findings-emnlp.445) [**Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts**](https://doi.org/10.18653/v1/2022.findings-emnlp.445),<br> by *Arshiya Aggarwal, Jiao Sun and Nanyun Peng*
 <br><br>
 ### 2021
 
@@ -1270,15 +1257,10 @@ Sense**](https://openreview.net/forum?id=3k20LAiHYL2),<br> by *Wangchunshu Zhou,
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2109.10862) [**Recursively Summarizing Books with Human Feedback**](https://arxiv.org/abs/2109.10862),<br> by *Jeff Wu, Long Ouyang, Daniel M. Ziegler, Nisan Stiennon, Ryan Lowe, Jan Leike and Paul F. Christiano*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_59th_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_and_the_11th_International_Joint_Conference_on_Natural
-Language_Processing,_{ACL/IJCNLP}_2021,_(Volume_1:_Long_Papers),_Virtual
-Event,_August_1--6,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
 Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
-Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
-Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.388) [**Can Language Models be Biomedical Knowledge Bases?**](https://doi.org/10.18653/v1/2021.emnlp-main.388),<br> by *Mujeen Sung, Jinhyuk Lee, Sean S. Yi, Minji Jeon, Sungdong Kim and Jaewoo Kang*
+- [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.388) [**Can Language Models be Biomedical Knowledge Bases?**](https://doi.org/10.18653/v1/2021.emnlp-main.388),<br> by *Mujeen Sung, Jinhyuk Lee, Sean S. Yi, Minji Jeon, Sungdong Kim and Jaewoo Kang*
 <br><br>
 ### 2020
 
@@ -1536,9 +1518,7 @@ MbPA++. This paper proposes the use of memory (a fixed memory network) in life-l
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1909.08593) [**Fine-Tuning Language Models from Human Preferences**](http://arxiv.org/abs/1909.08593),<br> by *Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul F. Christiano and Geoffrey Irving*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_57th_Conference_of_the_Association_for_Computational
-Linguistics,_{ACL}_2019,_Florence,_Italy,_July_28--_August_2,_2019,
-Volume_1:_Long_Papers-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/p19-1598) [**Barack's Wife Hillary: Using Knowledge Graphs for Fact-Aware Language
+- [<img src=https://img.shields.io/badge/ACL-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/p19-1598) [**Barack's Wife Hillary: Using Knowledge Graphs for Fact-Aware Language
 Modeling**](https://doi.org/10.18653/v1/p19-1598),<br> by *Robert L. Logan IV, Nelson F. Liu, Matthew E. Peters, Matt Gardner and Sameer Singh*
 <br><br>
 ### 2018
