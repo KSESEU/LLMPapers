@@ -44,6 +44,9 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Sewon_Min-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sewon-min)
 - [<img src=https://img.shields.io/badge/Paul_F._Christiano-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#paul-f.-christiano)
 - [<img src=https://img.shields.io/badge/Peter_West-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#peter-west)
+- [<img src=https://img.shields.io/badge/Le_Sun-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#le-sun)
+- [<img src=https://img.shields.io/badge/Xianpei_Han-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xianpei-han)
+- [<img src=https://img.shields.io/badge/Hongyu_Lin-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hongyu-lin)
 - [<img src=https://img.shields.io/badge/Jun_Zhao-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jun-zhao)
 - [<img src=https://img.shields.io/badge/Minjoon_Seo-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#minjoon-seo)
 - [<img src=https://img.shields.io/badge/Dustin_Tran-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dustin-tran)
@@ -70,14 +73,13 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Pascale_Fung-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pascale-fung)
 - [<img src=https://img.shields.io/badge/Long_Ouyang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#long-ouyang)
 - [<img src=https://img.shields.io/badge/Geoffrey_Irving-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#geoffrey-irving)
-- [<img src=https://img.shields.io/badge/Le_Sun-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#le-sun)
-- [<img src=https://img.shields.io/badge/Xianpei_Han-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xianpei-han)
-- [<img src=https://img.shields.io/badge/Hongyu_Lin-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hongyu-lin)
+- [<img src=https://img.shields.io/badge/Boxi_Cao-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#boxi-cao)
 - [<img src=https://img.shields.io/badge/Kang_Liu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kang-liu)
 - [<img src=https://img.shields.io/badge/Seonghyeon_Ye-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#seonghyeon-ye)
 - [<img src=https://img.shields.io/badge/Bing_Liu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#bing-liu)
 - [<img src=https://img.shields.io/badge/Myle_Ott-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#myle-ott)
 - [<img src=https://img.shields.io/badge/Lidong_Bing-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#lidong-bing)
+- [<img src=https://img.shields.io/badge/Shizhe_Diao-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shizhe-diao)
 - [<img src=https://img.shields.io/badge/Kun_Zhou-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kun-zhou)
 - [<img src=https://img.shields.io/badge/Mohit_Bansal-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mohit-bansal)
 - [<img src=https://img.shields.io/badge/David_Lo-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#david-lo)
@@ -104,6 +106,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Zhe_Gan-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhe-gan)
 - [<img src=https://img.shields.io/badge/William_Yang_Wang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#william-yang-wang)
 - [<img src=https://img.shields.io/badge/Wenhu_Chen-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenhu-chen)
+- [<img src=https://img.shields.io/badge/Hua_Wu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hua-wu)
 - [<img src=https://img.shields.io/badge/Huajun_Chen-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#huajun-chen)
 - [<img src=https://img.shields.io/badge/Ningyu_Zhang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ningyu-zhang)
 - [<img src=https://img.shields.io/badge/Maosong_Sun-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#maosong-sun)
@@ -122,6 +125,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Tom_Henighan-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tom-henighan)
 - [<img src=https://img.shields.io/badge/Tom_B._Brown-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tom-b.-brown)
 - [<img src=https://img.shields.io/badge/Jeffrey_Wu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jeffrey-wu)
+- [<img src=https://img.shields.io/badge/others-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#others)
 - [<img src=https://img.shields.io/badge/Noam_Shazeer-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#noam-shazeer)
 - [<img src=https://img.shields.io/badge/Ilya_Sutskever-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ilya-sutskever)
 - [<img src=https://img.shields.io/badge/Jan_Leike-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jan-leike)
@@ -142,7 +146,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Jena_D._Hwang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jena-d.-hwang)
 - [<img src=https://img.shields.io/badge/Jack_Hessel-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jack-hessel)
 - [<img src=https://img.shields.io/badge/Wen_tau_Yih-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wen-tau-yih)
-- [<img src=https://img.shields.io/badge/Boxi_Cao-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#boxi-cao)
 - [<img src=https://img.shields.io/badge/Susannah_Young-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#susannah-young)
 - [<img src=https://img.shields.io/badge/Colin_Raffel-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#colin-raffel)
 - [<img src=https://img.shields.io/badge/Mona_T._Diab-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mona-t.-diab)
@@ -175,7 +178,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Yoon_Kim-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yoon-kim)
 - [<img src=https://img.shields.io/badge/Chuanqi_Tan-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chuanqi-tan)
 - [<img src=https://img.shields.io/badge/Tong_Zhang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tong-zhang)
-- [<img src=https://img.shields.io/badge/Shizhe_Diao-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shizhe-diao)
 - [<img src=https://img.shields.io/badge/Xin_Xu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xin-xu)
 - [<img src=https://img.shields.io/badge/Pan_Lu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pan-lu)
 - [<img src=https://img.shields.io/badge/Guilin_Qi-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#guilin-qi)
@@ -217,7 +219,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Wenhui_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenhui-wang)
 - [<img src=https://img.shields.io/badge/Yen_Chun_Chen-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yen-chun-chen)
 - [<img src=https://img.shields.io/badge/Haifeng_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#haifeng-wang)
-- [<img src=https://img.shields.io/badge/Hua_Wu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hua-wu)
 - [<img src=https://img.shields.io/badge/Yasheng_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yasheng-wang)
 - [<img src=https://img.shields.io/badge/Xisen_Jin-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xisen-jin)
 - [<img src=https://img.shields.io/badge/Mikel_Artetxe-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mikel-artetxe)
@@ -254,7 +255,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Zhifang_Sui-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhifang-sui)
 - [<img src=https://img.shields.io/badge/Damai_Dai-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#damai-dai)
 - [<img src=https://img.shields.io/badge/Rewon_Child-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#rewon-child)
-- [<img src=https://img.shields.io/badge/others-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#others)
 - [<img src=https://img.shields.io/badge/Gholamreza_Haffari-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#gholamreza-haffari)
 - [<img src=https://img.shields.io/badge/Vedant_Misra-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#vedant-misra)
 - [<img src=https://img.shields.io/badge/Christopher_Hesse-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#christopher-hesse)
@@ -280,6 +280,8 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Junjie_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#junjie-zhang)
 - [<img src=https://img.shields.io/badge/Yupeng_Hou-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yupeng-hou)
 - [<img src=https://img.shields.io/badge/Jiawei_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiawei-zhang)
+- [<img src=https://img.shields.io/badge/Yaojie_Lu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yaojie-lu)
+- [<img src=https://img.shields.io/badge/Renjie_Pi-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#renjie-pi)
 - [<img src=https://img.shields.io/badge/Jiahui_Gao-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiahui-gao)
 - [<img src=https://img.shields.io/badge/Peter_Hase-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#peter-hase)
 - [<img src=https://img.shields.io/badge/Xiaonan_Li-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiaonan-li)
@@ -328,6 +330,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Simiao_Zuo-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#simiao-zuo)
 - [<img src=https://img.shields.io/badge/Jiawei_Han-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiawei-han)
 - [<img src=https://img.shields.io/badge/Jiaxin_Huang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiaxin-huang)
+- [<img src=https://img.shields.io/badge/Yong_Lin-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yong-lin)
 - [<img src=https://img.shields.io/badge/Beichen_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#beichen-zhang)
 - [<img src=https://img.shields.io/badge/Sebastian_Borgeaud-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sebastian-borgeaud)
 - [<img src=https://img.shields.io/badge/Douglas_C._Schmidt-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#douglas-c.-schmidt)
@@ -1344,6 +1347,54 @@ Models**](https://doi.org/10.18653/v1/2022.naacl-main.341),<br> by *Peter West, 
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.13636) [**Quark: Controllable Text Generation with Reinforced Unlearning**](https://doi.org/10.48550/arXiv.2205.13636),<br> by *Ximing Lu, Sean Welleck, Liwei Jiang, Jack Hessel, Lianhui Qin, Peter West, Prithviraj Ammanabrolu and Yejin Choi*
 <br><br>
+### Le Sun
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
+Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
+Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
+<br><br>
+### Xianpei Han
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
+Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
+Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
+<br><br>
+### Hongyu Lin
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
+Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
+Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
+<br><br>
 ### Jun Zhao
 
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09561) [**Large Language Models are reasoners with Self-Verification**](https://doi.org/10.48550/arXiv.2212.09561),<br> by *Yixuan Weng, Minjun Zhu, Shizhu He, Kang Liu and Jun Zhao*
@@ -1725,35 +1776,13 @@ Proposing an adapter-based method for continual learning in text generation. One
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1909.08593) [**Fine-Tuning Language Models from Human Preferences**](http://arxiv.org/abs/1909.08593),<br> by *Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul F. Christiano and Geoffrey Irving*
 <br><br>
-### Le Sun
+### Boxi Cao
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
-Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
-Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
-<br><br>
-### Xianpei Han
-
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
-Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
-Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
-<br><br>
-### Hongyu Lin
-
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
 Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
@@ -1840,6 +1869,18 @@ Perspective**](https://doi.org/10.48550/arXiv.2212.10529),<br> by *Xingxuan Li, 
 <br>``
 we first show that adapter-based tuning better mitigates forgetting issues than fine-tuning since it yields representations with less deviation from those generated by the initial PrLM. Effectiveness: it tendsto outperform fine-tuning on both low-resource and cross-lingual tasks; 2 it demonstrates higher stability under different learning rates compared to fine-tuning.
 ``
+<br><br>
+### Shizhe Diao
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12246) [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246),<br> by *Shizhe Diao, Pengcheng Wang, Yong Lin and Tong Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12822) [**Automatic Prompt Augmentation and Selection with Chain-of-Thought
+from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822),<br> by *Kashun Shum, Shizhe Diao and Tong Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.259) [**Taming Pre-trained Language Models with N-gram Representations for
+Low-Resource Domain Adaptation**](https://doi.org/10.18653/v1/2021.acl-long.259),<br> by *Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang*
 <br><br>
 ### Kun Zhou
 
@@ -2176,6 +2217,23 @@ for Numerical Reasoning Tasks**](https://doi.org/10.48550/arXiv.2211.12588),<br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.findings-emnlp.190) [**Logic2Text: High-Fidelity Natural Language Generation from Logical
 Forms**](https://doi.org/10.18653/v1/2020.findings-emnlp.190),<br> by *Zhiyu Chen, Wenhu Chen, Hanwen Zha, Xiyou Zhou, Yunkai Zhang, Sairam Sundaresan and William Yang Wang*
 <br><br>
+### Hua Wu
+
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.02137) [**ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language
+Understanding and Generation**](https://arxiv.org/abs/2107.02137),<br> by *Yu Sun, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu, Xuyi Chen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.acl-main.9) [**PLATO: Pre-trained Dialogue Generation Model with Discrete Latent
+Variable**](https://doi.org/10.18653/v1/2020.acl-main.9),<br> by *Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6428) [**ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding**](https://ojs.aaai.org/index.php/AAAI/article/view/6428),<br> by *Sun, Yu, Wang, Shuohuan, Li, Yukun, Feng, Shikun, Tian, Hao, Wu, Hua and Wang, Haifeng*
+<br>``
+In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.
+``
+<br><br>
 ### Huajun Chen
 
 - [<img src=https://img.shields.io/badge/WWW-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3485447.3511921) [**Ontology-enhanced Prompt-tuning for Few-shot Learning**](https://doi.org/10.1145/3485447.3511921),<br> by *Hongbin Ye, Ningyu Zhang, Shumin Deng, Xiang Chen, Hui Chen, Feiyu Xiong, Xi Chen and Huajun Chen*
@@ -2411,6 +2469,16 @@ from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862),<br> by *Yunta
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1909.08593) [**Fine-Tuning Language Models from Human Preferences**](http://arxiv.org/abs/1909.08593),<br> by *Daniel M. Ziegler, Nisan Stiennon, Jeffrey Wu, Tom B. Brown, Alec Radford, Dario Amodei, Paul F. Christiano and Geoffrey Irving*
 <br><br>
+### others
+
+- [<img src=https://img.shields.io/badge/PLOS_Digital_Health-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text) [**Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text),<br> by *Kung, Tiffany H, Cheatham, Morgan, Medenilla, Arielle, Sillos, Czarina, De Leon, Lorie, Elepa\~no, Camille, Madriaga, Maria, Aggabao, Rimel et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/abs/2303.03378), [<img src=https://img.shields.io/badge/PaLM--E-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) <br> by *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/OpenAI-2018-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [**Improving language understanding by generative pre-training**](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [<img src=https://img.shields.io/badge/GPT--1-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) <br> by *Radford, Alec, Narasimhan, Karthik, Salimans, Tim, Sutskever, Ilya and others*
+<br><br>
 ### Noam Shazeer
 
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2201.08239) [**LaMDA: Language Models for Dialog Applications**](https://arxiv.org/abs/2201.08239),<br> by *Romal Thoppilan, Daniel De Freitas, Jamie Hall, Noam Shazeer, Apoorv Kulshreshtha, Heng-Tze Cheng, Alicia Jin, Taylor Bos et al.*
@@ -2613,16 +2681,6 @@ Optimization**](https://doi.org/10.48550/arXiv.2210.01241),<br> by *Rajkumar Ram
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2211.12561) [**Retrieval-Augmented Multimodal Language Modeling**](https://doi.org/10.48550/arXiv.2211.12561),<br> by *Michihiro Yasunaga, Armen Aghajanyan, Weijia Shi, Rich James, Jure Leskovec, Percy Liang, Mike Lewis, Luke Zettlemoyer et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html) [**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html),<br> by *Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\"uttler, Mike Lewis et al.*
-<br><br>
-### Boxi Cao
-
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.07616) [**The Life Cycle of Knowledge in Big Language Models: A Survey**](https://doi.org/10.48550/arXiv.2303.07616),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.398) [**Can Prompt Probe Pretrained Language Models? Understanding the Invisible
-Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Fangchao Liu and Le Sun*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
-Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
 <br><br>
 ### Susannah Young
 
@@ -2943,16 +3001,6 @@ The approach learns a task-specific “diff” vector that extends the original 
 - [<img src=https://img.shields.io/badge/NAACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.bionlp-1.20) [**Improving Biomedical Pretrained Language Models with Knowledge**](https://doi.org/10.18653/v1/2021.bionlp-1.20),<br> by *Zheng Yuan, Yijia Liu, Chuanqi Tan, Songfang Huang and Fei Huang*
 <br><br>
 ### Tong Zhang
-
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12246) [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246),<br> by *Shizhe Diao, Pengcheng Wang, Yong Lin and Tong Zhang*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12822) [**Automatic Prompt Augmentation and Selection with Chain-of-Thought
-from Labeled Data**](https://doi.org/10.48550/arXiv.2302.12822),<br> by *Kashun Shum, Shizhe Diao and Tong Zhang*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.259) [**Taming Pre-trained Language Models with N-gram Representations for
-Low-Resource Domain Adaptation**](https://doi.org/10.18653/v1/2021.acl-long.259),<br> by *Shizhe Diao, Ruijia Xu, Hongjin Su, Yilei Jiang, Yan Song and Tong Zhang*
-<br><br>
-### Shizhe Diao
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12246) [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246),<br> by *Shizhe Diao, Pengcheng Wang, Yong Lin and Tong Zhang*
 <br><br>
@@ -3382,19 +3430,6 @@ Variable**](https://doi.org/10.18653/v1/2020.acl-main.9),<br> by *Siqi Bao, Huan
 In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.
 ``
 <br><br>
-### Hua Wu
-
-- [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.02137) [**ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language
-Understanding and Generation**](https://arxiv.org/abs/2107.02137),<br> by *Yu Sun, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu, Xuyi Chen et al.*
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.acl-main.9) [**PLATO: Pre-trained Dialogue Generation Model with Discrete Latent
-Variable**](https://doi.org/10.18653/v1/2020.acl-main.9),<br> by *Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang*
-<br><br>
-- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6428) [**ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding**](https://ojs.aaai.org/index.php/AAAI/article/view/6428),<br> by *Sun, Yu, Wang, Shuohuan, Li, Yukun, Feng, Shikun, Tian, Hao, Wu, Hua and Wang, Haifeng*
-<br>``
-In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.
-``
-<br><br>
 ### Yasheng Wang
 
 - [<img src=https://img.shields.io/badge/NeurIPS-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=oOte_397Q4P) [**Sparse Structure Search for Delta Tuning**](https://openreview.net/forum?id=oOte_397Q4P),<br> by *Shengding Hu, Zhen Zhang, Ning Ding, Yadao Wang, Yasheng Wang, Zhiyuan Liu and Maosong Sun*
@@ -3790,14 +3825,6 @@ Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by
 <br><br>
 - [<img src=https://img.shields.io/badge/OpenAI-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) [**Language Models are Unsupervised Multitask Learners**](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf), [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Radford, Alec, Wu, Jeffrey, Child, Rewon, Luan, David, Amodei, Dario and Sutskever, Ilya*
 <br><br>
-### others
-
-- [<img src=https://img.shields.io/badge/PLOS_Digital_Health-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text) [**Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text),<br> by *Kung, Tiffany H, Cheatham, Morgan, Medenilla, Arielle, Sillos, Czarina, De Leon, Lorie, Elepa\~no, Camille, Madriaga, Maria, Aggabao, Rimel et al.*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/abs/2303.03378), [<img src=https://img.shields.io/badge/PaLM--E-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.03378) <br> by *Driess, Danny, Xia, Fei, Sajjadi, Mehdi SM, Lynch, Corey, Chowdhery, Aakanksha, Ichter, Brian, Wahid, Ayzaan, Tompson, Jonathan et al.*
-<br><br>
-- [<img src=https://img.shields.io/badge/OpenAI-2018-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) [**Improving language understanding by generative pre-training**](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf), [<img src=https://img.shields.io/badge/GPT--1-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) <br> by *Radford, Alec, Narasimhan, Karthik, Salimans, Tim, Sutskever, Ilya and others*
-<br><br>
 ### Gholamreza Haffari
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12868) [**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained
@@ -4046,6 +4073,20 @@ System**](https://doi.org/10.48550/arXiv.2303.14524),<br> by *Yunfan Gao, Tao Sh
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.11116) [**Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via
 Prompt Augmented by ChatGPT**](https://doi.org/10.48550/arXiv.2304.11116),<br> by *Jiawei Zhang*
+<br><br>
+### Yaojie Lu
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.16421) [**ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models**](https://arxiv.org/abs/2303.16421),<br> by *Ning Bian, Xianpei Han, Le Sun, Hongyu Lin, Yaojie Lu and Ben He*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+### Renjie Pi
+
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=h5OpjGd_lo6) [**Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning**](https://openreview.net/forum?id=h5OpjGd_lo6),<br> by *Gao, Jiahui, Pi, Renjie, Yong, LIN, Xu, Hang, Ye, Jiacheng, Wu, Zhiyong, ZHANG, WEIZHONG, Liang, Xiaodan et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
 <br><br>
 ### Jiahui Gao
 
@@ -4369,6 +4410,12 @@ Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huan
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2202.04538) [**Generating Training Data with Language Models: Towards Zero-Shot Language
 Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huang, Yu Zhang and Jiawei Han*
+<br><br>
+### Yong Lin
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12246) [**Active Prompting with Chain-of-Thought for Large Language Models**](https://doi.org/10.48550/arXiv.2302.12246),<br> by *Shizhe Diao, Pengcheng Wang, Yong Lin and Tong Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
 <br><br>
 ### Beichen Zhang
 

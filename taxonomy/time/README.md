@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-113-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-116-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-105-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -311,6 +311,15 @@ July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" /
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14450) [**Is Information Extraction Solved by ChatGPT? An Analysis of Performance,
 Evaluation Criteria, Robustness and Errors**](https://doi.org/10.48550/arXiv.2305.14450),<br> by *Ridong Han, Tao Peng, Chaohao Yang, Benyou Wang, Lu Liu and Xiang Wan*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.00267) [**RLAIF: Scaling Reinforcement Learning from Human Feedback with AI
+Feedback**](https://doi.org/10.48550/arXiv.2309.00267),<br> by *Harrison Lee, Samrat Phatale, Hassan Mansoor, Kellie Lu, Thomas Mesnard, Colton Bishop, Victor Carbune and Abhinav Rastogi*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
 <br><br>
 ### 2022
 

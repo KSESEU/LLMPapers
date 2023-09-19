@@ -17,7 +17,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Survey-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
-- [<img src=https://img.shields.io/badge/RLHF-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
+- [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
 - [<img src=https://img.shields.io/badge/Pre--Training_Techniques-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#pre-training-techniques)
   - [<img src=https://img.shields.io/badge/Mixtures_of_Experts-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#mixtures-of-experts)
 - [<img src=https://img.shields.io/badge/Knowledge_Enhanced-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-enhanced)
@@ -40,7 +40,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Software_Engineering-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#software-engineering)
 - [<img src=https://img.shields.io/badge/AIGC-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#aigc)
   - [<img src=https://img.shields.io/badge/Controllable_Text_Generation-9-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#controllable-text-generation)
-- [<img src=https://img.shields.io/badge/Continual_Learning-45-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#continual-learning)
+- [<img src=https://img.shields.io/badge/Continual_Learning-46-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#continual-learning)
 - [<img src=https://img.shields.io/badge/Prompt_Engineering-32-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#prompt-engineering)
 - [<img src=https://img.shields.io/badge/Natural_Language_Understanding-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#natural-language-understanding)
 - [<img src=https://img.shields.io/badge/Multimodal-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multimodal)
@@ -53,7 +53,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#application)
@@ -409,6 +409,9 @@ on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yiz
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.15217) [**Open Problems and Fundamental Limitations of Reinforcement Learning
 from Human Feedback**](https://doi.org/10.48550/arXiv.2307.15217),<br> by *Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, J\'er\'emy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.00267) [**RLAIF: Scaling Reinforcement Learning from Human Feedback with AI
+Feedback**](https://doi.org/10.48550/arXiv.2309.00267),<br> by *Harrison Lee, Samrat Phatale, Hassan Mansoor, Kellie Lu, Thomas Mesnard, Colton Bishop, Victor Carbune and Abhinav Rastogi*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2204.05862) [**Training a Helpful and Harmless Assistant with Reinforcement Learning
 from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862),<br> by *Yuntao Bai, Andy Jones, Kamal Ndousse, Amanda Askell, Anna Chen, Nova DasSarma, Dawn Drain, Stanislav Fort et al.*
@@ -1251,6 +1254,8 @@ model?**](https://doi.org/10.48550/arXiv.2308.04014),<br> by *Kshitij Gupta, Ben
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.212) [**Small Pre-trained Language Models Can be Fine-tuned as Large Models
 via Over-Parameterization**](https://doi.org/10.18653/v1/2023.acl-long.212),<br> by *Ze-Feng Gao, Kun Zhou, Peiyu Liu, Wayne Xin Zhao and Ji-Rong Wen*
 <br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.00024) [**Learning to Prompt for Continual Learning**](https://doi.org/10.1109/CVPR52688.2022.00024),<br> by *Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/T--PAMI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/TPAMI.2021.3057446) [**A Continual Learning Survey: Defying Forgetting in Classification
@@ -1765,6 +1770,10 @@ July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" /
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14450) [**Is Information Extraction Solved by ChatGPT? An Analysis of Performance,
 Evaluation Criteria, Robustness and Errors**](https://doi.org/10.48550/arXiv.2305.14450),<br> by *Ridong Han, Tao Peng, Chaohao Yang, Benyou Wang, Lu Liu and Xiang Wan*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.130) [**Large language models are few-shot clinical information extractors**](https://aclanthology.org/2022.emnlp-main.130),<br> by *Monica Agrawal, Stefan Hegselmann, Hunter Lang, Yoon Kim and David A. Sontag*
 <br><br>
