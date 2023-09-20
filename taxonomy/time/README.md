@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-116-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-118-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-105-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -320,6 +320,15 @@ Feedback**](https://doi.org/10.48550/arXiv.2309.00267),<br> by *Harrison Lee, Sa
 - [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
 Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
 July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.03118) [**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from
+Knowledge Graphs**](https://doi.org/10.48550/arXiv.2309.03118),<br> by *Chao Feng, Xinyu Zhang and Zichu Fei*
+<br><br>
+- [<img src=https://img.shields.io/badge/Joint_the_Second_International_Workshop_on_Knowledge
+Graph_Generation_From_Text_and_the_First_International_BiKE_Challenge
+co--located_with_20th_Extended_Semantic_Conference_{(ESWC}_2023),_Hersonissos,
+Greece,_May_29th,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
+Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
 <br><br>
 ### 2022
 

@@ -15,7 +15,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
 - [<img src=https://img.shields.io/badge/Survey-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#survey)
-- [<img src=https://img.shields.io/badge/In--Context_Learning-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
+- [<img src=https://img.shields.io/badge/In--Context_Learning-32-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#rlhf)
 - [<img src=https://img.shields.io/badge/Pre--Training_Techniques-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#pre-training-techniques)
@@ -60,7 +60,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#generalizability)
 - [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-15-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#language-model-as-knowledge-base)
-- [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#retrieval-augmented-language-model)
+- [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#retrieval-augmented-language-model)
 - [<img src=https://img.shields.io/badge/Quality-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#quality)
 - [<img src=https://img.shields.io/badge/Interpretability/Explainability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#interpretability/explainability)
 - [<img src=https://img.shields.io/badge/Data_Generation-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-generation)
@@ -252,6 +252,12 @@ Finding Good Demonstrations for In-Context Learning**](https://doi.org/10.48550/
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14128) [**Dr.ICL: Demonstration-Retrieved In-context Learning**](https://doi.org/10.48550/arXiv.2305.14128),<br> by *Man Luo, Xin Xu, Zhuyun Dai, Panupong Pasupat, Seyed Mehran Kazemi, Chitta Baral, Vaiva Imbrasaite and Vincent Y. Zhao*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.256) [**Unified Demonstration Retriever for In-Context Learning**](https://doi.org/10.18653/v1/2023.acl-long.256),<br> by *Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, Xiaoling Wang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/Joint_the_Second_International_Workshop_on_Knowledge
+Graph_Generation_From_Text_and_the_First_International_BiKE_Challenge
+co--located_with_20th_Extended_Semantic_Conference_{(ESWC}_2023),_Hersonissos,
+Greece,_May_29th,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
+Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
 <br>``
@@ -1892,6 +1898,9 @@ Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346),<br> by *T
 Image Captioning**](https://doi.org/10.48550/arXiv.2302.04858),<br> by *Zhuolin Yang, Wei Ping, Zihan Liu, Vijay Korthikanti, Weili Nie, De-An Huang, Linxi Fan, Zhiding Yu et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.46) [**The Web Can Be Your Oyster for Improving Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.46),<br> by *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jingyuan Wang, Jian-Yun Nie and Ji-Rong Wen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.03118) [**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from
+Knowledge Graphs**](https://doi.org/10.48550/arXiv.2309.03118),<br> by *Chao Feng, Xinyu Zhang and Zichu Fei*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2202.01110) [**A Survey on Retrieval-Augmented Text Generation**](https://arxiv.org/abs/2202.01110),<br> by *Huayang Li, Yixuan Su, Deng Cai, Yan Wang and Lemao Liu*
 <br><br>
