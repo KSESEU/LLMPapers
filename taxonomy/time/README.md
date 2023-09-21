@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-118-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-125-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-105-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -329,6 +329,25 @@ Graph_Generation_From_Text_and_the_First_International_BiKE_Challenge
 co--located_with_20th_Extended_Semantic_Conference_{(ESWC}_2023),_Hersonissos,
 Greece,_May_29th,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
 Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.428) [**WebIE: Faithful and Robust Information Extraction on the Web**](https://doi.org/10.18653/v1/2023.acl-long.428),<br> by *Chenxi Whitehouse, Clara Vania, Alham Fikri Aji, Christos Christodoulopoulos and Andrea Pierleoni*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.03109) [**A Survey on Evaluation of Large Language Models**](https://doi.org/10.48550/arXiv.2307.03109),<br> by *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.01137) [**Exploring the In-context Learning Ability of Large Language Model
+for Biomedical Concept Linking**](https://doi.org/10.48550/arXiv.2307.01137),<br> by *Qinyong Wang, Zhenxiang Gao and Rong Xu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.03393) [**Exploring the Potential of Large Language Models (LLMs) in Learning
+on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.07134) [**Natural Language is All a Graph Needs**](https://doi.org/10.48550/arXiv.2308.07134),<br> by *Ruosong Ye, Caiqi Zhang, Runhui Wang, Shuyuan Xu and Yongfeng Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.14522) [**Large Graph Models: A Perspective**](https://doi.org/10.48550/arXiv.2308.14522),<br> by *Ziwei Zhang, Haoyang Li, Zeyang Zhang, Yijian Qin, Xin Wang and Wenwu Zhu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.04565) [**Unleashing the Power of Graph Learning through LLM-based Autonomous
+Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
 <br><br>
 ### 2022
 
