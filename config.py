@@ -120,6 +120,8 @@ fined_taxonomy = {
                    'Interpretability/Explainability',
                    'Data Generation',
                    'Safety',
+                   'Graph Learning',
+                   'Knowledge Storage and Locating',
                    'Others']
 }
 

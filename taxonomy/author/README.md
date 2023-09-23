@@ -117,6 +117,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Eric_Wallace-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#eric-wallace)
 - [<img src=https://img.shields.io/badge/Dale_Schuurmans-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dale-schuurmans)
 - [<img src=https://img.shields.io/badge/Hao_Peng-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hao-peng)
+- [<img src=https://img.shields.io/badge/Omer_Levy-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#omer-levy)
 - [<img src=https://img.shields.io/badge/Shixiang_Shane_Gu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shixiang-shane-gu)
 - [<img src=https://img.shields.io/badge/Veselin_Stoyanov-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#veselin-stoyanov)
 - [<img src=https://img.shields.io/badge/Ramakanth_Pasunuru-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ramakanth-pasunuru)
@@ -132,6 +133,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Jan_Leike-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jan-leike)
 - [<img src=https://img.shields.io/badge/Jie_Tang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jie-tang)
 - [<img src=https://img.shields.io/badge/Nicholas_Joseph-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#nicholas-joseph)
+- [<img src=https://img.shields.io/badge/Jonathan_Berant-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jonathan-berant)
 - [<img src=https://img.shields.io/badge/Weijia_Shi-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#weijia-shi)
 - [<img src=https://img.shields.io/badge/Antoine_Bosselut-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#antoine-bosselut)
 - [<img src=https://img.shields.io/badge/Graham_Neubig-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#graham-neubig)
@@ -240,7 +242,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Yao_Fu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yao-fu)
 - [<img src=https://img.shields.io/badge/Huan_Sun-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#huan-sun)
 - [<img src=https://img.shields.io/badge/Daniel_Khashabi-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#daniel-khashabi)
-- [<img src=https://img.shields.io/badge/Omer_Levy-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#omer-levy)
 - [<img src=https://img.shields.io/badge/Jacob_Devlin-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jacob-devlin)
 - [<img src=https://img.shields.io/badge/Jeff_Dean-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jeff-dean)
 - [<img src=https://img.shields.io/badge/Sharan_Narang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sharan-narang)
@@ -264,7 +265,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Dan_Roth-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dan-roth)
 - [<img src=https://img.shields.io/badge/Aston_Zhang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#aston-zhang)
 - [<img src=https://img.shields.io/badge/Zhuosheng_Zhang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhuosheng-zhang)
-- [<img src=https://img.shields.io/badge/Jonathan_Berant-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jonathan-berant)
+- [<img src=https://img.shields.io/badge/Mor_Geva-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mor-geva)
 - [<img src=https://img.shields.io/badge/Nayeon_Lee-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#nayeon-lee)
 - [<img src=https://img.shields.io/badge/Jure_Leskovec-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jure-leskovec)
 - [<img src=https://img.shields.io/badge/Hongyu_Ren-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hongyu-ren)
@@ -613,7 +614,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Yuhuai_Wu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yuhuai-wu)
 - [<img src=https://img.shields.io/badge/Rishi_Bommasani-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#rishi-bommasani)
 - [<img src=https://img.shields.io/badge/Amir_Globerson-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#amir-globerson)
-- [<img src=https://img.shields.io/badge/Mor_Geva-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mor-geva)
 - [<img src=https://img.shields.io/badge/Roi_Cohen-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#roi-cohen)
 - [<img src=https://img.shields.io/badge/Yan_Xu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yan-xu)
 - [<img src=https://img.shields.io/badge/Tiezheng_Yu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tiezheng-yu)
@@ -2359,6 +2359,27 @@ Models' Reasoning Performance**](https://doi.org/10.48550/arXiv.2305.17306),<br>
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.00720) [**Complexity-Based Prompting for Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2210.00720),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
 <br><br>
+### Omer Levy
+
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
+Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
+<br>``
+(1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
+``<br>``
+(2) 测量两个指标：1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
+``<br>``
+(3) 相比于GPT-3，InstructGPT效果更好，理所当然。
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
+Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.acl-main.703) [**BART: Denoising Sequence-to-Sequence Pre-training for Natural Language
+Generation, Translation, and Comprehension**](https://doi.org/10.18653/v1/2020.acl-main.703),<br> by *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov and Luke Zettlemoyer*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692), [<img src=https://img.shields.io/badge/RoBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/1907.11692) <br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
+<br><br>
 ### Shixiang Shane Gu
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.12192) [**Aligning Text-to-Image Models using Human Feedback**](https://doi.org/10.48550/arXiv.2302.12192),<br> by *Kimin Lee, Hao Liu, Moonkyung Ryu, Olivia Watkins, Yuqing Du, Craig Boutilier, Pieter Abbeel, Mohammad Ghavamzadeh et al.*
@@ -2551,6 +2572,30 @@ from Human Feedback**](https://doi.org/10.48550/arXiv.2204.05862),<br> by *Yunta
 and Lessons Learned**](https://doi.org/10.48550/arXiv.2209.07858),<br> by *Deep Ganguli, Liane Lovitt, Jackson Kernion, Amanda Askell, Yuntao Bai, Saurav Kadavath, Ben Mann, Ethan Perez et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [**Evaluating Large Language Models Trained on Code**](https://arxiv.org/abs/2107.03374),<br> by *Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, Henrique Pond\'e de Oliveira Pinto, Jared Kaplan, Harrison Edwards, Yuri Burda et al.*
+<br><br>
+### Jonathan Berant
+
+- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12810) [**Crawling the Internal Knowledge-Base of Language Models**](https://doi.org/10.48550/arXiv.2301.12810),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
+<br>``
+本文提出一种从语言模型中提取结构化知识图谱的方法；使用专门设计的提示来控制提取过程中的精度和召回率；在GPT-3上进行了评估，显示了高精确度的结果。
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-eacl.139) [**Crawling The Internal Knowledge-Base of Language Models**](https://aclanthology.org/2023.findings-eacl.139),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
+<br><br>
+- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.191) [**Learning To Retrieve Prompts for In-Context Learning**](https://doi.org/10.18653/v1/2022.naacl-main.191), [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) [<img src=https://img.shields.io/badge/GPT--Neo-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gpt_neo) [<img src=https://img.shields.io/badge/Codex-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [<img src=https://img.shields.io/badge/GPT--J-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gptj) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) <br> by *Ohad Rubin, Jonathan Herzig and Jonathan Berant*
+<br>``
+This paper proposes a method to retrieve good contexts for in-context learning. Specifically, the method
+``<br>``
+(1) uses an unsupervised retriever (BM25/SBERT) to obtain a set of context candidates,
+``<br>``
+(2) passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex) and select the top/bottom k as positive/negative examples,
+``<br>``
+(3) uses the examples to train a dense retriever (BERT-based).
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
+Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
 <br><br>
 ### Weijia Shi
 
@@ -3645,23 +3690,6 @@ Again**](https://aclanthology.org/2022.findings-emnlp.329),<br> by *Bernal Jimen
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2211.00053) [**Generating Sequences by Learning to Self-Correct**](https://doi.org/10.48550/arXiv.2211.00053),<br> by *Sean Welleck, Ximing Lu, Peter West, Faeze Brahman, Tianxiao Shen, Daniel Khashabi and Yejin Choi*
 <br><br>
-### Omer Levy
-
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
-Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
-<br>``
-(1) 探索了利用LLM在几个样本的情况下归纳出任务指令的能力；
-``<br>``
-(2) 测量两个指标：1. 模型归纳指令与人类归纳的指令对比，2. 利用模型归纳的指令作为prompt进行预测的执行准确率；
-``<br>``
-(3) 相比于GPT-3，InstructGPT效果更好，理所当然。
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.acl-main.703) [**BART: Denoising Sequence-to-Sequence Pre-training for Natural Language
-Generation, Translation, and Comprehension**](https://doi.org/10.18653/v1/2020.acl-main.703),<br> by *Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov and Luke Zettlemoyer*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692), [<img src=https://img.shields.io/badge/RoBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/1907.11692) <br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
-<br><br>
 ### Jacob Devlin
 
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.11416) [**Scaling Instruction-Finetuned Language Models**](https://doi.org/10.48550/arXiv.2210.11416),<br> by *Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Eric Li, Xuezhi Wang et al.*
@@ -3919,7 +3947,7 @@ Case Study at 66 Billion Scale**](https://doi.org/10.48550/arXiv.2212.09095),<br
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.03493) [**Automatic Chain of Thought Prompting in Large Language Models**](https://doi.org/10.48550/arXiv.2210.03493),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li and Alex Smola*
 <br><br>
-### Jonathan Berant
+### Mor Geva
 
 - [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12810) [**Crawling the Internal Knowledge-Base of Language Models**](https://doi.org/10.48550/arXiv.2301.12810),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
 <br>``
@@ -3928,16 +3956,9 @@ Case Study at 66 Billion Scale**](https://doi.org/10.48550/arXiv.2212.09095),<br
 <br><br>
 - [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-eacl.139) [**Crawling The Internal Knowledge-Base of Language Models**](https://aclanthology.org/2023.findings-eacl.139),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
 <br><br>
-- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.191) [**Learning To Retrieve Prompts for In-Context Learning**](https://doi.org/10.18653/v1/2022.naacl-main.191), [<img src=https://img.shields.io/badge/GPT--3-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) [<img src=https://img.shields.io/badge/GPT--Neo-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gpt_neo) [<img src=https://img.shields.io/badge/Codex-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2107.03374) [<img src=https://img.shields.io/badge/GPT--J-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://huggingface.co/docs/transformers/model_doc/gptj) [<img src=https://img.shields.io/badge/SBERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/D19-1410/) [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) <br> by *Ohad Rubin, Jonathan Herzig and Jonathan Berant*
-<br>``
-This paper proposes a method to retrieve good contexts for in-context learning. Specifically, the method
-``<br>``
-(1) uses an unsupervised retriever (BM25/SBERT) to obtain a set of context candidates,
-``<br>``
-(2) passes the candidates to a scoring model (GPT-Neo/GPT-J/GPT-3/Codex) and select the top/bottom k as positive/negative examples,
-``<br>``
-(3) uses the examples to train a dense retriever (BERT-based).
-``
+- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
+Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
 <br><br>
 ### Nayeon Lee
 
@@ -6484,15 +6505,6 @@ Models with Diverse Prompts**](https://openreview.net/forum?id=DhzIU48OcZh),<br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2206.07682) [**Emergent Abilities of Large Language Models**](https://doi.org/10.48550/arXiv.2206.07682),<br> by *Jason Wei, Yi Tay, Rishi Bommasani, Colin Raffel, Barret Zoph, Sebastian Borgeaud, Dani Yogatama, Maarten Bosma et al.*
 <br><br>
 ### Amir Globerson
-
-- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12810) [**Crawling the Internal Knowledge-Base of Language Models**](https://doi.org/10.48550/arXiv.2301.12810),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
-<br>``
-本文提出一种从语言模型中提取结构化知识图谱的方法；使用专门设计的提示来控制提取过程中的精度和召回率；在GPT-3上进行了评估，显示了高精确度的结果。
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-eacl.139) [**Crawling The Internal Knowledge-Base of Language Models**](https://aclanthology.org/2023.findings-eacl.139),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
-<br><br>
-### Mor Geva
 
 - [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12810) [**Crawling the Internal Knowledge-Base of Language Models**](https://doi.org/10.48550/arXiv.2301.12810),<br> by *Roi Cohen, Mor Geva, Jonathan Berant and Amir Globerson*
 <br>``

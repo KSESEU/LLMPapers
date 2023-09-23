@@ -66,6 +66,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Data_Generation-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#data-generation)
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#graph-learning)
+- [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1967,6 +1968,12 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.04565) [**Unleashing the Power of Graph Learning through LLM-based Autonomous
 Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
+<br><br>
+### Knowledge Storage and Locating
+
+- [<img src=https://img.shields.io/badge/the_2021_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2021,_Virtual_Event_/_Punta_Cana,_Dominican
+Republic,_7--11_November,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
 <br><br>
 ### Others
 
