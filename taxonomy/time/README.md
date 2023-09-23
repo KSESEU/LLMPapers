@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-125-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-126-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-106-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -305,9 +305,7 @@ by Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.147),<br> 
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.514) [**Causality-aware Concept Extraction based on Knowledge-guided Prompting**](https://doi.org/10.18653/v1/2023.acl-long.514),<br> by *Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao and Rui Xie*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.868) [**Revisiting Relation Extraction in the era of Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.868),<br> by *Somin Wadhwa, Silvio Amir and Byron C. Wallace*
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.868) [**Revisiting Relation Extraction in the era of Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.868),<br> by *Somin Wadhwa, Silvio Amir and Byron C. Wallace*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14450) [**Is Information Extraction Solved by ChatGPT? An Analysis of Performance,
 Evaluation Criteria, Robustness and Errors**](https://doi.org/10.48550/arXiv.2305.14450),<br> by *Ridong Han, Tao Peng, Chaohao Yang, Benyou Wang, Lu Liu and Xiang Wan*
@@ -317,17 +315,12 @@ Feedback**](https://doi.org/10.48550/arXiv.2309.00267),<br> by *Harrison Lee, Sa
 <br><br>
 - [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2309.06256-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.06256.pdf) [**Speciality vs Generality: An Empirical Study on Catastrophic Forgetting in Fine-tuning Foundation Models**](https://arxiv.org/pdf/2309.06256.pdf),<br> by *Lin, Yong, Tan, Lu, Lin, Hangyu, Zheng, Zeming, Pi, Renjie, Zhang, Jipeng, Diao, Shizhe, Wang, Haoxiang et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
-July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.03118) [**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from
 Knowledge Graphs**](https://doi.org/10.48550/arXiv.2309.03118),<br> by *Chao Feng, Xinyu Zhang and Zichu Fei*
 <br><br>
-- [<img src=https://img.shields.io/badge/Joint_the_Second_International_Workshop_on_Knowledge
-Graph_Generation_From_Text_and_the_First_International_BiKE_Challenge
-co--located_with_20th_Extended_Semantic_Conference_{(ESWC}_2023),_Hersonissos,
-Greece,_May_29th,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
+- [<img src=https://img.shields.io/badge/ESWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
 Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.428) [**WebIE: Faithful and Robust Information Extraction on the Web**](https://doi.org/10.18653/v1/2023.acl-long.428),<br> by *Chenxi Whitehouse, Clara Vania, Alham Fikri Aji, Christos Christodoulopoulos and Andrea Pierleoni*
@@ -346,6 +339,8 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.04565) [**Unleashing the Power of Graph Learning through LLM-based Autonomous
 Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.10405) [**Editing Language Model-based Knowledge Graph Embeddings**](https://doi.org/10.48550/arXiv.2301.10405),<br> by *Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Zelin Dai, Feiyu Xiong, Wei Guo and Huajun Chen*
 <br><br>
 ### 2022
 
@@ -899,9 +894,7 @@ Models with Diverse Prompts**](https://openreview.net/forum?id=DhzIU48OcZh),<br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.611) [**Rainier: Reinforced Knowledge Introspector for Commonsense Question
 Answering**](https://aclanthology.org/2022.emnlp-main.611),<br> by *Jiacheng Liu, Skyler Hallinan, Ximing Lu, Pengfei He, Sean Welleck, Hannaneh Hajishirzi and Yejin Choi*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2022_Conference_of_the_North_American_Chapter_of
-the_Association_for_Computational_Linguistics:_Human_Language_Technologies,
-{NAACL}_2022,_Seattle,_WA,_United_States,_July_10--15,_2022-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.341) [**Symbolic Knowledge Distillation: from General Language Models to Commonsense
+- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.341) [**Symbolic Knowledge Distillation: from General Language Models to Commonsense
 Models**](https://doi.org/10.18653/v1/2022.naacl-main.341),<br> by *Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09246) [**I2D2: Inductive Knowledge Distillation with NeuroLogic and Self-Imitation**](https://doi.org/10.48550/arXiv.2212.09246),<br> by *Chandra Bhagavatula, Jena D. Hwang, Doug Downey, Ronan Le Bras, Ximing Lu, Keisuke Sakaguchi, Swabha Swayamdipta, Peter West et al.*
@@ -922,9 +915,7 @@ Language Models**](https://aclanthology.org/2022.emnlp-main.132),<br> by *Da Yin
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.653) [**RobustLR: A Diagnostic Benchmark for Evaluating Logical Robustness
 of Deductive Reasoners**](https://aclanthology.org/2022.emnlp-main.653),<br> by *Soumya Sanyal, Zeyi Liao and Xiang Ren*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_60th_Annual_Meeting_of_the_Association_for_Computational
-Linguistics_(Volume_1:_Long_Papers),_{ACL}_2022,_Dublin,_Ireland,
-May_22--27,_2022-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.116) [**Domain Knowledge Transferring for Pre-trained Language Model via Calibrated
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.116) [**Domain Knowledge Transferring for Pre-trained Language Model via Calibrated
 Activation Boundary Distillation**](https://doi.org/10.18653/v1/2022.acl-long.116),<br> by *Dongha Choi, Hongseok Choi and Hyunju Lee*
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/21496) [**Commonsense Knowledge Reasoning and Generation with Pre-trained Language
@@ -972,9 +963,7 @@ Model-Generated Explanations**](https://aclanthology.org/2022.emnlp-main.137),<b
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2206.14858) [**Solving Quantitative Reasoning Problems with Language Models**](https://doi.org/10.48550/arXiv.2206.14858),<br> by *Aitor Lewkowycz, Anders Andreassen, David Dohan, Ethan Dyer, Henryk Michalewski, Vinay V. Ramasesh, Ambrose Slone, Cem Anil et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2022_Conference_on_Empirical_Methods_in_Natural
-Language_Processing,_{EMNLP}_2022,_Abu_Dhabi,_United_Arab_Emirates,
-December_7--11,_2022-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.801) [**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**](https://aclanthology.org/2022.emnlp-main.801),<br> by *Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong*
+- [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.801) [**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**](https://aclanthology.org/2022.emnlp-main.801),<br> by *Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2202.04538) [**Generating Training Data with Language Models: Towards Zero-Shot Language
 Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huang, Yu Zhang and Jiawei Han*
@@ -1296,8 +1285,7 @@ Sense**](https://openreview.net/forum?id=3k20LAiHYL2),<br> by *Wangchunshu Zhou,
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.9) [**Mention Flags (MF): Constraining Transformer-based Text Generators**](https://doi.org/10.18653/v1/2021.acl-long.9),<br> by *Yufei Wang, Ian D. Wood, Stephen Wan, Mark Dras and Mark Johnson*
 <br><br>
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{ACL/IJCNLP}
-2021,_Online_Event,_August_1--6,_2021-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.366) [**Prompting Contrastive Explanations for Commonsense Reasoning Tasks**](https://doi.org/10.18653/v1/2021.findings-acl.366),<br> by *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Hannaneh Hajishirzi and Luke Zettlemoyer*
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.366) [**Prompting Contrastive Explanations for Commonsense Reasoning Tasks**](https://doi.org/10.18653/v1/2021.findings-acl.366),<br> by *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Hannaneh Hajishirzi and Luke Zettlemoyer*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2112.09332) [**WebGPT: Browser-assisted question-answering with human feedback**](https://arxiv.org/abs/2112.09332),<br> by *Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain et al.*
 <br><br>

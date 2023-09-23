@@ -14,7 +14,7 @@ This page categorizes the literature by the **Published Venue**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/AAAI-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
-- [<img src=https://img.shields.io/badge/ACL-66-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
+- [<img src=https://img.shields.io/badge/ACL-70-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [<img src=https://img.shields.io/badge/ACL_Findings-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [<img src=https://img.shields.io/badge/AIIoT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
 - [<img src=https://img.shields.io/badge/ASE-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ase)
@@ -29,7 +29,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/ECIR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecir)
 - [<img src=https://img.shields.io/badge/ECML-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecml)
 - [<img src=https://img.shields.io/badge/EDBT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#edbt)
-- [<img src=https://img.shields.io/badge/EMNLP-75-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
+- [<img src=https://img.shields.io/badge/EMNLP-76-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
 - [<img src=https://img.shields.io/badge/Euro--Par-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#euro-par)
 - [<img src=https://img.shields.io/badge/EvoMUSART-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#evomusart)
@@ -57,7 +57,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/KIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
 - [<img src=https://img.shields.io/badge/MM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [<img src=https://img.shields.io/badge/MSR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
-- [<img src=https://img.shields.io/badge/NAACL-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
+- [<img src=https://img.shields.io/badge/NAACL-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
 - [<img src=https://img.shields.io/badge/NeurIPS-21-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [<img src=https://img.shields.io/badge/OSDI-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [<img src=https://img.shields.io/badge/OpenAI-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-218-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-219-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -126,6 +126,10 @@ via Over-Parameterization**](https://doi.org/10.18653/v1/2023.acl-long.212),<br>
 by Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.147),<br> by *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee and Ee-Peng Lim*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.514) [**Causality-aware Concept Extraction based on Knowledge-guided Prompting**](https://doi.org/10.18653/v1/2023.acl-long.514),<br> by *Siyu Yuan, Deqing Yang, Jinxi Liu, Shuyu Tian, Jiaqing Liang, Yanghua Xiao and Rui Xie*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.868) [**Revisiting Relation Extraction in the era of Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.868),<br> by *Somin Wadhwa, Silvio Amir and Byron C. Wallace*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.764) [**Learning In-context Learning for Named Entity Recognition**](https://doi.org/10.18653/v1/2023.acl-long.764),<br> by *Jiawei Chen, Yaojie Lu, Hongyu Lin, Jie Lou, Wei Jia, Dai Dai, Hua Wu, Boxi Cao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.428) [**WebIE: Faithful and Robust Information Extraction on the Web**](https://doi.org/10.18653/v1/2023.acl-long.428),<br> by *Chenxi Whitehouse, Clara Vania, Alham Fikri Aji, Christos Christodoulopoulos and Andrea Pierleoni*
 <br><br>
@@ -185,6 +189,9 @@ Risks from a Causal View**](https://doi.org/10.18653/v1/2022.acl-long.398),<br> 
 - [<img src=https://img.shields.io/badge/ACL_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.findings-acl.50) [**Reframing Instructional Prompts to GPTk's Language**](https://doi.org/10.18653/v1/2022.findings-acl.50),<br> by *Daniel Khashabi, Chitta Baral, Yejin Choi and Hannaneh Hajishirzi*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.225) [**Generated Knowledge Prompting for Commonsense Reasoning**](https://doi.org/10.18653/v1/2022.acl-long.225),<br> by *Jiacheng Liu, Alisa Liu, Ximing Lu, Sean Welleck, Peter West, Ronan Le Bras, Yejin Choi and Hannaneh Hajishirzi*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.116) [**Domain Knowledge Transferring for Pre-trained Language Model via Calibrated
+Activation Boundary Distillation**](https://doi.org/10.18653/v1/2022.acl-long.116),<br> by *Dongha Choi, Hongseok Choi and Hyunju Lee*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.502) [**Controllable Open-ended Question Generation with A New Question
 Type Ontology**](https://doi.org/10.18653/v1/2021.acl-long.502),<br> by *Shuyang Cao and Lu Wang*
@@ -266,6 +273,8 @@ Rational LAMOL enhances LAMOL, a recent LL model, by applying critical freezing 
 - [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/wangpf3/LM-for-CommonsenseInference)<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.9) [**Mention Flags (MF): Constraining Transformer-based Text Generators**](https://doi.org/10.18653/v1/2021.acl-long.9),<br> by *Yufei Wang, Ian D. Wood, Stephen Wan, Mark Dras and Mark Johnson*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.366) [**Prompting Contrastive Explanations for Commonsense Reasoning Tasks**](https://doi.org/10.18653/v1/2021.findings-acl.366),<br> by *Bhargavi Paranjape, Julian Michael, Marjan Ghazvininejad, Hannaneh Hajishirzi and Luke Zettlemoyer*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
 Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
@@ -545,6 +554,8 @@ of Deductive Reasoners**](https://aclanthology.org/2022.emnlp-main.653),<br> by 
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.137) [**Are Hard Examples also Harder to Explain? A Study with Human and
 Model-Generated Explanations**](https://aclanthology.org/2022.emnlp-main.137),<br> by *Swarnadeep Saha, Peter Hase, Nazneen Rajani and Mohit Bansal*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.801) [**ZeroGen: Efficient Zero-shot Learning via Dataset Generation**](https://aclanthology.org/2022.emnlp-main.801),<br> by *Jiacheng Ye, Jiahui Gao, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.findings-emnlp.445) [**Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts**](https://doi.org/10.18653/v1/2022.findings-emnlp.445),<br> by *Arshiya Aggarwal, Jiao Sun and Nanyun Peng*
 <br><br>
@@ -1042,6 +1053,9 @@ Optimal Transport**](https://doi.org/10.18653/v1/2022.starsem-1.11),<br> by *Ami
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.116) [**MoEBERT: from BERT to Mixture-of-Experts via Importance-Guided Adaptation**](https://doi.org/10.18653/v1/2022.naacl-main.116),<br> by *Simiao Zuo, Qingru Zhang, Chen Liang, Pengcheng He, Tuo Zhao and Weizhu Chen*
 <br><br>
+- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.341) [**Symbolic Knowledge Distillation: from General Language Models to Commonsense
+Models**](https://doi.org/10.18653/v1/2022.naacl-main.341),<br> by *Peter West, Chandra Bhagavatula, Jack Hessel, Jena D. Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.naacl-main.340) [**Ask what's missing and what's useful: Improving Clarification Question
 Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main.340),<br> by *Bodhisattwa Prasad Majumder, Sudha Rao, Michel Galley and Julian J. McAuley*
 <br><br>
@@ -1462,6 +1476,8 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.04565) [**Unleashing the Power of Graph Learning through LLM-based Autonomous
 Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.10405) [**Editing Language Model-based Knowledge Graph Embeddings**](https://doi.org/10.48550/arXiv.2301.10405),<br> by *Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Zelin Dai, Feiyu Xiong, Wei Guo and Huajun Chen*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
