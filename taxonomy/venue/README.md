@@ -41,7 +41,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/ICDCS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icdcs)
 - [<img src=https://img.shields.io/badge/ICER-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icer)
 - [<img src=https://img.shields.io/badge/ICLR-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
-- [<img src=https://img.shields.io/badge/ICML-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icml)
+- [<img src=https://img.shields.io/badge/ICML-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icml)
 - [<img src=https://img.shields.io/badge/ICPADS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icpads)
 - [<img src=https://img.shields.io/badge/ICSE-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icse)
 - [<img src=https://img.shields.io/badge/ICSME-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icsme)
@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-219-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-224-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -879,6 +879,8 @@ targets improve semi-supervised deep learning results**](https://openreview.net/
 
 - [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/kandpal23a.html) [**Large Language Models Struggle to Learn Long-Tail Knowledge**](https://proceedings.mlr.press/v202/kandpal23a.html),<br> by *Nikhil Kandpal, Haikang Deng, Adam Roberts, Eric Wallace and Colin Raffel*
 <br><br>
+- [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/maini23a.html) [**Can Neural Network Memorization Be Localized?**](https://proceedings.mlr.press/v202/maini23a.html),<br> by *Pratyush Maini, Michael Curtis Mozer, Hanie Sedghi, Zachary Chase Lipton, J. Zico Kolter and Chiyuan Zhang*
+<br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=8lNy3QCaxHX) [**Improved logical reasoning of language models via differentiable symbolic programming**](https://openreview.net/forum?id=8lNy3QCaxHX),<br> by *Zhang, Hanlin, Li, Ziyang, Huang, Jiani, Naik, Mayur and Xing, Eric*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v162/irie22a.html) [**The Dual Form of Neural Networks Revisited: Connecting Test Time Predictions
@@ -1478,6 +1480,18 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.10405) [**Editing Language Model-based Knowledge Graph Embeddings**](https://doi.org/10.48550/arXiv.2301.10405),<br> by *Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Zelin Dai, Feiyu Xiong, Wei Guo and Huajun Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.13198) [**Journey to the Center of the Knowledge Neurons: Discoveries of Language-Independent
+Knowledge Neurons and Degenerate Knowledge Neurons**](https://doi.org/10.48550/arXiv.2308.13198),<br> by *Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu and Jun Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.08742) [**PMET: Precise Model Editing in a Transformer**](https://doi.org/10.48550/arXiv.2308.08742),<br> by *Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma and Jie Yu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14795) [**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop
+Questions**](https://doi.org/10.48550/arXiv.2305.14795),<br> by *Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts and Danqi Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.14177) [**AIGC for Various Data Modalities: A Survey**](https://doi.org/10.48550/arXiv.2308.14177),<br> by *Lin Geng Foo, Hossein Rahmani and Jun Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2305.18703-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2305.18703.pdf) [**Domain specialization as the key to make large language models disruptive: A comprehensive survey**](https://arxiv.org/pdf/2305.18703.pdf),<br> by *Ling, Chen, Zhao, Xujiang, Lu, Jiaying, Deng, Chengyuan, Zheng, Can, Wang, Junxiang, Chowdhury, Tanmoy, Li, Yun et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*

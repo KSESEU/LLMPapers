@@ -14,7 +14,7 @@ This page categorizes the literature by the **Techniques**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#evaluation)
-- [<img src=https://img.shields.io/badge/Survey-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#survey)
+- [<img src=https://img.shields.io/badge/Survey-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#rlhf)
@@ -23,7 +23,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Knowledge_Enhanced-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-enhanced)
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-generation)
-- [<img src=https://img.shields.io/badge/Knowledge_Editing-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-editing)
+- [<img src=https://img.shields.io/badge/Knowledge_Editing-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-editing)
 - [<img src=https://img.shields.io/badge/Reasoning-64-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Thought-30-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-3-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#multi-step-reasoning)
@@ -66,7 +66,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Data_Generation-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#data-generation)
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#graph-learning)
-- [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
+- [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -184,6 +184,10 @@ Review**](https://doi.org/10.48550/arXiv.2308.10620),<br> by *Xinyi Hou, Yanjie 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.07107) [**Large Language Models for Information Retrieval: A Survey**](https://doi.org/10.48550/arXiv.2308.07107),<br> by *Yutao Zhu, Huaying Yuan, Shuting Wang, Jiongnan Liu, Wenhan Liu, Chenlong Deng, Zhicheng Dou and Ji-Rong Wen*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.03109) [**A Survey on Evaluation of Large Language Models**](https://doi.org/10.48550/arXiv.2307.03109),<br> by *Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.14177) [**AIGC for Various Data Modalities: A Survey**](https://doi.org/10.48550/arXiv.2308.14177),<br> by *Lin Geng Foo, Hossein Rahmani and Jun Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2305.18703-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2305.18703.pdf) [**Domain specialization as the key to make large language models disruptive: A comprehensive survey**](https://arxiv.org/pdf/2305.18703.pdf),<br> by *Ling, Chen, Zhao, Xujiang, Lu, Jiaying, Deng, Chengyuan, Zheng, Can, Wang, Junxiang, Chowdhury, Tanmoy, Li, Yun et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09420) [**When Neural Model Meets NL2Code: A Survey**](https://doi.org/10.48550/arXiv.2212.09420),<br> by *Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang and Jian-Guang Lou*
 <br><br>
@@ -655,6 +659,11 @@ Models**](https://doi.org/10.18653/v1/2022.naacl-main.341),<br> by *Peter West, 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.09785) [**Transformer-Patcher: One Mistake worth One Neuron**](https://doi.org/10.48550/arXiv.2301.09785),<br> by *Zeyu Huang, Yikang Shen, Xiaofeng Zhang, Jie Zhou, Wenge Rong and Zhang Xiong*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.10405) [**Editing Language Model-based Knowledge Graph Embeddings**](https://doi.org/10.48550/arXiv.2301.10405),<br> by *Siyuan Cheng, Ningyu Zhang, Bozhong Tian, Zelin Dai, Feiyu Xiong, Wei Guo and Huajun Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.08742) [**PMET: Precise Model Editing in a Transformer**](https://doi.org/10.48550/arXiv.2308.08742),<br> by *Xiaopeng Li, Shasha Li, Shezheng Song, Jing Yang, Jun Ma and Jie Yu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.14795) [**MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop
+Questions**](https://doi.org/10.48550/arXiv.2305.14795),<br> by *Zexuan Zhong, Zhengxuan Wu, Christopher D. Manning, Christopher Potts and Danqi Chen*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=0DcZxeWfOPt) [**Fast Model Editing at Scale**](https://openreview.net/forum?id=0DcZxeWfOPt),<br> by *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn and Christopher D. Manning*
 <br><br>
@@ -1957,6 +1966,11 @@ Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqi
 <br><br>
 ### Knowledge Storage and Locating
 
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.13198) [**Journey to the Center of the Knowledge Neurons: Discoveries of Language-Independent
+Knowledge Neurons and Degenerate Knowledge Neurons**](https://doi.org/10.48550/arXiv.2308.13198),<br> by *Yuheng Chen, Pengfei Cao, Yubo Chen, Kang Liu and Jun Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/maini23a.html) [**Can Neural Network Memorization Be Localized?**](https://proceedings.mlr.press/v202/maini23a.html),<br> by *Pratyush Maini, Michael Curtis Mozer, Hanie Sedghi, Zachary Chase Lipton, J. Zico Kolter and Chiyuan Zhang*
+<br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
 <br><br>
 ### Others
