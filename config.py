@@ -122,6 +122,7 @@ fined_taxonomy = {
                    'Safety',
                    'Graph Learning',
                    'Knowledge Storage and Locating',
+                   'Chain of Verification',
                    'Others']
 }
 
@@ -129,6 +130,7 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Multi-Step Reasoning': 'Reasoning',
               'Arithmetic Reasoning': 'Reasoning',
               'Symbolic Reasoning': 'Reasoning',
+              'Chain of Verification': 'Reasoning',
               'Controllable Text Generation': 'AIGC',
               'Code Representation': 'Program&Code Generation',
               'Code Fixing': 'Program&Code Generation',

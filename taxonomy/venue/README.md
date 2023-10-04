@@ -40,7 +40,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/ICCV-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iccv)
 - [<img src=https://img.shields.io/badge/ICDCS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icdcs)
 - [<img src=https://img.shields.io/badge/ICER-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icer)
-- [<img src=https://img.shields.io/badge/ICLR-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
+- [<img src=https://img.shields.io/badge/ICLR-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#iclr)
 - [<img src=https://img.shields.io/badge/ICML-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icml)
 - [<img src=https://img.shields.io/badge/ICPADS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icpads)
 - [<img src=https://img.shields.io/badge/ICSE-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#icse)
@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-224-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-227-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -834,6 +834,8 @@ Using Large Language Models**](https://doi.org/10.1145/3501385.3543957),<br> by 
 <br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=m\_GDIItaI3o) [**Continual Pre-training of Language Models**](https://openreview.net/pdf?id=m\_GDIItaI3o),<br> by *Zixuan Ke, Yijia Shao, Haowei Lin, Tatsuya Konishi, Gyuhak Kim and Bing Liu*
 <br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=fR3wGCk-IXp) [**Language models are multilingual chain-of-thought reasoners**](https://openreview.net/pdf?id=fR3wGCk-IXp),<br> by *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=gEZrGCozdqR) [**Finetuned Language Models are Zero-Shot Learners**](https://openreview.net/forum?id=gEZrGCozdqR),<br> by *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=RdJVFCHjUMI) [**An Explanation of In-context Learning as Implicit Bayesian Inference**](https://openreview.net/forum?id=RdJVFCHjUMI),<br> by *Sang Michael Xie, Aditi Raghunathan, Percy Liang and Tengyu Ma*
@@ -1508,6 +1510,13 @@ Questions**](https://doi.org/10.48550/arXiv.2305.14795),<br> by *Zexuan Zhong, Z
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.14177) [**AIGC for Various Data Modalities: A Survey**](https://doi.org/10.48550/arXiv.2308.14177),<br> by *Lin Geng Foo, Hossein Rahmani and Jun Liu*
 <br><br>
 - [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2305.18703-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2305.18703.pdf) [**Domain specialization as the key to make large language models disruptive: A comprehensive survey**](https://arxiv.org/pdf/2305.18703.pdf),<br> by *Ling, Chen, Zhao, Xujiang, Lu, Jiaying, Deng, Chengyuan, Zheng, Can, Wang, Junxiang, Chowdhury, Tanmoy, Li, Yun et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.11495) [**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495),<br> by *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz and Jason Weston*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.02046) [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://doi.org/10.48550/arXiv.2307.02046),<br> by *Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang and Qing Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.04226) [**A Comprehensive Survey of AI-Generated Content (AIGC): A History
+of Generative AI from GAN to ChatGPT**](https://doi.org/10.48550/arXiv.2303.04226),<br> by *Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu and Lichao Sun*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*

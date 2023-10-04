@@ -14,7 +14,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#evaluation)
-- [<img src=https://img.shields.io/badge/Survey-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
+- [<img src=https://img.shields.io/badge/Survey-34-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
@@ -23,9 +23,9 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Enhanced-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-enhanced)
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-generation)
-- [<img src=https://img.shields.io/badge/Knowledge_Editing-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-64-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-30-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-editing)
+- [<img src=https://img.shields.io/badge/Reasoning-66-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-31-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-3-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#symbolic-reasoning)
@@ -48,7 +48,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Reliability-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reliability)
 - [<img src=https://img.shields.io/badge/Robustness-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#robustness)
 - [<img src=https://img.shields.io/badge/Dialogue_System-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#dialogue-system)
-- [<img src=https://img.shields.io/badge/Recommender_System-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#recommender-system)
+- [<img src=https://img.shields.io/badge/Recommender_System-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#recommender-system)
 - [<img src=https://img.shields.io/badge/Event_Extraction-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#event-extraction)
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-argumentation)
@@ -67,6 +67,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-storage-and-locating)
+  - [<img src=https://img.shields.io/badge/Chain_of_Verification-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-verification)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -188,6 +189,9 @@ Review**](https://doi.org/10.48550/arXiv.2308.10620),<br> by *Xinyi Hou, Yanjie 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.14177) [**AIGC for Various Data Modalities: A Survey**](https://doi.org/10.48550/arXiv.2308.14177),<br> by *Lin Geng Foo, Hossein Rahmani and Jun Liu*
 <br><br>
 - [<img src=https://img.shields.io/badge/arXiv_preprint_arXiv:2305.18703-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2305.18703.pdf) [**Domain specialization as the key to make large language models disruptive: A comprehensive survey**](https://arxiv.org/pdf/2305.18703.pdf),<br> by *Ling, Chen, Zhao, Xujiang, Lu, Jiaying, Deng, Chengyuan, Zheng, Can, Wang, Junxiang, Chowdhury, Tanmoy, Li, Yun et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.04226) [**A Comprehensive Survey of AI-Generated Content (AIGC): A History
+of Generative AI from GAN to ChatGPT**](https://doi.org/10.48550/arXiv.2303.04226),<br> by *Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu and Lichao Sun*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09420) [**When Neural Model Meets NL2Code: A Survey**](https://doi.org/10.48550/arXiv.2212.09420),<br> by *Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang and Jian-Guang Lou*
 <br><br>
@@ -671,6 +675,8 @@ Benchmark**](https://doi.org/10.18653/v1/2023.findings-acl.733),<br> by *Jason H
 - [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.eacl-main.199) [**Methods for Measuring, Updating, and Visualizing Factual Beliefs in
 Language Models**](https://aclanthology.org/2023.eacl-main.199),<br> by *Peter Hase, Mona T. Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal and Srinivasan Iyer*
 <br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.16035.pdf) [**MedEdit: Model Editing for Medical Question Answering with External Knowledge Bases**](https://arxiv.org/pdf/2309.16035.pdf),<br> by *Yucheng Shi, Shaochen Xu, Zhengliang Liu, Tianming Liu, Xiang Li and Ninghao Liu*
+<br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=0DcZxeWfOPt) [**Fast Model Editing at Scale**](https://openreview.net/forum?id=0DcZxeWfOPt),<br> by *Eric Mitchell, Charles Lin, Antoine Bosselut, Chelsea Finn and Christopher D. Manning*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v162/mitchell22a.html) [**Memory-Based Model Editing at Scale**](https://proceedings.mlr.press/v162/mitchell22a.html),<br> by *Eric Mitchell, Charles Lin, Antoine Bosselut, Christopher D. Manning and Chelsea Finn*
@@ -764,6 +770,8 @@ Models**](https://doi.org/10.48550/arXiv.2308.09687),<br> by *Maciej Besta, Nils
 by Large Language Models**](https://doi.org/10.18653/v1/2023.acl-long.147),<br> by *Lei Wang, Wanyu Xu, Yihuai Lan, Zhiqiang Hu, Yunshi Lan, Roy Ka-Wei Lee and Ee-Peng Lim*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.08291) [**Large Language Model Guided Tree-of-Thought**](https://doi.org/10.48550/arXiv.2305.08291),<br> by *Jieyi Long*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=fR3wGCk-IXp) [**Language models are multilingual chain-of-thought reasoners**](https://openreview.net/pdf?id=fR3wGCk-IXp),<br> by *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
@@ -1714,6 +1722,8 @@ System**](https://doi.org/10.48550/arXiv.2303.14524),<br> by *Yunfan Gao, Tao Sh
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.07001) [**Recommendation as Instruction Following: A Large Language Model
 Empowered Recommendation Approach**](https://doi.org/10.48550/arXiv.2305.07001),<br> by *Junjie Zhang, Ruobing Xie, Yupeng Hou, Wayne Xin Zhao, Leyu Lin and Ji-Rong Wen*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.02046) [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://doi.org/10.48550/arXiv.2307.02046),<br> by *Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang and Qing Li*
+<br><br>
 - [<img src=https://img.shields.io/badge/TKDE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/TKDE.2020.3028705) [**A Survey on Knowledge Graph-Based Recommender Systems**](https://doi.org/10.1109/TKDE.2020.3028705),<br> by *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong and Qing He*
 <br><br>
 - [<img src=https://img.shields.io/badge/SIGIR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3477495.3531937) [**Are Graph Augmentations Necessary?: Simple Graph Contrastive Learning
@@ -1980,6 +1990,10 @@ Knowledge Neurons and Degenerate Knowledge Neurons**](https://doi.org/10.48550/a
 - [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/maini23a.html) [**Can Neural Network Memorization Be Localized?**](https://proceedings.mlr.press/v202/maini23a.html),<br> by *Pratyush Maini, Michael Curtis Mozer, Hanie Sedghi, Zachary Chase Lipton, J. Zico Kolter and Chiyuan Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
+<br><br>
+#### Chain of Verification
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.11495) [**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495),<br> by *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz and Jason Weston*
 <br><br>
 ### Others
 

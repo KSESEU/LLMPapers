@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-137-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-142-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -369,6 +369,17 @@ Pretrained Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.309)
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.709) [**Text Augmented Open Knowledge Graph Completion via Pre-Trained Language
 Models**](https://doi.org/10.18653/v1/2023.findings-acl.709),<br> by *Pengcheng Jiang, Shivam Agarwal, Bowen Jin, Xuan Wang, Jimeng Sun and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.11495) [**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495),<br> by *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz and Jason Weston*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=fR3wGCk-IXp) [**Language models are multilingual chain-of-thought reasoners**](https://openreview.net/pdf?id=fR3wGCk-IXp),<br> by *Freda Shi, Mirac Suzgun, Markus Freitag, Xuezhi Wang, Suraj Srivats, Soroush Vosoughi, Hyung Won Chung, Yi Tay et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.02046) [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://doi.org/10.48550/arXiv.2307.02046),<br> by *Wenqi Fan, Zihuai Zhao, Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang and Qing Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.04226) [**A Comprehensive Survey of AI-Generated Content (AIGC): A History
+of Generative AI from GAN to ChatGPT**](https://doi.org/10.48550/arXiv.2303.04226),<br> by *Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu and Lichao Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2309.16035.pdf) [**MedEdit: Model Editing for Medical Question Answering with External Knowledge Bases**](https://arxiv.org/pdf/2309.16035.pdf),<br> by *Yucheng Shi, Shaochen Xu, Zhengliang Liu, Tianming Liu, Xiang Li and Ninghao Liu*
 <br><br>
 ### 2022
 
