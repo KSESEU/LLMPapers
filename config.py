@@ -95,7 +95,7 @@ fined_taxonomy = {
                    'In-Context Learning', 'Instruction Tuning', 'RLHF',
                    'Pre-Training Techniques', 'Mixtures of Experts',
                    "Knowledge Enhanced", "Knowledge Distillation", 'Knowledge Generation', 'Knowledge Editing',
-                   'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning',
+                   'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning','Chain of Verification',
                    'Federated Learning', 'Distributed AI',
                    'Selective Annotation',
                    'Program&Code Generation', 'Code Representation', 'Code Fixing', 'Code Review', 'Program Generation',
@@ -122,7 +122,6 @@ fined_taxonomy = {
                    'Safety',
                    'Graph Learning',
                    'Knowledge Storage and Locating',
-                   'Chain of Verification',
                    'Others']
 }
 
