@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-152-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-156-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -408,6 +408,16 @@ July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" /
 to Vision-Language Models**](https://doi.org/10.18653/v1/2023.acl-short.43),<br> by *Masoud Monajatipoor, Liunian Harold Li, Mozhdeh Rouhsedaghat, Lin Yang and Kai-Wei Chang*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.07742) [**SINC: Self-Supervised In-Context Learning for Vision-Language Tasks**](https://doi.org/10.48550/arXiv.2307.07742),<br> by *Yi-Syuan Chen, Yun-Zhu Song, Cheng Yu Yeo, Bei Liu, Jianlong Fu and Hong-Han Shuai*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.16289) [**LawBench: Benchmarking Legal Knowledge of Large Language Models**](https://doi.org/10.48550/arXiv.2309.16289),<br> by *Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.11462) [**LegalBench: A Collaboratively Built Benchmark for Measuring Legal
+Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2308.11462),<br> by *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher R\'e, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.07521) [**Survey on Factuality in Large Language Models: Knowledge, Retrieval
+and Domain-Specificity**](https://doi.org/10.48550/arXiv.2310.07521),<br> by *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Jiayang Cheng, Yunzhi Yao, Wenyang Gao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.13676) [**Rethinking Language Models as Symbolic Knowledge Graphs**](https://doi.org/10.48550/arXiv.2308.13676),<br> by *Vishwas Mruthyunjaya, Pouya Pezeshkpour, Estevam Hruschka and Nikita Bhutani*
 <br><br>
 ### 2022
 

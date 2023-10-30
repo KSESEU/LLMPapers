@@ -14,7 +14,7 @@ This page categorizes the literature by the **Techniques**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#evaluation)
-- [<img src=https://img.shields.io/badge/Survey-35-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#survey)
+- [<img src=https://img.shields.io/badge/Survey-36-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-36-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#rlhf)
@@ -57,10 +57,10 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Information_Extraction-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#question-answering)
-- [<img src=https://img.shields.io/badge/Application-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#application)
+- [<img src=https://img.shields.io/badge/Application-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#generalizability)
-- [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#language-model-as-knowledge-base)
+- [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#language-model-as-knowledge-base)
 - [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#retrieval-augmented-language-model)
 - [<img src=https://img.shields.io/badge/Quality-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#quality)
 - [<img src=https://img.shields.io/badge/Interpretability/Explainability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#interpretability/explainability)
@@ -194,6 +194,9 @@ Review**](https://doi.org/10.48550/arXiv.2308.10620),<br> by *Xinyi Hou, Yanjie 
 of Generative AI from GAN to ChatGPT**](https://doi.org/10.48550/arXiv.2303.04226),<br> by *Yihan Cao, Siyu Li, Yixin Liu, Zhiling Yan, Yutong Dai, Philip S. Yu and Lichao Sun*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.10792) [**Instruction Tuning for Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2308.10792),<br> by *Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.07521) [**Survey on Factuality in Large Language Models: Knowledge, Retrieval
+and Domain-Specificity**](https://doi.org/10.48550/arXiv.2310.07521),<br> by *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Jiayang Cheng, Yunzhi Yao, Wenyang Gao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.09420) [**When Neural Model Meets NL2Code: A Survey**](https://doi.org/10.48550/arXiv.2212.09420),<br> by *Daoguang Zan, Bei Chen, Fengji Zhang, Dianjie Lu, Bingchao Wu, Bei Guan, Yongji Wang and Jian-Guang Lou*
 <br><br>
@@ -1883,6 +1886,11 @@ Logical Queries**](https://doi.org/10.1145/3534678.3539472),<br> by *Xiao Liu, S
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.15038) [**Is GPT-4 a Good Data Analyst?**](https://doi.org/10.48550/arXiv.2305.15038),<br> by *Liying Cheng, Xingxuan Li and Lidong Bing*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.16289) [**LawBench: Benchmarking Legal Knowledge of Large Language Models**](https://doi.org/10.48550/arXiv.2309.16289),<br> by *Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.11462) [**LegalBench: A Collaboratively Built Benchmark for Measuring Legal
+Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2308.11462),<br> by *Neel Guha, Julian Nyarko, Daniel E. Ho, Christopher R\'e, Adam Chilton, Aditya Narayana, Alex Chohlas-Wood, Austin Peters et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/EvoMUSART-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-03789-4\_9) [**Towards the Generation of Musical Explanations with GPT-3**](https://doi.org/10.1007/978-3-031-03789-4\_9),<br> by *Stephen James Krol, Maria Teresa Llano and Jon McCormack*
 <br><br>
 ### Meta Learning
@@ -1927,6 +1935,8 @@ Pretrained Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.309)
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.709) [**Text Augmented Open Knowledge Graph Completion via Pre-Trained Language
 Models**](https://doi.org/10.18653/v1/2023.findings-acl.709),<br> by *Pengcheng Jiang, Shivam Agarwal, Bowen Jin, Xuan Wang, Jimeng Sun and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.13676) [**Rethinking Language Models as Symbolic Knowledge Graphs**](https://doi.org/10.48550/arXiv.2308.13676),<br> by *Vishwas Mruthyunjaya, Pouya Pezeshkpour, Estevam Hruschka and Nikita Bhutani*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.147) [**Can Language Models Serve as Temporal Knowledge Bases?**](https://aclanthology.org/2022.findings-emnlp.147),<br> by *Ruilin Zhao, Feng Zhao, Guandong Xu, Sixiao Zhang and Hai Jin*
 <br><br>
