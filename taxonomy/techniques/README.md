@@ -68,7 +68,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
-- [<img src=https://img.shields.io/badge/Knowledge_Fusion-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-fusion)
+- [<img src=https://img.shields.io/badge/Knowledge_Fusion-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2054,6 +2054,15 @@ Knowledge Neurons and Degenerate Knowledge Neurons**](https://doi.org/10.48550/a
 ### Knowledge Fusion
 
 - [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=FCnohuR6AnM) [**Dataless Knowledge Fusion by Merging Weights of Language Models**](https://openreview.net/pdf?id=FCnohuR6AnM),<br> by *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro and Pengxiang Cheng*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.02575) [**AdaMerging: Adaptive Model Merging for Multi-Task Learning**](https://doi.org/10.48550/arXiv.2310.02575),<br> by *Enneng Yang, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang and Dacheng Tao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2306.01708) [**Resolving Interference When Merging Models**](https://doi.org/10.48550/arXiv.2306.01708),<br> by *Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel and Mohit Bansal*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.01334) [**Merge, Then Compress: Demystify Efficient SMoE with Hints from Its
+Routing Policy**](https://doi.org/10.48550/arXiv.2310.01334),<br> by *Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, Yu Cheng, Mohit Bansal and Tianlong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.12808) [**Model Merging by Uncertainty-Based Gradient Matching**](https://arxiv.org/abs/2310.12808),<br> by *Nico Daheim, Thomas Möllenhoff, Edoardo Maria Ponti, Iryna Gurevych and Mohammad Emtiyaz Khan*
 <br><br>
 ### Others
 

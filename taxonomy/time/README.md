@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-161-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-165-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -429,6 +429,15 @@ Relation Extractors**](https://doi.org/10.18653/v1/2023.findings-acl.50),<br> by
 - [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=FCnohuR6AnM) [**Dataless Knowledge Fusion by Merging Weights of Language Models**](https://openreview.net/pdf?id=FCnohuR6AnM),<br> by *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro and Pengxiang Cheng*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.15698) [**Deep Model Fusion: A Survey**](https://doi.org/10.48550/arXiv.2309.15698),<br> by *Weishi Li, Yong Peng, Miao Zhang, Liang Ding, Han Hu and Li Shen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.02575) [**AdaMerging: Adaptive Model Merging for Multi-Task Learning**](https://doi.org/10.48550/arXiv.2310.02575),<br> by *Enneng Yang, Zhenyi Wang, Li Shen, Shiwei Liu, Guibing Guo, Xingwei Wang and Dacheng Tao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2306.01708) [**Resolving Interference When Merging Models**](https://doi.org/10.48550/arXiv.2306.01708),<br> by *Prateek Yadav, Derek Tam, Leshem Choshen, Colin Raffel and Mohit Bansal*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.01334) [**Merge, Then Compress: Demystify Efficient SMoE with Hints from Its
+Routing Policy**](https://doi.org/10.48550/arXiv.2310.01334),<br> by *Pingzhi Li, Zhenyu Zhang, Prateek Yadav, Yi-Lin Sung, Yu Cheng, Mohit Bansal and Tianlong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.12808) [**Model Merging by Uncertainty-Based Gradient Matching**](https://arxiv.org/abs/2310.12808),<br> by *Nico Daheim, Thomas Möllenhoff, Edoardo Maria Ponti, Iryna Gurevych and Mohammad Emtiyaz Khan*
 <br><br>
 ### 2022
 
