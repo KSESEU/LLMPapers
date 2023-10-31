@@ -19,13 +19,13 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Nan_Duan-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#nan-duan)
 - [<img src=https://img.shields.io/badge/Wayne_Xin_Zhao-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wayne-xin-zhao)
 - [<img src=https://img.shields.io/badge/Jianfeng_Gao-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jianfeng-gao)
+- [<img src=https://img.shields.io/badge/Xiang_Ren-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiang-ren)
 - [<img src=https://img.shields.io/badge/Denny_Zhou-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#denny-zhou)
 - [<img src=https://img.shields.io/badge/Xuezhi_Wang-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xuezhi-wang)
 - [<img src=https://img.shields.io/badge/Jason_Wei-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jason-wei)
 - [<img src=https://img.shields.io/badge/Dario_Amodei-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dario-amodei)
 - [<img src=https://img.shields.io/badge/Hannaneh_Hajishirzi-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hannaneh-hajishirzi)
 - [<img src=https://img.shields.io/badge/Mike_Lewis-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mike-lewis)
-- [<img src=https://img.shields.io/badge/Xiang_Ren-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiang-ren)
 - [<img src=https://img.shields.io/badge/Ed_H._Chi-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ed-h.-chi)
 - [<img src=https://img.shields.io/badge/Sean_Welleck-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sean-welleck)
 - [<img src=https://img.shields.io/badge/Ming_Zhou-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ming-zhou)
@@ -117,6 +117,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/William_Yang_Wang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#william-yang-wang)
 - [<img src=https://img.shields.io/badge/Wenhu_Chen-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenhu-chen)
 - [<img src=https://img.shields.io/badge/Hua_Wu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hua-wu)
+- [<img src=https://img.shields.io/badge/Xisen_Jin-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xisen-jin)
 - [<img src=https://img.shields.io/badge/Maosong_Sun-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#maosong-sun)
 - [<img src=https://img.shields.io/badge/Zhiyuan_Liu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhiyuan-liu)
 - [<img src=https://img.shields.io/badge/Fabio_Petroni-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#fabio-petroni)
@@ -243,7 +244,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Yu_Su-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yu-su)
 - [<img src=https://img.shields.io/badge/Haifeng_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#haifeng-wang)
 - [<img src=https://img.shields.io/badge/Yasheng_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yasheng-wang)
-- [<img src=https://img.shields.io/badge/Xisen_Jin-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xisen-jin)
 - [<img src=https://img.shields.io/badge/Mikel_Artetxe-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mikel-artetxe)
 - [<img src=https://img.shields.io/badge/Ari_Holtzman-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ari-holtzman)
 - [<img src=https://img.shields.io/badge/Shengding_Hu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shengding-hu)
@@ -877,6 +877,38 @@ Response Generation**](https://doi.org/10.18653/v1/2020.acl-demos.30),<br> by *Y
 - [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
 and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
+### Xiang Ren
+
+- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
+{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=FCnohuR6AnM) [**Dataless Knowledge Fusion by Merging Weights of Language Models**](https://openreview.net/pdf?id=FCnohuR6AnM),<br> by *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro and Pengxiang Cheng*
+<br><br>
+- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.351) [**Lifelong Pretraining: Continually Adapting Language Models to Emerging
+Corpora**](https://doi.org/10.18653/v1/2022.naacl-main.351),<br> by *Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew O. Arnold and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.653) [**RobustLR: A Diagnostic Benchmark for Evaluating Logical Robustness
+of Deductive Reasoners**](https://aclanthology.org/2022.emnlp-main.653),<br> by *Soumya Sanyal, Zeyi Liao and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2021.findings-emnlp.62) [**Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning**](https://aclanthology.org/2021.findings-emnlp.62),<br> by *Jin, Xisen , Lin, Bill Yuchen , Rostami, Mohammad  and Ren, Xiang*
+<br>``
+We present a new learning setup, Continual Learning of Few-Shot Learners, to address challenges of both learning settings in a unified setup, with a hyper-network for task-specific adapter generation.
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/wangpf3/LM-for-CommonsenseInference)<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.598) [**RICA: Evaluating Robust Inference Capabilities Based on Commonsense
+Axioms**](https://doi.org/10.18653/v1/2021.emnlp-main.598),<br> by *Pei Zhou, Rahul Khanna, Seyeon Lee, Bill Yuchen Lin, Daniel Ho, Jay Pujara and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=3k20LAiHYL2) [**Pre-training Text-to-Text Transformers for Concept-centric Common
+Sense**](https://openreview.net/forum?id=3k20LAiHYL2),<br> by *Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.158) [**Visually Grounded Continual Learning of Compositional Phrases**](https://www.aclweb.org/anthology/2020.emnlp-main.158),<br> by *Jin, Xisen , Du, Junyi , Sadhu, Arka , Nevatia, Ram  and Ren, Xiang*
+<br>``
+A novel continual learning setting and a new benchmark for continual caption generation, evaluated with exiting rehearsal-based methods
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP_Findings-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.findings-emnlp.165) [**CommonGen: A Constrained Text Generation Challenge for Generative
+Commonsense Reasoning**](https://doi.org/10.18653/v1/2020.findings-emnlp.165),<br> by *Bill Yuchen Lin, Wangchunshu Zhou, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren*
+<br><br>
 ### Denny Zhou
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00093) [**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093),<br> by *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed H. Chi, Nathanael Sch\"arli and Denny Zhou*
@@ -1031,35 +1063,6 @@ Generation, Translation, and Comprehension**](https://doi.org/10.18653/v1/2020.a
 - [<img src=https://img.shields.io/badge/NeurIPS-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html) [**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks**](https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html),<br> by *Patrick S. H. Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich K\"uttler, Mike Lewis et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://arxiv.org/abs/1907.11692) [**RoBERTa: A Robustly Optimized BERT Pretraining Approach**](http://arxiv.org/abs/1907.11692), [<img src=https://img.shields.io/badge/RoBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/1907.11692) <br> by *Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis et al.*
-<br><br>
-### Xiang Ren
-
-- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.351) [**Lifelong Pretraining: Continually Adapting Language Models to Emerging
-Corpora**](https://doi.org/10.18653/v1/2022.naacl-main.351),<br> by *Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew O. Arnold and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.653) [**RobustLR: A Diagnostic Benchmark for Evaluating Logical Robustness
-of Deductive Reasoners**](https://aclanthology.org/2022.emnlp-main.653),<br> by *Soumya Sanyal, Zeyi Liao and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2021.findings-emnlp.62) [**Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning**](https://aclanthology.org/2021.findings-emnlp.62),<br> by *Jin, Xisen , Lin, Bill Yuchen , Rostami, Mohammad  and Ren, Xiang*
-<br>``
-We present a new learning setup, Continual Learning of Few-Shot Learners, to address challenges of both learning settings in a unified setup, with a hyper-network for task-specific adapter generation.
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.322) [**Do Language Models Perform Generalizable Commonsense Inference?**](https://doi.org/10.18653/v1/2021.findings-acl.322), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/wangpf3/LM-for-CommonsenseInference)<br> by *Peifeng Wang, Filip Ilievski, Muhao Chen and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.598) [**RICA: Evaluating Robust Inference Capabilities Based on Commonsense
-Axioms**](https://doi.org/10.18653/v1/2021.emnlp-main.598),<br> by *Pei Zhou, Rahul Khanna, Seyeon Lee, Bill Yuchen Lin, Daniel Ho, Jay Pujara and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/ICLR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=3k20LAiHYL2) [**Pre-training Text-to-Text Transformers for Concept-centric Common
-Sense**](https://openreview.net/forum?id=3k20LAiHYL2),<br> by *Wangchunshu Zhou, Dong-Ho Lee, Ravi Kiran Selvam, Seyeon Lee and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.158) [**Visually Grounded Continual Learning of Compositional Phrases**](https://www.aclweb.org/anthology/2020.emnlp-main.158),<br> by *Jin, Xisen , Du, Junyi , Sadhu, Arka , Nevatia, Ram  and Ren, Xiang*
-<br>``
-A novel continual learning setting and a new benchmark for continual caption generation, evaluated with exiting rehearsal-based methods
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP_Findings-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.findings-emnlp.165) [**CommonGen: A Constrained Text Generation Challenge for Generative
-Commonsense Reasoning**](https://doi.org/10.18653/v1/2020.findings-emnlp.165),<br> by *Bill Yuchen Lin, Wangchunshu Zhou, Ming Shen, Pei Zhou, Chandra Bhagavatula, Yejin Choi and Xiang Ren*
 <br><br>
 ### Ed H. Chi
 
@@ -2426,6 +2429,24 @@ Variable**](https://doi.org/10.18653/v1/2020.acl-main.9),<br> by *Siqi Bao, Huan
 In order to extract the lexical, syntactic and semantic information from training corpora, we propose a continual pre-training framework named ERNIE 2.0 which incrementally builds pre-training tasks and then learn pre-trained models on these constructed tasks via continual multi-task learning.
 ``
 <br><br>
+### Xisen Jin
+
+- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
+{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=FCnohuR6AnM) [**Dataless Knowledge Fusion by Merging Weights of Language Models**](https://openreview.net/pdf?id=FCnohuR6AnM),<br> by *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro and Pengxiang Cheng*
+<br><br>
+- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.351) [**Lifelong Pretraining: Continually Adapting Language Models to Emerging
+Corpora**](https://doi.org/10.18653/v1/2022.naacl-main.351),<br> by *Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew O. Arnold and Xiang Ren*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2021.findings-emnlp.62) [**Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning**](https://aclanthology.org/2021.findings-emnlp.62),<br> by *Jin, Xisen , Lin, Bill Yuchen , Rostami, Mohammad  and Ren, Xiang*
+<br>``
+We present a new learning setup, Continual Learning of Few-Shot Learners, to address challenges of both learning settings in a unified setup, with a hyper-network for task-specific adapter generation.
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.158) [**Visually Grounded Continual Learning of Compositional Phrases**](https://www.aclweb.org/anthology/2020.emnlp-main.158),<br> by *Jin, Xisen , Du, Junyi , Sadhu, Arka , Nevatia, Ram  and Ren, Xiang*
+<br>``
+A novel continual learning setting and a new benchmark for continual caption generation, evaluated with exiting rehearsal-based methods
+``
+<br><br>
 ### Maosong Sun
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.08354) [**Tool Learning with Foundation Models**](https://doi.org/10.48550/arXiv.2304.08354),<br> by *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang et al.*
@@ -3764,21 +3785,6 @@ with Contrastive Pre-Training**](https://doi.org/10.18653/v1/2022.findings-naacl
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2108.04556) [**CLSEBERT: Contrastive Learning for Syntax Enhanced Code Pre-Trained
 Model**](https://arxiv.org/abs/2108.04556),<br> by *Xin Wang, Yasheng Wang, Pingyi Zhou, Fei Mi, Meng Xiao, Yadao Wang, Li Li, Xiao Liu et al.*
-<br><br>
-### Xisen Jin
-
-- [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.351) [**Lifelong Pretraining: Continually Adapting Language Models to Emerging
-Corpora**](https://doi.org/10.18653/v1/2022.naacl-main.351),<br> by *Xisen Jin, Dejiao Zhang, Henghui Zhu, Wei Xiao, Shang-Wen Li, Xiaokai Wei, Andrew O. Arnold and Xiang Ren*
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2021.findings-emnlp.62) [**Learn Continually, Generalize Rapidly: Lifelong Knowledge Accumulation for Few-shot Learning**](https://aclanthology.org/2021.findings-emnlp.62),<br> by *Jin, Xisen , Lin, Bill Yuchen , Rostami, Mohammad  and Ren, Xiang*
-<br>``
-We present a new learning setup, Continual Learning of Few-Shot Learners, to address challenges of both learning settings in a unified setup, with a hyper-network for task-specific adapter generation.
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/EMNLP-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.aclweb.org/anthology/2020.emnlp-main.158) [**Visually Grounded Continual Learning of Compositional Phrases**](https://www.aclweb.org/anthology/2020.emnlp-main.158),<br> by *Jin, Xisen , Du, Junyi , Sadhu, Arka , Nevatia, Ram  and Ren, Xiang*
-<br>``
-A novel continual learning setting and a new benchmark for continual caption generation, evaluated with exiting rehearsal-based methods
-``
 <br><br>
 ### Mikel Artetxe
 

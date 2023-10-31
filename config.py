@@ -122,6 +122,7 @@ fined_taxonomy = {
                    'Safety',
                    'Graph Learning',
                    'Knowledge Storage and Locating',
+                   'Knowledge Fusion',
                    'Others']
 }
 

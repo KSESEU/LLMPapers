@@ -68,6 +68,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-storage-and-locating)
+- [<img src=https://img.shields.io/badge/Knowledge_Fusion-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2048,6 +2049,11 @@ Knowledge Neurons and Degenerate Knowledge Neurons**](https://doi.org/10.48550/a
 - [<img src=https://img.shields.io/badge/ICML-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.mlr.press/v202/maini23a.html) [**Can Neural Network Memorization Be Localized?**](https://proceedings.mlr.press/v202/maini23a.html),<br> by *Pratyush Maini, Michael Curtis Mozer, Hanie Sedghi, Zachary Chase Lipton, J. Zico Kolter and Chiyuan Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
+<br><br>
+### Knowledge Fusion
+
+- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
+{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=FCnohuR6AnM) [**Dataless Knowledge Fusion by Merging Weights of Language Models**](https://openreview.net/pdf?id=FCnohuR6AnM),<br> by *Xisen Jin, Xiang Ren, Daniel Preotiuc-Pietro and Pengxiang Cheng*
 <br><br>
 ### Others
 
