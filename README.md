@@ -24,11 +24,11 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-39-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-81-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-40-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
-  - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-6-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
+  - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-7-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Verification-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-verification)
 - [<img src=https://img.shields.io/badge/Federated_Learning-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
 - [<img src=https://img.shields.io/badge/Distributed_AI-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
@@ -54,7 +54,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
@@ -115,8 +115,7 @@ Language Models**](https://doi.org/10.48550/arXiv.2308.07902),<br> by *Ziyu Zhua
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.17306) [**Chain-of-Thought Hub: A Continuous Effort to Measure Large Language
 Models' Reasoning Performance**](https://doi.org/10.48550/arXiv.2305.17306),<br> by *Yao Fu, Litu Ou, Mingyu Chen, Yuhao Wan, Hao Peng and Tushar Khot*
 <br><br>
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{ACL}_2023,
-Toronto,_Canada,_July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.29) [**A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.29) [**A Systematic Study and Comprehensive Evaluation of ChatGPT on Benchmark
 Datasets**](https://doi.org/10.18653/v1/2023.findings-acl.29),<br> by *Md. Tahmid Rahman Laskar, M. Saiful Bari, Mizanur Rahman, Md Amran Hossen Bhuiyan, Shafiq Joty and Jimmy X. Huang*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.12488) [**GPTEval: A Survey on Assessments of ChatGPT and GPT-4**](https://doi.org/10.48550/arXiv.2308.12488),<br> by *Rui Mao, Guanyi Chen, Xulang Zhang, Frank Guerin and Erik Cambria*
@@ -599,8 +598,7 @@ Modeling**](https://doi.org/10.18653/v1/p19-1598),<br> by *Robert L. Logan IV, N
 <br><br>
 ### Knowledge Distillation
 
-- [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{ACL}_2023,
-Toronto,_Canada,_July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.507) [**Distilling Step-by-Step! Outperforming Larger Language Models with
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.507) [**Distilling Step-by-Step! Outperforming Larger Language Models with
 Less Training Data and Smaller Model Sizes**](https://doi.org/10.18653/v1/2023.findings-acl.507),<br> by *Cheng-Yu Hsieh, Chun-Liang Li, Chih-Kuan Yeh, Hootan Nakhost, Yasuhisa Fujii, Alex Ratner, Ranjay Krishna, Chen-Yu Lee et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ASE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3551349.3556964) [**Compressing Pre-trained Models of Code into 3 MB**](https://doi.org/10.1145/3551349.3556964),<br> by *Jieke Shi, Zhou Yang, Bowen Xu, Hong Jin Kang and David Lo*
@@ -737,13 +735,12 @@ and Questions for Table-based Reasoning**](https://doi.org/10.48550/arXiv.2301.1
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2304.01771.pdf) [**Using Language Models For Knowledge Acquisition in Natural Language Reasoning Problems**](https://arxiv.org/pdf/2304.01771.pdf),<br> by *Fangzhen Lin, Ziyi Shou and Chengcai chen*
 <br><br>
-- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
-{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=yf1icZHC-l9) [**Complexity-Based Prompting for Multi-step Reasoning**](https://openreview.net/pdf?id=yf1icZHC-l9),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=yf1icZHC-l9) [**Complexity-Based Prompting for Multi-step Reasoning**](https://openreview.net/pdf?id=yf1icZHC-l9),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_17th_Conference_of_the_European_Chapter_of_the
-Association_for_Computational_Linguistics,_{EACL}_2023,_Dubrovnik,
-Croatia,_May_2--6,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.eacl-main.192) [**Penguins Don't Fly: Reasoning about Generics through Instantiations
+- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.eacl-main.192) [**Penguins Don't Fly: Reasoning about Generics through Instantiations
 and Exceptions**](https://doi.org/10.18653/v1/2023.eacl-main.192),<br> by *Emily Allaway, Jena D. Hwang, Chandra Bhagavatula, Kathleen R. McKeown, Doug Downey and Yejin Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.04978) [**NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge**](https://doi.org/10.48550/arXiv.2305.04978),<br> by *Phillip Howard, Junlin Wang, Vasudev Lal, Gadi Singer, Yejin Choi and Swabha Swayamdipta*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=8lNy3QCaxHX) [**Improved logical reasoning of language models via differentiable symbolic programming**](https://openreview.net/forum?id=8lNy3QCaxHX),<br> by *Zhang, Hanlin, Li, Ziyang, Huang, Jiani, Naik, Mayur and Xing, Eric*
 <br><br>
@@ -835,6 +832,9 @@ Visual Reasoning**](https://doi.org/10.48550/arXiv.2308.09658),<br> by *Pengbo H
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2206.02336) [**Making Large Language Models Better Reasoners with Step-Aware Verifier**](https://arxiv.org/abs/2206.02336),<br> by *Yifei Li, Zeqi Lin, Shizhuo Zhang, Qiang Fu, Bei Chen, Jian-Guang Lou and Weizhu Chen*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.06692) [**Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios
+with Large Language Models**](https://doi.org/10.48550/arXiv.2310.06692),<br> by *Anni Zou, Zhuosheng Zhang, Hai Zhao and Xiangru Tang*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
 <br>``
@@ -903,8 +903,7 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12726) [**Specializing Smaller Language Models towards Multi-Step Reasoning**](https://doi.org/10.48550/arXiv.2301.12726),<br> by *Yao Fu, Hao Peng, Litu Ou, Ashish Sabharwal and Tushar Khot*
 <br><br>
-- [<img src=https://img.shields.io/badge/The_Eleventh_International_Conference_on_Learning_Representations,
-{ICLR}_2023,_Kigali,_Rwanda,_May_1--5,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=yf1icZHC-l9) [**Complexity-Based Prompting for Multi-step Reasoning**](https://openreview.net/pdf?id=yf1icZHC-l9),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
+- [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=yf1icZHC-l9) [**Complexity-Based Prompting for Multi-step Reasoning**](https://openreview.net/pdf?id=yf1icZHC-l9),<br> by *Yao Fu, Hao Peng, Ashish Sabharwal, Peter Clark and Tushar Khot*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.08607) [**MURMUR: Modular Multi-Step Reasoning for Semi-Structured Data-to-Text
 Generation**](https://doi.org/10.48550/arXiv.2212.08607),<br> by *Swarnadeep Saha, Xinyan Velocity Yu, Mohit Bansal, Ramakanth Pasunuru and Asli Celikyilmaz*
@@ -925,10 +924,10 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 <br><br>
 #### Symbolic Reasoning
 
-- [<img src=https://img.shields.io/badge/the_17th_Conference_of_the_European_Chapter_of_the
-Association_for_Computational_Linguistics,_{EACL}_2023,_Dubrovnik,
-Croatia,_May_2--6,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.eacl-main.192) [**Penguins Don't Fly: Reasoning about Generics through Instantiations
+- [<img src=https://img.shields.io/badge/EACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.eacl-main.192) [**Penguins Don't Fly: Reasoning about Generics through Instantiations
 and Exceptions**](https://doi.org/10.18653/v1/2023.eacl-main.192),<br> by *Emily Allaway, Jena D. Hwang, Chandra Bhagavatula, Kathleen R. McKeown, Doug Downey and Yejin Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.04978) [**NeuroComparatives: Neuro-Symbolic Distillation of Comparative Knowledge**](https://doi.org/10.48550/arXiv.2305.04978),<br> by *Phillip Howard, Junlin Wang, Vasudev Lal, Gadi Singer, Yejin Choi and Swabha Swayamdipta*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICML-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=8lNy3QCaxHX) [**Improved logical reasoning of language models via differentiable symbolic programming**](https://openreview.net/forum?id=8lNy3QCaxHX),<br> by *Zhang, Hanlin, Li, Ziyang, Huang, Jiani, Naik, Mayur and Xing, Eric*
 <br><br>
@@ -1882,6 +1881,8 @@ Evaluation Criteria, Robustness and Errors**](https://doi.org/10.48550/arXiv.230
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.50) [**Aligning Instruction Tasks Unlocks Large Language Models as Zero-Shot
 Relation Extractors**](https://doi.org/10.18653/v1/2023.findings-acl.50),<br> by *Kai Zhang, Bernal Jimenez Gutierrez and Yu Su*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.05028) [**Revisiting Large Language Models as Zero-shot Relation Extractors**](https://doi.org/10.48550/arXiv.2310.05028),<br> by *Guozheng Li, Peng Wang and Wenjun Ke*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.130) [**Large language models are few-shot clinical information extractors**](https://aclanthology.org/2022.emnlp-main.130),<br> by *Monica Agrawal, Stefan Hegselmann, Hunter Lang, Yoon Kim and David A. Sontag*
 <br><br>
