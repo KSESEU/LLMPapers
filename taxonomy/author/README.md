@@ -308,6 +308,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Prateek_Yadav-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#prateek-yadav)
 - [<img src=https://img.shields.io/badge/Li_Shen-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#li-shen)
 - [<img src=https://img.shields.io/badge/Xiangru_Tang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiangru-tang)
+- [<img src=https://img.shields.io/badge/Jiwei_Li-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiwei-li)
 - [<img src=https://img.shields.io/badge/Jimeng_Sun-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jimeng-sun)
 - [<img src=https://img.shields.io/badge/Jiliang_Tang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiliang-tang)
 - [<img src=https://img.shields.io/badge/Wenqi_Fan-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenqi-fan)
@@ -4507,6 +4508,13 @@ and Domain-Specificity**](https://doi.org/10.48550/arXiv.2310.07521),<br> by *Cu
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.06692) [**Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios
 with Large Language Models**](https://doi.org/10.48550/arXiv.2310.06692),<br> by *Anni Zou, Zhuosheng Zhang, Hai Zhao and Xiangru Tang*
+<br><br>
+### Jiwei Li
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.10792) [**Instruction Tuning for Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2308.10792),<br> by *Shengyu Zhang, Linfeng Dong, Xiaoya Li, Sen Zhang, Xiaofei Sun, Shuhe Wang, Jiwei Li, Runyi Hu et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.02105) [**GPT-RE: In-context Learning for Relation Extraction using Large
+Language Models**](https://doi.org/10.48550/arXiv.2305.02105),<br> by *Zhen Wan, Fei Cheng, Zhuoyuan Mao, Qianying Liu, Haiyue Song, Jiwei Li and Sadao Kurohashi*
 <br><br>
 ### Jimeng Sun
 
