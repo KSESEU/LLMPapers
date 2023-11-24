@@ -123,6 +123,7 @@ fined_taxonomy = {
                    'Graph Learning',
                    'Knowledge Storage and Locating',
                    'Knowledge Fusion',
+                   'Agent',
                    'Others']
 }
 

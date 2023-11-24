@@ -42,7 +42,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/AIGC-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#aigc)
   - [<img src=https://img.shields.io/badge/Controllable_Text_Generation-9-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#controllable-text-generation)
 - [<img src=https://img.shields.io/badge/Continual_Learning-46-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#continual-learning)
-- [<img src=https://img.shields.io/badge/Prompt_Engineering-32-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-engineering)
+- [<img src=https://img.shields.io/badge/Prompt_Engineering-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#prompt-engineering)
 - [<img src=https://img.shields.io/badge/Natural_Language_Understanding-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#natural-language-understanding)
 - [<img src=https://img.shields.io/badge/Multimodal-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multimodal)
 - [<img src=https://img.shields.io/badge/Multilingual-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multilingual)
@@ -69,6 +69,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Knowledge_Fusion-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-fusion)
+- [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#agent)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1572,6 +1573,8 @@ Elicitation, and Software Design**](https://doi.org/10.48550/arXiv.2303.07839),<
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.11116) [**Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via
 Prompt Augmented by ChatGPT**](https://doi.org/10.48550/arXiv.2304.11116),<br> by *Jiawei Zhang*
 <br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=iImnbUVhok) [**Joint Prompt Optimization of Stacked LLMs using Variational Inference**](https://openreview.net/pdf?id=iImnbUVhok),<br> by *Alessandro Sordoni, Xingdi Yuan, Marc-Alexandre Cote, Matheus Pereira, Adam Trischler, Ziang Xiao, Arian Hosseini, Friederike Niedtner et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.00024) [**Learning to Prompt for Continual Learning**](https://doi.org/10.1109/CVPR52688.2022.00024),<br> by *Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.167) [**Do Prompt-Based Models Really Understand the Meaning of Their Prompts?**](https://doi.org/10.18653/v1/2022.naacl-main.167),<br> by *Albert Webson and Ellie Pavlick*
@@ -2116,6 +2119,11 @@ Routing Policy**](https://doi.org/10.48550/arXiv.2310.01334),<br> by *Pingzhi Li
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.02527) [**CITING: Large Language Models Create Curriculum for Instruction
 Tuning**](https://doi.org/10.48550/arXiv.2310.02527),<br> by *Tao Feng, Zifeng Wang and Jimeng Sun*
+<br><br>
+### Agent
+
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.17382) [**Reason for Future, Act for Now: A Principled Framework for Autonomous
+LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
 <br><br>
 ### Others
 

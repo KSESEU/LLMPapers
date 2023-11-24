@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-183-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-185-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -481,6 +481,11 @@ Language Models**](https://doi.org/10.48550/arXiv.2305.02105),<br> by *Zhen Wan,
 Negative Commonsense Knowledge**](https://doi.org/10.18653/v1/2023.acl-long.550),<br> by *Jiangjie Chen, Wei Shi, Ziquan Fu, Sijie Cheng, Lei Li and Yanghua Xiao*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.408) [**Chain of Thought Prompting Elicits Knowledge Augmentation**](https://doi.org/10.18653/v1/2023.findings-acl.408),<br> by *Dingjun Wu, Jing Zhang and Xinmei Huang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.17382) [**Reason for Future, Act for Now: A Principled Framework for Autonomous
+LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=iImnbUVhok) [**Joint Prompt Optimization of Stacked LLMs using Variational Inference**](https://openreview.net/pdf?id=iImnbUVhok),<br> by *Alessandro Sordoni, Xingdi Yuan, Marc-Alexandre Cote, Matheus Pereira, Adam Trischler, Ziang Xiao, Arian Hosseini, Friederike Niedtner et al.*
 <br><br>
 ### 2022
 
