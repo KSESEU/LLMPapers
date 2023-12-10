@@ -24,12 +24,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-84-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+- [<img src=https://img.shields.io/badge/Reasoning-85-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Thought-41-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-8-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Verification-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-verification)
+  - [<img src=https://img.shields.io/badge/Knowledge_Graph_Embedding-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-embedding)
 - [<img src=https://img.shields.io/badge/Federated_Learning-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
 - [<img src=https://img.shields.io/badge/Distributed_AI-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
 - [<img src=https://img.shields.io/badge/Selective_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#selective-annotation)
@@ -70,6 +71,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Knowledge_Fusion-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#agent)
+- [<img src=https://img.shields.io/badge/LLM_&_GNN-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-&-gnn)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -954,6 +956,10 @@ Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen,
 #### Chain of Verification
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.11495) [**Chain-of-Verification Reduces Hallucination in Large Language Models**](https://doi.org/10.48550/arXiv.2309.11495),<br> by *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz and Jason Weston*
+<br><br>
+#### Knowledge Graph Embedding
+
+- [<img src=https://img.shields.io/badge/NeurIPS-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.09338) [**Deep Bidirectional Language-Knowledge Graph Pretraining**](https://doi.org/10.48550/arXiv.2210.09338),<br> by *Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang and Jure Leskovec*
 <br><br>
 ### Federated Learning
 
@@ -2124,6 +2130,14 @@ Tuning**](https://doi.org/10.48550/arXiv.2310.02527),<br> by *Tao Feng, Zifeng W
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.17382) [**Reason for Future, Act for Now: A Principled Framework for Autonomous
 LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
+<br><br>
+### LLM & GNN
+
+- [<img src=https://img.shields.io/badge/KDD-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3580305.3599256) [**All in One: Multi-Task Prompting for Graph Neural Networks**](https://doi.org/10.1145/3580305.3599256),<br> by *Xiangguo Sun, Hong Cheng, Jia Li, Bo Liu and Jihong Guan*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.15427) [**Graph Neural Prompting with Large Language Models**](https://doi.org/10.48550/arXiv.2309.15427),<br> by *Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang, Nitesh V. Chawla and Panpan Xu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.16534) [**Graph Prompt Learning: A Comprehensive Survey and Beyond**](https://doi.org/10.48550/arXiv.2311.16534),<br> by *Xiangguo Sun, Jiawen Zhang, Xixi Wu, Hong Cheng, Yun Xiong and Jia Li*
 <br><br>
 ### Others
 

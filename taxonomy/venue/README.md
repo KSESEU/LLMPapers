@@ -53,7 +53,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/JIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jis)
 - [<img src=https://img.shields.io/badge/JKSUCIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jksucis)
 - [<img src=https://img.shields.io/badge/JMLR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jmlr)
-- [<img src=https://img.shields.io/badge/KDD-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kdd)
+- [<img src=https://img.shields.io/badge/KDD-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kdd)
 - [<img src=https://img.shields.io/badge/KIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
 - [<img src=https://img.shields.io/badge/MM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [<img src=https://img.shields.io/badge/MSR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-256-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-258-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1016,6 +1016,8 @@ Transformer**](http://jmlr.org/papers/v21/20-074.html), [<img src=https://img.sh
 <br><br>
 ### KDD
 
+- [<img src=https://img.shields.io/badge/KDD-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3580305.3599256) [**All in One: Multi-Task Prompting for Graph Neural Networks**](https://doi.org/10.1145/3580305.3599256),<br> by *Xiangguo Sun, Hong Cheng, Jia Li, Bo Liu and Jihong Guan*
+<br><br>
 - [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539131) [**JiuZhang: A Chinese Pre-trained Language Model for Mathematical
 Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang et al.*
 <br><br>
@@ -1608,6 +1610,10 @@ Language Models**](https://doi.org/10.48550/arXiv.2305.02105),<br> by *Zhen Wan,
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.17382) [**Reason for Future, Act for Now: A Principled Framework for Autonomous
 LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.15427) [**Graph Neural Prompting with Large Language Models**](https://doi.org/10.48550/arXiv.2309.15427),<br> by *Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang, Nitesh V. Chawla and Panpan Xu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.16534) [**Graph Prompt Learning: A Comprehensive Survey and Beyond**](https://doi.org/10.48550/arXiv.2311.16534),<br> by *Xiangguo Sun, Jiawen Zhang, Xixi Wu, Hong Cheng, Yun Xiong and Jia Li*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*

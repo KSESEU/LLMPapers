@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-185-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-188-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -486,6 +486,12 @@ Negative Commonsense Knowledge**](https://doi.org/10.18653/v1/2023.acl-long.550)
 LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=iImnbUVhok) [**Joint Prompt Optimization of Stacked LLMs using Variational Inference**](https://openreview.net/pdf?id=iImnbUVhok),<br> by *Alessandro Sordoni, Xingdi Yuan, Marc-Alexandre Cote, Matheus Pereira, Adam Trischler, Ziang Xiao, Arian Hosseini, Friederike Niedtner et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/KDD-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3580305.3599256) [**All in One: Multi-Task Prompting for Graph Neural Networks**](https://doi.org/10.1145/3580305.3599256),<br> by *Xiangguo Sun, Hong Cheng, Jia Li, Bo Liu and Jihong Guan*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.15427) [**Graph Neural Prompting with Large Language Models**](https://doi.org/10.48550/arXiv.2309.15427),<br> by *Yijun Tian, Huan Song, Zichen Wang, Haozhu Wang, Ziqing Hu, Fang Wang, Nitesh V. Chawla and Panpan Xu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.16534) [**Graph Prompt Learning: A Comprehensive Survey and Beyond**](https://doi.org/10.48550/arXiv.2311.16534),<br> by *Xiangguo Sun, Jiawen Zhang, Xixi Wu, Hong Cheng, Yun Xiong and Jia Li*
 <br><br>
 ### 2022
 
