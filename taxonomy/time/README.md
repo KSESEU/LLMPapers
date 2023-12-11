@@ -14,7 +14,7 @@ This page categorizes the literature by the **Last Post**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/2023-190-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
-- [<img src=https://img.shields.io/badge/2022-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
+- [<img src=https://img.shields.io/badge/2022-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [<img src=https://img.shields.io/badge/2019-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
@@ -1138,6 +1138,9 @@ Extraction**](https://doi.org/10.1145/3511808.3557459),<br> by *Jiacheng Li, Yan
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2208.11057) [**Prompting as Probing: Using Language Models for Knowledge Base Construction**](https://doi.org/10.48550/arXiv.2208.11057),<br> by *Dimitrios Alivanistos, Selene Baez Santamar\'\ia, Michael Cochez, Jan-Christoph Kalo, Emile van Krieken and Thiviyan Thanapalasingam*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.findings-emnlp.445) [**Towards Robust NLG Bias Evaluation with Syntactically-diverse Prompts**](https://doi.org/10.18653/v1/2022.findings-emnlp.445),<br> by *Arshiya Aggarwal, Jiao Sun and Nanyun Peng*
+<br><br>
+- [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539249) [**GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural
+Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaixiong Zhou, Xin He, Ying Wang and Xin Wang*
 <br><br>
 ### 2021
 

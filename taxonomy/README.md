@@ -71,7 +71,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Knowledge_Fusion-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#agent)
-- [<img src=https://img.shields.io/badge/LLM_&_GNN-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-&-gnn)
+- [<img src=https://img.shields.io/badge/LLM_&_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-&-gnn)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2143,6 +2143,9 @@ LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.230
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.16534) [**Graph Prompt Learning: A Comprehensive Survey and Beyond**](https://doi.org/10.48550/arXiv.2311.16534),<br> by *Xiangguo Sun, Jiawen Zhang, Xixi Wu, Hong Cheng, Yun Xiong and Jia Li*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://export.arxiv.org/abs/2312.02783) [**Large Language Models on Graphs: A Comprehensive Survey**](https://export.arxiv.org/abs/2312.02783),<br> by *Bowen Jin, Gang Liu, Chi Han, Meng Jiang, Heng Ji and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539249) [**GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural
+Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaixiong Zhou, Xin He, Ying Wang and Xin Wang*
 <br><br>
 ### Others
 

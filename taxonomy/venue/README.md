@@ -53,7 +53,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/JIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jis)
 - [<img src=https://img.shields.io/badge/JKSUCIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jksucis)
 - [<img src=https://img.shields.io/badge/JMLR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#jmlr)
-- [<img src=https://img.shields.io/badge/KDD-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kdd)
+- [<img src=https://img.shields.io/badge/KDD-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kdd)
 - [<img src=https://img.shields.io/badge/KIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#kis)
 - [<img src=https://img.shields.io/badge/MM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [<img src=https://img.shields.io/badge/MSR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
@@ -1023,6 +1023,9 @@ Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne
 <br><br>
 - [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539472) [**Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex
 Logical Queries**](https://doi.org/10.1145/3534678.3539472),<br> by *Xiao Liu, Shiyu Zhao, Kai Su, Yukuo Cen, Jiezhong Qiu, Mengdi Zhang, Wei Wu, Yuxiao Dong et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539249) [**GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural
+Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaixiong Zhou, Xin He, Ying Wang and Xin Wang*
 <br><br>
 ### KIS
 
