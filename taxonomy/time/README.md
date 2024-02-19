@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2023-192-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-193-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -501,6 +501,9 @@ KGQA**](https://doi.org/10.48550/arXiv.2311.07850),<br> by *Dhruv Agarwal, Rajar
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.01029) [**Explainability for Large Language Models: A Survey**](https://doi.org/10.48550/arXiv.2309.01029),<br> by *Haiyan Zhao, Hanjie Chen, Fan Yang, Ninghao Liu, Huiqi Deng, Hengyi Cai, Shuaiqiang Wang, Dawei Yin et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2312.17617) [**Large Language Models for Generative Information Extraction: A Survey**](https://arxiv.org/abs/2312.17617),<br> by *Derong Xu, Wei Chen, Wenjun Peng, Chao Zhang, Tong Xu, Xiangyu Zhao, Xian Wu, Yefeng Zheng et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ISWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-47243-5\_14) [**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation
+from Text**](https://doi.org/10.1007/978-3-031-47243-5\_14),<br> by *Nandana Mihindukulasooriya, Sanju Tiwari, Carlos F. Enguix and Kusum Lata*
 <br><br>
 ### 2022
 

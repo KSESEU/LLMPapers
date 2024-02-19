@@ -325,6 +325,8 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Dawei_Yin-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dawei-yin)
 - [<img src=https://img.shields.io/badge/Shuaiqiang_Wang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shuaiqiang-wang)
 - [<img src=https://img.shields.io/badge/Cunxiang_Wang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#cunxiang-wang)
+- [<img src=https://img.shields.io/badge/Sanju_Tiwari-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sanju-tiwari)
+- [<img src=https://img.shields.io/badge/Nandana_Mihindukulasooriya-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#nandana-mihindukulasooriya)
 - [<img src=https://img.shields.io/badge/Han_Zhao-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#han-zhao)
 - [<img src=https://img.shields.io/badge/Xindong_Wu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xindong-wu)
 - [<img src=https://img.shields.io/badge/Pouya_Pezeshkpour-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pouya-pezeshkpour)
@@ -4657,6 +4659,22 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.07521) [**Survey on Factuality in Large Language Models: Knowledge, Retrieval
 and Domain-Specificity**](https://doi.org/10.48550/arXiv.2310.07521),<br> by *Cunxiang Wang, Xiaoze Liu, Yuanhao Yue, Xiangru Tang, Tianhang Zhang, Jiayang Cheng, Yunzhi Yao, Wenyang Gao et al.*
+<br><br>
+### Sanju Tiwari
+
+- [<img src=https://img.shields.io/badge/ESWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
+Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
+<br><br>
+- [<img src=https://img.shields.io/badge/ISWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-47243-5\_14) [**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation
+from Text**](https://doi.org/10.1007/978-3-031-47243-5\_14),<br> by *Nandana Mihindukulasooriya, Sanju Tiwari, Carlos F. Enguix and Kusum Lata*
+<br><br>
+### Nandana Mihindukulasooriya
+
+- [<img src=https://img.shields.io/badge/ESWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf) [**Exploring In-Context Learning Capabilities of Foundation Models for
+Generating Knowledge Graphs from Text**](https://ceur-ws.org/Vol-3447/Text2KG\_Paper\_9.pdf),<br> by *Hanieh Khorashadizadeh, Nandana Mihindukulasooriya, Sanju Tiwari, Jinghua Groppe and Sven Groppe*
+<br><br>
+- [<img src=https://img.shields.io/badge/ISWC-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-47243-5\_14) [**Text2KGBench: A Benchmark for Ontology-Driven Knowledge Graph Generation
+from Text**](https://doi.org/10.1007/978-3-031-47243-5\_14),<br> by *Nandana Mihindukulasooriya, Sanju Tiwari, Carlos F. Enguix and Kusum Lata*
 <br><br>
 ### Han Zhao
 
