@@ -125,6 +125,7 @@ fined_taxonomy = {
                    'Knowledge Fusion',
                    'Agent',
                    'LLM & GNN',
+                   'Vision LLM',
                    'Others']
 }
 

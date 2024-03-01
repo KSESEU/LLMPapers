@@ -24,7 +24,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-85-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
+- [<img src=https://img.shields.io/badge/Reasoning-86-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Thought-41-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#arithmetic-reasoning)
@@ -45,7 +45,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Continual_Learning-46-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#continual-learning)
 - [<img src=https://img.shields.io/badge/Prompt_Engineering-33-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#prompt-engineering)
 - [<img src=https://img.shields.io/badge/Natural_Language_Understanding-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#natural-language-understanding)
-- [<img src=https://img.shields.io/badge/Multimodal-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multimodal)
+- [<img src=https://img.shields.io/badge/Multimodal-26-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multimodal)
 - [<img src=https://img.shields.io/badge/Multilingual-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multilingual)
 - [<img src=https://img.shields.io/badge/Reliability-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reliability)
 - [<img src=https://img.shields.io/badge/Robustness-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#robustness)
@@ -57,7 +57,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-annotation)
 - [<img src=https://img.shields.io/badge/Information_Extraction-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#domain-adaptive)
-- [<img src=https://img.shields.io/badge/Question_Answering-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
+- [<img src=https://img.shields.io/badge/Question_Answering-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#generalizability)
@@ -67,11 +67,12 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Interpretability/Explainability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#interpretability/explainability)
 - [<img src=https://img.shields.io/badge/Data_Generation-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-generation)
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#safety)
-- [<img src=https://img.shields.io/badge/Graph_Learning-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#graph-learning)
+- [<img src=https://img.shields.io/badge/Graph_Learning-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Knowledge_Fusion-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_&_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-&-gnn)
+- [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#vision-llm)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -731,6 +732,8 @@ Adaptors**](https://doi.org/10.48550/arXiv.2211.11031),<br> by *Thomas Hartvigse
 <br><br>
 ### Reasoning
 
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2402.16837.pdf) [**Do Large Language Models Latently Perform Multi-Hop Reasoning?**](https://arxiv.org/pdf/2402.16837.pdf),<br> by *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva and Sebastian Riedel*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.11596) [**ThoughtSource: A central hub for large language model reasoning
 data**](https://doi.org/10.48550/arXiv.2301.11596),<br> by *Simon Ott, Konstantin Hebenstreit, Valentin Li\'evin, Christoffer Egeberg Hother, Milad Moradi, Maximilian Mayrhauser, Robert Praas, Ole Winther et al.*
 <br><br>
@@ -1702,6 +1705,14 @@ Video Infilling and Prediction**](https://doi.org/10.48550/arXiv.2305.13903),<br
 - [<img src=https://img.shields.io/badge/Mach._Intell._Res.-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/s11633-022-1409-1) [**Compositional Prompting Video-language Models to Understand Procedure
 in Instructional Videos**](https://doi.org/10.1007/s11633-022-1409-1),<br> by *Guyue Hu, Bin He and Hanwang Zhang*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.10592) [**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
+Language Models**](https://doi.org/10.48550/arXiv.2304.10592),<br> by *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li and Mohamed Elhoseiny*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html) [**VisionLLM: Large Language Model is also an Open-Ended Decoder for
+Vision-Centric Tasks**](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html),<br> by *Wenhai Wang, Zhe Chen, Xiaokang Chen, Jiannan Wu, Xizhou Zhu, Gang Zeng, Ping Luo, Tong Lu et al.*
+<br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.01593) [**CLIP-Event: Connecting Text and Images with Event Structures**](https://doi.org/10.1109/CVPR52688.2022.01593),<br> by *Manling Li, Ruochen Xu, Shuohang Wang, Luowei Zhou, Xudong Lin, Chenguang Zhu, Michael Zeng, Heng Ji et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/COLING-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.coling-1.491) [**Are Visual-Linguistic Models Commonsense Knowledge Bases?**](https://aclanthology.org/2022.coling-1.491),<br> by *Hsiu-Yu Yang and Carina Silberer*
@@ -1957,6 +1968,10 @@ Complex Questions**](https://doi.org/10.48550/arXiv.2303.07992),<br> by *Yiming 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.07850) [**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot
 KGQA**](https://doi.org/10.48550/arXiv.2311.07850),<br> by *Dhruv Agarwal, Rajarshi Das, Sopan Khosla and Rashmi Gangadharaiah*
 <br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2303.01903v3.pdf) [**Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/pdf/2303.01903v3.pdf),<br> by *Zhou Yu, Xuecheng Ouyang, Zhenwei Shao, Meng Wang and Jun Yu*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=bQfJLRlfYO) [**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**](https://openreview.net/pdf?id=bQfJLRlfYO),<br> by *Chaojie Wang, Yishi Xu, Zhong Peng, Chenxi Zhang, Bo Chen, Xinrun Wang, Lei Feng and Bo An*
+<br><br>
 - [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539472) [**Mask and Reason: Pre-Training Knowledge Graph Transformers for Complex
 Logical Queries**](https://doi.org/10.1145/3534678.3539472),<br> by *Xiao Liu, Shiyu Zhao, Kai Su, Yukuo Cen, Jiezhong Qiu, Mengdi Zhang, Wei Wu, Yuxiao Dong et al.*
 <br><br>
@@ -2112,6 +2127,8 @@ Understanding**](https://arxiv.org/abs/2202.04538),<br> by *Yu Meng, Jiaxin Huan
 <br><br>
 ### Graph Learning
 
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.05894) [**Large Language Model Meets Graph Neural Network in Knowledge Distillation**](https://doi.org/10.48550/arXiv.2402.05894),<br> by *Shengxiang Hu, Guobing Zou, Song Yang, Yanglan Gan, Bofeng Zhang and Yixin Chen*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2307.03393) [**Exploring the Potential of Large Language Models (LLMs) in Learning
 on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin et al.*
 <br><br>
@@ -2121,6 +2138,11 @@ on Graphs**](https://doi.org/10.48550/arXiv.2307.03393),<br> by *Zhikai Chen, Ha
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.04565) [**Unleashing the Power of Graph Learning through LLM-based Autonomous
 Agents**](https://doi.org/10.48550/arXiv.2309.04565),<br> by *Lanning Wei, Zhiqiang He, Huan Zhao and Quanming Yao*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
+Language_Processing:_{EMNLP}_2023_--_Industry_Track,_Singapore,_December
+6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-industry.75) [**Graph Meets LLM: A Novel Approach to Collaborative Filtering for
+Robust Conversational Understanding**](https://aclanthology.org/2023.emnlp-industry.75),<br> by *Zheng Chen, Ziyan Jiang, Fan Yang, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu and Aram Galstyan*
 <br><br>
 ### Knowledge Storage and Locating
 
@@ -2166,6 +2188,11 @@ LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.230
 <br><br>
 - [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539249) [**GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural
 Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaixiong Zhou, Xin He, Ying Wang and Xin Wang*
+<br><br>
+### Vision LLM
+
+- [<img src=https://img.shields.io/badge/{IEEE/CVF}_Conference_on_Computer_Vision_and_Pattern_Recognition,
+{CVPR}_2023,_Vancouver,_BC,_Canada,_June_17--24,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52729.2023.01782) [**Visual Atoms: Pre-Training Vision Transformers with Sinusoidal Waves**](https://doi.org/10.1109/CVPR52729.2023.01782),<br> by *Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota*
 <br><br>
 ### Others
 

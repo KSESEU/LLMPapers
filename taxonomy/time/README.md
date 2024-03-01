@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-197-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-203-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -36,6 +36,10 @@ This page categorizes the literature by the **Last Post**
 
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.01619) [**KB-Plugin: A Plug-and-play Framework for Large Language Models to
 Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/arXiv.2402.01619),<br> by *Jiajie Zhang, Shulin Cao, Linmei Hu, Ling Feng, Lei Hou and Juanzi Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.05894) [**Large Language Model Meets Graph Neural Network in Knowledge Distillation**](https://doi.org/10.48550/arXiv.2402.05894),<br> by *Shengxiang Hu, Guobing Zou, Song Yang, Yanglan Gan, Bofeng Zhang and Yixin Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2402.16837.pdf) [**Do Large Language Models Latently Perform Multi-Hop Reasoning?**](https://arxiv.org/pdf/2402.16837.pdf),<br> by *Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva and Sebastian Riedel*
 <br><br>
 ### 2023
 
@@ -520,6 +524,26 @@ Directions**](https://doi.org/10.48550/arXiv.2311.12399),<br> by *Yuhan Li, Zhix
 2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-emnlp.1009) [**PIVOINE: Instruction Tuning for Open-world Entity Profiling**](https://aclanthology.org/2023.findings-emnlp.1009),<br> by *Keming Lu, Xiaoman Pan, Kaiqiang Song, Hongming Zhang, Dong Yu and Jianshu Chen*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2312.01954) [**Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models**](https://arxiv.org/abs/2312.01954),<br> by *Andrea Papaluca, Daniel Krefl, Sergio Mendez Rodriguez, Artem Lensky and Hanna Suominen*
+<br><br>
+- [<img src=https://img.shields.io/badge/{IEEE/CVF}_Conference_on_Computer_Vision_and_Pattern_Recognition,
+{CVPR}_2023,_Vancouver,_BC,_Canada,_June_17--24,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52729.2023.01782) [**Visual Atoms: Pre-Training Vision Transformers with Sinusoidal Waves**](https://doi.org/10.1109/CVPR52729.2023.01782),<br> by *Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.10592) [**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
+Language Models**](https://doi.org/10.48550/arXiv.2304.10592),<br> by *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li and Mohamed Elhoseiny*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html) [**VisionLLM: Large Language Model is also an Open-Ended Decoder for
+Vision-Centric Tasks**](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html),<br> by *Wenhai Wang, Zhe Chen, Xiaokang Chen, Jiannan Wu, Xizhou Zhu, Gang Zeng, Ping Luo, Tong Lu et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
+Language_Processing:_{EMNLP}_2023_--_Industry_Track,_Singapore,_December
+6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-industry.75) [**Graph Meets LLM: A Novel Approach to Collaborative Filtering for
+Robust Conversational Understanding**](https://aclanthology.org/2023.emnlp-industry.75),<br> by *Zheng Chen, Ziyan Jiang, Fan Yang, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu and Aram Galstyan*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2303.01903v3.pdf) [**Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/pdf/2303.01903v3.pdf),<br> by *Zhou Yu, Xuecheng Ouyang, Zhenwei Shao, Meng Wang and Jun Yu*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=bQfJLRlfYO) [**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**](https://openreview.net/pdf?id=bQfJLRlfYO),<br> by *Chaojie Wang, Yishi Xu, Zhong Peng, Chenxi Zhang, Bo Chen, Xinrun Wang, Lei Feng and Bo An*
 <br><br>
 ### 2022
 

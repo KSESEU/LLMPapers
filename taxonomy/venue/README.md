@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-262-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-264-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1285,6 +1285,8 @@ Tasks**](https://doi.org/10.1109/TPAMI.2021.3057446),<br> by *Matthias De Lange,
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.01619) [**KB-Plugin: A Plug-and-play Framework for Large Language Models to
 Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/arXiv.2402.01619),<br> by *Jiajie Zhang, Shulin Cao, Linmei Hu, Ling Feng, Lei Hou and Juanzi Li*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.05894) [**Large Language Model Meets Graph Neural Network in Knowledge Distillation**](https://doi.org/10.48550/arXiv.2402.05894),<br> by *Shengxiang Hu, Guobing Zou, Song Yang, Yanglan Gan, Bofeng Zhang and Yixin Chen*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04023) [**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning,
 Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023),<br> by *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji et al.*
 <br>``
@@ -1630,6 +1632,9 @@ KGQA**](https://doi.org/10.48550/arXiv.2311.07850),<br> by *Dhruv Agarwal, Rajar
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.12399) [**A Survey of Graph Meets Large Language Model: Progress and Future
 Directions**](https://doi.org/10.48550/arXiv.2311.12399),<br> by *Yuhan Li, Zhixun Li, Peisong Wang, Jia Li, Xiangguo Sun, Hong Cheng and Jeffrey Xu Yu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.10592) [**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
+Language Models**](https://doi.org/10.48550/arXiv.2304.10592),<br> by *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li and Mohamed Elhoseiny*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
