@@ -126,6 +126,7 @@ fined_taxonomy = {
                    'Agent',
                    'LLM & GNN',
                    'Vision LLM',
+                   'LLM & KG',
                    'Others']
 }
 

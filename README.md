@@ -24,13 +24,13 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-87-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+- [<img src=https://img.shields.io/badge/Reasoning-88-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Thought-42-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-8-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Verification-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-verification)
-  - [<img src=https://img.shields.io/badge/Knowledge_Graph_Embedding-1-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-embedding)
+  - [<img src=https://img.shields.io/badge/Knowledge_Graph_Embedding-2-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-graph-embedding)
 - [<img src=https://img.shields.io/badge/Federated_Learning-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#federated-learning)
 - [<img src=https://img.shields.io/badge/Distributed_AI-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#distributed-ai)
 - [<img src=https://img.shields.io/badge/Selective_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#selective-annotation)
@@ -73,6 +73,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_&_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-&-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#vision-llm)
+- [<img src=https://img.shields.io/badge/LLM_&_KG-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-&-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -971,6 +972,8 @@ Expression**](https://aclanthology.org/2022.emnlp-main.218),<br> by *Jiaqi Chen,
 <br><br>
 #### Knowledge Graph Embedding
 
+- [<img src=https://img.shields.io/badge/CVPR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf) [**Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf),<br> by *Ye, Shuquan, Xie, Yujia, Chen, Dongdong, Xu, Yichong, Yuan, Lu, Zhu, Chenguang and Liao, Jing*
+<br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.09338) [**Deep Bidirectional Language-Knowledge Graph Pretraining**](https://doi.org/10.48550/arXiv.2210.09338),<br> by *Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang and Jure Leskovec*
 <br><br>
 ### Federated Learning
@@ -2195,6 +2198,22 @@ Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaix
 
 - [<img src=https://img.shields.io/badge/{IEEE/CVF}_Conference_on_Computer_Vision_and_Pattern_Recognition,
 {CVPR}_2023,_Vancouver,_BC,_Canada,_June_17--24,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52729.2023.01782) [**Visual Atoms: Pre-Training Vision Transformers with Sinusoidal Waves**](https://doi.org/10.1109/CVPR52729.2023.01782),<br> by *Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota*
+<br><br>
+### LLM & KG
+
+- [<img src=https://img.shields.io/badge/IEEE_Transactions_on_Knowledge_and_Data_Engineering-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ieeexplore.ieee.org/abstract/document/10417790) [**Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**](https://ieeexplore.ieee.org/abstract/document/10417790),<br> by *Yang, Linyao, Chen, Hongyang, Li, Zhao, Ding, Xiao and Wu, Xindong*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/) [**GraphRAG: Unlocking LLM discovery on narrative private data**](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/),<br> by *Jonathan Larson, Steven Truitt*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=YmEDnMynuO) [**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**](https://openreview.net/pdf?id=YmEDnMynuO),<br> by *Xin Li, Dongze Lian, Zhihe Lu, Jiawang Bai, Zhibo Chen and Xinchao Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2312.06323.pdf) [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://arxiv.org/pdf/2312.06323.pdf),<br> by *Yubin Wang, Xinyang Jiang, De Cheng, Dongsheng Li and Cairong Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=RBKHLt3n9rM) [**Fusing Knowledge Graphs and Large Language Models**](https://www.youtube.com/watch?v=RBKHLt3n9rM),<br> by *Rudy Agovic*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=ftlZ0oeXYRE) [**RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up**](https://www.youtube.com/watch?v=ftlZ0oeXYRE),<br> by *Neo4j*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.06671) [**Making Large Language Models Perform Better in Knowledge Graph Completion**](https://arxiv.org/abs/2310.06671),<br> by *Yichi Zhang, Zhuo Chen, Wen Zhang and Huajun Chen*
 <br><br>
 ### Others
 

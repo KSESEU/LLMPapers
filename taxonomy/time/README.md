@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-203-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-207-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -46,6 +46,14 @@ Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/a
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://export.arxiv.org/abs/2402.16567) [**Aligning Large Language Models to a Domain-specific Graph Database**](http://export.arxiv.org/abs/2402.16567),<br> by *Yuanyuan Liang, Keren Tan, Tingyu Xie, Wenbiao Tao, Siyuan Wang, Yunshi Lan and Weining Qian*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2401.14295) [**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**](https://arxiv.org/abs/2401.14295),<br> by *Maciej Besta, Florim Memedi, Zhenyu Zhang, Robert Gerstenberger, Nils Blach, Piotr Nyczyk, Marcin Copik, Grzegorz Kwaśniewski et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/IEEE_Transactions_on_Knowledge_and_Data_Engineering-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ieeexplore.ieee.org/abstract/document/10417790) [**Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**](https://ieeexplore.ieee.org/abstract/document/10417790),<br> by *Yang, Linyao, Chen, Hongyang, Li, Zhao, Ding, Xiao and Wu, Xindong*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/) [**GraphRAG: Unlocking LLM discovery on narrative private data**](https://www.microsoft.com/en-us/research/blog/graphrag-unlocking-llm-discovery-on-narrative-private-data/),<br> by *Jonathan Larson, Steven Truitt*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=YmEDnMynuO) [**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**](https://openreview.net/pdf?id=YmEDnMynuO),<br> by *Xin Li, Dongze Lian, Zhihe Lu, Jiawang Bai, Zhibo Chen and Xinchao Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2312.06323.pdf) [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://arxiv.org/pdf/2312.06323.pdf),<br> by *Yubin Wang, Xinyang Jiang, De Cheng, Dongsheng Li and Cairong Zhao*
 <br><br>
 ### 2023
 
@@ -546,6 +554,14 @@ Robust Conversational Understanding**](https://aclanthology.org/2023.emnlp-indus
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2303.01903v3.pdf) [**Prophet: Prompting Large Language Models with Complementary Answer Heuristics for Knowledge-based Visual Question Answering**](https://arxiv.org/pdf/2303.01903v3.pdf),<br> by *Zhou Yu, Xuecheng Ouyang, Zhenwei Shao, Meng Wang and Jun Yu*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=bQfJLRlfYO) [**keqing: knowledge-based question answering is a nature chain-of-thought mentor of LLM**](https://openreview.net/pdf?id=bQfJLRlfYO),<br> by *Chaojie Wang, Yishi Xu, Zhong Peng, Chenxi Zhang, Bo Chen, Xinrun Wang, Lei Feng and Bo An*
+<br><br>
+- [<img src=https://img.shields.io/badge/CVPR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf) [**Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf),<br> by *Ye, Shuquan, Xie, Yujia, Chen, Dongdong, Xu, Yichong, Yuan, Lu, Zhu, Chenguang and Liao, Jing*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=RBKHLt3n9rM) [**Fusing Knowledge Graphs and Large Language Models**](https://www.youtube.com/watch?v=RBKHLt3n9rM),<br> by *Rudy Agovic*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=ftlZ0oeXYRE) [**RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up**](https://www.youtube.com/watch?v=ftlZ0oeXYRE),<br> by *Neo4j*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.06671) [**Making Large Language Models Perform Better in Knowledge Graph Completion**](https://arxiv.org/abs/2310.06671),<br> by *Yichi Zhang, Zhuo Chen, Wen Zhang and Huajun Chen*
 <br><br>
 ### 2022
 

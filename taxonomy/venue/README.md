@@ -13,7 +13,7 @@ This page categorizes the literature by the **Published Venue**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/AAAI-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
+- [<img src=https://img.shields.io/badge/AAAI-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
 - [<img src=https://img.shields.io/badge/ACL-79-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [<img src=https://img.shields.io/badge/ACL_Findings-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [<img src=https://img.shields.io/badge/AIIoT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
@@ -23,7 +23,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/CHI-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#chi)
 - [<img src=https://img.shields.io/badge/CIKM-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#cikm)
 - [<img src=https://img.shields.io/badge/COLING-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#coling)
-- [<img src=https://img.shields.io/badge/CVPR-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#cvpr)
+- [<img src=https://img.shields.io/badge/CVPR-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#cvpr)
 - [<img src=https://img.shields.io/badge/EACL-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#eacl)
 - [<img src=https://img.shields.io/badge/ECCV-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#eccv)
 - [<img src=https://img.shields.io/badge/ECIR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecir)
@@ -58,14 +58,14 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/MM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [<img src=https://img.shields.io/badge/MSR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
 - [<img src=https://img.shields.io/badge/NAACL-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
-- [<img src=https://img.shields.io/badge/NeurIPS-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
+- [<img src=https://img.shields.io/badge/NeurIPS-23-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [<img src=https://img.shields.io/badge/OSDI-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [<img src=https://img.shields.io/badge/OpenAI-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
 - [<img src=https://img.shields.io/badge/SIGIR-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#sigir)
 - [<img src=https://img.shields.io/badge/T--PAMI-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#t-pami)
 - [<img src=https://img.shields.io/badge/TACL-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tacl)
 - [<img src=https://img.shields.io/badge/TIST-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tist)
-- [<img src=https://img.shields.io/badge/TKDE-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tkde)
+- [<img src=https://img.shields.io/badge/TKDE-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tkde)
 - [<img src=https://img.shields.io/badge/TNSE-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tnse)
 - [<img src=https://img.shields.io/badge/TOIS-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#tois)
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
@@ -83,6 +83,8 @@ This page categorizes the literature by the **Published Venue**
 
 ### AAAI
 
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2312.06323.pdf) [**Learning Hierarchical Prompt with Structured Linguistic Knowledge for Vision-Language Models**](https://arxiv.org/pdf/2312.06323.pdf),<br> by *Yubin Wang, Xinyang Jiang, De Cheng, Dongsheng Li and Cairong Zhao*
+<br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/21416) [**Fusing Task-Oriented and Open-Domain Dialogues in Conversational Agents**](https://ojs.aaai.org/index.php/AAAI/article/view/21416),<br> by *Tom Young, Frank Xing, Vlad Pandelea, Jinjie Ni and Erik Cambria*
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/21354) [**Selecting Optimal Context Sentences for Event-Event Relation Extraction**](https://ojs.aaai.org/index.php/AAAI/article/view/21354),<br> by *Hieu Man, Nghia Trung Ngo, Linh Ngo Van and Thien Huu Nguyen*
@@ -440,6 +442,8 @@ Proposing a distill and replay method (DnR) which follows the setting of LAMOL. 
 <br><br>
 ### CVPR
 
+- [<img src=https://img.shields.io/badge/CVPR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf) [**Improving Commonsense in Vision-Language Models via Knowledge Graph Riddles**](https://openaccess.thecvf.com/content/CVPR2023/papers/Ye_Improving_Commonsense_in_Vision-Language_Models_via_Knowledge_Graph_Riddles_CVPR_2023_paper.pdf),<br> by *Ye, Shuquan, Xie, Yujia, Chen, Dongdong, Xu, Yichong, Yuan, Lu, Zhu, Chenguang and Liao, Jing*
+<br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.00024) [**Learning to Prompt for Continual Learning**](https://doi.org/10.1109/CVPR52688.2022.00024),<br> by *Zifeng Wang, Zizhao Zhang, Chen-Yu Lee, Han Zhang, Ruoxi Sun, Xiaoqi Ren, Guolong Su, Vincent Perot et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CVPR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52688.2022.00982) [**Rethinking Architecture Design for Tackling Data Heterogeneity in
@@ -1148,6 +1152,8 @@ Understanding**](https://doi.org/10.18653/v1/n19-1423), [<img src=https://img.sh
 <br><br>
 ### NeurIPS
 
+- [<img src=https://img.shields.io/badge/NeurIPS-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=YmEDnMynuO) [**GraphAdapter: Tuning Vision-Language Models With Dual Knowledge Graph**](https://openreview.net/pdf?id=YmEDnMynuO),<br> by *Xin Li, Dongze Lian, Zhihe Lu, Jiawang Bai, Zhibo Chen and Xinchao Wang*
+<br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html) [**VisionLLM: Large Language Model is also an Open-Ended Decoder for
 Vision-Centric Tasks**](http://papers.nips.cc/paper\_files/paper/2023/hash/c1f7b1ed763e9c75e4db74b49b76db5f-Abstract-Conference.html),<br> by *Wenhai Wang, Zhe Chen, Xiaokang Chen, Jiannan Wu, Xizhou Zhu, Gang Zeng, Ping Luo, Tong Lu et al.*
 <br><br>
@@ -1258,6 +1264,8 @@ Tasks**](https://doi.org/10.1109/TPAMI.2021.3057446),<br> by *Matthias De Lange,
 <br><br>
 ### TKDE
 
+- [<img src=https://img.shields.io/badge/IEEE_Transactions_on_Knowledge_and_Data_Engineering-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ieeexplore.ieee.org/abstract/document/10417790) [**Give Us the Facts: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling**](https://ieeexplore.ieee.org/abstract/document/10417790),<br> by *Yang, Linyao, Chen, Hongyang, Li, Zhao, Ding, Xiao and Wu, Xindong*
+<br><br>
 - [<img src=https://img.shields.io/badge/TKDE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.13428) [**A Survey on Knowledge-Enhanced Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2212.13428),<br> by *Chaoqi Zhen, Yanlei Shang, Xiangyu Liu, Yifei Li, Yong Chen and Dell Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/TKDE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/TKDE.2020.3028705) [**A Survey on Knowledge Graph-Based Recommender Systems**](https://doi.org/10.1109/TKDE.2020.3028705),<br> by *Qingyu Guo, Fuzhen Zhuang, Chuan Qin, Hengshu Zhu, Xing Xie, Hui Xiong and Qing He*
