@@ -98,7 +98,7 @@ fined_taxonomy = {
                    'Reasoning', 'Chain of Thought', 'Multi-Step Reasoning', 'Arithmetic Reasoning', 'Symbolic Reasoning','Chain of Verification','Knowledge Graph Embedding',
                    'Federated Learning', 'Distributed AI',
                    'Selective Annotation',
-                   'Program&Code Generation', 'Code Representation', 'Code Fixing', 'Code Review', 'Program Generation',
+                   'Program and Code Generation', 'Code Representation', 'Code Fixing', 'Code Review', 'Program Generation',
                    'Software Engineering',
                    'AIGC', 'Controllable Text Generation',
                    "Continual Learning", 'Prompt Engineering', 'Natural Language Understanding',
@@ -124,9 +124,9 @@ fined_taxonomy = {
                    'Knowledge Storage and Locating',
                    'Knowledge Fusion',
                    'Agent',
-                   'LLM & GNN',
+                   'LLM and GNN',
                    'Vision LLM',
-                   'LLM & KG',
+                   'LLM and KG',
                    'Others']
 }
 
@@ -137,10 +137,10 @@ sub_titles = {'Chain of Thought': 'Reasoning',
               'Chain of Verification': 'Reasoning',
               'Knowledge Graph Embedding':'Reasoning',
               'Controllable Text Generation': 'AIGC',
-              'Code Representation': 'Program&Code Generation',
-              'Code Fixing': 'Program&Code Generation',
-              'Code Review': 'Program&Code Generation',
-              'Program Generation': 'Program&Code Generation',
+              'Code Representation': 'Program and Code Generation',
+              'Code Fixing': 'Program and Code Generation',
+              'Code Review': 'Program and Code Generation',
+              'Program Generation': 'Program and Code Generation',
               'Mixtures of Experts': 'Pre-Training Techniques'}
 
 plm_url = {

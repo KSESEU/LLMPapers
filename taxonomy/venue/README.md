@@ -831,7 +831,7 @@ of code**](https://doi.org/10.1145/3540250.3549094),<br> by *Zhaowei Zhang, Hong
 <br><br>
 - [<img src=https://img.shields.io/badge/FSE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3540250.3549162) [**NatGen: generative pre-training by "naturalizing" source code**](https://doi.org/10.1145/3540250.3549162),<br> by *Saikat Chakraborty, Toufique Ahmed, Yangruibo Ding, Premkumar T. Devanbu and Baishakhi Ray*
 <br><br>
-- [<img src=https://img.shields.io/badge/FSE-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3368089.3417058) [**IntelliCode compose: Program&Code Generation using transformer**](https://doi.org/10.1145/3368089.3417058),<br> by *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu and Neel Sundaresan*
+- [<img src=https://img.shields.io/badge/FSE-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3368089.3417058) [**IntelliCode compose: Code Generation using transformer**](https://doi.org/10.1145/3368089.3417058),<br> by *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu and Neel Sundaresan*
 <br><br>
 ### IA3
 
@@ -1324,7 +1324,7 @@ This paper surveys and summarizes the progress and challenges of ICL, including 
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.00774) [**SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot**](https://doi.org/10.48550/arXiv.2301.00774),<br> by *Elias Frantar and Dan Alistarh*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.05527) [**CodeBERTScore: Evaluating Program&Code Generation with Pretrained Models of Code**](https://arxiv.org/abs/2302.05527),<br> by *Zhou, Shuyan, Alon, Uri, Agarwal, Sumit and Neubig, Graham*
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.05527) [**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**](https://arxiv.org/abs/2302.05527),<br> by *Zhou, Shuyan, Alon, Uri, Agarwal, Sumit and Neubig, Graham*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04813) [**Explanation Selection Using Unlabeled Data for In-Context Learning**](https://doi.org/10.48550/arXiv.2302.04813),<br> by *Xi Ye and Greg Durrett*
 <br><br>
@@ -1650,7 +1650,7 @@ Directions**](https://doi.org/10.48550/arXiv.2311.12399),<br> by *Yuhan Li, Zhix
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.10592) [**MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large
 Language Models**](https://doi.org/10.48550/arXiv.2304.10592),<br> by *Deyao Zhu, Jun Chen, Xiaoqian Shen, Xiang Li and Mohamed Elhoseiny*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.07128) [**Language Models of Code are Few-Shot Commonsense Learners**](https://doi.org/10.48550/arXiv.2210.07128),<br> by *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang and Graham Neubig*
@@ -1713,7 +1713,7 @@ for Pre-trained Language Models**](https://doi.org/10.48550/arXiv.2203.06904),<b
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.08090) [**Where to Begin? On the Impact of Pre-Training and Initialization in
 Federated Learning**](https://doi.org/10.48550/arXiv.2210.08090),<br> by *John Nguyen, Jianyu Wang, Kshitiz Malik, Maziar Sanjabi and Michael Rabbat*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2207.01780) [**CodeRL: Mastering Program&Code Generation through Pretrained Models and Deep
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2207.01780) [**CodeRL: Mastering Code Generation through Pretrained Models and Deep
 Reinforcement Learning**](https://doi.org/10.48550/arXiv.2207.01780),<br> by *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese and Steven C. H. Hoi*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2211.10623) [**Do Pre-trained Language Models Indeed Understand Software Engineering

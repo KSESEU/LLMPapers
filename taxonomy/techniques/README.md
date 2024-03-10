@@ -34,7 +34,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Federated_Learning-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#federated-learning)
 - [<img src=https://img.shields.io/badge/Distributed_AI-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#distributed-ai)
 - [<img src=https://img.shields.io/badge/Selective_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#selective-annotation)
-- [<img src=https://img.shields.io/badge/Program&Code_Generation-45-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#program&code-generation)
+- [<img src=https://img.shields.io/badge/Program_and_Code_Generation-45-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#program-and-code-generation)
   - [<img src=https://img.shields.io/badge/Code_Representation-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#code-representation)
   - [<img src=https://img.shields.io/badge/Code_Fixing-8-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#code-fixing)
   - [<img src=https://img.shields.io/badge/Code_Review-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#code-review)
@@ -71,9 +71,9 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
 - [<img src=https://img.shields.io/badge/Knowledge_Fusion-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Agent-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#agent)
-- [<img src=https://img.shields.io/badge/LLM_&_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-&-gnn)
+- [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#vision-llm)
-- [<img src=https://img.shields.io/badge/LLM_&_KG-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-&-kg)
+- [<img src=https://img.shields.io/badge/LLM_and_KG-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1048,16 +1048,16 @@ Specifically, the selection method first selects a small set of unlabeled exampl
 <br><br>
 - [<img src=https://img.shields.io/badge/VLDB-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.vldb.org/pvldb/vol15/p1466-li.pdf) [**Selective Data Acquisition in the Wild for Model Charging**](https://www.vldb.org/pvldb/vol15/p1466-li.pdf),<br> by *Chengliang Chai, Jiabin Liu, Nan Tang, Guoliang Li and Yuyu Luo*
 <br><br>
-### Program&Code Generation
+### Program and Code Generation
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.12868) [**On Robustness of Prompt-based Semantic Parsing with Large Pre-trained
 Language Model: An Empirical Study on Codex**](https://doi.org/10.48550/arXiv.2301.12868),<br> by *Terry Yue Zhuo, Zhuang Li, Yujin Huang, Yuan-Fang Li, Weiqing Wang, Gholamreza Haffari and Fatemeh Shiri*
 <br><br>
 - [<img src=https://img.shields.io/badge/openreview-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=VPCi3STZcaO) [**CodeT5Mix: A Pretrained Mixture of Encoder-decoder Transformers for Code Understanding and Generation**](https://openreview.net/pdf?id=VPCi3STZcaO),<br> by *Wang, Yue, Le, Hung, Gotmare, Akhilesh Deepak, Li, Junnan and Hoi, Steven*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.05527) [**CodeBERTScore: Evaluating Program&Code Generation with Pretrained Models of Code**](https://arxiv.org/abs/2302.05527),<br> by *Zhou, Shuyan, Alon, Uri, Agarwal, Sumit and Neubig, Graham*
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.05527) [**CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code**](https://arxiv.org/abs/2302.05527),<br> by *Zhou, Shuyan, Alon, Uri, Agarwal, Sumit and Neubig, Graham*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Program&Code Generation for Few-Shot Structured Prediction from
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.07128) [**Language Models of Code are Few-Shot Commonsense Learners**](https://doi.org/10.48550/arXiv.2210.07128),<br> by *Aman Madaan, Shuyan Zhou, Uri Alon, Yiming Yang and Graham Neubig*
@@ -1069,7 +1069,7 @@ Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao 
 - [<img src=https://img.shields.io/badge/ISSTA-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3533767.3534390) [**An extensive study on pre-trained models for program understanding
 and generation**](https://doi.org/10.1145/3533767.3534390),<br> by *Zhengran Zeng, Hanzhuo Tan, Haotian Zhang, Jing Li, Yuqun Zhang and Lingming Zhang*
 <br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2207.01780) [**CodeRL: Mastering Program&Code Generation through Pretrained Models and Deep
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2207.01780) [**CodeRL: Mastering Code Generation through Pretrained Models and Deep
 Reinforcement Learning**](https://doi.org/10.48550/arXiv.2207.01780),<br> by *Hung Le, Yue Wang, Akhilesh Deepak Gotmare, Silvio Savarese and Steven C. H. Hoi*
 <br><br>
 - [<img src=https://img.shields.io/badge/ASE-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3551349.3556955) [**CoditT5: Pretraining for Source Code and Natural Language Editing**](https://doi.org/10.1145/3551349.3556955),<br> by *Jiyang Zhang, Sheena Panthaplackel, Pengyu Nie, Junyi Jessy Li and Milos Gligoric*
@@ -1103,7 +1103,7 @@ and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/
 - [<img src=https://img.shields.io/badge/ICSE-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/ICSE43902.2021.00040) [**Traceability Transformed: Generating more Accurate Links with Pre-Trained
 BERT Models**](https://doi.org/10.1109/ICSE43902.2021.00040),<br> by *Jinfeng Lin, Yalin Liu, Qingkai Zeng, Meng Jiang and Jane Cleland-Huang*
 <br><br>
-- [<img src=https://img.shields.io/badge/FSE-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3368089.3417058) [**IntelliCode compose: Program&Code Generation using transformer**](https://doi.org/10.1145/3368089.3417058),<br> by *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu and Neel Sundaresan*
+- [<img src=https://img.shields.io/badge/FSE-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3368089.3417058) [**IntelliCode compose: Code Generation using transformer**](https://doi.org/10.1145/3368089.3417058),<br> by *Alexey Svyatkovskiy, Shao Kun Deng, Shengyu Fu and Neel Sundaresan*
 <br><br>
 - [<img src=https://img.shields.io/badge/ASE-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3324884.3416591) [**Multi-task Learning based Pre-trained Language Model for Code Completion**](https://doi.org/10.1145/3324884.3416591),<br> by *Fang Liu, Ge Li, Yunfei Zhao and Zhi Jin*
 <br><br>
@@ -2181,7 +2181,7 @@ Tuning**](https://doi.org/10.48550/arXiv.2310.02527),<br> by *Tao Feng, Zifeng W
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.17382) [**Reason for Future, Act for Now: A Principled Framework for Autonomous
 LLM Agents with Provable Sample Efficiency**](https://doi.org/10.48550/arXiv.2309.17382),<br> by *Zhihan Liu, Hao Hu, Shenao Zhang, Hongyi Guo, Shuqi Ke, Boyi Liu and Zhaoran Wang*
 <br><br>
-### LLM & GNN
+### LLM and GNN
 
 - [<img src=https://img.shields.io/badge/KDD-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3580305.3599256) [**All in One: Multi-Task Prompting for Graph Neural Networks**](https://doi.org/10.1145/3580305.3599256),<br> by *Xiangguo Sun, Hong Cheng, Jia Li, Bo Liu and Jihong Guan*
 <br><br>
@@ -2199,7 +2199,7 @@ Networks**](https://doi.org/10.1145/3534678.3539249),<br> by *Mingchen Sun, Kaix
 - [<img src=https://img.shields.io/badge/{IEEE/CVF}_Conference_on_Computer_Vision_and_Pattern_Recognition,
 {CVPR}_2023,_Vancouver,_BC,_Canada,_June_17--24,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/CVPR52729.2023.01782) [**Visual Atoms: Pre-Training Vision Transformers with Sinusoidal Waves**](https://doi.org/10.1109/CVPR52729.2023.01782),<br> by *Sora Takashima, Ryo Hayamizu, Nakamasa Inoue, Hirokatsu Kataoka and Rio Yokota*
 <br><br>
-### LLM & KG
+### LLM and KG
 
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2402.11441.pdf) [**InfuserKI: Enhancing Large Language Models with Knowledge Graphs via Infuser-Guided Knowledge Integration**](https://arxiv.org/pdf/2402.11441.pdf),<br> by *Fali Wang, Runxue Bao, Suhang Wang, Wenchao Yu, Yanchi Liu, Wei Cheng and Haifeng Chen*
 <br><br>
