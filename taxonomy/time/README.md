@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-209-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-21-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-212-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -74,6 +74,8 @@ Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/a
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2402.00367) [**Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**](https://arxiv.org/abs/2402.00367),<br> by *Shangbin Feng, Weijia Shi, Yike Wang, Wenxuan Ding, Vidhisha Balachandran and Yulia Tsvetkov*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2401.05268) [**AUTOACT: Automatic Agent Learning from Scratch via Self-Planning**](https://arxiv.org/abs/2401.05268),<br> by *Shuofei Qiao, Ningyu Zhang, Runnan Fang, Yujie Luo, Wangchunshu Zhou, Yuchen Eleanor Jiang, Chengfei Lv and Huajun Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.15884) [**Corrective Retrieval Augmented Generation**](https://doi.org/10.48550/arXiv.2401.15884),<br> by *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu and Zhen-Hua Ling*
 <br><br>
 ### 2023
 
@@ -591,6 +593,19 @@ LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-
 on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
 LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html) [**InstructBLIP: Towards General-purpose Vision-Language Models with
 Instruction Tuning**](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html),<br> by *Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.620) [**Instruct and Extract: Instruction Tuning for On-Demand Information
+Extraction**](https://aclanthology.org/2023.emnlp-main.620),<br> by *Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji and Jiawei Han*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html) [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html),<br> by *Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li and Ying Shan*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html) [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
+Framework, and Benchmark**](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html),<br> by *Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang et al.*
 <br><br>
 ### 2022
 

@@ -16,7 +16,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Evaluation-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#evaluation)
 - [<img src=https://img.shields.io/badge/Survey-41-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-38-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#in-context-learning)
-- [<img src=https://img.shields.io/badge/Instruction_Tuning-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#instruction-tuning)
+- [<img src=https://img.shields.io/badge/Instruction_Tuning-15-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#rlhf)
 - [<img src=https://img.shields.io/badge/Pre--Training_Techniques-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#pre-training-techniques)
   - [<img src=https://img.shields.io/badge/Mixtures_of_Experts-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#mixtures-of-experts)
@@ -55,14 +55,14 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#generalizability)
 - [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#language-model-as-knowledge-base)
-- [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#retrieval-augmented-language-model)
+- [<img src=https://img.shields.io/badge/Retrieval--Augmented_Language_Model-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#retrieval-augmented-language-model)
 - [<img src=https://img.shields.io/badge/Quality-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#quality)
 - [<img src=https://img.shields.io/badge/Interpretability/Explainability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#interpretability/explainability)
 - [<img src=https://img.shields.io/badge/Data_Generation-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#data-generation)
@@ -452,6 +452,15 @@ LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-
 on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
 LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html) [**InstructBLIP: Towards General-purpose Vision-Language Models with
 Instruction Tuning**](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html),<br> by *Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html) [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html),<br> by *Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li and Ying Shan*
+<br><br>
+- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
+on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
+LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html) [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
+Framework, and Benchmark**](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html),<br> by *Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=gEZrGCozdqR) [**Finetuned Language Models are Zero-Shot Learners**](https://openreview.net/forum?id=gEZrGCozdqR),<br> by *Jason Wei, Maarten Bosma, Vincent Y. Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai et al.*
 <br><br>
@@ -1950,6 +1959,10 @@ from Text**](https://doi.org/10.1007/978-3-031-47243-5\_14),<br> by *Nandana Mih
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2312.01954) [**Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large Language Models**](https://arxiv.org/abs/2312.01954),<br> by *Andrea Papaluca, Daniel Krefl, Sergio Mendez Rodriguez, Artem Lensky and Hanna Suominen*
 <br><br>
+- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
+Language_Processing,_{EMNLP}_2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.620) [**Instruct and Extract: Instruction Tuning for On-Demand Information
+Extraction**](https://aclanthology.org/2023.emnlp-main.620),<br> by *Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji and Jiawei Han*
+<br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.130) [**Large language models are few-shot clinical information extractors**](https://aclanthology.org/2022.emnlp-main.130),<br> by *Monica Agrawal, Stefan Hegselmann, Hunter Lang, Yoon Kim and David A. Sontag*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.329) [**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think
@@ -2088,6 +2101,8 @@ Generated Prompts**](https://doi.org/10.18653/v1/2020.emnlp-main.346),<br> by *T
 <br><br>
 ### Retrieval-Augmented Language Model
 
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.15884) [**Corrective Retrieval Augmented Generation**](https://doi.org/10.48550/arXiv.2401.15884),<br> by *Shi-Qi Yan, Jia-Chen Gu, Yun Zhu and Zhen-Hua Ling*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00083) [**In-Context Retrieval-Augmented Language Models**](https://doi.org/10.48550/arXiv.2302.00083),<br> by *Ori Ram, Yoav Levine, Itay Dalmedigos, Dor Muhlgay, Amnon Shashua, Kevin Leyton-Brown and Yoav Shoham*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.07094) [**Learning Customized Visual Models with Retrieval-Augmented Knowledge**](https://doi.org/10.48550/arXiv.2301.07094),<br> by *Haotian Liu, Kilho Son, Jianwei Yang, Ce Liu, Jianfeng Gao, Yong Jae Lee and Chunyuan Li*
