@@ -585,33 +585,23 @@ Robust Conversational Understanding**](https://aclanthology.org/2023.emnlp-indus
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.06671) [**Making Large Language Models Perform Better in Knowledge Graph Completion**](https://arxiv.org/abs/2310.06671),<br> by *Yichi Zhang, Zhuo Chen, Wen Zhang and Huajun Chen*
 <br><br>
-- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
-on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
-LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html) [**Visual Instruction Tuning**](http://papers.nips.cc/paper\_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html),<br> by *Haotian Liu, Chunyuan Li, Qingyang Wu and Yong Jae Lee*
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html) [**Visual Instruction Tuning**](http://papers.nips.cc/paper\_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html),<br> by *Haotian Liu, Chunyuan Li, Qingyang Wu and Yong Jae Lee*
 <br><br>
-- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
-on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
-LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html) [**InstructBLIP: Towards General-purpose Vision-Language Models with
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html) [**InstructBLIP: Towards General-purpose Vision-Language Models with
 Instruction Tuning**](http://papers.nips.cc/paper\_files/paper/2023/hash/9a6a435e75419a836fe47ab6793623e6-Abstract-Conference.html),<br> by *Wenliang Dai, Junnan Li, Dongxu Li, Anthony Meng Huat Tiong, Junqi Zhao, Weisheng Wang, Boyang Li, Pascale Fung et al.*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
-Language_Processing,_{EMNLP}_2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.620) [**Instruct and Extract: Instruction Tuning for On-Demand Information
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.620) [**Instruct and Extract: Instruction Tuning for On-Demand Information
 Extraction**](https://aclanthology.org/2023.emnlp-main.620),<br> by *Yizhu Jiao, Ming Zhong, Sha Li, Ruining Zhao, Siru Ouyang, Heng Ji and Jiawei Han*
 <br><br>
-- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
-on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
-LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html) [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html),<br> by *Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li and Ying Shan*
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html) [**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction**](http://papers.nips.cc/paper\_files/paper/2023/hash/e393677793767624f2821cec8bdd02f1-Abstract-Conference.html),<br> by *Rui Yang, Lin Song, Yanwei Li, Sijie Zhao, Yixiao Ge, Xiu Li and Ying Shan*
 <br><br>
-- [<img src=https://img.shields.io/badge/Advances_in_Neural_Information_Processing_Systems_36:_Annual_Conference
-on_Neural_Information_Processing_Systems_2023,_NeurIPS_2023,_New_Orleans,
-LA,_USA,_December_10_--_16,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html) [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html) [**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset,
 Framework, and Benchmark**](http://papers.nips.cc/paper\_files/paper/2023/hash/548a41b9cac6f50dccf7e63e9e1b1b9b-Abstract-Datasets\_and\_Benchmarks.html),<br> by *Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2312.01954) [**Zero- and Few-Shots Knowledge Graph Triplet Extraction with Large
 Language Models**](https://doi.org/10.48550/arXiv.2312.01954),<br> by *Andrea Papaluca, Daniel Krefl, Sergio Mendez Rodriguez, Artem Lenskiy and Hanna Suominen*
 <br><br>
-- [<img src=https://img.shields.io/badge/the_2023_Conference_on_Empirical_Methods_in_Natural
-Language_Processing,_{EMNLP}_2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.493) [**Empirical Study of Zero-Shot NER with ChatGPT**](https://aclanthology.org/2023.emnlp-main.493),<br> by *Tingyu Xie, Qi Li, Jian Zhang, Yan Zhang, Zuozhu Liu and Hongwei Wang*
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.493) [**Empirical Study of Zero-Shot NER with ChatGPT**](https://aclanthology.org/2023.emnlp-main.493),<br> by *Tingyu Xie, Qi Li, Jian Zhang, Yan Zhang, Zuozhu Liu and Hongwei Wang*
 <br><br>
 ### 2022
 
