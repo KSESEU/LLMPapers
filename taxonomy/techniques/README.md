@@ -24,8 +24,8 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-89-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-43-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-90-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-44-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-8-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#symbolic-reasoning)
@@ -819,6 +819,8 @@ of Deductive Reasoners**](https://aclanthology.org/2022.emnlp-main.653),<br> by 
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2401.14295) [**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**](https://arxiv.org/abs/2401.14295),<br> by *Maciej Besta, Florim Memedi, Zhenyu Zhang, Robert Gerstenberger, Nils Blach, Piotr Nyczyk, Marcin Copik, Grzegorz Kwaśniewski et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2403.05313) [**RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**](https://arxiv.org/abs/2403.05313),<br> by *Zihao Wang, Anji Liu, Haowei Lin, Jiaqi Li, Xiaojian Ma and Yitao Liang*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2404.03622) [**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622),<br> by *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui and Furu Wei*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
 <br><br>

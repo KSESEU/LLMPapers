@@ -31,6 +31,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Mohit_Bansal-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mohit-bansal)
 - [<img src=https://img.shields.io/badge/Chenguang_Zhu-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chenguang-zhu)
 - [<img src=https://img.shields.io/badge/Ming_Zhou-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ming-zhou)
+- [<img src=https://img.shields.io/badge/Furu_Wei-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#furu-wei)
 - [<img src=https://img.shields.io/badge/Asli_Celikyilmaz-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#asli-celikyilmaz)
 - [<img src=https://img.shields.io/badge/Huajun_Chen-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#huajun-chen)
 - [<img src=https://img.shields.io/badge/Percy_Liang-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#percy-liang)
@@ -49,7 +50,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Junyi_Li-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#junyi-li)
 - [<img src=https://img.shields.io/badge/Fei_Huang-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#fei-huang)
 - [<img src=https://img.shields.io/badge/Ting_Liu-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ting-liu)
-- [<img src=https://img.shields.io/badge/Furu_Wei-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#furu-wei)
 - [<img src=https://img.shields.io/badge/Ningyu_Zhang-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ningyu-zhang)
 - [<img src=https://img.shields.io/badge/Sebastian_Riedel-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sebastian-riedel)
 - [<img src=https://img.shields.io/badge/Yi_Tay-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yi-tay)
@@ -75,6 +75,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Zhou_Yu-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhou-yu)
 - [<img src=https://img.shields.io/badge/Iryna_Gurevych-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#iryna-gurevych)
 - [<img src=https://img.shields.io/badge/Yue_Zhang-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yue-zhang)
+- [<img src=https://img.shields.io/badge/Li_Dong-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#li-dong)
 - [<img src=https://img.shields.io/badge/Wenhu_Chen-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenhu-chen)
 - [<img src=https://img.shields.io/badge/Yang_Liu-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yang-liu)
 - [<img src=https://img.shields.io/badge/Hao_Peng-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hao-peng)
@@ -129,7 +130,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Minlie_Huang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#minlie-huang)
 - [<img src=https://img.shields.io/badge/Bing_Qin-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#bing-qin)
 - [<img src=https://img.shields.io/badge/Andrea_Madotto-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#andrea-madotto)
-- [<img src=https://img.shields.io/badge/Li_Dong-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#li-dong)
 - [<img src=https://img.shields.io/badge/Jingjing_Liu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jingjing-liu)
 - [<img src=https://img.shields.io/badge/Zhe_Gan-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhe-gan)
 - [<img src=https://img.shields.io/badge/William_Yang_Wang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#william-yang-wang)
@@ -372,6 +372,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Yupeng_Hou-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yupeng-hou)
 - [<img src=https://img.shields.io/badge/Ge_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ge-zhang)
 - [<img src=https://img.shields.io/badge/Xian_Sun-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xian-sun)
+- [<img src=https://img.shields.io/badge/Wenshan_Wu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenshan-wu)
 - [<img src=https://img.shields.io/badge/Seungone_Kim-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#seungone-kim)
 - [<img src=https://img.shields.io/badge/Jiawei_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jiawei-zhang)
 - [<img src=https://img.shields.io/badge/Yaojie_Lu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yaojie-lu)
@@ -1254,6 +1255,30 @@ Understanding and Generation**](https://arxiv.org/abs/2002.06353),<br> by *Huais
 - [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
 and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
+### Furu Wei
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2404.03622) [**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622),<br> by *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui and Furu Wei*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.163) [**Snapshot-Guided Domain Adaptation for ELECTRA**](https://aclanthology.org/2022.findings-emnlp.163),<br> by *Daixuan Cheng, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng and Qi Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
+Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
+<br>``
+(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
+``<br>``
+(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.40) [**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained
+Language Models for Domains**](https://doi.org/10.18653/v1/2021.findings-acl.40),<br> by *Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [**Cross-Lingual Natural Language Generation via Pre-Training**](https://ojs.aaai.org/index.php/AAAI/article/view/6256),<br> by *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao and Heyan Huang*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=SygXPaEYvH) [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://openreview.net/forum?id=SygXPaEYvH),<br> by *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei and Jifeng Dai*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
+and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
+<br><br>
 ### Asli Celikyilmaz
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.07842) [**Augmented Language Models: a Survey**](https://doi.org/10.48550/arXiv.2302.07842),<br> by *Gr\'egoire Mialon, Roberto Dess\`\i, Maria Lomeli, Christoforos Nalmpantis, Ramakanth Pasunuru, Roberta Raileanu, Baptiste Rozi\`ere, Timo Schick et al.*
@@ -1586,28 +1611,6 @@ Less Forgetting**](https://doi.org/10.18653/v1/2020.emnlp-main.634),<br> by *San
 <br>``
 We propose a recall and learn mechanism, which adopts the idea of multi-task learning and jointly learns pretraining tasks and downstream tasks. Specifically, we introduce a Pretraining Simulation mechanism to recall the knowledge from pretraining tasks without data, and an Objective Shifting mechanism to focus the learning on downstream tasks gradually.
 ``
-<br><br>
-### Furu Wei
-
-- [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.163) [**Snapshot-Guided Domain Adaptation for ELECTRA**](https://aclanthology.org/2022.findings-emnlp.163),<br> by *Daixuan Cheng, Shaohan Huang, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Furu Wei, Denvy Deng and Qi Zhang*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
-Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
-<br>``
-(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
-``<br>``
-(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.40) [**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained
-Language Models for Domains**](https://doi.org/10.18653/v1/2021.findings-acl.40),<br> by *Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
-<br><br>
-- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [**Cross-Lingual Natural Language Generation via Pre-Training**](https://ojs.aaai.org/index.php/AAAI/article/view/6256),<br> by *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao and Heyan Huang*
-<br><br>
-- [<img src=https://img.shields.io/badge/ICLR-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=SygXPaEYvH) [**VL-BERT: Pre-training of Generic Visual-Linguistic Representations**](https://openreview.net/forum?id=SygXPaEYvH),<br> by *Weijie Su, Xizhou Zhu, Yue Cao, Bin Li, Lewei Lu, Furu Wei and Jifeng Dai*
-<br><br>
-- [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
-and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
 ### Ningyu Zhang
 
@@ -1987,6 +1990,26 @@ and Domain-Specificity**](https://doi.org/10.48550/arXiv.2310.07521),<br> by *Cu
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.351) [**Structural Adapters in Pretrained Language Models for AMR-to-Text
 Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.351),<br> by *Leonardo F. R. Ribeiro, Yue Zhang and Iryna Gurevych*
+<br><br>
+### Li Dong
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2404.03622) [**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622),<br> by *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui and Furu Wei*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
+Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
+<br>``
+(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
+``<br>``
+(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
+``
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.40) [**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained
+Language Models for Domains**](https://doi.org/10.18653/v1/2021.findings-acl.40),<br> by *Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [**Cross-Lingual Natural Language Generation via Pre-Training**](https://ojs.aaai.org/index.php/AAAI/article/view/6256),<br> by *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao and Heyan Huang*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
+and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
 ### Wenhu Chen
 
@@ -2704,24 +2727,6 @@ Transfer Learning**](https://doi.org/10.18653/v1/2020.findings-emnlp.41),<br> by
 <br>``
 Proposing an adapter-based method for continual learning in text generation. One of the insights is a frozen PLM can be well-applied in continual learning.
 ``
-<br><br>
-### Li Dong
-
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10559) [**Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient
-Descent as Meta-Optimizers**](https://doi.org/10.48550/arXiv.2212.10559),<br> by *Damai Dai, Yutao Sun, Li Dong, Yaru Hao, Zhifang Sui and Furu Wei*
-<br>``
-(1) 与The Dual Form of Neural Networks Revisited结合一起看，可以进一步理解in-context learning，通过与NN线性层对偶形式的类比，可以将ICL流程描述为：1. 基于Transformer的预训练语言模型作为元优化器；2. 通过正向计算，根据示范例子产生元梯度；3. 通过关注，将元梯度应用于原始语言模型，建立一个ICL模型；
-``<br>``
-(2)与Fine-tune类似，ICL也是在zero-shot learning参数的基础上，提供了一个更新量。
-``
-<br><br>
-- [<img src=https://img.shields.io/badge/ACL_Findings-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.findings-acl.40) [**Adapt-and-Distill: Developing Small, Fast and Effective Pretrained
-Language Models for Domains**](https://doi.org/10.18653/v1/2021.findings-acl.40),<br> by *Yunzhi Yao, Shaohan Huang, Wenhui Wang, Li Dong and Furu Wei*
-<br><br>
-- [<img src=https://img.shields.io/badge/AAAI-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/6256) [**Cross-Lingual Natural Language Generation via Pre-Training**](https://ojs.aaai.org/index.php/AAAI/article/view/6256),<br> by *Zewen Chi, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao and Heyan Huang*
-<br><br>
-- [<img src=https://img.shields.io/badge/NeurIPS-2019-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html) [**Unified Language Model Pre-training for Natural Language Understanding
-and Generation**](https://proceedings.neurips.cc/paper/2019/hash/c20bb2d9a50d5ac1f713f8b34d9aac5a-Abstract.html),<br> by *Li Dong, Nan Yang, Wenhui Wang, Furu Wei, Xiaodong Liu, Yu Wang, Jianfeng Gao, Ming Zhou et al.*
 <br><br>
 ### Jingjing Liu
 
@@ -5115,6 +5120,12 @@ Empowered Recommendation Approach**](https://doi.org/10.48550/arXiv.2305.07001),
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2308.06207) [**Thinking Like an Expert: Multimodal Hypergraph-of-Thought (HoT) Reasoning
 to boost Foundation Modals**](https://doi.org/10.48550/arXiv.2308.06207),<br> by *Fanglong Yao, Changyuan Tian, Jintao Liu, Zequn Zhang, Qing Liu, Li Jin, Shuchao Li, Xiaoyu Li et al.*
+<br><br>
+### Wenshan Wu
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2404.03622) [**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**](https://arxiv.org/abs/2404.03622),<br> by *Wenshan Wu, Shaoguang Mao, Yadong Zhang, Yan Xia, Li Dong, Lei Cui and Furu Wei*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.10464) [**Learning to Program with Natural Language**](https://doi.org/10.48550/arXiv.2304.10464),<br> by *Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao and Nan Duan*
 <br><br>
 ### Seungone Kim
 
