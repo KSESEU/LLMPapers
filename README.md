@@ -55,7 +55,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-25-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-12-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-8-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
@@ -73,7 +73,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Agent-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#vision-llm)
-- [<img src=https://img.shields.io/badge/LLM_and_KG-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-kg)
+- [<img src=https://img.shields.io/badge/LLM_and_KG-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1984,6 +1984,8 @@ Language Models**](https://doi.org/10.48550/arXiv.2312.01954),<br> by *Andrea Pa
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.emnlp-main.493) [**Empirical Study of Zero-Shot NER with ChatGPT**](https://aclanthology.org/2023.emnlp-main.493),<br> by *Tingyu Xie, Qi Li, Jian Zhang, Yan Zhang, Zuozhu Liu and Hongwei Wang*
 <br><br>
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.repl4nlp-1.12) [**Extracting Multi-valued Relations from Language Models**](https://doi.org/10.18653/v1/2023.repl4nlp-1.12),<br> by *Sneha Singhania, Simon Razniewski and Gerhard Weikum*
+<br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.130) [**Large language models are few-shot clinical information extractors**](https://aclanthology.org/2022.emnlp-main.130),<br> by *Monica Agrawal, Stefan Hegselmann, Hunter Lang, Yoon Kim and David A. Sontag*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.findings-emnlp.329) [**Thinking about GPT-3 In-Context Learning for Biomedical IE? Think
@@ -2282,6 +2284,8 @@ Knowledge Graph Construction**](https://doi.org/10.48550/arXiv.2402.06861),<br> 
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=ftlZ0oeXYRE) [**RAG with a Neo4j Knowledge Graph: How it Works and How to Set It Up**](https://www.youtube.com/watch?v=ftlZ0oeXYRE),<br> by *Neo4j*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.06671) [**Making Large Language Models Perform Better in Knowledge Graph Completion**](https://arxiv.org/abs/2310.06671),<br> by *Yichi Zhang, Zhuo Chen, Wen Zhang and Huajun Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/TGDK-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.4230/TGDK.1.1.2) [**Large Language Models and Knowledge Graphs: Opportunities and Challenges**](https://doi.org/10.4230/TGDK.1.1.2),<br> by *Jeff Z. Pan, Simon Razniewski, Jan-Christoph Kalo, Sneha Singhania, Jiaoyan Chen, Stefan Dietze, Hajira Jabeen, Janna Omeliyanenko et al.*
 <br><br>
 ### Others
 

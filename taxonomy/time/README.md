@@ -14,7 +14,7 @@ This page categorizes the literature by the **Last Post**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/2024-28-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-216-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-218-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -623,6 +623,10 @@ Language Models**](https://doi.org/10.48550/arXiv.2312.01954),<br> by *Andrea Pa
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2306.09841) [**Are Large Language Models Really Good Logical Reasoners? A Comprehensive Evaluation and Beyond**](https://arxiv.org/abs/2306.09841),<br> by *Fangzhi Xu, Qika Lin, Jiawei Han, Tianzhe Zhao, Jun Liu and Erik Cambria*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.04562) [**Towards Foundation Models for Knowledge Graph Reasoning**](https://doi.org/10.48550/arXiv.2310.04562),<br> by *Mikhail Galkin, Xinyu Yuan, Hesham Mostafa, Jian Tang and Zhaocheng Zhu*
+<br><br>
+- [<img src=https://img.shields.io/badge/TGDK-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.4230/TGDK.1.1.2) [**Large Language Models and Knowledge Graphs: Opportunities and Challenges**](https://doi.org/10.4230/TGDK.1.1.2),<br> by *Jeff Z. Pan, Simon Razniewski, Jan-Christoph Kalo, Sneha Singhania, Jiaoyan Chen, Stefan Dietze, Hajira Jabeen, Janna Omeliyanenko et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.repl4nlp-1.12) [**Extracting Multi-valued Relations from Language Models**](https://doi.org/10.18653/v1/2023.repl4nlp-1.12),<br> by *Sneha Singhania, Simon Razniewski and Gerhard Weikum*
 <br><br>
 ### 2022
 
