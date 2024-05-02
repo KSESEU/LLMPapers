@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-34-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-219-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-44-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -106,6 +106,30 @@ Graph-Based Retrofitting**](https://doi.org/10.1609/aaai.v38i16.29770),<br> by *
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18243) [**Learning or Self-aligning? Rethinking Instruction Fine-tuning**](https://doi.org/10.48550/arXiv.2402.18243),<br> by *Mengjie Ren, Boxi Cao, Hongyu Lin, Cao Liu, Xianpei Han, Ke Zeng, Guanglu Wan, Xunliang Cai et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29848) [**Code-Style In-Context Learning for Knowledge-Based Question Answering**](https://doi.org/10.1609/aaai.v38i17.29848),<br> by *Zhijie Nie, Richong Zhang, Zhongyuan Wang and Xudong Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.16960) [**Two Heads Are Better Than One: Integrating Knowledge from Knowledge
+Graphs and Large Language Models for Entity Alignment**](https://doi.org/10.48550/arXiv.2401.16960),<br> by *Linyao Yang, Hongyang Chen, Xiao Wang, Jing Yang, Fei-Yue Wang and Han Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.05827) [**Is it Possible to Edit Large Language Models Robustly?**](https://doi.org/10.48550/arXiv.2402.05827),<br> by *Xinbei Ma, Tianjie Ju, Jiyang Qiu, Zhuosheng Zhang, Hai Zhao, Lifeng Liu and Yulong Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.04978) [**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated
+Collaboration**](https://doi.org/10.48550/arXiv.2402.04978),<br> by *Yihao Li, Ru Zhang, Jianyi Liu and Gongshen Liu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.15736) [**LLMs Instruct LLMs: An Extraction and Editing Method**](https://doi.org/10.48550/arXiv.2403.15736),<br> by *Xin Zhang, Tianjie Ju, Huijia Liang, Ying Fu and Qin Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/pdf?id=HZnVY_PrFN) [**Unleashing the Power of Large Language Models in Zero-shot Relation Extraction via Self-Prompting**](https://openreview.net/pdf?id=HZnVY_PrFN),<br> by *Anonymous Submission*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2404.17178) [**A Unified Label-Aware Contrastive Learning Framework for Few-Shot Named Entity Recognition**](https://arxiv.org/pdf/2404.17178),<br> by *Haojie Zhang and Yimeng Zhuang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.14568) [**LLM-DA: Data Augmentation via Large Language Models for Few-Shot
+Named Entity Recognition**](https://doi.org/10.48550/arXiv.2402.14568),<br> by *Junjie Ye, Nuo Xu, Yikun Wang, Jie Zhou, Qi Zhang, Tao Gui and Xuanjing Huang*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2404.00152) [**On-the-fly Definition Augmentation of LLMs for Biomedical NER**](https://arxiv.org/pdf/2404.00152),<br> by *Monica Munnangi, Sergey Feldman, Byron C Wallace, Silvio Amir, Tom Hope and Aakanksha Naik*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.12563) [**Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities
+of Large Language Models**](https://doi.org/10.48550/arXiv.2402.12563),<br> by *Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing and Kun Zhang*
 <br><br>
 ### 2023
 
@@ -642,6 +666,31 @@ Language Models**](https://doi.org/10.48550/arXiv.2312.01954),<br> by *Andrea Pa
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.repl4nlp-1.12) [**Extracting Multi-valued Relations from Language Models**](https://doi.org/10.18653/v1/2023.repl4nlp-1.12),<br> by *Sneha Singhania, Simon Razniewski and Gerhard Weikum*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.426) [**Evaluating the Knowledge Base Completion Potential of GPT**](https://doi.org/10.18653/v1/2023.findings-emnlp.426),<br> by *Blerta Veseli, Simon Razniewski, Jan-Christoph Kalo and Gerhard Weikum*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.13972) [**Make a Choice! Knowledge Base Question Answering with In-Context Learning**](https://doi.org/10.48550/arXiv.2305.13972),<br> by *Chuanyuan Tan, Yuehe Chen, Wenbiao Shao and Wenliang Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2305.01750) [**Few-shot In-context Learning for Knowledge Base Question Answering**](https://doi.org/10.48550/arXiv.2305.01750),<br> by *Tianle Li, Xueguang Ma, Alex Zhuang, Yu Gu, Yu Su and Wenhu Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.02956) [**In-Context Learning for Knowledge Base Question Answering for Unmanned
+Systems based on Large Language Models**](https://doi.org/10.48550/arXiv.2311.02956),<br> by *Yunlong Chen, Yaming Zhang, Jianfei Yu, Li Yang and Rui Xia*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.09158) [**Learning To Teach Large Language Models Logical Reasoning**](https://doi.org/10.48550/arXiv.2310.09158),<br> by *Meiqi Chen, Yubo Ma, Kaitao Song, Yixin Cao, Yan Zhang and Dongsheng Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.14379) [**Robot Learning in the Era of Foundation Models: A Survey**](https://doi.org/10.48550/arXiv.2311.14379),<br> by *Xuan Xiao, Jiahang Liu, Zhipeng Wang, Yanmin Zhou, Yong Qi, Qian Cheng, Bin He and Shuo Jiang*
+<br><br>
+- [<img src=https://img.shields.io/badge/IJCNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.ijcnlp-main.18) [**Zero-shot Triplet Extraction by Template Infilling**](https://doi.org/10.18653/v1/2023.ijcnlp-main.18),<br> by *Bosung Kim, Hayate Iso, Nikita Bhutani, Estevam Hruschka, Ndapa Nakashole and Tom M. Mitchell*
+<br><br>
+- [<img src=https://img.shields.io/badge/CORR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.medrxiv.org/content/10.1101/2023.12.15.23300059v1.full.pdf) [**LLM Instruction-Example Adaptive Prompting (LEAP) Framework for Clinical Relation Extraction**](https://www.medrxiv.org/content/10.1101/2023.12.15.23300059v1.full.pdf),<br> by *Anonymous Submission*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.710) [**Large Language Model Is Not a Good Few-shot Information Extractor,
+but a Good Reranker for Hard Samples!**](https://doi.org/10.18653/v1/2023.findings-emnlp.710),<br> by *Yubo Ma, Yixin Cao, Yong Hong and Aixin Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.153) [**Chain of Thought with Explicit Evidence Reasoning for Few-shot Relation
+Extraction**](https://doi.org/10.18653/v1/2023.findings-emnlp.153),<br> by *Xilai Ma, Jing Li and Min Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2306.00024) [**Self-Verification Improves Few-Shot Clinical Information Extraction**](https://doi.org/10.48550/arXiv.2306.00024),<br> by *Zelalem Gero, Chandan Singh, Hao Cheng, Tristan Naumann, Michel Galley, Jianfeng Gao and Hoifung Poon*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.emnlp-main.950) [**Guideline Learning for In-Context Information Extraction**](https://doi.org/10.18653/v1/2023.emnlp-main.950),<br> by *Chaoxu Pang, Yixuan Cao, Qiang Ding and Ping Luo*
 <br><br>
 ### 2022
 
