@@ -15,7 +15,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 ### Outline 
 - [<img src=https://img.shields.io/badge/Evaluation-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#evaluation)
 - [<img src=https://img.shields.io/badge/Survey-41-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#survey)
-- [<img src=https://img.shields.io/badge/In--Context_Learning-38-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
+- [<img src=https://img.shields.io/badge/In--Context_Learning-39-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#in-context-learning)
 - [<img src=https://img.shields.io/badge/Instruction_Tuning-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#rlhf)
 - [<img src=https://img.shields.io/badge/Pre--Training_Techniques-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#pre-training-techniques)
@@ -55,7 +55,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-37-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-38-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
@@ -310,6 +310,8 @@ to Vision-Language Models**](https://doi.org/10.18653/v1/2023.acl-short.43),<br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/pdf/2303.08119.pdf) [**How Many Demonstrations Do You Need for In-context Learning?**](https://arxiv.org/pdf/2303.08119.pdf),<br> by *Jiuhai Chen, Lichang Chen, Chen Zhu and Tianyi Zhou*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2305.12766) [**Explaining Emergent In-Context Learning as Kernel Regression**](https://arxiv.org/abs/2305.12766),<br> by *Chi Han, Ziqi Wang, Han Zhao and Heng Ji*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/cda04d7ea67ea1376bf8c6962d8541e0-Abstract-Conference.html) [**Meta-in-context learning in large language models**](http://papers.nips.cc/paper\_files/paper/2023/hash/cda04d7ea67ea1376bf8c6962d8541e0-Abstract-Conference.html),<br> by *Julian Coda-Forno, Marcel Binz, Zeynep Akata, Matt M. Botvinick, Jane X. Wang and Eric Schulz*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
 <br>``
@@ -1971,6 +1973,9 @@ Named Entity Recognition**](https://doi.org/10.48550/arXiv.2402.14568),<br> by *
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.12563) [**Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities
 of Large Language Models**](https://doi.org/10.48550/arXiv.2402.12563),<br> by *Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing and Kun Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
+Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.10205) [**Zero-Shot Information Extraction via Chatting with ChatGPT**](https://doi.org/10.48550/arXiv.2302.10205),<br> by *Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu et al.*
 <br><br>

@@ -257,6 +257,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Shao_Kun_Deng-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#shao-kun-deng)
 - [<img src=https://img.shields.io/badge/Duyu_Tang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#duyu-tang)
 - [<img src=https://img.shields.io/badge/Colin_B._Clement-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#colin-b.-clement)
+- [<img src=https://img.shields.io/badge/Peng_Wang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#peng-wang)
 - [<img src=https://img.shields.io/badge/Hang_Xu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hang-xu)
 - [<img src=https://img.shields.io/badge/Zheng_Zhang-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zheng-zhang)
 - [<img src=https://img.shields.io/badge/Lichao_Sun-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#lichao-sun)
@@ -360,6 +361,8 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Kaiqiang_Song-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kaiqiang-song)
 - [<img src=https://img.shields.io/badge/Xiaoman_Pan-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiaoman-pan)
 - [<img src=https://img.shields.io/badge/Keming_Lu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#keming-lu)
+- [<img src=https://img.shields.io/badge/Wenjun_Ke-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#wenjun-ke)
+- [<img src=https://img.shields.io/badge/Guozheng_Li-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#guozheng-li)
 - [<img src=https://img.shields.io/badge/Zhenyu_Zhang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#zhenyu-zhang)
 - [<img src=https://img.shields.io/badge/Prateek_Yadav-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#prateek-yadav)
 - [<img src=https://img.shields.io/badge/Li_Shen-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#li-shen)
@@ -621,7 +624,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Akhilesh_Deepak_Gotmare-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#akhilesh-deepak-gotmare)
 - [<img src=https://img.shields.io/badge/Hung_Le-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hung-le)
 - [<img src=https://img.shields.io/badge/Jing_Li-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jing-li)
-- [<img src=https://img.shields.io/badge/Peng_Wang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#peng-wang)
 - [<img src=https://img.shields.io/badge/Panos_Kalnis-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#panos-kalnis)
 - [<img src=https://img.shields.io/badge/Xingjian_Li-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xingjian-li)
 - [<img src=https://img.shields.io/badge/Ji_Liu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ji-liu)
@@ -4169,6 +4171,15 @@ and Generation**](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/
 - [<img src=https://img.shields.io/badge/CoRR-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2105.09352) [**DeepDebug: Fixing Python Bugs Using Stack Traces, Backtranslation,
 and Code Skeletons**](https://arxiv.org/abs/2105.09352),<br> by *Dawn Drain, Colin B. Clement, Guillermo Serrato and Neel Sundaresan*
 <br><br>
+### Peng Wang
+
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
+Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.05028) [**Revisiting Large Language Models as Zero-shot Relation Extractors**](https://doi.org/10.48550/arXiv.2310.05028),<br> by *Guozheng Li, Peng Wang and Wenjun Ke*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICPADS-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/ICPADS53394.2021.00109) [**Load Balancing Optimization for Transformer in Distributed Environment**](https://doi.org/10.1109/ICPADS53394.2021.00109),<br> by *Delu Ma, Zhou Lei, Shengbo Chen and Peng Wang*
+<br><br>
 ### Hang Xu
 
 - [<img src=https://img.shields.io/badge/ICLR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=h5OpjGd_lo6) [**Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning**](https://openreview.net/forum?id=h5OpjGd_lo6),<br> by *Gao, Jiahui, Pi, Renjie, Yong, LIN, Xu, Hang, Ye, Jiacheng, Wu, Zhiyong, ZHANG, WEIZHONG, Liang, Xiaodan et al.*
@@ -5168,6 +5179,20 @@ Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/a
 <br><br>
 - [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics:_{EMNLP}
 2023,_Singapore,_December_6--10,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2023.findings-emnlp.1009) [**PIVOINE: Instruction Tuning for Open-world Entity Profiling**](https://aclanthology.org/2023.findings-emnlp.1009),<br> by *Keming Lu, Xiaoman Pan, Kaiqiang Song, Hongming Zhang, Dong Yu and Jianshu Chen*
+<br><br>
+### Wenjun Ke
+
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
+Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.05028) [**Revisiting Large Language Models as Zero-shot Relation Extractors**](https://doi.org/10.48550/arXiv.2310.05028),<br> by *Guozheng Li, Peng Wang and Wenjun Ke*
+<br><br>
+### Guozheng Li
+
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
+Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.05028) [**Revisiting Large Language Models as Zero-shot Relation Extractors**](https://doi.org/10.48550/arXiv.2310.05028),<br> by *Guozheng Li, Peng Wang and Wenjun Ke*
 <br><br>
 ### Zhenyu Zhang
 
@@ -7030,12 +7055,6 @@ Extraction**](https://doi.org/10.18653/v1/2023.findings-emnlp.153),<br> by *Xila
 <br><br>
 - [<img src=https://img.shields.io/badge/ISSTA-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3533767.3534390) [**An extensive study on pre-trained models for program understanding
 and generation**](https://doi.org/10.1145/3533767.3534390),<br> by *Zhengran Zeng, Hanzhuo Tan, Haotian Zhang, Jing Li, Yuqun Zhang and Lingming Zhang*
-<br><br>
-### Peng Wang
-
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.05028) [**Revisiting Large Language Models as Zero-shot Relation Extractors**](https://doi.org/10.48550/arXiv.2310.05028),<br> by *Guozheng Li, Peng Wang and Wenjun Ke*
-<br><br>
-- [<img src=https://img.shields.io/badge/ICPADS-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/ICPADS53394.2021.00109) [**Load Balancing Optimization for Transformer in Distributed Environment**](https://doi.org/10.1109/ICPADS53394.2021.00109),<br> by *Delu Ma, Zhou Lei, Shengbo Chen and Peng Wang*
 <br><br>
 ### Panos Kalnis
 
