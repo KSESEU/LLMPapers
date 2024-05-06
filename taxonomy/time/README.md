@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-44-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-46-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-230-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -130,6 +130,11 @@ Named Entity Recognition**](https://doi.org/10.48550/arXiv.2402.14568),<br> by *
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.12563) [**Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities
 of Large Language Models**](https://doi.org/10.48550/arXiv.2402.12563),<br> by *Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing and Kun Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18909) [**Updating Language Models with Unstructured Facts: Towards Practical
+Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.18909),<br> by *Xiaobao Wu, Liangming Pan, William Yang Wang and Anh Tuan Luu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13093) [**Event-level Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.13093),<br> by *Hao Peng, Xiaozhi Wang, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou and Juanzi Li*
 <br><br>
 ### 2023
 

@@ -23,7 +23,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Enhanced-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-enhanced)
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-generation)
-- [<img src=https://img.shields.io/badge/Knowledge_Editing-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
+- [<img src=https://img.shields.io/badge/Knowledge_Editing-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
 - [<img src=https://img.shields.io/badge/Reasoning-101-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
   - [<img src=https://img.shields.io/badge/Chain_of_Thought-45-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
@@ -714,6 +714,11 @@ Models**](https://doi.org/10.18653/v1/2022.naacl-main.341),<br> by *Peter West, 
 ### Knowledge Editing
 
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.05827) [**Is it Possible to Edit Large Language Models Robustly?**](https://doi.org/10.48550/arXiv.2402.05827),<br> by *Xinbei Ma, Tianjie Ju, Jiyang Qiu, Zhuosheng Zhang, Hai Zhao, Lifeng Liu and Yulong Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18909) [**Updating Language Models with Unstructured Facts: Towards Practical
+Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.18909),<br> by *Xiaobao Wu, Liangming Pan, William Yang Wang and Anh Tuan Luu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13093) [**Event-level Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.13093),<br> by *Hao Peng, Xiaozhi Wang, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou and Juanzi Li*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2303.00046) [**Robustness of edited neural networks**](https://doi.org/10.48550/arXiv.2303.00046),<br> by *Davis Brown, Charles Godfrey, Cody Nizinski, Jonathan Tu and Henry Kvinge*
 <br><br>

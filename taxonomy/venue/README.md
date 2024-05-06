@@ -71,7 +71,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/VLDB-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#vldb)
 - [<img src=https://img.shields.io/badge/WASA-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#wasa)
 - [<img src=https://img.shields.io/badge/WWW-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#www)
-- [<img src=https://img.shields.io/badge/arXiv-285-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
+- [<img src=https://img.shields.io/badge/arXiv-287-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#arxiv)
 - [<img src=https://img.shields.io/badge/openreview-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openreview)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -1380,6 +1380,11 @@ Named Entity Recognition**](https://doi.org/10.48550/arXiv.2402.14568),<br> by *
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.12563) [**Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities
 of Large Language Models**](https://doi.org/10.48550/arXiv.2402.12563),<br> by *Loka Li, Guangyi Chen, Yusheng Su, Zhenhao Chen, Yixuan Zhang, Eric Xing and Kun Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18909) [**Updating Language Models with Unstructured Facts: Towards Practical
+Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.18909),<br> by *Xiaobao Wu, Liangming Pan, William Yang Wang and Anh Tuan Luu*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13093) [**Event-level Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.13093),<br> by *Hao Peng, Xiaozhi Wang, Chunyang Li, Kaisheng Zeng, Jiangshan Duo, Yixin Cao, Lei Hou and Juanzi Li*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.04023) [**A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning,
 Hallucination, and Interactivity**](https://doi.org/10.48550/arXiv.2302.04023),<br> by *Yejin Bang, Samuel Cahyawijaya, Nayeon Lee, Wenliang Dai, Dan Su, Bryan Wilie, Holy Lovenia, Ziwei Ji et al.*
