@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-47-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-231-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-50-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-233-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -138,6 +138,13 @@ Knowledge Editing**](https://doi.org/10.48550/arXiv.2402.18909),<br> by *Xiaobao
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
 Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i2.27888) [**Visual Chain-of-Thought Prompting for Knowledge-Based Visual Reasoning**](https://doi.org/10.1609/aaai.v38i2.27888),<br> by *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Zhiqing Sun, Dan Gutfreund and Chuang Gan*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29777) [**Can Large Language Models Understand Real-World Complex Instructions?**](https://doi.org/10.1609/aaai.v38i16.29777),<br> by *Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Jiaqing Liang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29828) [**Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with
+Triplet Fact Grounding**](https://doi.org/10.1609/aaai.v38i17.29828),<br> by *Jingping Liu, Mingchuan Zhang, Weichen Li, Chao Wang, Shuang Li, Haiyun Jiang, Sihang Jiang, Yanghua Xiao et al.*
 <br><br>
 ### 2023
 
@@ -701,6 +708,11 @@ Extraction**](https://doi.org/10.18653/v1/2023.findings-emnlp.153),<br> by *Xila
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.emnlp-main.950) [**Guideline Learning for In-Context Information Extraction**](https://doi.org/10.18653/v1/2023.emnlp-main.950),<br> by *Chaoxu Pang, Yixuan Cao, Qiang Ding and Ping Luo*
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/cda04d7ea67ea1376bf8c6962d8541e0-Abstract-Conference.html) [**Meta-in-context learning in large language models**](http://papers.nips.cc/paper\_files/paper/2023/hash/cda04d7ea67ea1376bf8c6962d8541e0-Abstract-Conference.html),<br> by *Julian Coda-Forno, Marcel Binz, Zeynep Akata, Matt M. Botvinick, Jane X. Wang and Eric Schulz*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/108030643e640ac050e0ed5e6aace48f-Abstract-Conference.html) [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning
+in Language Models**](http://papers.nips.cc/paper\_files/paper/2023/hash/108030643e640ac050e0ed5e6aace48f-Abstract-Conference.html),<br> by *Ge Zheng, Bin Yang, Jiajin Tang, Hong-Yu Zhou and Sibei Yang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.07919) [**Chain of Thought Prompt Tuning in Vision Language Models**](https://doi.org/10.48550/arXiv.2304.07919),<br> by *Jiaxin Ge, Hongyin Luo, Siyuan Qian, Yulu Gan, Jie Fu and Shanghang Zhang*
 <br><br>
 ### 2022
 

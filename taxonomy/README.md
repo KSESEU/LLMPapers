@@ -16,7 +16,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Evaluation-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#evaluation)
 - [<img src=https://img.shields.io/badge/Survey-41-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#survey)
 - [<img src=https://img.shields.io/badge/In--Context_Learning-39-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#in-context-learning)
-- [<img src=https://img.shields.io/badge/Instruction_Tuning-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
+- [<img src=https://img.shields.io/badge/Instruction_Tuning-17-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#instruction-tuning)
 - [<img src=https://img.shields.io/badge/RLHF-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#rlhf)
 - [<img src=https://img.shields.io/badge/Pre--Training_Techniques-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#pre-training-techniques)
   - [<img src=https://img.shields.io/badge/Mixtures_of_Experts-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#mixtures-of-experts)
@@ -24,8 +24,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-101-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-45-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-104-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-48-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-12-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#symbolic-reasoning)
@@ -55,7 +55,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-38-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-39-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#application)
@@ -437,6 +437,8 @@ Case Study at 66 Billion Scale**](https://doi.org/10.48550/arXiv.2212.09095),<br
 ### Instruction Tuning
 
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18243) [**Learning or Self-aligning? Rethinking Instruction Fine-tuning**](https://doi.org/10.48550/arXiv.2402.18243),<br> by *Mengjie Ren, Boxi Cao, Hongyu Lin, Cao Liu, Xianpei Han, Ke Zeng, Guanglu Wan, Xunliang Cai et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29777) [**Can Large Language Models Understand Real-World Complex Instructions?**](https://doi.org/10.1609/aaai.v38i16.29777),<br> by *Qianyu He, Jie Zeng, Wenhao Huang, Lina Chen, Jin Xiao, Qianxi He, Xunzhe Zhou, Jiaqing Liang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00093) [**Large Language Models Can Be Easily Distracted by Irrelevant Context**](https://doi.org/10.48550/arXiv.2302.00093),<br> by *Freda Shi, Xinyun Chen, Kanishka Misra, Nathan Scales, David Dohan, Ed H. Chi, Nathanael Sch\"arli and Denny Zhou*
 <br><br>
@@ -847,6 +849,8 @@ Language Models**](https://doi.org/10.18653/v1/2022.findings-emnlp.265),<br> by 
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.11140) [**Boosting of Thoughts: Trial-and-Error Problem Solving with Large Language
 Models**](https://doi.org/10.48550/arXiv.2402.11140),<br> by *Sijia Chen, Baochun Li and Di Niu*
 <br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i2.27888) [**Visual Chain-of-Thought Prompting for Knowledge-Based Visual Reasoning**](https://doi.org/10.1609/aaai.v38i2.27888),<br> by *Zhenfang Chen, Qinhong Zhou, Yikang Shen, Yining Hong, Zhiqing Sun, Dan Gutfreund and Chuang Gan*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.00303) [**Rethinking with Retrieval: Faithful Large Language Model Inference**](https://doi.org/10.48550/arXiv.2301.00303),<br> by *Hangfeng He, Hongming Zhang and Dan Roth*
@@ -894,6 +898,11 @@ Visual Reasoning**](https://doi.org/10.48550/arXiv.2308.09658),<br> by *Pengbo H
 with Large Language Models**](https://doi.org/10.48550/arXiv.2310.06692),<br> by *Anni Zou, Zhuosheng Zhang, Hai Zhao and Xiangru Tang*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.408) [**Chain of Thought Prompting Elicits Knowledge Augmentation**](https://doi.org/10.18653/v1/2023.findings-acl.408),<br> by *Dingjun Wu, Jing Zhang and Xinmei Huang*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/108030643e640ac050e0ed5e6aace48f-Abstract-Conference.html) [**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning
+in Language Models**](http://papers.nips.cc/paper\_files/paper/2023/hash/108030643e640ac050e0ed5e6aace48f-Abstract-Conference.html),<br> by *Ge Zheng, Bin Yang, Jiajin Tang, Hong-Yu Zhou and Sibei Yang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.07919) [**Chain of Thought Prompt Tuning in Vision Language Models**](https://doi.org/10.48550/arXiv.2304.07919),<br> by *Jiaxin Ge, Hongyin Luo, Siyuan Qian, Yulu Gan, Jie Fu and Shanghang Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*
@@ -1976,6 +1985,9 @@ of Large Language Models**](https://doi.org/10.48550/arXiv.2402.12563),<br> by *
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.13741) [**Unlocking Instructive In-Context Learning with Tabular Prompting for
 Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> by *Guozheng Li, Wenjun Ke, Peng Wang, Zijie Xu, Ke Ji, Jiajun Liu, Ziyu Shang and Qiqing Luo*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29828) [**Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with
+Triplet Fact Grounding**](https://doi.org/10.1609/aaai.v38i17.29828),<br> by *Jingping Liu, Mingchuan Zhang, Weichen Li, Chao Wang, Shuang Li, Haiyun Jiang, Sihang Jiang, Yanghua Xiao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.10205) [**Zero-Shot Information Extraction via Chatting with ChatGPT**](https://doi.org/10.48550/arXiv.2302.10205),<br> by *Xiang Wei, Xingyu Cui, Ning Cheng, Xiaobin Wang, Xin Zhang, Shen Huang, Pengjun Xie, Jinan Xu et al.*
 <br><br>
