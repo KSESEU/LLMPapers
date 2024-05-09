@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-51-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-54-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-233-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -147,6 +147,14 @@ Relational Triple Extraction**](https://doi.org/10.48550/arXiv.2402.13741),<br> 
 Triplet Fact Grounding**](https://doi.org/10.1609/aaai.v38i17.29828),<br> by *Jingping Liu, Mingchuan Zhang, Weichen Li, Chao Wang, Shuang Li, Haiyun Jiang, Sihang Jiang, Yanghua Xiao et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.05669) [**ConcEPT: Concept-Enhanced Pre-Training for Language Models**](https://doi.org/10.48550/arXiv.2401.05669),<br> by *Xintao Wang, Zhouhong Gu, Jiaqing Liang, Dakuan Lu, Yanghua Xiao and Wei Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.11624) [**In-context Learning with Retrieved Demonstrations for Language Models:
+A Survey**](https://doi.org/10.48550/arXiv.2401.11624),<br> by *Man Luo, Xin Xu, Yue Liu, Panupong Pasupat and Mehran Kazemi*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.06402) [**'One size doesn't fit all': Learning how many Examples to use for
+In-Context Learning for Improved Text Classification**](https://doi.org/10.48550/arXiv.2403.06402),<br> by *Manish Chandra, Debasis Ganguly, Yiwen Li and Iadh Ounis*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2405.01116) [**"In-Context Learning" or: How I learned to stop worrying and love "Applied Information Retrieval"**](https://arxiv.org/abs/2405.01116),<br> by *Andrew Parry, Debasis Ganguly and Manish Chandra*
 <br><br>
 ### 2023
 
