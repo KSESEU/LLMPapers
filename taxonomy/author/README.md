@@ -614,6 +614,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Bowen_Xu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#bowen-xu)
 - [<img src=https://img.shields.io/badge/Xiapu_Luo-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xiapu-luo)
 - [<img src=https://img.shields.io/badge/Vincent_Ng-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#vincent-ng)
+- [<img src=https://img.shields.io/badge/Jun_Wang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#jun-wang)
 - [<img src=https://img.shields.io/badge/Hongzhi_Yin-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#hongzhi-yin)
 - [<img src=https://img.shields.io/badge/Xin_Jiang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xin-jiang)
 - [<img src=https://img.shields.io/badge/Fei_Mi-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#fei-mi)
@@ -7010,6 +7011,13 @@ Models of Source Code**](https://doi.org/10.24963/ijcai.2022/775),<br> by *Chang
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/21496) [**Commonsense Knowledge Reasoning and Generation with Pre-trained Language
 Models: A Survey**](https://ojs.aaai.org/index.php/AAAI/article/view/21496),<br> by *Prajjwal Bhargava and Vincent Ng*
+<br><br>
+### Jun Wang
+
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.14373) [**Small Language Model Is a Good Guide for Large Language Model in Chinese
+Entity Relation Extraction**](https://doi.org/10.48550/arXiv.2402.14373),<br> by *Xuemei Tang, Jun Wang and Qi Su*
+<br><br>
+- [<img src=https://img.shields.io/badge/WASA-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-19211-1\_11) [**Multi-view Pre-trained Model for Code Vulnerability Identification**](https://doi.org/10.1007/978-3-031-19211-1\_11),<br> by *Xuxiang Jiang, Yinhao Xiao, Jun Wang and Wei Zhang*
 <br><br>
 ### Hongzhi Yin
 
