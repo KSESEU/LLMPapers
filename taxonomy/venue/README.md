@@ -13,7 +13,7 @@ This page categorizes the literature by the **Published Venue**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/AAAI-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
+- [<img src=https://img.shields.io/badge/AAAI-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
 - [<img src=https://img.shields.io/badge/ACL-82-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [<img src=https://img.shields.io/badge/ACL_Findings-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [<img src=https://img.shields.io/badge/AIIoT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
@@ -98,6 +98,9 @@ Graph-Based Retrofitting**](https://doi.org/10.1609/aaai.v38i16.29770),<br> by *
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29828) [**Beyond Entities: A Large-Scale Multi-Modal Knowledge Graph with
 Triplet Fact Grounding**](https://doi.org/10.1609/aaai.v38i17.29828),<br> by *Jingping Liu, Mingchuan Zhang, Weichen Li, Chao Wang, Shuang Li, Haiyun Jiang, Sihang Jiang, Yanghua Xiao et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29820) [**EcomGPT: Instruction-Tuning Large Language Models with Chain-of-Task
+Tasks for E-commerce**](https://doi.org/10.1609/aaai.v38i17.29820),<br> by *Yangning Li, Shirong Ma, Xiaobin Wang, Shen Huang, Chengyue Jiang, Haitao Zheng, Pengjun Xie, Fei Huang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/AAAI-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://ojs.aaai.org/index.php/AAAI/article/view/21416) [**Fusing Task-Oriented and Open-Domain Dialogues in Conversational Agents**](https://ojs.aaai.org/index.php/AAAI/article/view/21416),<br> by *Tom Young, Frank Xing, Vlad Pandelea, Jinjie Ni and Erik Cambria*
 <br><br>

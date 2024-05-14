@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-55-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-56-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-234-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -158,6 +158,9 @@ In-Context Learning for Improved Text Classification**](https://doi.org/10.48550
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.14373) [**Small Language Model Is a Good Guide for Large Language Model in Chinese
 Entity Relation Extraction**](https://doi.org/10.48550/arXiv.2402.14373),<br> by *Xuemei Tang, Jun Wang and Qi Su*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29820) [**EcomGPT: Instruction-Tuning Large Language Models with Chain-of-Task
+Tasks for E-commerce**](https://doi.org/10.1609/aaai.v38i17.29820),<br> by *Yangning Li, Shirong Ma, Xiaobin Wang, Shen Huang, Chengyue Jiang, Haitao Zheng, Pengjun Xie, Fei Huang et al.*
 <br><br>
 ### 2023
 

@@ -58,7 +58,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Information_Extraction-40-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
-- [<img src=https://img.shields.io/badge/Application-9-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
+- [<img src=https://img.shields.io/badge/Application-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#generalizability)
 - [<img src=https://img.shields.io/badge/Language_Model_as_Knowledge_Base-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#language-model-as-knowledge-base)
@@ -2122,6 +2122,9 @@ Logical Queries**](https://doi.org/10.1145/3534678.3539472),<br> by *Xiao Liu, S
 ### Application
 
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2402.01748) [**Large Multi-Modal Models (LMMs) as Universal Foundation Models for AI-Native Wireless Systems**](https://arxiv.org/abs/2402.01748),<br> by *Shengzhe Xu, Christo Kurisummoottil Thomas, Omar Hashash, Nikhil Muralidhar, Walid Saad and Naren Ramakrishnan*
+<br><br>
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29820) [**EcomGPT: Instruction-Tuning Large Language Models with Chain-of-Task
+Tasks for E-commerce**](https://doi.org/10.1609/aaai.v38i17.29820),<br> by *Yangning Li, Shirong Ma, Xiaobin Wang, Shen Huang, Chengyue Jiang, Haitao Zheng, Pengjun Xie, Fei Huang et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/PLOS_Digital_Health-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text) [**Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models**](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000198&trk=public_post_comment-text),<br> by *Kung, Tiffany H, Cheatham, Morgan, Medenilla, Arielle, Sillos, Czarina, De Leon, Lorie, Elepa\~no, Camille, Madriaga, Maria, Aggabao, Rimel et al.*
 <br><br>
