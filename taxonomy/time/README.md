@@ -14,7 +14,7 @@ This page categorizes the literature by the **Last Post**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/2024-56-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-234-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-235-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -732,6 +732,9 @@ in Language Models**](http://papers.nips.cc/paper\_files/paper/2023/hash/1080306
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.1043) [**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained
 Language Models**](https://doi.org/10.18653/v1/2023.findings-emnlp.1043),<br> by *Paul Youssef, Osman Alperen Koras, Meijie Li, J\"org Schl\"otterer and Christin Seifert*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html) [**Dissecting Chain-of-Thought: Compositionality through In-Context Filtering
+and Learning**](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html),<br> by *Yingcong Li, Kartik Sreenivasan, Angeliki Giannou, Dimitris Papailiopoulos and Samet Oymak*
 <br><br>
 ### 2022
 
