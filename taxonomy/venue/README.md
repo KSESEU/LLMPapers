@@ -58,7 +58,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/MM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#mm)
 - [<img src=https://img.shields.io/badge/MSR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#msr)
 - [<img src=https://img.shields.io/badge/NAACL-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#naacl)
-- [<img src=https://img.shields.io/badge/NeurIPS-30-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
+- [<img src=https://img.shields.io/badge/NeurIPS-31-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#neurips)
 - [<img src=https://img.shields.io/badge/OSDI-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#osdi)
 - [<img src=https://img.shields.io/badge/OpenAI-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#openai)
 - [<img src=https://img.shields.io/badge/SIGIR-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#sigir)
@@ -1224,6 +1224,9 @@ in Language Models**](http://papers.nips.cc/paper\_files/paper/2023/hash/1080306
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html) [**Dissecting Chain-of-Thought: Compositionality through In-Context Filtering
 and Learning**](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f213d45e203b8a29be48-Abstract-Conference.html),<br> by *Yingcong Li, Kartik Sreenivasan, Angeliki Giannou, Dimitris Papailiopoulos and Samet Oymak*
+<br><br>
+- [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/5bc3356e0fa1753fff7e8d6628e71b22-Abstract-Conference.html) [**Schema-learning and rebinding as mechanisms of in-context learning
+and emergence**](http://papers.nips.cc/paper\_files/paper/2023/hash/5bc3356e0fa1753fff7e8d6628e71b22-Abstract-Conference.html),<br> by *Sivaramakrishnan Swaminathan, Antoine Dedieu, Rajkumar Vasudeva Raju, Murray Shanahan, Miguel L\'azaro-Gredilla and Dileep George*
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=oOte_397Q4P) [**Sparse Structure Search for Delta Tuning**](https://openreview.net/forum?id=oOte_397Q4P),<br> by *Shengding Hu, Zhen Zhang, Ning Ding, Yadao Wang, Yasheng Wang, Zhiyuan Liu and Maosong Sun*
 <br><br>
