@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-58-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-236-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-59-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-239-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -165,6 +165,8 @@ Tasks for E-commerce**](https://doi.org/10.1609/aaai.v38i17.29820),<br> by *Yang
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2405.15071) [**Grokked Transformers are Implicit Reasoners: A Mechanistic Journey to the Edge of Generalization**](https://arxiv.org/abs/2405.15071),<br> by *Boshi Wang, Xiang Yue, Yu Su and Huan Sun*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2310.11085) [**Document-Level In-Context Few-Shot Relation Extraction via Pre-Trained Language Models**](https://arxiv.org/abs/2310.11085),<br> by *Yilmazcan Ozyurt, Stefan Feuerriegel and Ce Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.18041) [**Datasets for Large Language Models: A Comprehensive Survey**](https://doi.org/10.48550/arXiv.2402.18041),<br> by *Yang Liu, Jiahuan Cao, Chongyu Liu, Kai Ding and Lianwen Jin*
 <br><br>
 ### 2023
 
@@ -742,6 +744,14 @@ and Learning**](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f
 <br><br>
 - [<img src=https://img.shields.io/badge/NeurIPS-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](http://papers.nips.cc/paper\_files/paper/2023/hash/5bc3356e0fa1753fff7e8d6628e71b22-Abstract-Conference.html) [**Schema-learning and rebinding as mechanisms of in-context learning
 and emergence**](http://papers.nips.cc/paper\_files/paper/2023/hash/5bc3356e0fa1753fff7e8d6628e71b22-Abstract-Conference.html),<br> by *Sivaramakrishnan Swaminathan, Antoine Dedieu, Rajkumar Vasudeva Raju, Murray Shanahan, Miguel L\'azaro-Gredilla and Dileep George*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.08993) [**When does In-context Learning Fall Short and Why? A Study on Specification-Heavy
+Tasks**](https://doi.org/10.48550/arXiv.2311.08993),<br> by *Hao Peng, Xiaozhi Wang, Jianhui Chen, Weikai Li, Yunjia Qi, Zimu Wang, Zhili Wu, Kaisheng Zeng et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.06736) [**Are LLMs Rigorous Logical Reasoner? Empowering Natural Language Proof
+Generation with Contrastive Stepwise Decoding**](https://doi.org/10.48550/arXiv.2311.06736),<br> by *Ying Su, Xiaojin Fu, Mingwen Liu and Zhijiang Guo*
+<br><br>
+- [<img src=https://img.shields.io/badge/IJCNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.ijcnlp-main.20) [**Faithful Chain-of-Thought Reasoning**](https://doi.org/10.18653/v1/2023.ijcnlp-main.20),<br> by *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki and Chris Callison-Burch*
 <br><br>
 ### 2022
 
