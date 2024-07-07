@@ -14,7 +14,7 @@ This page categorizes the literature by the **Published Venue**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/AAAI-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
-- [<img src=https://img.shields.io/badge/ACL-82-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
+- [<img src=https://img.shields.io/badge/ACL-83-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [<img src=https://img.shields.io/badge/ACL_Findings-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [<img src=https://img.shields.io/badge/AIIoT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
 - [<img src=https://img.shields.io/badge/ASE-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ase)
@@ -29,7 +29,7 @@ This page categorizes the literature by the **Published Venue**
 - [<img src=https://img.shields.io/badge/ECIR-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecir)
 - [<img src=https://img.shields.io/badge/ECML-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ecml)
 - [<img src=https://img.shields.io/badge/EDBT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#edbt)
-- [<img src=https://img.shields.io/badge/EMNLP-86-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
+- [<img src=https://img.shields.io/badge/EMNLP-87-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp)
 - [<img src=https://img.shields.io/badge/EMNLP_Findings-18-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#emnlp-findings)
 - [<img src=https://img.shields.io/badge/Euro--Par-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#euro-par)
 - [<img src=https://img.shields.io/badge/EvoMUSART-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#evomusart)
@@ -325,6 +325,9 @@ Rational LAMOL enhances LAMOL, a recent LL model, by applying critical freezing 
 - [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.146) [**Knowledgeable or Educated Guess? Revisiting Language Models as Knowledge
 Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongyu Lin, Xianpei Han, Le Sun, Lingyong Yan, Meng Liao, Tong Xue and Jin Xu*
 <br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.120) [**Leveraging Type Descriptions for Zero-shot Named Entity Recognition
+and Classification**](https://doi.org/10.18653/v1/2021.acl-long.120),<br> by *Rami Aly, Andreas Vlachos and Ryan McDonald*
+<br><br>
 - [<img src=https://img.shields.io/badge/ACL-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2020.acl-main.9) [**PLATO: Pre-trained Dialogue Generation Model with Discrete Latent
 Variable**](https://doi.org/10.18653/v1/2020.acl-main.9),<br> by *Siqi Bao, Huang He, Fan Wang, Hua Wu and Haifeng Wang*
 <br><br>
@@ -557,6 +560,9 @@ Extraction**](https://doi.org/10.18653/v1/2023.findings-emnlp.153),<br> by *Xila
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.1043) [**Give Me the Facts! A Survey on Factual Knowledge Probing in Pre-trained
 Language Models**](https://doi.org/10.18653/v1/2023.findings-emnlp.1043),<br> by *Paul Youssef, Osman Alperen Koras, Meijie Li, J\"org Schl\"otterer and Christin Seifert*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.580) [**KICGPT: Large Language Model with Knowledge in Context for Knowledge
+Graph Completion**](https://doi.org/10.18653/v1/2023.findings-emnlp.580),<br> by *Yanbin Wei, Qiushi Huang, Yu Zhang and James T. Kwok*
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2022.emnlp-main.340) [**Super-NaturalInstructions: Generalization via Declarative Instructions
 on 1600+ NLP Tasks**](https://aclanthology.org/2022.emnlp-main.340),<br> by *Yizhong Wang, Swaroop Mishra, Pegah Alipoormolabashi, Yeganeh Kordi, Amirreza Mirzaei, Atharva Naik, Arjun Ashok, Arut Selvan Dhanasekaran et al.*

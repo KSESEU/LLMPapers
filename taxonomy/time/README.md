@@ -14,9 +14,9 @@ This page categorizes the literature by the **Last Post**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/2024-59-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-239-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2023-240-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
-- [<img src=https://img.shields.io/badge/2021-107-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
+- [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
 - [<img src=https://img.shields.io/badge/2019-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2019)
 - [<img src=https://img.shields.io/badge/2018-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2018)
@@ -752,6 +752,9 @@ Tasks**](https://doi.org/10.48550/arXiv.2311.08993),<br> by *Hao Peng, Xiaozhi W
 Generation with Contrastive Stepwise Decoding**](https://doi.org/10.48550/arXiv.2311.06736),<br> by *Ying Su, Xiaojin Fu, Mingwen Liu and Zhijiang Guo*
 <br><br>
 - [<img src=https://img.shields.io/badge/IJCNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.ijcnlp-main.20) [**Faithful Chain-of-Thought Reasoning**](https://doi.org/10.18653/v1/2023.ijcnlp-main.20),<br> by *Qing Lyu, Shreya Havaldar, Adam Stein, Li Zhang, Delip Rao, Eric Wong, Marianna Apidianaki and Chris Callison-Burch*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.580) [**KICGPT: Large Language Model with Knowledge in Context for Knowledge
+Graph Completion**](https://doi.org/10.18653/v1/2023.findings-emnlp.580),<br> by *Yanbin Wei, Qiushi Huang, Yu Zhang and James T. Kwok*
 <br><br>
 ### 2022
 
@@ -1716,6 +1719,9 @@ Bases**](https://doi.org/10.18653/v1/2021.acl-long.146),<br> by *Boxi Cao, Hongy
 - [<img src=https://img.shields.io/badge/EMNLP-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.emnlp-main.446) [**Transformer Feed-Forward Layers Are Key-Value Memories**](https://doi.org/10.18653/v1/2021.emnlp-main.446),<br> by *Mor Geva, Roei Schuster, Jonathan Berant and Omer Levy*
 <br><br>
 - [<img src=https://img.shields.io/badge/Trans._Assoc._Comput._Linguistics-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1162/tacl\_a\_00410) [**Measuring and Improving Consistency in Pretrained Language Models**](https://doi.org/10.1162/tacl\_a\_00410),<br> by *Yanai Elazar, Nora Kassner, Shauli Ravfogel, Abhilasha Ravichander, Eduard H. Hovy, Hinrich Sch\"utze and Yoav Goldberg*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2021-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2021.acl-long.120) [**Leveraging Type Descriptions for Zero-shot Named Entity Recognition
+and Classification**](https://doi.org/10.18653/v1/2021.acl-long.120),<br> by *Rami Aly, Andreas Vlachos and Ryan McDonald*
 <br><br>
 ### 2020
 
