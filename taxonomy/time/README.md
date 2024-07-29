@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-61-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-240-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-64-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-242-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -172,6 +172,13 @@ Tasks for E-commerce**](https://doi.org/10.1609/aaai.v38i17.29820),<br> by *Yang
 Reasoning**](https://doi.org/10.48550/arXiv.2402.17231),<br> by *Debrup Das, Debopriyo Banerjee, Somak Aditya and Ashish Kulkarni*
 <br><br>
 - [<img src=https://img.shields.io/badge/ESWC-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1007/978-3-031-60626-7\_8) [**Navigating Ontology Development with Large Language Models**](https://doi.org/10.1007/978-3-031-60626-7\_8),<br> by *Mohammad Javad Saeedizade and Eva Blomqvist*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.11199) [**Direct Evaluation of Chain-of-Thought in Multi-hop Reasoning with
+Knowledge Graphs**](https://doi.org/10.48550/arXiv.2402.11199),<br> by *Minh-Vuong Nguyen, Linhao Luo, Fatemeh Shiri, Dinh Phung, Yuan-Fang Li, Thuy-Trang Vu and Gholamreza Haffari*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2309.15402) [**Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://arxiv.org/abs/2309.15402),<br> by *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/NAACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.findings-naacl.236.pdf) [**Prompting Few-shot Multi-hop Question Generation via Comprehending Type-aware Semantics**](https://aclanthology.org/2024.findings-naacl.236.pdf),<br> by *Zefeng Lin, Weidong Chen, Yan Song and Yongdong Zhang*
 <br><br>
 ### 2023
 
@@ -760,6 +767,12 @@ Generation with Contrastive Stepwise Decoding**](https://doi.org/10.48550/arXiv.
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.580) [**KICGPT: Large Language Model with Knowledge in Context for Knowledge
 Graph Completion**](https://doi.org/10.18653/v1/2023.findings-emnlp.580),<br> by *Yanbin Wei, Qiushi Huang, Yu Zhang and James T. Kwok*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.179) [**Self-prompted Chain-of-Thought on Large Language Models for Open-domain
+Multi-hop Reasoning**](https://doi.org/10.18653/v1/2023.findings-emnlp.179),<br> by *Jinyuan Wang, Junlong Li and Hai Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.452) [**Leveraging Structured Information for Explainable Multi-hop Question
+Answering and Reasoning**](https://doi.org/10.18653/v1/2023.findings-emnlp.452),<br> by *Ruosen Li and Xinya Du*
 <br><br>
 ### 2022
 
