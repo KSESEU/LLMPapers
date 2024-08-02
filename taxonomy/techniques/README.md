@@ -24,8 +24,8 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-119-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-53-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-122-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-56-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-15-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#symbolic-reasoning)
@@ -882,6 +882,12 @@ Knowledge Graphs**](https://doi.org/10.48550/arXiv.2402.11199),<br> by *Minh-Vuo
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2309.15402) [**Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://arxiv.org/abs/2309.15402),<br> by *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu et al.*
 <br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.05221) [**LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step
+Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2404.05221),<br> by *Shibo Hao, Yi Gu, Haotian Luo, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2406.05673) [**Flow of Reasoning: Efficient Training of LLM Policy with Divergent
+Thinking**](https://doi.org/10.48550/arXiv.2406.05673),<br> by *Fangxu Yu, Lai Jiang, Haoqiang Kang, Shibo Hao and Lianhui Qin*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2301.00303) [**Rethinking with Retrieval: Faithful Large Language Model Inference**](https://doi.org/10.48550/arXiv.2301.00303),<br> by *Hangfeng He, Hongming Zhang and Dan Roth*
@@ -942,6 +948,9 @@ and Learning**](http://papers.nips.cc/paper\_files/paper/2023/hash/45e15bae91a6f
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.179) [**Self-prompted Chain-of-Thought on Large Language Models for Open-domain
 Multi-hop Reasoning**](https://doi.org/10.18653/v1/2023.findings-emnlp.179),<br> by *Jinyuan Wang, Junlong Li and Hai Zhao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.11797) [**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought
+Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797),<br> by *Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, Yiming Wang, Mark Gerstein et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2205.10782) [**Instruction Induction: From Few Examples to Natural Language Task
 Descriptions**](https://doi.org/10.48550/arXiv.2205.10782),<br> by *Or Honovich, Uri Shaham, Samuel R. Bowman and Omer Levy*

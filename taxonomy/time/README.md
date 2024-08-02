@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-64-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-242-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-66-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-243-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -179,6 +179,12 @@ Knowledge Graphs**](https://doi.org/10.48550/arXiv.2402.11199),<br> by *Minh-Vuo
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2309.15402) [**Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**](https://arxiv.org/abs/2309.15402),<br> by *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.findings-naacl.236.pdf) [**Prompting Few-shot Multi-hop Question Generation via Comprehending Type-aware Semantics**](https://aclanthology.org/2024.findings-naacl.236.pdf),<br> by *Zefeng Lin, Weidong Chen, Yan Song and Yongdong Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.05221) [**LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step
+Reasoning with Large Language Models**](https://doi.org/10.48550/arXiv.2404.05221),<br> by *Shibo Hao, Yi Gu, Haotian Luo, Tianyang Liu, Xiyan Shao, Xinyuan Wang, Shuhua Xie, Haodi Ma et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2406.05673) [**Flow of Reasoning: Efficient Training of LLM Policy with Divergent
+Thinking**](https://doi.org/10.48550/arXiv.2406.05673),<br> by *Fangxu Yu, Lai Jiang, Haoqiang Kang, Shibo Hao and Lianhui Qin*
 <br><br>
 ### 2023
 
@@ -773,6 +779,9 @@ Multi-hop Reasoning**](https://doi.org/10.18653/v1/2023.findings-emnlp.179),<br>
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.452) [**Leveraging Structured Information for Explainable Multi-hop Question
 Answering and Reasoning**](https://doi.org/10.18653/v1/2023.findings-emnlp.452),<br> by *Ruosen Li and Xinya Du*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2311.11797) [**Igniting Language Intelligence: The Hitchhiker's Guide From Chain-of-Thought
+Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797),<br> by *Zhuosheng Zhang, Yao Yao, Aston Zhang, Xiangru Tang, Xinbei Ma, Zhiwei He, Yiming Wang, Mark Gerstein et al.*
 <br><br>
 ### 2022
 
