@@ -13,8 +13,8 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-67-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
-- [<img src=https://img.shields.io/badge/2023-245-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
+- [<img src=https://img.shields.io/badge/2024-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2023-247-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
 - [<img src=https://img.shields.io/badge/2020-71-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2020)
@@ -188,6 +188,38 @@ Thinking**](https://doi.org/10.48550/arXiv.2406.05673),<br> by *Fangxu Yu, Lai J
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2404.00942) [**Evaluating the Factuality of Large Language Models using Large-Scale
 Knowledge Graphs**](https://doi.org/10.48550/arXiv.2404.00942),<br> by *Xiaoze Liu, Feijie Wu, Tianyang Xu, Zhuo Chen, Yichi Zhang, Xiaoqian Wang and Jing Gao*
+<br><br>
+- [<img src=https://img.shields.io/badge/COLING-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.lrec-main.778) [**Improving Recall of Large Language Models: A Model Collaboration
+Approach for Relational Triple Extraction**](https://aclanthology.org/2024.lrec-main.778),<br> by *Zepeng Ding, Wenhao Huang, Jiaqing Liang, Yanghua Xiao and Deqing Yang*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=Y3wpuxd7u9) [**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**](https://openreview.net/forum?id=Y3wpuxd7u9),<br> by *Oscar Sainz, Iker Garc\'\ia-Ferrero, Rodrigo Agerri, Oier Lopez de Lacalle, German Rigau and Eneko Agirre*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.14734) [**A Survey of Neural Code Intelligence: Paradigms, Advances and Beyond**](https://doi.org/10.48550/arXiv.2403.14734),<br> by *Qiushi Sun, Zhirui Chen, Fangzhi Xu, Kanzhi Cheng, Chang Ma, Zhangyue Yin, Jianing Wang, Chengcheng Han et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.07969) [**KnowCoder: Coding Structured Knowledge into LLMs for Universal Information
+Extraction**](https://doi.org/10.48550/arXiv.2403.07969),<br> by *Zixuan Li, Yutao Zeng, Yuxin Zuo, Weicheng Ren, Wenxuan Liu, Miao Su, Yucan Guo, Yantao Liu et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.16396) [**Is There a One-Model-Fits-All Approach to Information Extraction?
+Revisiting Task Definition Biases**](https://doi.org/10.48550/arXiv.2403.16396),<br> by *Wenhao Huang, Qianyu He, Zhixu Li, Jiaqing Liang and Yanghua Xiao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2406.17305) [**Retrieval Augmented Instruction Tuning for Open NER with Large Language
+Models**](https://doi.org/10.48550/arXiv.2406.17305),<br> by *Tingyu Xie, Jian Zhang, Yan Zhang, Yuanyuan Liang, Qi Li and Hongwei Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2407.01272) [**Show Less, Instruct More: Enriching Prompts with Definitions and Guidelines for Zero-Shot NER**](https://arxiv.org/abs/2407.01272),<br> by *Andrew Zamai, Andrea Zugarini, Leonardo Rigutini, Marco Ernandes and Marco Maggini*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.02586) [**Improving Event Definition Following For Zero-Shot Event Detection**](https://doi.org/10.48550/arXiv.2403.02586),<br> by *Zefan Cai, Po-Nien Kung, Ashima Suvarna, Mingyu Derek Ma, Hritik Bansal, Baobao Chang, P. Jeffrey Brantingham, Wei Wang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/Thirty--Eighth_{AAAI}_Conference_on_Artificial_Intelligence,_{AAAI}
+2024,_Thirty--Sixth_Conference_on_Innovative_Applications_of_Artificial
+Intelligence,_{IAAI}_2024,_Fourteenth_Symposium_on_Educational_Advances
+in_Artificial_Intelligence,_{EAAI}_2014,_February_20--27,_2024,_Vancouver,
+Canada-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29839) [**STAR: Boosting Low-Resource Information Extraction by Structure-to-Text
+Data Generation with Large Language Models**](https://doi.org/10.1609/aaai.v38i17.29839),<br> by *Mingyu Derek Ma, Xiaoxuan Wang, Po-Nien Kung, P. Jeffrey Brantingham, Nanyun Peng and Wei Wang*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2406.14763) [**A Learn-Then-Reason Model Towards Generalization in Knowledge Base
+Question Answering**](https://doi.org/10.48550/arXiv.2406.14763),<br> by *Lingxi Zhang, Jing Zhang, Yanling Wang, Cuiping Li and Hong Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
 <br><br>
 ### 2023
 
@@ -790,6 +822,13 @@ Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797),<br> 
 Will LLMs Replace Knowledge Graphs?**](https://doi.org/10.48550/arXiv.2308.10168),<br> by *Kai Sun, Yifan Ethan Xu, Hanwen Zha, Yue Liu and Xin Luna Dong*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2309.10814) [**Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning**](https://doi.org/10.48550/arXiv.2309.10814),<br> by *Tianhua Zhang, Jiaxin Ge, Hongyin Luo, Yung-Sung Chuang, Mingye Gao, Yuan Gong, Xixin Wu, Yoon Kim et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.855) [**CodeIE: Large Code Generation Models are Better Few-Shot Information
+Extractors**](https://doi.org/10.18653/v1/2023.acl-long.855),<br> by *Peng Li, Tianxiang Sun, Qiong Tang, Hang Yan, Yuanbin Wu, Xuanjing Huang and Xipeng Qiu*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_61st_Annual_Meeting_of_the_Association_for_Computational
+Linguistics_(Volume_1:_Long_Papers),_{ACL}_2023,_Toronto,_Canada,
+July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.202) [**Code4Struct: Code Generation for Few-Shot Event Structure Prediction**](https://doi.org/10.18653/v1/2023.acl-long.202),<br> by *Xingyao Wang, Sha Li and Heng Ji*
 <br><br>
 ### 2022
 
