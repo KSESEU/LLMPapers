@@ -73,7 +73,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Agent-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#vision-llm)
-- [<img src=https://img.shields.io/badge/LLM_and_KG-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-and-kg)
+- [<img src=https://img.shields.io/badge/LLM_and_KG-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#llm-and-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2506,6 +2506,17 @@ Graph-Based Retrofitting**](https://doi.org/10.1609/aaai.v38i16.29770),<br> by *
 Collaboration**](https://doi.org/10.48550/arXiv.2402.04978),<br> by *Yihao Li, Ru Zhang, Jianyi Liu and Gongshen Liu*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.15736) [**LLMs Instruct LLMs: An Extraction and Editing Method**](https://doi.org/10.48550/arXiv.2403.15736),<br> by *Xin Zhang, Tianjie Ju, Huijia Liang, Ying Fu and Qin Zhang*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_47th_International_{ACM}_{SIGIR}_Conference_on
+Research_and_Development_in_Information_Retrieval,_{SIGIR}_2024,_Washington
+DC,_USA,_July_14--18,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3626772.3661370) [**Retrieval-Augmented Generation with Knowledge Graphs for Customer
+Service Question Answering**](https://doi.org/10.1145/3626772.3661370),<br> by *Zhentao Xu, Mark Jerome Cruz, Matthew Guevara, Tie Wang, Manasi Deshpande, Xiaofeng Wang and Zheng Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2312.15883) [**HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses**](https://arxiv.org/abs/2312.15883),<br> by *Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, Yue Fang, Zhiyuan Wang, Jinyi Tang, Hongxin Ding et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/The_Twelfth_International_Conference_on_Learning_Representations,
+{ICLR}_2024,_Vienna,_Austria,_May_7--11,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=nnVO1PvbTv) [**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
+on Knowledge Graph**](https://openreview.net/forum?id=nnVO1PvbTv),<br> by *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=RBKHLt3n9rM) [**Fusing Knowledge Graphs and Large Language Models**](https://www.youtube.com/watch?v=RBKHLt3n9rM),<br> by *Rudy Agovic*
 <br><br>
