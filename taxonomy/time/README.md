@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-78-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-85-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-247-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -220,6 +220,28 @@ Data Generation with Large Language Models**](https://doi.org/10.1609/aaai.v38i1
 Question Answering**](https://doi.org/10.48550/arXiv.2406.14763),<br> by *Lingxi Zhang, Jing Zhang, Yanling Wang, Cuiping Li and Hong Chen*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.14295) [**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of
+Thoughts**](https://doi.org/10.48550/arXiv.2401.14295),<br> by *Maciej Besta, Florim Memedi, Zhenyu Zhang, Robert Gerstenberger, Nils Blach, Piotr Nyczyk, Marcin Copik, Grzegorz Kwasniewski et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_47th_International_{ACM}_{SIGIR}_Conference_on
+Research_and_Development_in_Information_Retrieval,_{SIGIR}_2024,_Washington
+DC,_USA,_July_14--18,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3626772.3661370) [**Retrieval-Augmented Generation with Knowledge Graphs for Customer
+Service Question Answering**](https://doi.org/10.1145/3626772.3661370),<br> by *Zhentao Xu, Mark Jerome Cruz, Matthew Guevara, Tie Wang, Manasi Deshpande, Xiaofeng Wang and Zheng Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2312.15883) [**HyKGE: A Hypothesis Knowledge Graph Enhanced Framework for Accurate and Reliable Medical LLMs Responses**](https://arxiv.org/abs/2312.15883),<br> by *Xinke Jiang, Ruizhe Zhang, Yongxin Xu, Rihong Qiu, Yue Fang, Zhiyuan Wang, Jinyi Tang, Hongxin Ding et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/The_Twelfth_International_Conference_on_Learning_Representations,
+{ICLR}_2024,_Vienna,_Austria,_May_7--11,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=nnVO1PvbTv) [**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
+on Knowledge Graph**](https://openreview.net/forum?id=nnVO1PvbTv),<br> by *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.17686) [**Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought
+Reasoning**](https://doi.org/10.48550/arXiv.2401.17686),<br> by *Tinghui Zhu, Kai Zhang, Jian Xie and Yu Su*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.06918) [**Generating Chain-of-Thoughts with a Direct Pairwise-Comparison Approach
+to Searching for the Most Promising Intermediate Thought**](https://doi.org/10.48550/arXiv.2402.06918),<br> by *Zhen-Yu Zhang, Siwei Han, Huaxiu Yao, Gang Niu and Masashi Sugiyama*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.10200) [**Chain-of-Thought Reasoning Without Prompting**](https://doi.org/10.48550/arXiv.2402.10200),<br> by *Xuezhi Wang and Denny Zhou*
 <br><br>
 ### 2023
 
