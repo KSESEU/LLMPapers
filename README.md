@@ -55,7 +55,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Event_Relation_Extraction-7-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#event-relation-extraction)
 - [<img src=https://img.shields.io/badge/Data_Argumentation-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-argumentation)
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#data-annotation)
-- [<img src=https://img.shields.io/badge/Information_Extraction-52-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
+- [<img src=https://img.shields.io/badge/Information_Extraction-53-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#domain-adaptive)
 - [<img src=https://img.shields.io/badge/Question_Answering-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#application)
@@ -332,9 +332,6 @@ to Vision-Language Models**](https://doi.org/10.18653/v1/2023.acl-short.43),<br>
 Tasks**](https://doi.org/10.48550/arXiv.2311.08993),<br> by *Hao Peng, Xiaozhi Wang, Jianhui Chen, Weikai Li, Yunjia Qi, Zimu Wang, Zhili Wu, Kaisheng Zeng et al.*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
-``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/facebookresearch/MetaICL) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
 <br>``
@@ -2046,6 +2043,8 @@ Induction Method**](https://aclanthology.org/2022.findings-emnlp.407),<br> by *V
 <br><br>
 ### Information Extraction
 
+- [<img src=https://img.shields.io/badge/the_2024_Conference_of_the_North_American_Chapter_of_the_Association_for_Computational_Linguistics:_Human_Language_Technologies_(Volume_1:_Long_Papers)-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.naacl-long.101.pdf) [**TISE: A Tripartite In-context Selection Method for Event Argument Extraction**](https://aclanthology.org/2024.naacl-long.101.pdf),<br> by *Fu, Yanhe, Cao, Yanan, Wang, Qingyue and Liu, Yi*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2401.13218) [**ULTRA: Unleash LLMs' Potential for Event Argument Extraction through
 Hierarchical Modeling and Pair-wise Refinement**](https://doi.org/10.48550/arXiv.2401.13218),<br> by *Xinliang Frederick Zhang, Carter Wood Blum, Temma Choji, Shalin Shah and Alakananda Vempala*
 <br><br>
@@ -2267,9 +2266,6 @@ Reasoning in Large Language Models**](https://doi.org/10.48550/arXiv.2308.11462)
 ### Meta Learning
 
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
-``
 <br><br>
 - [<img src=https://img.shields.io/badge/NAACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.naacl-main.201) [**MetaICL: Learning to Learn In Context**](https://doi.org/10.18653/v1/2022.naacl-main.201), [<img src=https://img.shields.io/badge/Code-skyblue alt="img" style="zoom:100%; vertical-align: middle" />](https://github.com/facebookresearch/MetaICL) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Sewon Min, Mike Lewis, Luke Zettlemoyer and Hannaneh Hajishirzi*
 <br>``

@@ -5526,9 +5526,6 @@ Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
-``
 <br><br>
 - [<img src=https://img.shields.io/badge/IA3-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/IA351965.2020.00011) [**DistDGL: Distributed Graph Neural Network Training for Billion-Scale
 Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao Ma, Minjie Wang, Jinjing Zhou, Qidong Su, Xiang Song, Quan Gan, Zheng Zhang et al.*
@@ -8941,9 +8938,6 @@ Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao 
 ### He He
 
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
-``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.01240) [**Language Models Are Greedy Reasoners: A Systematic Formal Analysis
 of Chain-of-Thought**](https://doi.org/10.48550/arXiv.2210.01240),<br> by *Abulhair Saparov and He He*

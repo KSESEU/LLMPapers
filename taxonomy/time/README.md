@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-85-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-86-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-247-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -34,6 +34,8 @@ This page categorizes the literature by the **Last Post**
 
 ### 2024
 
+- [<img src=https://img.shields.io/badge/the_2024_Conference_of_the_North_American_Chapter_of_the_Association_for_Computational_Linguistics:_Human_Language_Technologies_(Volume_1:_Long_Papers)-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.naacl-long.101.pdf) [**TISE: A Tripartite In-context Selection Method for Event Argument Extraction**](https://aclanthology.org/2024.naacl-long.101.pdf),<br> by *Fu, Yanhe, Cao, Yanan, Wang, Qingyue and Liu, Yi*
+<br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2402.01619) [**KB-Plugin: A Plug-and-play Framework for Large Language Models to
 Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/arXiv.2402.01619),<br> by *Jiajie Zhang, Shulin Cao, Linmei Hu, Ling Feng, Lei Hou and Juanzi Li*
 <br><br>
@@ -855,9 +857,6 @@ July_9--14,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" /
 ### 2022
 
 - [<img src=https://img.shields.io/badge/ACL-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2022.acl-long.53) [**Meta-learning via Language Model In-context Tuning**](https://doi.org/10.18653/v1/2022.acl-long.53), [<img src=https://img.shields.io/badge/BERT-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/N19-1423/) [<img src=https://img.shields.io/badge/DeBERTa-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2006.03654) [<img src=https://img.shields.io/badge/GPT--2-yellow alt="img" style="zoom:100%; vertical-align: middle" />](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) <br> by *Yanda Chen, Ruiqi Zhong, Sheng Zha, George Karypis and He He*
-<br>``
-This paper proposes in-context tuning, which recasts task adaptation and prediction as a simple sequence prediction problem: to form the input sequence,  concatenate the task instruction, labeled in-context examples, and the target input to predict; to meta train the model to learn from in-context examples, finetune a PLM to predict the target label given the input sequence on a collection of tasks (very similar to MetaICL). On LAMA and BinaryClfs, the proposed method outperforms MAML.
-``
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.12810) [**Code4Struct: Code Generation for Few-Shot Structured Prediction from
 Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao Wang, Sha Li and Heng Ji*
