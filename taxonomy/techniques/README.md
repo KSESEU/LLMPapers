@@ -69,7 +69,7 @@ This page categorizes the literature by the **Techniques**
 - [<img src=https://img.shields.io/badge/Safety-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#safety)
 - [<img src=https://img.shields.io/badge/Graph_Learning-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#graph-learning)
 - [<img src=https://img.shields.io/badge/Knowledge_Storage_and_Locating-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-storage-and-locating)
-- [<img src=https://img.shields.io/badge/Knowledge_Fusion-14-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-fusion)
+- [<img src=https://img.shields.io/badge/Knowledge_Fusion-15-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#knowledge-fusion)
 - [<img src=https://img.shields.io/badge/Agent-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/techniques\README.md#vision-llm)
@@ -2450,6 +2450,9 @@ Routing Policy**](https://doi.org/10.48550/arXiv.2310.01334),<br> by *Pingzhi Li
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2310.02527) [**CITING: Large Language Models Create Curriculum for Instruction
 Tuning**](https://doi.org/10.48550/arXiv.2310.02527),<br> by *Tao Feng, Zifeng Wang and Jimeng Sun*
+<br><br>
+- [<img src=https://img.shields.io/badge/the_12th_Knowledge_Capture_Conference_2023,_{K--CAP}
+2023,_Pensacola,_FL,_USA,_December_5--7,_2023-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3587259.3627571) [**OLaLa: Ontology Matching with Large Language Models**](https://doi.org/10.1145/3587259.3627571),<br> by *Sven Hertling and Heiko Paulheim*
 <br><br>
 ### Agent
 
