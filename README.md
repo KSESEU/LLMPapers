@@ -73,7 +73,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Agent-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#agent)
 - [<img src=https://img.shields.io/badge/LLM_and_GNN-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-gnn)
 - [<img src=https://img.shields.io/badge/Vision_LLM-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#vision-llm)
-- [<img src=https://img.shields.io/badge/LLM_and_KG-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-kg)
+- [<img src=https://img.shields.io/badge/LLM_and_KG-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#llm-and-kg)
 - [<img src=https://img.shields.io/badge/Others-6-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#others)
 ### Hyperlinks 
 - [[Overview]](https://github.com/KSESEU/LLMPapers/blob/main/README.md) -- [Homepage](https://github.com/KSESEU/LLMPapers/blob/main/README.md)
@@ -2516,6 +2516,8 @@ Service Question Answering**](https://doi.org/10.1145/3626772.3661370),<br> by *
 - [<img src=https://img.shields.io/badge/The_Twelfth_International_Conference_on_Learning_Representations,
 {ICLR}_2024,_Vienna,_Austria,_May_7--11,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=nnVO1PvbTv) [**Think-on-Graph: Deep and Responsible Reasoning of Large Language Model
 on Knowledge Graph**](https://openreview.net/forum?id=nnVO1PvbTv),<br> by *Jiashuo Sun, Chengjin Xu, Lumingyuan Tang, Saizhuo Wang, Chen Lin, Yeyun Gong, Lionel M. Ni, Heung-Yeung Shum et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACM_Trans._Asian_Low_Resour._Lang._Inf._Process.-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3641850) [**CodeKGC: Code Language Model for Generative Knowledge Graph Construction**](https://doi.org/10.1145/3641850),<br> by *Zhen Bi, Jing Chen, Yinuo Jiang, Feiyu Xiong, Wei Guo, Huajun Chen and Ningyu Zhang*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://www.youtube.com/watch?v=RBKHLt3n9rM) [**Fusing Knowledge Graphs and Large Language Models**](https://www.youtube.com/watch?v=RBKHLt3n9rM),<br> by *Rudy Agovic*
 <br><br>
