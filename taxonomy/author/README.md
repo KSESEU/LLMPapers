@@ -81,6 +81,7 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Kang_Liu-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kang-liu)
 - [<img src=https://img.shields.io/badge/Dustin_Tran-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dustin-tran)
 - [<img src=https://img.shields.io/badge/Chitta_Baral-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chitta-baral)
+- [<img src=https://img.shields.io/badge/Chengwei_Qin-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chengwei-qin)
 - [<img src=https://img.shields.io/badge/Pengcheng_He-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#pengcheng-he)
 - [<img src=https://img.shields.io/badge/Kai_Wei_Chang-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kai-wei-chang)
 - [<img src=https://img.shields.io/badge/Neel_Sundaresan-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#neel-sundaresan)
@@ -126,7 +127,6 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Xin_Xu-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xin-xu)
 - [<img src=https://img.shields.io/badge/Chao_Zhang-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chao-zhang)
 - [<img src=https://img.shields.io/badge/Kun_Zhou-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#kun-zhou)
-- [<img src=https://img.shields.io/badge/Chengwei_Qin-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#chengwei-qin)
 - [<img src=https://img.shields.io/badge/Erik_Cambria-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#erik-cambria)
 - [<img src=https://img.shields.io/badge/Xing_Xie-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xing-xie)
 - [<img src=https://img.shields.io/badge/David_Lo-4-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#david-lo)
@@ -375,6 +375,11 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Tao_Yu-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tao-yu)
 - [<img src=https://img.shields.io/badge/Sha_Li-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sha-li)
 - [<img src=https://img.shields.io/badge/George_Karypis-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#george-karypis)
+- [<img src=https://img.shields.io/badge/Indrajit_Bhattacharya-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#indrajit-bhattacharya)
+- [<img src=https://img.shields.io/badge/Mausam-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mausam)
+- [<img src=https://img.shields.io/badge/Biswajit_Chatterjee-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#biswajit-chatterjee)
+- [<img src=https://img.shields.io/badge/Riya_Sawhney-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#riya-sawhney)
+- [<img src=https://img.shields.io/badge/Mayur_Patidar-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mayur-patidar)
 - [<img src=https://img.shields.io/badge/P._Jeffrey_Brantingham-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#p.-jeffrey-brantingham)
 - [<img src=https://img.shields.io/badge/Mingyu_Derek_Ma-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#mingyu-derek-ma)
 - [<img src=https://img.shields.io/badge/Po_Nien_Kung-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#po-nien-kung)
@@ -388,6 +393,9 @@ This page categorizes the literature by the **Author**
 - [<img src=https://img.shields.io/badge/Tianjie_Ju-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#tianjie-ju)
 - [<img src=https://img.shields.io/badge/Xinbei_Ma-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#xinbei-ma)
 - [<img src=https://img.shields.io/badge/Yubo_Ma-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#yubo-ma)
+- [<img src=https://img.shields.io/badge/Dongkyu_Choi-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#dongkyu-choi)
+- [<img src=https://img.shields.io/badge/Weifeng_Jiang-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#weifeng-jiang)
+- [<img src=https://img.shields.io/badge/Ruirui_Chen-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#ruirui-chen)
 - [<img src=https://img.shields.io/badge/Gerhard_Weikum-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#gerhard-weikum)
 - [<img src=https://img.shields.io/badge/Sneha_Singhania-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#sneha-singhania)
 - [<img src=https://img.shields.io/badge/Fangzhi_Xu-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/author\README.md#fangzhi-xu)
@@ -2271,6 +2279,21 @@ We propose the lifelong intent detection task to handle continually emerging use
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2210.07663) [**Pretrained Transformers Do not Always Improve Robustness**](https://doi.org/10.48550/arXiv.2210.07663),<br> by *Swaroop Mishra, Bhavdeep Singh Sachdeva and Chitta Baral*
 <br><br>
+### Chengwei Qin
+
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.06476) [**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**](https://arxiv.org/abs/2302.06476),<br> by *Qin, Chengwei, Zhang, Aston, Zhang, Zhuosheng, Chen, Jiaao, Yasunaga, Michihiro and Yang, Diyi*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10450) [**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450),<br> by *Bosheng Ding, Chengwei Qin, Linlin Liu, Lidong Bing, Shafiq R. Joty and Boyang Li*
+<br><br>
+- [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=HCRVf71PMF) [**LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5**](https://openreview.net/forum?id=HCRVf71PMF),<br> by *Chengwei Qin and Shafiq Joty*
+<br>``
+We define a challenging yet practical problem as Lifelong Few-shot Language Learning and propose a unified framework for it based on prompt tuning of T5.
+``
+<br><br>
 ### Pengcheng He
 
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2304.03277) [**Instruction Tuning with GPT-4**](https://doi.org/10.48550/arXiv.2304.03277),<br> by *Baolin Peng, Chunyuan Li, Pengcheng He, Michel Galley and Jianfeng Gao*
@@ -2894,19 +2917,6 @@ with Syntax-Aware Memory Network**](https://doi.org/10.18653/v1/2022.acl-long.40
 <br><br>
 - [<img src=https://img.shields.io/badge/KDD-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1145/3534678.3539131) [**JiuZhang: A Chinese Pre-trained Language Model for Mathematical
 Problem Understanding**](https://doi.org/10.1145/3534678.3539131),<br> by *Wayne Xin Zhao, Kun Zhou, Zheng Gong, Beichen Zhang, Yuanhang Zhou, Jing Sha, Zhigang Chen, Shijin Wang et al.*
-<br><br>
-### Chengwei Qin
-
-- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2302.06476) [**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**](https://arxiv.org/abs/2302.06476),<br> by *Qin, Chengwei, Zhang, Aston, Zhang, Zhuosheng, Chen, Jiaao, Yasunaga, Michihiro and Yang, Diyi*
-<br><br>
-- [<img src=https://img.shields.io/badge/CoRR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2212.10450) [**Is GPT-3 a Good Data Annotator?**](https://doi.org/10.48550/arXiv.2212.10450),<br> by *Bosheng Ding, Chengwei Qin, Linlin Liu, Lidong Bing, Shafiq R. Joty and Boyang Li*
-<br><br>
-- [<img src=https://img.shields.io/badge/ICLR-2022-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=HCRVf71PMF) [**LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5**](https://openreview.net/forum?id=HCRVf71PMF),<br> by *Chengwei Qin and Shafiq Joty*
-<br>``
-We define a challenging yet practical problem as Lifelong Few-shot Language Learning and propose a unified framework for it based on prompt tuning of T5.
-``
 <br><br>
 ### Erik Cambria
 
@@ -5572,6 +5582,41 @@ Natural Language**](https://doi.org/10.48550/arXiv.2210.12810),<br> by *Xingyao 
 - [<img src=https://img.shields.io/badge/IA3-2020-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1109/IA351965.2020.00011) [**DistDGL: Distributed Graph Neural Network Training for Billion-Scale
 Graphs**](https://doi.org/10.1109/IA351965.2020.00011),<br> by *Da Zheng, Chao Ma, Minjie Wang, Jinjing Zhou, Qidong Su, Xiang Song, Quan Gan, Zheng Zhang et al.*
 <br><br>
+### Indrajit Bhattacharya
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+### Mausam
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+### Biswajit Chatterjee
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+### Riya Sawhney
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+### Mayur Patidar
+
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
 ### P. Jeffrey Brantingham
 
 - [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2403.02586) [**Improving Event Definition Following For Zero-Shot Event Detection**](https://doi.org/10.48550/arXiv.2403.02586),<br> by *Zefan Cai, Po-Nien Kung, Ashima Suvarna, Mingyu Derek Ma, Hritik Bansal, Baobao Chang, P. Jeffrey Brantingham, Wei Wang et al.*
@@ -5672,6 +5717,24 @@ Reasoning to Language Agents**](https://doi.org/10.48550/arXiv.2311.11797),<br> 
 <br><br>
 - [<img src=https://img.shields.io/badge/EMNLP-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-emnlp.710) [**Large Language Model Is Not a Good Few-shot Information Extractor,
 but a Good Reranker for Hard Samples!**](https://doi.org/10.18653/v1/2023.findings-emnlp.710),<br> by *Yubo Ma, Yixin Cao, Yong Hong and Aixin Sun*
+<br><br>
+### Dongkyu Choi
+
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
+<br><br>
+### Weifeng Jiang
+
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
+<br><br>
+### Ruirui Chen
+
+- [<img src=https://img.shields.io/badge/AAAI-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i16.29730) [**Is a Large Language Model a Good Annotator for Event Extraction?**](https://doi.org/10.1609/aaai.v38i16.29730),<br> by *Ruirui Chen, Chengwei Qin, Weifeng Jiang and Dongkyu Choi*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
 <br><br>
 ### Gerhard Weikum
 

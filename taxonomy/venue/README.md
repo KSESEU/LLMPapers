@@ -14,7 +14,7 @@ This page categorizes the literature by the **Published Venue**
 
 ### Outline 
 - [<img src=https://img.shields.io/badge/AAAI-19-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aaai)
-- [<img src=https://img.shields.io/badge/ACL-84-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
+- [<img src=https://img.shields.io/badge/ACL-85-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl)
 - [<img src=https://img.shields.io/badge/ACL_Findings-13-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#acl-findings)
 - [<img src=https://img.shields.io/badge/AIIoT-1-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#aiiot)
 - [<img src=https://img.shields.io/badge/ASE-5-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/venue\README.md#ase)
@@ -132,6 +132,9 @@ In order to extract the lexical, syntactic and semantic information from trainin
 <br><br>
 ### ACL
 
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.acl-long.367) [**Prompting Language Models for Linguistic Structure**](https://doi.org/10.18653/v1/2023.acl-long.367),<br> by *Terra Blevins, Hila Gonen and Luke Zettlemoyer*
 <br><br>
 - [<img src=https://img.shields.io/badge/ACL-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.18653/v1/2023.findings-acl.46) [**The Web Can Be Your Oyster for Improving Language Models**](https://doi.org/10.18653/v1/2023.findings-acl.46),<br> by *Junyi Li, Tianyi Tang, Wayne Xin Zhao, Jingyuan Wang, Jian-Yun Nie and Ji-Rong Wen*

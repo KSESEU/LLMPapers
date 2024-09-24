@@ -57,7 +57,7 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Data_Annotation-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#data-annotation)
 - [<img src=https://img.shields.io/badge/Information_Extraction-53-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#information-extraction)
 - [<img src=https://img.shields.io/badge/Domain_Adaptive-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#domain-adaptive)
-- [<img src=https://img.shields.io/badge/Question_Answering-20-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
+- [<img src=https://img.shields.io/badge/Question_Answering-22-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#question-answering)
 - [<img src=https://img.shields.io/badge/Application-10-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#application)
 - [<img src=https://img.shields.io/badge/Meta_Learning-2-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#meta-learning)
 - [<img src=https://img.shields.io/badge/Generalizability-3-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/./README.md#generalizability)
@@ -2210,6 +2210,11 @@ Induce Programs over Low-resourced Knowledge Bases**](https://doi.org/10.48550/a
 Question Answering**](https://doi.org/10.48550/arXiv.2406.14763),<br> by *Lingxi Zhang, Jing Zhang, Yanling Wang, Cuiping Li and Hong Chen*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.08894) [**Few-shot Transfer Learning for Knowledge Base Question Answering: Fusing Supervised Models with In-Context Learning**](https://arxiv.org/abs/2311.08894),<br> by *Mayur Patidar, Riya Sawhney, Avinash Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.06466) [**ChatGPT versus Traditional Question Answering for Knowledge Graphs:
 Current Status and Future Directions Towards Knowledge Graph Chatbots**](https://doi.org/10.48550/arXiv.2302.06466),<br> by *Reham Omar, Omij Mangukiya, Panos Kalnis and Essam Mansour*

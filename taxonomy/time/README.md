@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-88-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-90-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-249-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -250,6 +250,11 @@ to Searching for the Most Promising Intermediate Thought**](https://doi.org/10.4
 - [<img src=https://img.shields.io/badge/The_Twelfth_International_Conference_on_Learning_Representations,
 {ICLR}_2024,_Vienna,_Austria,_May_7--11,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://openreview.net/forum?id=z3dfuRcGAK) [**Revisit and Outstrip Entity Alignment: A Perspective of Generative
 Models**](https://openreview.net/forum?id=z3dfuRcGAK),<br> by *Lingbing Guo, Zhuo Chen, Jiaoyan Chen, Yin Fang, Wen Zhang and Huajun Chen*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2408.15903) [**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**](https://arxiv.org/abs/2408.15903),<br> by *Ruirui Chen, Weifeng Jiang, Chengwei Qin, Ishaan Singh Rawal, Cheston Tan, Dongkyu Choi, Bo Xiong and Bo Ai*
+<br><br>
+- [<img src=https://img.shields.io/badge/ACL-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.acl-long.495) [**Few-shot Transfer Learning for Knowledge Base Question Answering:
+Fusing Supervised Models with In-Context Learning**](https://aclanthology.org/2024.acl-long.495),<br> by *Mayur Patidar, Riya Sawhney, Avinash Kumar Singh, Biswajit Chatterjee, Mausam and Indrajit Bhattacharya*
 <br><br>
 ### 2023
 
