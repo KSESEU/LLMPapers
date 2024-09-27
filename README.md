@@ -24,8 +24,8 @@ The automation script of this repo is powered by [Auto-Bibfile](https://github.c
 - [<img src=https://img.shields.io/badge/Knowledge_Distillation-24-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-distillation)
 - [<img src=https://img.shields.io/badge/Knowledge_Generation-11-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-generation)
 - [<img src=https://img.shields.io/badge/Knowledge_Editing-16-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#knowledge-editing)
-- [<img src=https://img.shields.io/badge/Reasoning-130-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
-  - [<img src=https://img.shields.io/badge/Chain_of_Thought-62-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
+- [<img src=https://img.shields.io/badge/Reasoning-132-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#reasoning)
+  - [<img src=https://img.shields.io/badge/Chain_of_Thought-64-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#chain-of-thought)
   - [<img src=https://img.shields.io/badge/Multi--Step_Reasoning-4-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#multi-step-reasoning)
   - [<img src=https://img.shields.io/badge/Arithmetic_Reasoning-5-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#arithmetic-reasoning)
   - [<img src=https://img.shields.io/badge/Symbolic_Reasoning-16-deepskyblue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/./README.md#symbolic-reasoning)
@@ -906,6 +906,15 @@ to Searching for the Most Promising Intermediate Thought**](https://doi.org/10.4
 - [<img src=https://img.shields.io/badge/Findings_of_the_Association_for_Computational_Linguistics,_{ACL}_2024,
 Bangkok,_Thailand_and_virtual_meeting,_August_11--16,_2024-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://aclanthology.org/2024.findings-acl.11) [**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning
 on Graphs**](https://aclanthology.org/2024.findings-acl.11),<br> by *Bowen Jin, Chulin Xie, Jiawei Zhang, Kashob Kumar Roy, Yu Zhang, Zheng Li, Ruirui Li, Xianfeng Tang et al.*
+<br><br>
+- [<img src=https://img.shields.io/badge/Thirty--Eighth_{AAAI}_Conference_on_Artificial_Intelligence,_{AAAI}
+2024,_Thirty--Sixth_Conference_on_Innovative_Applications_of_Artificial
+Intelligence,_{IAAI}_2024,_Fourteenth_Symposium_on_Educational_Advances
+in_Artificial_Intelligence,_{EAAI}_2014,_February_20--27,_2024,_Vancouver,
+Canada-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.1609/aaai.v38i17.29844) [**KAM-CoT: Knowledge Augmented Multimodal Chain-of-Thoughts Reasoning**](https://doi.org/10.1609/aaai.v38i17.29844),<br> by *Debjyoti Mondal, Suraj Modi, Subhadarshi Panda, Rituraj Singh and Godawari Sudhakar Rao*
+<br><br>
+- [<img src=https://img.shields.io/badge/CoRR-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2405.16473) [**M\(^\mbox3\)CoT: A Novel Benchmark for Multi-Domain Multi-step
+Multi-modal Chain-of-Thought**](https://doi.org/10.48550/arXiv.2405.16473),<br> by *Qiguang Chen, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu and Wanxiang Che*
 <br><br>
 - [<img src=https://img.shields.io/badge/CoRR-2023-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://doi.org/10.48550/arXiv.2302.00923) [**Multimodal Chain-of-Thought Reasoning in Language Models**](https://doi.org/10.48550/arXiv.2302.00923),<br> by *Zhuosheng Zhang, Aston Zhang, Mu Li, Hai Zhao, George Karypis and Alex Smola*
 <br><br>
