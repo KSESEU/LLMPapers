@@ -13,7 +13,7 @@ This page categorizes the literature by the **Last Post**
 ## Papers
 
 ### Outline 
-- [<img src=https://img.shields.io/badge/2024-103-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
+- [<img src=https://img.shields.io/badge/2024-104-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2024)
 - [<img src=https://img.shields.io/badge/2023-251-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2023)
 - [<img src=https://img.shields.io/badge/2022-232-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2022)
 - [<img src=https://img.shields.io/badge/2021-108-blue style="zoom:100%; vertical-align: middle">](https://github.com/KSESEU/LLMPapers/blob/main/taxonomy/time\README.md#2021)
@@ -293,6 +293,8 @@ of Large Language Models**](https://doi.org/10.18653/v1/2024.acl-long.739),<br> 
 LLMs**](https://doi.org/10.48550/arXiv.2401.10065),<br> by *Haritz Puerto, Martin Tutek, Somak Aditya, Xiaodan Zhu and Iryna Gurevych*
 <br><br>
 - [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2303.10475) [**Large Language Model Instruction Following: A Survey of Progresses and Challenges**](https://arxiv.org/abs/2303.10475),<br> by *Renze Lou, Kai Zhang and Wenpeng Yin*
+<br><br>
+- [<img src=https://img.shields.io/badge/-2024-blue alt="img" style="zoom:100%; vertical-align: middle" />](https://arxiv.org/abs/2311.13538) [**AlignedCoT: Prompting Large Language Models via Native-Speaking Demonstrations**](https://arxiv.org/abs/2311.13538),<br> by *Zhicheng Yang, Yinya Huang, Jing Xiong, Liang Feng, Xiaodan Liang, Yiwei Wang and Jing Tang*
 <br><br>
 ### 2023
 
